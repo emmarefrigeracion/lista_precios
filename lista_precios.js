@@ -277,7 +277,7 @@
   {"Codigo": "m6", "Producto": "MOTOR DRIVE (TERMOACTUADOR)", "Precio_Cliente": 0.00, "Precio_Tecnico": 24354.00, "Cantidad_Stock": 49},
   {"Codigo": "mot022", "Producto": "MOTOR EMBRACO 1/3HP R134", "Precio_Cliente": 0.00, "Precio_Tecnico": 0.00, "Cantidad_Stock": 0},
   {"Codigo": "mot011", "Producto": "MOTOR FORZADOR  ( REONDITO )   P/ EXIB", "Precio_Cliente": 27522.00, "Precio_Tecnico": 24255.00, "Cantidad_Stock": 1},
-  {"Codigo": "for002", "Producto": "MOTOR FORZADOR TIPO ELCO 10W", "Precio_Cliente": 27720.00, "Precio_Tecnico": 22770.00, "Cantidad_Stock": 5},
+  {"Codigo": "for002", "Producto": "MOTOR FORZADOR TIPO ELCO 10W", "Precio_Cliente": 29800.00, "Precio_Tecnico": 24000.00, "Cantidad_Stock": 5},
   {"Codigo": "for005", "Producto": "MOTOR FORZADOR TIPO ELCO 5-13", "Precio_Cliente": 18810.00, "Precio_Tecnico": 16830.00, "Cantidad_Stock": 3},
   {"Codigo": "mot004", "Producto": "MOTOR FORZADOR TIPO ELCON 16/25", "Precio_Cliente": 40788.00, "Precio_Tecnico": 33165.00, "Cantidad_Stock": 1},
   {"Codigo": "mot1/3+", "Producto": "MOTOR HUAYI  1/3+", "Precio_Cliente": 123750.00, "Precio_Tecnico": 98000.00, "Cantidad_Stock": 1},
