@@ -1,6 +1,7 @@
 ﻿const productos = [
   {"Codigo": "4-2-5412", "Producto": "ACEITE BOMBA VACIO 1 LTS REFRIOIL", "Precio_Cliente": 27720.00, "Precio_Tecnico": 20790.00, "Cantidad_Stock": 0},
   {"Codigo": "4-2-210109", "Producto": "ACEITE BOMBA VACIO X 1/2 LTS REFRIOIL", "Precio_Cliente": 9900.00, "Precio_Tecnico": 7920.00, "Cantidad_Stock": 5},
+  {"Codigo": "ter01", "Producto": "ACTUADOR PHILCO PH13 KG", "Precio_Cliente": 27100.00, "Precio_Tecnico": 24300.00, "Cantidad_Stock": 2},
   {"Codigo": "ada001", "Producto": "ADAPTADOR P/ MANGUERA  R22 A  R410", "Precio_Cliente": 15840.00, "Precio_Tecnico": 12375.00, "Cantidad_Stock": 2},
   {"Codigo": "ad01", "Producto": "ADAPTADOR PARA JERINGA 1/4 Y 5/16", "Precio_Cliente": 13365.00, "Precio_Tecnico": 10296.00, "Cantidad_Stock": 3},
   {"Codigo": "adap3", "Producto": "ADAPTADOR PARA LATA CON OBU Y TAPA", "Precio_Cliente": 10098.00, "Precio_Tecnico": 8415.00, "Cantidad_Stock": 2},
