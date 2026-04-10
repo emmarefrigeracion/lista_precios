@@ -495,7 +495,7 @@
   {"Codigo": "tue020", "Producto": "TUERCA SECARROPA DREAN", "Precio_Cliente": 4950.00, "Precio_Tecnico": 3267.00, "Cantidad_Stock": 3},
   {"Codigo": "tue005", "Producto": "TUERCAS 1/4", "Precio_Cliente": 2970.00, "Precio_Tecnico": 1980.00, "Cantidad_Stock": 20},
   {"Codigo": "tue010", "Producto": "TUERCAS 3/8", "Precio_Cliente": 4158.00, "Precio_Tecnico": 3069.00, "Cantidad_Stock": 7},
-  {"Codigo": "tur021", "Producto": "TURBINA TANGENCIAL 18CM", "Precio_Cliente": 37719.00, "Precio_Tecnico": 28611.00, "Cantidad_Stock": 0},
+  {"Codigo": "tur021", "Producto": "TURBINA TANGENCIAL 18CM", "Precio_Cliente": 37700.00, "Precio_Tecnico": 28700.00, "Cantidad_Stock": 0},
   {"Codigo": "tur020", "Producto": "TURBINA TANGENCIAL PARA EXHIBIDORA  24CM", "Precio_Cliente": 47000.00, "Precio_Tecnico": 39900.00, "Cantidad_Stock": 1},
   {"Codigo": "013", "Producto": "UNION BRONCE 1/2 (NIPLE)", "Precio_Cliente": 5692.50, "Precio_Tecnico": 3762.00, "Cantidad_Stock": 1},
   {"Codigo": "tue012", "Producto": "UNION BRONCE 5/8 (NIPLE)", "Precio_Cliente": 7623.00, "Precio_Tecnico": 6039.00, "Cantidad_Stock": 1},
