@@ -157,7 +157,7 @@
   {"Codigo": "cuba03", "Producto": "CUBA 54 LITROS", "Precio_Cliente": 138000.00, "Precio_Tecnico": 125000.00, "Cantidad_Stock": 1},
   {"Codigo": "cuba001", "Producto": "CUBA DREAN BLUE 40L", "Precio_Cliente": 133650.00, "Precio_Tecnico": 96525.00, "Cantidad_Stock": 0},
   {"Codigo": "cuba010", "Producto": "CUBA NEXT  10KG", "Precio_Cliente": 176220.00, "Precio_Tecnico": 166320.00, "Cantidad_Stock": 0},
-  {"Codigo": "cuñ002", "Producto": "CUÑA ESLABON DE LUJO", "Precio_Cliente": 4500.00, "Precio_Tecnico": 3500.00, "Cantidad_Stock": 4},
+  {"Codigo": "cuñ002", "Producto": "CUÑA ESLABON DE LUJO", "Precio_Cliente": 6200.00, "Precio_Tecnico": 4700.00, "Cantidad_Stock": 4},
   {"Codigo": "cuñ001", "Producto": "CUÑA FIJACON CONCEPT", "Precio_Cliente": 6200.00, "Precio_Tecnico": 4700.00, "Cantidad_Stock": 4},
   {"Codigo": "dec003", "Producto": "DECAPANTE  (DILVER SOLDER) 114 GR.", "Precio_Cliente": 13068.00, "Precio_Tecnico": 11484.00, "Cantidad_Stock": 2},
   {"Codigo": "DEC001", "Producto": "DECAPANTE P/PLATA X 80G", "Precio_Cliente": 10350.00, "Precio_Tecnico": 8370.00, "Cantidad_Stock": 1},
