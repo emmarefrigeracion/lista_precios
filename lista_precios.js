@@ -27,7 +27,7 @@
   {"Codigo": "aran2", "Producto": "ARANDELAS  GRANDES", "Precio_Cliente": 30.00, "Precio_Tecnico": 27.00, "Cantidad_Stock": 100},
   {"Codigo": "ARO000", "Producto": "ARO EMBELLECDOR BLANCO P/AIRE ACONDICIONADO", "Precio_Cliente": 3500.00, "Precio_Tecnico": 2100.00, "Cantidad_Stock": 20},
   {"Codigo": "ARO001", "Producto": "ARO EXTERIOR DREAN BLUE", "Precio_Cliente": 17500.00, "Precio_Tecnico": 13300.00, "Cantidad_Stock": 3},
-  {"Codigo": "aro005", "Producto": "ARO INTERIOIR PUERTA DREAN  166 (CONTRAMARCO)", "Precio_Cliente": 20790.00, "Precio_Tecnico": 16731.00, "Cantidad_Stock": 2},
+  {"Codigo": "aro005", "Producto": "ARO INTERIOIR PUERTA DREAN  166 (CONTRAMARCO)", "Precio_Cliente": 21000.00, "Precio_Tecnico": 16800.00, "Cantidad_Stock": 3},
   {"Codigo": "4-14-9852", "Producto": "BANDEJA PLASTICA BOCHA HELADERA - ATENAX", "Precio_Cliente": 3762.00, "Precio_Tecnico": 2475.00, "Cantidad_Stock": 4},
   {"Codigo": "cuña002", "Producto": "BASE CON CUÑA PARA ESLABON DE LUJO", "Precio_Cliente": 24453.00, "Precio_Tecnico": 21285.00, "Cantidad_Stock": 1},
   {"Codigo": "bi010", "Producto": "BIMETAL  NO FROST CON FUSIBLE", "Precio_Cliente": 9207.00, "Precio_Tecnico": 7326.00, "Cantidad_Stock": 0},
