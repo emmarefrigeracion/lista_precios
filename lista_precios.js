@@ -29,7 +29,7 @@
   {"Codigo": "ARO001", "Producto": "ARO EXTERIOR DREAN BLUE", "Precio_Cliente": 17500.00, "Precio_Tecnico": 13300.00, "Cantidad_Stock": 3},
   {"Codigo": "aro005", "Producto": "ARO INTERIOIR PUERTA DREAN  166 (CONTRAMARCO)", "Precio_Cliente": 21000.00, "Precio_Tecnico": 16800.00, "Cantidad_Stock": 3},
   {"Codigo": "b1", "Producto": "BANDEJA PLASTICA BOCHA HELADERA - ATENAX", "Precio_Cliente": 4200.00, "Precio_Tecnico": 2500.00, "Cantidad_Stock": 6},
-  {"Codigo": "cuña002", "Producto": "BASE CON CUÑA PARA ESLABON DE LUJO", "Precio_Cliente": 24453.00, "Precio_Tecnico": 21285.00, "Cantidad_Stock": 1},
+  {"Codigo": "cuña002", "Producto": "BASE CON CUÑA PARA ESLABON DE LUJO", "Precio_Cliente": 26000.00, "Precio_Tecnico": 22000.00, "Cantidad_Stock": 2},
   {"Codigo": "bi010", "Producto": "BIMETAL  NO FROST CON FUSIBLE", "Precio_Cliente": 9207.00, "Precio_Tecnico": 7326.00, "Cantidad_Stock": 0},
   {"Codigo": "bi4", "Producto": "BIMETAL SIN FUSIBLE ALTERNATIVO", "Precio_Cliente": 10296.00, "Precio_Tecnico": 7920.00, "Cantidad_Stock": 0},
   {"Codigo": "bis6", "Producto": "BISAGRA BOSH CORTA", "Precio_Cliente": 13000.00, "Precio_Tecnico": 9300.00, "Cantidad_Stock": 0},
