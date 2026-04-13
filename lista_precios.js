@@ -40,7 +40,7 @@
   {"Codigo": "bislpk", "Producto": "BISAGRA PATRICK LPK / PHILCO/ G.ELECTRIC/ MIDEA", "Precio_Cliente": 31000.00, "Precio_Tecnico": 26700.00, "Cantidad_Stock": 2},
   {"Codigo": "blo004", "Producto": "BLOCA PUERTA DREAN CONCEPT IMP", "Precio_Cliente": 16000.00, "Precio_Tecnico": 12400.00, "Cantidad_Stock": 3},
   {"Codigo": "blo3", "Producto": "BLOCAPUERTA CANDY/LONGVIE", "Precio_Cliente": 25641.00, "Precio_Tecnico": 23265.00, "Cantidad_Stock": 10},
-  {"Codigo": "blo02", "Producto": "BLOCAPUERTA DREAN BLUE BLANCO SIMA", "Precio_Cliente": 18045.72, "Precio_Tecnico": 11385.00, "Cantidad_Stock": 1},
+  {"Codigo": "blo02", "Producto": "BLOCAPUERTA DREAN BLUE BLANCO SIMA", "Precio_Cliente": 18045.72, "Precio_Tecnico": 11385.00, "Cantidad_Stock": 0},
   {"Codigo": "blo010", "Producto": "BLOCAPUERTA DREAN GOLD/CANDY", "Precio_Cliente": 22410.00, "Precio_Tecnico": 19620.00, "Cantidad_Stock": 1},
   {"Codigo": "blo002", "Producto": "BLOCAPUERTA DREAN NEXT 4 CONTACTOS", "Precio_Cliente": 22275.00, "Precio_Tecnico": 18513.00, "Cantidad_Stock": 0},
   {"Codigo": "blo03", "Producto": "BLOCAPUERTA DREAN NEXT 8.12", "Precio_Cliente": 16572.60, "Precio_Tecnico": 12969.00, "Cantidad_Stock": 4},
