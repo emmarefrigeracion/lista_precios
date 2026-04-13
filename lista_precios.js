@@ -22,6 +22,7 @@
   {"Codigo": "amo004", "Producto": "AMORTIGUADORES (CONJ SUSP)   CONSUL", "Precio_Cliente": 62766.00, "Precio_Tecnico": 57618.00, "Cantidad_Stock": 1},
   {"Codigo": "amo4", "Producto": "AMORTIGUADORES (CONJ SUSP) CONCEPT MOD NUEVO", "Precio_Cliente": 52100.00, "Precio_Tecnico": 46800.00, "Cantidad_Stock": 2},
   {"Codigo": "amo003", "Producto": "AMORTIGUADORES CANDI / LONGVIE", "Precio_Cliente": 14503.50, "Precio_Tecnico": 11286.00, "Cantidad_Stock": 2},
+  {"Codigo": "am6", "Producto": "AMORTIGUADORES DREAN BLUE MOD. NUEVO  PRECIO UNITARIO", "Precio_Cliente": 12000.00, "Precio_Tecnico": 8900.00, "Cantidad_Stock": 4},
   {"Codigo": "amo002", "Producto": "AMORTIGUADORES DREAN GOLD CORTOS", "Precio_Cliente": 19107.00, "Precio_Tecnico": 17028.00, "Cantidad_Stock": 2},
   {"Codigo": "aran2", "Producto": "ARANDELAS  GRANDES", "Precio_Cliente": 29.70, "Precio_Tecnico": 26.73, "Cantidad_Stock": 100},
   {"Codigo": "ARO000", "Producto": "ARO EMBELLECDOR BLANCO P/AIRE ACONDICIONADO", "Precio_Cliente": 2970.00, "Precio_Tecnico": 1980.00, "Cantidad_Stock": 98},
