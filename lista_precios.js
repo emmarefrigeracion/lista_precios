@@ -31,7 +31,7 @@
   {"Codigo": "b1", "Producto": "BANDEJA PLASTICA BOCHA HELADERA - ATENAX", "Precio_Cliente": 4200.00, "Precio_Tecnico": 2500.00, "Cantidad_Stock": 6},
   {"Codigo": "cuña002", "Producto": "BASE CON CUÑA PARA ESLABON DE LUJO", "Precio_Cliente": 26000.00, "Precio_Tecnico": 22000.00, "Cantidad_Stock": 2},
   {"Codigo": "bi010", "Producto": "BIMETAL  NO FROST CON FUSIBLE", "Precio_Cliente": 9207.00, "Precio_Tecnico": 7326.00, "Cantidad_Stock": 0},
-  {"Codigo": "bi4", "Producto": "BIMETAL SIN FUSIBLE ALTERNATIVO", "Precio_Cliente": 10296.00, "Precio_Tecnico": 7920.00, "Cantidad_Stock": 0},
+  {"Codigo": "bi4", "Producto": "BIMETAL SIN FUSIBLE ALTERNATIVO", "Precio_Cliente": 12000.00, "Precio_Tecnico": 8100.00, "Cantidad_Stock": 2},
   {"Codigo": "bis6", "Producto": "BISAGRA BOSH CORTA", "Precio_Cliente": 13000.00, "Precio_Tecnico": 9300.00, "Cantidad_Stock": 0},
   {"Codigo": "bi001", "Producto": "BISAGRA DREAN BLUE 180º", "Precio_Cliente": 25830.00, "Precio_Tecnico": 19350.00, "Cantidad_Stock": 2},
   {"Codigo": "bi002", "Producto": "BISAGRA DREAN BLUE 90º/130º", "Precio_Cliente": 25110.00, "Precio_Tecnico": 21900.00, "Cantidad_Stock": 3},
