@@ -44,7 +44,7 @@
   {"Codigo": "blo010", "Producto": "BLOCAPUERTA DREAN GOLD/CANDY", "Precio_Cliente": 22410.00, "Precio_Tecnico": 19620.00, "Cantidad_Stock": 1},
   {"Codigo": "blo002", "Producto": "BLOCAPUERTA DREAN NEXT 4 CONTACTOS", "Precio_Cliente": 22275.00, "Precio_Tecnico": 18513.00, "Cantidad_Stock": 0},
   {"Codigo": "blo03", "Producto": "BLOCAPUERTA DREAN NEXT 8.12", "Precio_Cliente": 16572.60, "Precio_Tecnico": 12969.00, "Cantidad_Stock": 4},
-  {"Codigo": "blomabe", "Producto": "BLOCAPUERTA MABE  6 & 7 KG", "Precio_Cliente": 14652.00, "Precio_Tecnico": 11682.00, "Cantidad_Stock": 4},
+  {"Codigo": "blomabe", "Producto": "BLOCAPUERTA MABE  6 & 7 KG", "Precio_Cliente": 15200.00, "Precio_Tecnico": 11900.00, "Cantidad_Stock": 4},
   {"Codigo": "mabe8", "Producto": "BLOCAPÙERTA MABE  8 KG", "Precio_Cliente": 19503.00, "Precio_Tecnico": 17127.00, "Cantidad_Stock": 1},
   {"Codigo": "blo007", "Producto": "BLOCAPUERTA SAMSUN GWF45A6400AC", "Precio_Cliente": 38000.00, "Precio_Tecnico": 31200.00, "Cantidad_Stock": 2},
   {"Codigo": "blo001", "Producto": "BLOCAPUERTA SAMSUNG", "Precio_Cliente": 16000.00, "Precio_Tecnico": 12500.00, "Cantidad_Stock": 2},
