@@ -5,7 +5,7 @@
   {"Codigo": "ter04", "Producto": "ACTUADOR GAFA", "Precio_Cliente": 23800.00, "Precio_Tecnico": 19700.00, "Cantidad_Stock": 2},
   {"Codigo": "ter02", "Producto": "ACTUADOR LG", "Precio_Cliente": 29500.00, "Precio_Tecnico": 26800.00, "Cantidad_Stock": 2},
   {"Codigo": "ter01", "Producto": "ACTUADOR PHILCO PH13 KG", "Precio_Cliente": 27100.00, "Precio_Tecnico": 24300.00, "Cantidad_Stock": 2},
-  {"Codigo": "ada001", "Producto": "ADAPTADOR P/ MANGUERA  R22 A  R410", "Precio_Cliente": 15840.00, "Precio_Tecnico": 12375.00, "Cantidad_Stock": 2},
+  {"Codigo": "ada001", "Producto": "ADAPTADOR P/ MANGUERA  R22 A  R410", "Precio_Cliente": 15900.00, "Precio_Tecnico": 12400.00, "Cantidad_Stock": 4},
   {"Codigo": "ad01", "Producto": "ADAPTADOR PARA JERINGA 1/4 Y 5/16", "Precio_Cliente": 13500.00, "Precio_Tecnico": 10300.00, "Cantidad_Stock": 4},
   {"Codigo": "adap3", "Producto": "ADAPTADOR PARA LATA CON OBU Y TAPA", "Precio_Cliente": 10098.00, "Precio_Tecnico": 8415.00, "Cantidad_Stock": 2},
   {"Codigo": "agente", "Producto": "AGENTE DE LIMPIEZA BELNET 750ML", "Precio_Cliente": 35820.00, "Precio_Tecnico": 32400.00, "Cantidad_Stock": 2},
