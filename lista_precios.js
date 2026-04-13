@@ -24,6 +24,7 @@
   {"Codigo": "amo003", "Producto": "AMORTIGUADORES CANDI / LONGVIE", "Precio_Cliente": 14503.50, "Precio_Tecnico": 11286.00, "Cantidad_Stock": 2},
   {"Codigo": "am6", "Producto": "AMORTIGUADORES DREAN BLUE MOD. NUEVO  PRECIO UNITARIO", "Precio_Cliente": 12000.00, "Precio_Tecnico": 8900.00, "Cantidad_Stock": 4},
   {"Codigo": "amo002", "Producto": "AMORTIGUADORES DREAN GOLD CORTOS", "Precio_Cliente": 19107.00, "Precio_Tecnico": 17028.00, "Cantidad_Stock": 2},
+  {"Codigo": "am2", "Producto": "AMORTIGUADORES PATRICK  PRECIO UNITARIO", "Precio_Cliente": 12100.00, "Precio_Tecnico": 9200.00, "Cantidad_Stock": 2},
   {"Codigo": "aran2", "Producto": "ARANDELAS  GRANDES", "Precio_Cliente": 29.70, "Precio_Tecnico": 26.73, "Cantidad_Stock": 100},
   {"Codigo": "ARO000", "Producto": "ARO EMBELLECDOR BLANCO P/AIRE ACONDICIONADO", "Precio_Cliente": 2970.00, "Precio_Tecnico": 1980.00, "Cantidad_Stock": 98},
   {"Codigo": "ARO001", "Producto": "ARO EXTERIOR DREAN BLUE", "Precio_Cliente": 17325.00, "Precio_Tecnico": 13266.00, "Cantidad_Stock": 0},
