@@ -36,7 +36,7 @@
   {"Codigo": "bi001", "Producto": "BISAGRA DREAN BLUE 180º", "Precio_Cliente": 26000.00, "Precio_Tecnico": 19500.00, "Cantidad_Stock": 2},
   {"Codigo": "bi002", "Producto": "BISAGRA DREAN BLUE 90º/130º DE CHAPA", "Precio_Cliente": 25110.00, "Precio_Tecnico": 21900.00, "Cantidad_Stock": 3},
   {"Codigo": "4-16-2320011", "Producto": "BISAGRA FREEZER GAFA MOD. NVO X2", "Precio_Cliente": 26730.00, "Precio_Tecnico": 22275.00, "Cantidad_Stock": 0},
-  {"Codigo": "bis002", "Producto": "BISAGRA NEXT 180º", "Precio_Cliente": 16731.00, "Precio_Tecnico": 13959.00, "Cantidad_Stock": 3},
+  {"Codigo": "bis002", "Producto": "BISAGRA NEXT 180º", "Precio_Cliente": 17000.00, "Precio_Tecnico": 14000.00, "Cantidad_Stock": 3},
   {"Codigo": "bislpk", "Producto": "BISAGRA PATRICK LPK / PHILCO/ G.ELECTRIC/ MIDEA", "Precio_Cliente": 31000.00, "Precio_Tecnico": 26700.00, "Cantidad_Stock": 1},
   {"Codigo": "blo004", "Producto": "BLOCA PUERTA DREAN CONCEPT IMP", "Precio_Cliente": 15543.00, "Precio_Tecnico": 12375.00, "Cantidad_Stock": 2},
   {"Codigo": "blo3", "Producto": "BLOCAPUERTA CANDY/LONGVIE", "Precio_Cliente": 25641.00, "Precio_Tecnico": 23265.00, "Cantidad_Stock": 10},
