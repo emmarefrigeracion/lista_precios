@@ -25,7 +25,7 @@
   {"Codigo": "amo002", "Producto": "AMORTIGUADORES DREAN GOLD CORTOS", "Precio_Cliente": 21000.00, "Precio_Tecnico": 17100.00, "Cantidad_Stock": 3},
   {"Codigo": "am2", "Producto": "AMORTIGUADORES PATRICK  PRECIO UNITARIO", "Precio_Cliente": 12100.00, "Precio_Tecnico": 9200.00, "Cantidad_Stock": 2},
   {"Codigo": "aran2", "Producto": "ARANDELAS  GRANDES", "Precio_Cliente": 30.00, "Precio_Tecnico": 27.00, "Cantidad_Stock": 100},
-  {"Codigo": "ARO000", "Producto": "ARO EMBELLECDOR BLANCO P/AIRE ACONDICIONADO", "Precio_Cliente": 2970.00, "Precio_Tecnico": 1980.00, "Cantidad_Stock": 98},
+  {"Codigo": "ARO000", "Producto": "ARO EMBELLECDOR BLANCO P/AIRE ACONDICIONADO", "Precio_Cliente": 3500.00, "Precio_Tecnico": 2100.00, "Cantidad_Stock": 20},
   {"Codigo": "ARO001", "Producto": "ARO EXTERIOR DREAN BLUE", "Precio_Cliente": 17325.00, "Precio_Tecnico": 13266.00, "Cantidad_Stock": 0},
   {"Codigo": "aro005", "Producto": "ARO INTERIOIR PUERTA DREAN  166 (CONTRAMARCO)", "Precio_Cliente": 20790.00, "Precio_Tecnico": 16731.00, "Cantidad_Stock": 2},
   {"Codigo": "4-14-9852", "Producto": "BANDEJA PLASTICA BOCHA HELADERA - ATENAX", "Precio_Cliente": 3762.00, "Precio_Tecnico": 2475.00, "Cantidad_Stock": 4},
