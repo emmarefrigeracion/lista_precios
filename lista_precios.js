@@ -1,6 +1,6 @@
 ﻿const productos = [
   {"Codigo": "4-2-5412", "Producto": "ACEITE BOMBA VACIO 1 LTS REFRIOIL", "Precio_Cliente": 27720.00, "Precio_Tecnico": 20790.00, "Cantidad_Stock": 4},
-  {"Codigo": "4-2-210109", "Producto": "ACEITE BOMBA VACIO X 1/2 LTS REFRIOIL", "Precio_Cliente": 9900.00, "Precio_Tecnico": 7920.00, "Cantidad_Stock": 5},
+  {"Codigo": "4-2-210109", "Producto": "ACEITE BOMBA VACIO X 1/2 LTS REFRIOIL", "Precio_Cliente": 9900.00, "Precio_Tecnico": 7920.00, "Cantidad_Stock": 4},
   {"Codigo": "ter03", "Producto": "ACTUADOR ESLABON DE LUJO", "Precio_Cliente": 24000.00, "Precio_Tecnico": 21000.00, "Cantidad_Stock": 2},
   {"Codigo": "ter04", "Producto": "ACTUADOR GAFA", "Precio_Cliente": 23800.00, "Precio_Tecnico": 19700.00, "Cantidad_Stock": 2},
   {"Codigo": "ter02", "Producto": "ACTUADOR LG", "Precio_Cliente": 29500.00, "Precio_Tecnico": 26800.00, "Cantidad_Stock": 2},
