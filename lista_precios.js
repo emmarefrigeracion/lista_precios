@@ -11,7 +11,7 @@
   {"Codigo": "ag1", "Producto": "AGENTE DE LIMPIEZA 11", "Precio_Cliente": 24000.00, "Precio_Tecnico": 21000.00, "Cantidad_Stock": 4},
   {"Codigo": "agente", "Producto": "AGENTE DE LIMPIEZA BELNET 750ML", "Precio_Cliente": 35820.00, "Precio_Tecnico": 32400.00, "Cantidad_Stock": 4},
   {"Codigo": "5-1-12365", "Producto": "AGENTE LIMPIEZA CLEANER 11 PRO X 1LTS - REFRIOIL (NARANJA)", "Precio_Cliente": 26000.00, "Precio_Tecnico": 23400.00, "Cantidad_Stock": 4},
-  {"Codigo": "agi001", "Producto": "AGITADOR DREAN BLUE LARGO", "Precio_Cliente": 3465.00, "Precio_Tecnico": 2673.00, "Cantidad_Stock": 6},
+  {"Codigo": "agi001", "Producto": "AGITADOR DREAN BLUE LARGO", "Precio_Cliente": 3700.00, "Precio_Tecnico": 2700.00, "Cantidad_Stock": 6},
   {"Codigo": "agi002", "Producto": "AGITADOR DREAN CORTO", "Precio_Cliente": 2970.00, "Precio_Tecnico": 2475.00, "Cantidad_Stock": 7},
   {"Codigo": "8-8-13105", "Producto": "AISLACION  1/2\" POR  TIRA", "Precio_Cliente": 2871.00, "Precio_Tecnico": 2277.00, "Cantidad_Stock": 129},
   {"Codigo": "8-9-CO-D19", "Producto": "AISLACION 1/4 POR TIRA", "Precio_Cliente": 2079.00, "Precio_Tecnico": 1386.00, "Cantidad_Stock": 120},
