@@ -8,6 +8,7 @@
   {"Codigo": "ada001", "Producto": "ADAPTADOR P/ MANGUERA  R22 A  R410", "Precio_Cliente": 15900.00, "Precio_Tecnico": 12400.00, "Cantidad_Stock": 4},
   {"Codigo": "ad01", "Producto": "ADAPTADOR PARA JERINGA 1/4 Y 5/16", "Precio_Cliente": 13500.00, "Precio_Tecnico": 10300.00, "Cantidad_Stock": 4},
   {"Codigo": "adap3", "Producto": "ADAPTADOR PARA LATA CON OBU", "Precio_Cliente": 11000.00, "Precio_Tecnico": 8600.00, "Cantidad_Stock": 4},
+  {"Codigo": "ag1", "Producto": "AGENTE DE LIMPIEZA 11", "Precio_Cliente": 24000.00, "Precio_Tecnico": 21000.00, "Cantidad_Stock": 4},
   {"Codigo": "agente", "Producto": "AGENTE DE LIMPIEZA BELNET 750ML", "Precio_Cliente": 35820.00, "Precio_Tecnico": 32400.00, "Cantidad_Stock": 4},
   {"Codigo": "5-1-12365", "Producto": "AGENTE LIMPIEZA CLEANER 11 PRO X 1LTS - REFRIOIL (NARANJA)", "Precio_Cliente": 26000.00, "Precio_Tecnico": 23400.00, "Cantidad_Stock": 4},
   {"Codigo": "agi001", "Producto": "AGITADOR DREAN BLUE LARGO", "Precio_Cliente": 3465.00, "Precio_Tecnico": 2673.00, "Cantidad_Stock": 6},
