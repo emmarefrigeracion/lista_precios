@@ -63,7 +63,7 @@
   {"Codigo": "buje02", "Producto": "BUJE DE ARRASTRE CAJA (BASE)", "Precio_Cliente": 7800.00, "Precio_Tecnico": 6500.00, "Cantidad_Stock": 4},
   {"Codigo": "bulg", "Producto": "BUJE PARA TURBINA LG", "Precio_Cliente": 6500.00, "Precio_Tecnico": 5900.00, "Cantidad_Stock": 4},
   {"Codigo": "bur1", "Producto": "BURLETE  BLACO- GRIS-MARRON POR  POR PUERTA", "Precio_Cliente": 18500.00, "Precio_Tecnico": 15500.00, "Cantidad_Stock": 10},
-  {"Codigo": "bur011", "Producto": "BURLETE A PRESION   P/ 1 PUERTA 2MTRS", "Precio_Cliente": 29300.00, "Precio_Tecnico": 24000.00, "Cantidad_Stock": 96},
+  {"Codigo": "bur011", "Producto": "BURLETE A PRESION   P/ 1 PUERTA 2MTRS", "Precio_Cliente": 29300.00, "Precio_Tecnico": 24000.00, "Cantidad_Stock": 4},
   {"Codigo": "bur8", "Producto": "BURLETE A PRESION P / 1 PUERTA 1450 X 785", "Precio_Cliente": 21285.00, "Precio_Tecnico": 19602.00, "Cantidad_Stock": 4},
   {"Codigo": "bur025", "Producto": "BURLETE PARA FREEZER POR METRO", "Precio_Cliente": 5445.00, "Precio_Tecnico": 4455.00, "Cantidad_Stock": 0},
   {"Codigo": "BUR005", "Producto": "BURLETES CORTO PARA FREEZER", "Precio_Cliente": 12700.00, "Precio_Tecnico": 11500.00, "Cantidad_Stock": 7},
