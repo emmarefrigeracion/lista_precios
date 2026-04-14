@@ -52,7 +52,7 @@
   {"Codigo": "blo008", "Producto": "BLOCAPUERTA TIPO ELECTROLUX", "Precio_Cliente": 19900.00, "Precio_Tecnico": 16700.00, "Cantidad_Stock": 2},
   {"Codigo": "1-6-020315", "Producto": "BOMBA ASKOLL", "Precio_Cliente": 13500.00, "Precio_Tecnico": 11500.00, "Cantidad_Stock": 5},
   {"Codigo": "1-7-020377", "Producto": "BOMBA DESAGOTE 1/2 GIRO", "Precio_Cliente": 25411.32, "Precio_Tecnico": 21176.10, "Cantidad_Stock": 1},
-  {"Codigo": "bom003", "Producto": "BOMBA DESAGOTE 3 TRABAS", "Precio_Cliente": 18909.00, "Precio_Tecnico": 15840.00, "Cantidad_Stock": 1},
+  {"Codigo": "bom3", "Producto": "BOMBA DESAGOTE 3 TRABAS", "Precio_Cliente": 19900.00, "Precio_Tecnico": 15900.00, "Cantidad_Stock": 2},
   {"Codigo": "bom007", "Producto": "BOMBA DESAGOTE INTALTEC C/PROTECTOR", "Precio_Cliente": 13068.00, "Precio_Tecnico": 9603.00, "Cantidad_Stock": 2},
   {"Codigo": "1-15-1026666", "Producto": "BOTONERA  DREAN NEXT/AURORA", "Precio_Cliente": 7500.00, "Precio_Tecnico": 5200.00, "Cantidad_Stock": 16},
   {"Codigo": "bri005", "Producto": "BRIDA DREAN GOLD LADO OPUESTO", "Precio_Cliente": 18600.00, "Precio_Tecnico": 12800.00, "Cantidad_Stock": 0},
