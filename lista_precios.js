@@ -74,7 +74,7 @@
   {"Codigo": "qv", "Producto": "CABLE QV SECARROPA", "Precio_Cliente": 13900.00, "Precio_Tecnico": 10900.00, "Cantidad_Stock": 2},
   {"Codigo": "fre8", "Producto": "CABLE SECARROPAS  DREAN  C/  RESORTE POR UNIDAD", "Precio_Cliente": 19900.00, "Precio_Tecnico": 17500.00, "Cantidad_Stock": 4},
   {"Codigo": "8-3-BI-5.15", "Producto": "CABLE TPR 5 X 1.5MM  POR METRO", "Precio_Cliente": 4900.00, "Precio_Tecnico": 3500.00, "Cantidad_Stock": 20},
-  {"Codigo": "8-3-TPR525C", "Producto": "CABLE TPR 5 X 2,5 MM POR METRO", "Precio_Cliente": 5643.00, "Precio_Tecnico": 4752.00, "Cantidad_Stock": 30},
+  {"Codigo": "8-3-TPR525C", "Producto": "CABLE TPR 5 X 2,5 MM POR METRO", "Precio_Cliente": 5900.00, "Precio_Tecnico": 4900.00, "Cantidad_Stock": 30},
   {"Codigo": "1-18-0105", "Producto": "CAJA CHAPON ALTERNATIVA SANYO/GAFA/DAEWOO", "Precio_Cliente": 94347.00, "Precio_Tecnico": 75537.00, "Cantidad_Stock": 0},
   {"Codigo": "caj002", "Producto": "CAJA DE HERRAMIENTA VERDE Y GRIS", "Precio_Cliente": 14850.00, "Precio_Tecnico": 14850.00, "Cantidad_Stock": 0},
   {"Codigo": "caj011", "Producto": "CAJA GAFA CHAPON ORIGINAL", "Precio_Cliente": 118800.00, "Precio_Tecnico": 100485.00, "Cantidad_Stock": 1},
