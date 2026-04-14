@@ -101,7 +101,7 @@
   {"Codigo": "4-21-CA-EV2MF", "Producto": "CAPACITOR CUADRADO 2MF", "Precio_Cliente": 3300.00, "Precio_Tecnico": 2300.00, "Cantidad_Stock": 4},
   {"Codigo": "capa9", "Producto": "CAPACITOR DUAL 25+5MF", "Precio_Cliente": 16200.00, "Precio_Tecnico": 13950.00, "Cantidad_Stock": 0},
   {"Codigo": "4-22-1220004", "Producto": "CAPACITOR DUAL 35 + 2", "Precio_Cliente": 15200.00, "Precio_Tecnico": 11200.00, "Cantidad_Stock": 4},
-  {"Codigo": "4-22-122005", "Producto": "CAPACITOR DUAL 40 + 5", "Precio_Cliente": 15741.00, "Precio_Tecnico": 12672.00, "Cantidad_Stock": 1},
+  {"Codigo": "4-22-122005", "Producto": "CAPACITOR DUAL 40 + 5", "Precio_Cliente": 16000.00, "Precio_Tecnico": 12700.00, "Cantidad_Stock": 1},
   {"Codigo": "4-22-122008", "Producto": "CAPACITOR DUAL 50+6", "Precio_Cliente": 17585.37, "Precio_Tecnico": 14639.13, "Cantidad_Stock": 3},
   {"Codigo": "cap015", "Producto": "CAPILAR 1.2 POR METRO", "Precio_Cliente": 10600.00, "Precio_Tecnico": 8200.00, "Cantidad_Stock": 3},
   {"Codigo": "4-23-1993", "Producto": "CAPILAR COBRE 0.8", "Precio_Cliente": 7425.00, "Precio_Tecnico": 5247.00, "Cantidad_Stock": 7},
