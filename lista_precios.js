@@ -86,7 +86,7 @@
   {"Codigo": "4-3-4514", "Producto": "CAÑO COBRE  1/4 POR METRO", "Precio_Cliente": 6633.00, "Precio_Tecnico": 5544.00, "Cantidad_Stock": 118},
   {"Codigo": "4-3-4538", "Producto": "CAÑO COBRE 3/8 POR METRO", "Precio_Cliente": 10791.00, "Precio_Tecnico": 9009.00, "Cantidad_Stock": 132},
   {"Codigo": "4-3-ROLLO5/8", "Producto": "CAÑO COBRE 5/8  POR METRO", "Precio_Cliente": 16830.00, "Precio_Tecnico": 14602.50, "Cantidad_Stock": 1012},
-  {"Codigo": "4-21-CA-EV16MF", "Producto": "CAPACITOR  16MF", "Precio_Cliente": 5841.00, "Precio_Tecnico": 3960.00, "Cantidad_Stock": 19},
+  {"Codigo": "4-21-CA-EV16MF", "Producto": "CAPACITOR  16MF", "Precio_Cliente": 5900.00, "Precio_Tecnico": 4000.00, "Cantidad_Stock": 12},
   {"Codigo": "4-21-01819", "Producto": "CAPACITOR  20MF 440V", "Precio_Cliente": 6138.00, "Precio_Tecnico": 4653.00, "Cantidad_Stock": 2},
   {"Codigo": "4-22-42515", "Producto": "CAPACITOR  25 MF", "Precio_Cliente": 6831.00, "Precio_Tecnico": 5445.00, "Cantidad_Stock": 5},
   {"Codigo": "cap0002", "Producto": "CAPACITOR 12.5", "Precio_Cliente": 4851.00, "Precio_Tecnico": 3712.50, "Cantidad_Stock": 10},
