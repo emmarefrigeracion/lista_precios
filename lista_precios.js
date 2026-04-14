@@ -49,7 +49,7 @@
   {"Codigo": "blo6", "Producto": "BLOCAPUERTA PATRICK LPK 8/10KG", "Precio_Cliente": 22000.00, "Precio_Tecnico": 18000.00, "Cantidad_Stock": 2},
   {"Codigo": "blo007", "Producto": "BLOCAPUERTA SAMSUN GWF45A6400AC", "Precio_Cliente": 38000.00, "Precio_Tecnico": 31200.00, "Cantidad_Stock": 2},
   {"Codigo": "blo001", "Producto": "BLOCAPUERTA SAMSUNG", "Precio_Cliente": 16000.00, "Precio_Tecnico": 12500.00, "Cantidad_Stock": 2},
-  {"Codigo": "blo008", "Producto": "BLOCAPUERTA TIPO ELECTROLUX", "Precio_Cliente": 19107.00, "Precio_Tecnico": 16632.00, "Cantidad_Stock": 2},
+  {"Codigo": "blo008", "Producto": "BLOCAPUERTA TIPO ELECTROLUX", "Precio_Cliente": 19900.00, "Precio_Tecnico": 16700.00, "Cantidad_Stock": 2},
   {"Codigo": "1-6-020315", "Producto": "BOMBA ASKOLL", "Precio_Cliente": 15000.00, "Precio_Tecnico": 11500.00, "Cantidad_Stock": 24},
   {"Codigo": "1-7-020377", "Producto": "BOMBA DESAGOTE 1/2 GIRO", "Precio_Cliente": 25411.32, "Precio_Tecnico": 21176.10, "Cantidad_Stock": 1},
   {"Codigo": "bom003", "Producto": "BOMBA DESAGOTE 3 TRABAS", "Precio_Cliente": 18909.00, "Precio_Tecnico": 15840.00, "Cantidad_Stock": 1},
