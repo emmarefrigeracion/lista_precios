@@ -122,6 +122,7 @@
   {"Codigo": "10-7-CURVA 1-1/", "Producto": "CODO CURVA COBRE 90° - 1\"1/2 SOLDAR", "Precio_Cliente": 4000.00, "Precio_Tecnico": 3000.00, "Cantidad_Stock": 3},
   {"Codigo": "10-7-180° 1-3/8", "Producto": "CODO CURVA COBRE 90° - 1\"3/8 SOLDAR", "Precio_Cliente": 3663.00, "Precio_Tecnico": 2673.00, "Cantidad_Stock": 3},
   {"Codigo": "10-7-472450", "Producto": "CODO CURVA COBRE 90° - 1-5/8\"  SOLDAR", "Precio_Cliente": 4455.00, "Precio_Tecnico": 3465.00, "Cantidad_Stock": 3},
+  {"Codigo": "cod5", "Producto": "CODO ENTRADA CONVENTRY", "Precio_Cliente": 26000.00, "Precio_Tecnico": 20600.00, "Cantidad_Stock": 2},
   {"Codigo": "cod004", "Producto": "CODO ENTRADA NEXT", "Precio_Cliente": 9504.00, "Precio_Tecnico": 8019.00, "Cantidad_Stock": 0},
   {"Codigo": "cod003", "Producto": "CODO SALIDA DREAN NEXT/BLUE  CUBA-FILTRO (GOMA)", "Precio_Cliente": 15200.00, "Precio_Tecnico": 12100.00, "Cantidad_Stock": 2},
   {"Codigo": "COD002", "Producto": "CODO SALIDA DREAN RECTO FILTRO A BOMBA (GOMA)", "Precio_Cliente": 6200.00, "Precio_Tecnico": 5200.00, "Cantidad_Stock": 2},
