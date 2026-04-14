@@ -124,7 +124,7 @@
   {"Codigo": "jab003", "Producto": "COLECTOR JABONERA BLUE 6.06", "Precio_Cliente": 19503.00, "Precio_Tecnico": 16632.00, "Cantidad_Stock": 1},
   {"Codigo": "com512", "Producto": "COMBISTATO MT512  2HP", "Precio_Cliente": 62568.00, "Precio_Tecnico": 53000.00, "Cantidad_Stock": 1},
   {"Codigo": "con015", "Producto": "CONDENSADORA 1/3 HP  PARA HELADERA", "Precio_Cliente": 127809.00, "Precio_Tecnico": 98208.00, "Cantidad_Stock": 0},
-  {"Codigo": "con010", "Producto": "CONO PARA EJE DE LAVARROPA", "Precio_Cliente": 2079.00, "Precio_Tecnico": 1188.00, "Cantidad_Stock": 3},
+  {"Codigo": "con010", "Producto": "CONO PARA EJE DE LAVARROPA", "Precio_Cliente": 2079.00, "Precio_Tecnico": 1400.00, "Cantidad_Stock": 3},
   {"Codigo": "2325", "Producto": "CONTROL UNIVERSAL PARA AIRE ACONDICIONADO", "Precio_Cliente": 8910.00, "Precio_Tecnico": 5940.00, "Cantidad_Stock": 13},
   {"Codigo": "con001", "Producto": "CONVECTOR BELITA ROJO", "Precio_Cliente": 48705.03, "Precio_Tecnico": 0.00, "Cantidad_Stock": 1},
   {"Codigo": "COP003", "Producto": "COPA 60MM", "Precio_Cliente": 22770.00, "Precio_Tecnico": 17820.00, "Cantidad_Stock": 1},
