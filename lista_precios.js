@@ -89,7 +89,7 @@
   {"Codigo": "4-21-CA-EV16MF", "Producto": "CAPACITOR  16MF", "Precio_Cliente": 5900.00, "Precio_Tecnico": 4000.00, "Cantidad_Stock": 12},
   {"Codigo": "4-21-01819", "Producto": "CAPACITOR  20MF 440V", "Precio_Cliente": 6200.00, "Precio_Tecnico": 4700.00, "Cantidad_Stock": 4},
   {"Codigo": "4-22-42515", "Producto": "CAPACITOR  25 MF", "Precio_Cliente": 6900.00, "Precio_Tecnico": 5600.00, "Cantidad_Stock": 5},
-  {"Codigo": "cap0002", "Producto": "CAPACITOR 12.5", "Precio_Cliente": 4851.00, "Precio_Tecnico": 3712.50, "Cantidad_Stock": 10},
+  {"Codigo": "cap0002", "Producto": "CAPACITOR 12.5", "Precio_Cliente": 4900.00, "Precio_Tecnico": 3800.00, "Cantidad_Stock": 0},
   {"Codigo": "cap2.5", "Producto": "CAPACITOR 2.5", "Precio_Cliente": 3465.00, "Precio_Tecnico": 2574.00, "Cantidad_Stock": 11},
   {"Codigo": "cap4", "Producto": "CAPACITOR 4MF", "Precio_Cliente": 2772.00, "Precio_Tecnico": 2277.00, "Cantidad_Stock": 3},
   {"Codigo": "cap017", "Producto": "CAPACITOR ANTIPARACITARIO  DREAN", "Precio_Cliente": 16632.00, "Precio_Tecnico": 12375.00, "Cantidad_Stock": 1},
