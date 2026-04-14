@@ -108,7 +108,7 @@
   {"Codigo": "4-23-1993", "Producto": "CAPILAR COBRE 0.8", "Precio_Cliente": 7425.00, "Precio_Tecnico": 5247.00, "Cantidad_Stock": 7},
   {"Codigo": "car001", "Producto": "CARBONES 12.5-13.5 EN CAJA ALFA CARBON", "Precio_Cliente": 16830.00, "Precio_Tecnico": 12870.00, "Cantidad_Stock": 5},
   {"Codigo": "car02", "Producto": "CARBONES 13.5 BOLSA BLANCA", "Precio_Cliente": 12771.00, "Precio_Tecnico": 9801.00, "Cantidad_Stock": 95},
-  {"Codigo": "1-35-JC37-39A", "Producto": "CARBONES LE CARD", "Precio_Cliente": 11100.00, "Precio_Tecnico": 9900.00, "Cantidad_Stock": 18},
+  {"Codigo": "car1", "Producto": "CARBONES LE CARD", "Precio_Cliente": 11100.00, "Precio_Tecnico": 9900.00, "Cantidad_Stock": 8},
   {"Codigo": "peltier2", "Producto": "CELDA PELTIER 40*40MM", "Precio_Cliente": 19710.00, "Precio_Tecnico": 16110.00, "Cantidad_Stock": 2},
   {"Codigo": "celda", "Producto": "CELDA PELTIER 40X40", "Precio_Cliente": 21870.00, "Precio_Tecnico": 17010.00, "Cantidad_Stock": 0},
   {"Codigo": "cin15", "Producto": "CINTA AILSADORA NEGRA 20 METROS", "Precio_Cliente": 6435.00, "Precio_Tecnico": 5148.00, "Cantidad_Stock": 9},
