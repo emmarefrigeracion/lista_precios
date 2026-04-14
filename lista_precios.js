@@ -67,7 +67,7 @@
   {"Codigo": "bur8", "Producto": "BURLETE A PRESION P / 1 PUERTA 180 X 785", "Precio_Cliente": 25000.00, "Precio_Tecnico": 22000.00, "Cantidad_Stock": 4},
   {"Codigo": "BUR005", "Producto": "BURLETES CORTO PARA FREEZER", "Precio_Cliente": 12700.00, "Precio_Tecnico": 11500.00, "Cantidad_Stock": 7},
   {"Codigo": "bur6", "Producto": "BURLETES MIRALLES CHICO X METRO PARA HELADERA MOSTRADOR", "Precio_Cliente": 5600.00, "Precio_Tecnico": 4700.00, "Cantidad_Stock": 20},
-  {"Codigo": "fre4", "Producto": "CABLE DE FRENO CODINI", "Precio_Cliente": 16300.00, "Precio_Tecnico": 12300.00, "Cantidad_Stock": 1},
+  {"Codigo": "fre4", "Producto": "CABLE DE FRENO CODINI", "Precio_Cliente": 15500.00, "Precio_Tecnico": 12500.00, "Cantidad_Stock": 2},
   {"Codigo": "fre2", "Producto": "CABLE DE FRENO DE SECARROPA   2062", "Precio_Cliente": 16038.00, "Precio_Tecnico": 13662.00, "Cantidad_Stock": 1},
   {"Codigo": "fre1", "Producto": "CABLE DE FRENO SECARROPA KOHINOOR 2042", "Precio_Cliente": 10098.00, "Precio_Tecnico": 8811.00, "Cantidad_Stock": 1},
   {"Codigo": "fre3", "Producto": "CABLE DE FRENO SECARROPA KOHINOOR 2052", "Precio_Cliente": 10098.00, "Precio_Tecnico": 8811.00, "Cantidad_Stock": 1},
