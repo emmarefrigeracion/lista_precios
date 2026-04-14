@@ -46,6 +46,7 @@
   {"Codigo": "blo03", "Producto": "BLOCAPUERTA DREAN NEXT 8.12", "Precio_Cliente": 16572.60, "Precio_Tecnico": 12969.00, "Cantidad_Stock": 4},
   {"Codigo": "blomabe", "Producto": "BLOCAPUERTA MABE  6 & 7 KG", "Precio_Cliente": 15200.00, "Precio_Tecnico": 11900.00, "Cantidad_Stock": 4},
   {"Codigo": "mabe8", "Producto": "BLOCAPÙERTA MABE  8 KG", "Precio_Cliente": 21000.00, "Precio_Tecnico": 17200.00, "Cantidad_Stock": 2},
+  {"Codigo": "blo6", "Producto": "BLOCAPUERTA PATRICK LPK 8/10KG", "Precio_Cliente": 22000.00, "Precio_Tecnico": 18000.00, "Cantidad_Stock": 2},
   {"Codigo": "blo007", "Producto": "BLOCAPUERTA SAMSUN GWF45A6400AC", "Precio_Cliente": 38000.00, "Precio_Tecnico": 31200.00, "Cantidad_Stock": 2},
   {"Codigo": "blo001", "Producto": "BLOCAPUERTA SAMSUNG", "Precio_Cliente": 16000.00, "Precio_Tecnico": 12500.00, "Cantidad_Stock": 2},
   {"Codigo": "blo008", "Producto": "BLOCAPUERTA TIPO ELECTROLUX", "Precio_Cliente": 19107.00, "Precio_Tecnico": 16632.00, "Cantidad_Stock": 2},
