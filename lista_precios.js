@@ -425,7 +425,7 @@
   {"Codigo": "taco8", "Producto": "TACOS DEL 8 PARA BLOCK", "Precio_Cliente": 47.52, "Precio_Tecnico": 42.57, "Cantidad_Stock": 100},
   {"Codigo": "005", "Producto": "TAIMER ELECTRONICO UNIVERSAL", "Precio_Cliente": 16830.00, "Precio_Tecnico": 13464.00, "Cantidad_Stock": 2},
   {"Codigo": "tai005", "Producto": "TAIMER TECNOVA 2 CONTACTOS  (SEMIAUTOMATICO)", "Precio_Cliente": 9405.00, "Precio_Tecnico": 7326.00, "Cantidad_Stock": 0},
-  {"Codigo": "t1", "Producto": "TAPA DE TACHO A ROSCA SECARROPA", "Precio_Cliente": 3900.00, "Precio_Tecnico": 2900.00, "Cantidad_Stock": 0},
+  {"Codigo": "t1", "Producto": "TAPA DE TACHO A ROSCA SECARROPA", "Precio_Cliente": 3900.00, "Precio_Tecnico": 2900.00, "Cantidad_Stock": 4},
   {"Codigo": "tapa2", "Producto": "TAPA FILTRO BOMBA  DESGOTE LG", "Precio_Cliente": 9900.00, "Precio_Tecnico": 7900.00, "Cantidad_Stock": 2},
   {"Codigo": "tapa1", "Producto": "TAPA FILTRO DREAN BLUE - NEXT", "Precio_Cliente": 3200.00, "Precio_Tecnico": 2200.00, "Cantidad_Stock": 4},
   {"Codigo": "fuga003", "Producto": "TAPA FUGA ALUMAX", "Precio_Cliente": 36828.00, "Precio_Tecnico": 31303.80, "Cantidad_Stock": 1},
