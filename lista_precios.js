@@ -180,7 +180,7 @@
   {"Codigo": "1-16-021113", "Producto": "FERODO CUADRADO CANDY-DREAN", "Precio_Cliente": 8167.50, "Precio_Tecnico": 6831.00, "Cantidad_Stock": 2},
   {"Codigo": "fil035", "Producto": "FILTRO  (NARANJA)  3/8", "Precio_Cliente": 31500.00, "Precio_Tecnico": 27900.00, "Cantidad_Stock": 4},
   {"Codigo": "fil010", "Producto": "FILTRO 1/4 HELADERA COMERCIAL (NARANJA)", "Precio_Cliente": 17200.00, "Precio_Tecnico": 14200.00, "Cantidad_Stock": 2},
-  {"Codigo": "FIL001", "Producto": "FILTRO 10 GR S CHICOTE", "Precio_Cliente": 2970.00, "Precio_Tecnico": 2475.00, "Cantidad_Stock": 10},
+  {"Codigo": "FIL001", "Producto": "FILTRO 10 GR S CHICOTE", "Precio_Cliente": 3100.00, "Precio_Tecnico": 2500.00, "Cantidad_Stock": 10},
   {"Codigo": "4-10-014820", "Producto": "FILTRO 10 GRS  C/CHICOTE", "Precio_Cliente": 3820.90, "Precio_Tecnico": 3465.00, "Cantidad_Stock": 9},
   {"Codigo": "FIL002", "Producto": "FILTRO 15GR S/CHIICOTE", "Precio_Cliente": 4455.00, "Precio_Tecnico": 3861.00, "Cantidad_Stock": 31},
   {"Codigo": "4-10-014823", "Producto": "FILTRO 15GRS. C/CHICOTE", "Precio_Cliente": 18414.00, "Precio_Tecnico": 13810.50, "Cantidad_Stock": 4},
