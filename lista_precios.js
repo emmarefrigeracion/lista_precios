@@ -113,7 +113,7 @@
   {"Codigo": "cintaeco", "Producto": "CINTA ECONOMICA PARA EMBALAR", "Precio_Cliente": 4455.00, "Precio_Tecnico": 3762.00, "Cantidad_Stock": 99},
   {"Codigo": "cin1", "Producto": "CINTA MOTECH S/ADHESIVO 20 METROS", "Precio_Cliente": 4554.00, "Precio_Tecnico": 3564.00, "Cantidad_Stock": 58},
   {"Codigo": "8-14-Z1-47L", "Producto": "CINTA TACSA C/PEGAMENTO", "Precio_Cliente": 8415.00, "Precio_Tecnico": 7029.00, "Cantidad_Stock": 5},
-  {"Codigo": "8-14-550", "Producto": "CINTA TACSA S/PEGAMENTO", "Precio_Cliente": 6633.00, "Precio_Tecnico": 5346.00, "Cantidad_Stock": 96},
+  {"Codigo": "8-14-550", "Producto": "CINTA TACSA S/PEGAMENTO", "Precio_Cliente": 6700.00, "Precio_Tecnico": 5400.00, "Cantidad_Stock": 6},
   {"Codigo": "cob5", "Producto": "COBERTOR DE LIMPIEZA CHICO (2250-3000-4500)", "Precio_Cliente": 27720.00, "Precio_Tecnico": 23265.00, "Cantidad_Stock": 6},
   {"Codigo": "cob1", "Producto": "COBERTOR DE LIMPIEZA P/ SPLIT GRANDE (4500-6000)", "Precio_Cliente": 32670.00, "Precio_Tecnico": 29205.00, "Cantidad_Stock": 3},
   {"Codigo": "10-7-CURVA 1-1/", "Producto": "CODO CURVA COBRE 90° - 1\"1/2 SOLDAR", "Precio_Cliente": 4000.00, "Precio_Tecnico": 3000.00, "Cantidad_Stock": 3},
