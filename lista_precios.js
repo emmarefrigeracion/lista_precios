@@ -95,7 +95,7 @@
   {"Codigo": "cap017", "Producto": "CAPACITOR ANTIPARACITARIO  DREAN", "Precio_Cliente": 16700.00, "Precio_Tecnico": 12500.00, "Cantidad_Stock": 0},
   {"Codigo": "4-21-01823", "Producto": "CAPACITOR COOLTECH 30MF 440V", "Precio_Cliente": 6900.00, "Precio_Tecnico": 5800.00, "Cantidad_Stock": 0},
   {"Codigo": "4-22-2172", "Producto": "CAPACITOR COOLTECH 35 MF", "Precio_Cliente": 7900.00, "Precio_Tecnico": 6500.00, "Cantidad_Stock": 4},
-  {"Codigo": "4-21-44040", "Producto": "CAPACITOR COOLTECH 40MF", "Precio_Cliente": 9529.24, "Precio_Tecnico": 7918.02, "Cantidad_Stock": 1},
+  {"Codigo": "4-21-44040", "Producto": "CAPACITOR COOLTECH 40MF", "Precio_Cliente": 9600.00, "Precio_Tecnico": 8000.00, "Cantidad_Stock": 0},
   {"Codigo": "4-21-010828", "Producto": "CAPACITOR COOLTECH 50MF 440V", "Precio_Cliente": 9801.00, "Precio_Tecnico": 8415.00, "Cantidad_Stock": 12},
   {"Codigo": "4-21-CA-EV1.5MF", "Producto": "CAPACITOR CUADRADO 1.5MF", "Precio_Cliente": 3564.00, "Precio_Tecnico": 2970.00, "Cantidad_Stock": 8},
   {"Codigo": "4-21-CA-EV2MF", "Producto": "CAPACITOR CUADRADO 2MF", "Precio_Cliente": 3762.00, "Precio_Tecnico": 2277.00, "Cantidad_Stock": 1},
