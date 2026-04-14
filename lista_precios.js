@@ -91,7 +91,7 @@
   {"Codigo": "4-22-42515", "Producto": "CAPACITOR  25 MF", "Precio_Cliente": 6900.00, "Precio_Tecnico": 5600.00, "Cantidad_Stock": 5},
   {"Codigo": "cap0002", "Producto": "CAPACITOR 12.5", "Precio_Cliente": 4900.00, "Precio_Tecnico": 3800.00, "Cantidad_Stock": 0},
   {"Codigo": "cap2.5", "Producto": "CAPACITOR 2.5", "Precio_Cliente": 3600.00, "Precio_Tecnico": 2600.00, "Cantidad_Stock": 4},
-  {"Codigo": "cap4", "Producto": "CAPACITOR 4MF", "Precio_Cliente": 2772.00, "Precio_Tecnico": 2277.00, "Cantidad_Stock": 3},
+  {"Codigo": "cap4", "Producto": "CAPACITOR 4MF", "Precio_Cliente": 3300.00, "Precio_Tecnico": 2300.00, "Cantidad_Stock": 0},
   {"Codigo": "cap017", "Producto": "CAPACITOR ANTIPARACITARIO  DREAN", "Precio_Cliente": 16632.00, "Precio_Tecnico": 12375.00, "Cantidad_Stock": 1},
   {"Codigo": "4-21-01823", "Producto": "CAPACITOR COOLTECH 30MF 440V", "Precio_Cliente": 6859.21, "Precio_Tecnico": 5742.00, "Cantidad_Stock": 3},
   {"Codigo": "4-22-2172", "Producto": "CAPACITOR COOLTECH 35 MF", "Precio_Cliente": 7821.00, "Precio_Tecnico": 6435.00, "Cantidad_Stock": 13},
