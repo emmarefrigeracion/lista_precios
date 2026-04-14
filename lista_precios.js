@@ -56,7 +56,7 @@
   {"Codigo": "b5", "Producto": "BOTONERA  DREAN NEXT/AURORA", "Precio_Cliente": 7500.00, "Precio_Tecnico": 5200.00, "Cantidad_Stock": 16},
   {"Codigo": "bri005", "Producto": "BRIDA DREAN GOLD LADO OPUESTO", "Precio_Cliente": 18600.00, "Precio_Tecnico": 12800.00, "Cantidad_Stock": 0},
   {"Codigo": "bri006", "Producto": "BRIDA DREAN GOLD LADO POLEA", "Precio_Cliente": 18600.00, "Precio_Tecnico": 12800.00, "Cantidad_Stock": 0},
-  {"Codigo": "bri001", "Producto": "BRIDA FUELLE BLUE", "Precio_Cliente": 4752.00, "Precio_Tecnico": 4158.00, "Cantidad_Stock": 2},
+  {"Codigo": "bri001", "Producto": "BRIDA FUELLE BLUE (ALAMBRE)", "Precio_Cliente": 4900.00, "Precio_Tecnico": 4200.00, "Cantidad_Stock": 0},
   {"Codigo": "buje8", "Producto": "BUJE DE ARRASTRE", "Precio_Cliente": 5148.00, "Precio_Tecnico": 3960.00, "Cantidad_Stock": 1},
   {"Codigo": "buje02", "Producto": "BUJE DE ARRASTRE CAJA CONCEPT", "Precio_Cliente": 4680.00, "Precio_Tecnico": 3330.00, "Cantidad_Stock": 3},
   {"Codigo": "1-17-BUJE  LG", "Producto": "BUJE PARA TURBINA LG", "Precio_Cliente": 7029.00, "Precio_Tecnico": 5841.00, "Cantidad_Stock": 0},
