@@ -128,7 +128,7 @@
   {"Codigo": "con011", "Producto": "CONO P EJE DREAN 8 KG", "Precio_Cliente": 2800.00, "Precio_Tecnico": 3500.00, "Cantidad_Stock": 3},
   {"Codigo": "2325", "Producto": "CONTROL UNIVERSAL PARA AIRE ACONDICIONADO", "Precio_Cliente": 8900.00, "Precio_Tecnico": 6000.00, "Cantidad_Stock": 7},
   {"Codigo": "con001", "Producto": "CONVECTOR BELITA ROJO", "Precio_Cliente": 48000.00, "Precio_Tecnico": 48000.00, "Cantidad_Stock": 1},
-  {"Codigo": "COP003", "Producto": "COPA 60MM", "Precio_Cliente": 22770.00, "Precio_Tecnico": 17820.00, "Cantidad_Stock": 1},
+  {"Codigo": "COP003", "Producto": "COPA 60MM", "Precio_Cliente": 23000.00, "Precio_Tecnico": 19000.00, "Cantidad_Stock": 1},
   {"Codigo": "COR018", "Producto": "CORREA 018", "Precio_Cliente": 4752.00, "Precio_Tecnico": 4158.00, "Cantidad_Stock": 2},
   {"Codigo": "cor025", "Producto": "CORREA 019", "Precio_Cliente": 7029.00, "Precio_Tecnico": 5346.00, "Cantidad_Stock": 0},
   {"Codigo": "COR020", "Producto": "CORREA 020", "Precio_Cliente": 7128.00, "Precio_Tecnico": 5841.00, "Cantidad_Stock": 5},
