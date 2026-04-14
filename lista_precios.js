@@ -97,7 +97,7 @@
   {"Codigo": "capa35", "Producto": "CAPACITOR COOLTECH 35 MF", "Precio_Cliente": 7900.00, "Precio_Tecnico": 6500.00, "Cantidad_Stock": 4},
   {"Codigo": "capa40", "Producto": "CAPACITOR COOLTECH 40MF", "Precio_Cliente": 9600.00, "Precio_Tecnico": 8000.00, "Cantidad_Stock": 0},
   {"Codigo": "capa50", "Producto": "CAPACITOR COOLTECH 50MF 440V", "Precio_Cliente": 9900.00, "Precio_Tecnico": 8600.00, "Cantidad_Stock": 4},
-  {"Codigo": "4-21-CA-EV1.5MF", "Producto": "CAPACITOR CUADRADO 1.5MF", "Precio_Cliente": 3900.00, "Precio_Tecnico": 3000.00, "Cantidad_Stock": 7},
+  {"Codigo": "capa1.5", "Producto": "CAPACITOR CUADRADO 1.5MF", "Precio_Cliente": 3900.00, "Precio_Tecnico": 3000.00, "Cantidad_Stock": 7},
   {"Codigo": "4-21-CA-EV2MF", "Producto": "CAPACITOR CUADRADO 2MF", "Precio_Cliente": 3300.00, "Precio_Tecnico": 2300.00, "Cantidad_Stock": 4},
   {"Codigo": "capa9", "Producto": "CAPACITOR DUAL 25+5MF", "Precio_Cliente": 16200.00, "Precio_Tecnico": 13950.00, "Cantidad_Stock": 0},
   {"Codigo": "4-22-1220004", "Producto": "CAPACITOR DUAL 35 + 2", "Precio_Cliente": 15200.00, "Precio_Tecnico": 11200.00, "Cantidad_Stock": 4},
