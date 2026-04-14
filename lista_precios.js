@@ -124,7 +124,7 @@
   {"Codigo": "10-7-472450", "Producto": "CODO CURVA COBRE 90° - 1-5/8\"  SOLDAR", "Precio_Cliente": 4455.00, "Precio_Tecnico": 3465.00, "Cantidad_Stock": 3},
   {"Codigo": "cod004", "Producto": "CODO ENTRADA NEXT", "Precio_Cliente": 9504.00, "Precio_Tecnico": 8019.00, "Cantidad_Stock": 0},
   {"Codigo": "cod003", "Producto": "CODO SALIDA DREAN NEXT/BLUE  CUBA-FILTRO (GOMA)", "Precio_Cliente": 14850.00, "Precio_Tecnico": 11781.00, "Cantidad_Stock": 1},
-  {"Codigo": "COD002", "Producto": "CODO SALIDA DREAN RECTO FILTRO A BOMBA (GOMA)", "Precio_Cliente": 5544.00, "Precio_Tecnico": 4851.00, "Cantidad_Stock": 2},
+  {"Codigo": "COD002", "Producto": "CODO SALIDA DREAN RECTO FILTRO A BOMBA (GOMA)", "Precio_Cliente": 6200.00, "Precio_Tecnico": 5200.00, "Cantidad_Stock": 2},
   {"Codigo": "jab003", "Producto": "COLECTOR JABONERA BLUE 6.06", "Precio_Cliente": 19503.00, "Precio_Tecnico": 16632.00, "Cantidad_Stock": 1},
   {"Codigo": "com512", "Producto": "COMBISTATO MT512  2HP", "Precio_Cliente": 62568.00, "Precio_Tecnico": 47421.00, "Cantidad_Stock": 1},
   {"Codigo": "con015", "Producto": "CONDENSADORA 1/3 HP  PARA HELADERA", "Precio_Cliente": 127809.00, "Precio_Tecnico": 98208.00, "Cantidad_Stock": 0},
