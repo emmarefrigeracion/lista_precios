@@ -439,6 +439,7 @@
   {"Codigo": "13646", "Producto": "TEMSOTATO PARA CONGELADOR", "Precio_Cliente": 17424.00, "Precio_Tecnico": 14355.00, "Cantidad_Stock": 2},
   {"Codigo": "ten1", "Producto": "TENSOR DE SECARROPAS KOHINOOR", "Precio_Cliente": 4200.00, "Precio_Tecnico": 3200.00, "Cantidad_Stock": 8},
   {"Codigo": "ten2", "Producto": "TENSOR PARA SECARROPA", "Precio_Cliente": 5000.00, "Precio_Tecnico": 3800.00, "Cantidad_Stock": 9},
+  {"Codigo": "ten6", "Producto": "TENSOR PARA SECARROPA DREAN WIDN QV", "Precio_Cliente": 4800.00, "Precio_Tecnico": 3800.00, "Cantidad_Stock": 2},
   {"Codigo": "ten5", "Producto": "TENSOR SECARROPA ALLADIO DREAN WIND", "Precio_Cliente": 3400.00, "Precio_Tecnico": 2500.00, "Cantidad_Stock": 6},
   {"Codigo": "sec003", "Producto": "TENSOR SECARROPA KOHINOOR CUADRADO", "Precio_Cliente": 3500.00, "Precio_Tecnico": 2500.00, "Cantidad_Stock": 10},
   {"Codigo": "sec004", "Producto": "TENSOR SECARROPA MOD VIEJO CODINI", "Precio_Cliente": 2100.00, "Precio_Tecnico": 1300.00, "Cantidad_Stock": 7},
