@@ -225,6 +225,7 @@
   {"Codigo": "GRASA", "Producto": "GRASA SILICONADA (POMO 50 GRM)", "Precio_Cliente": 11900.00, "Precio_Tecnico": 9200.00, "Cantidad_Stock": 10},
   {"Codigo": "1-34-024", "Producto": "GRASA SILICONADA CHICA", "Precio_Cliente": 5900.00, "Precio_Tecnico": 3900.00, "Cantidad_Stock": 5},
   {"Codigo": "1-38-156", "Producto": "GRASA SILICONADA GRANDE", "Precio_Cliente": 5524.20, "Precio_Tecnico": 6200.00, "Cantidad_Stock": 0},
+  {"Codigo": "in", "Producto": "INSERTO PLASTICO TENSOR CUADRADO", "Precio_Cliente": 2900.00, "Precio_Tecnico": 2000.00, "Cantidad_Stock": 2},
   {"Codigo": "sw5", "Producto": "INTERRUPTOR DE SECARROPA CODINI (SWITCH)", "Precio_Cliente": 5148.00, "Precio_Tecnico": 4300.00, "Cantidad_Stock": 10},
   {"Codigo": "inter005", "Producto": "INTERRUPTOR KOHINOOR CON TUERCA", "Precio_Cliente": 6138.00, "Precio_Tecnico": 5049.00, "Cantidad_Stock": 0},
   {"Codigo": "in001", "Producto": "INTERRUPTOR LAVARROPA DREAN 4 CONTACTOS", "Precio_Cliente": 15570.00, "Precio_Tecnico": 13230.00, "Cantidad_Stock": 1},
