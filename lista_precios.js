@@ -184,7 +184,7 @@
   {"Codigo": "4-10-014820", "Producto": "FILTRO 10 GRS  C/CHICOTE", "Precio_Cliente": 4200.00, "Precio_Tecnico": 3500.00, "Cantidad_Stock": 10},
   {"Codigo": "FIL002", "Producto": "FILTRO 15GR S/CHIICOTE", "Precio_Cliente": 4900.00, "Precio_Tecnico": 3900.00, "Cantidad_Stock": 10},
   {"Codigo": "4-10-014823", "Producto": "FILTRO 15GRS. C/CHICOTE", "Precio_Cliente": 18414.00, "Precio_Tecnico": 13810.50, "Cantidad_Stock": 0},
-  {"Codigo": "4-10-014824", "Producto": "FILTRO 20 GRM  C/CHICOTE", "Precio_Cliente": 4257.00, "Precio_Tecnico": 3762.00, "Cantidad_Stock": 3},
+  {"Codigo": "4-10-014824", "Producto": "FILTRO 20 GRM  C/CHICOTE", "Precio_Cliente": 4257.00, "Precio_Tecnico": 3762.00, "Cantidad_Stock": 0},
   {"Codigo": "fil020", "Producto": "FILTRO 20G  S/ CHICOTE", "Precio_Cliente": 4200.00, "Precio_Tecnico": 3000.00, "Cantidad_Stock": 8},
   {"Codigo": "4-10-070990", "Producto": "FILTRO 30 GRS S/CHICOTE", "Precio_Cliente": 5544.00, "Precio_Tecnico": 4851.00, "Cantidad_Stock": 7},
   {"Codigo": "fil1", "Producto": "FILTRO 30GRM CON CHICOTE", "Precio_Cliente": 7128.00, "Precio_Tecnico": 5841.00, "Cantidad_Stock": 2},
