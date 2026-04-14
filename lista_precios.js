@@ -109,7 +109,7 @@
   {"Codigo": "car1", "Producto": "CARBONES LE CARD", "Precio_Cliente": 11100.00, "Precio_Tecnico": 9900.00, "Cantidad_Stock": 8},
   {"Codigo": "peltier2", "Producto": "CELDA PELTIER 40*40MM", "Precio_Cliente": 19710.00, "Precio_Tecnico": 16110.00, "Cantidad_Stock": 2},
   {"Codigo": "celda", "Producto": "CELDA PELTIER 40X40", "Precio_Cliente": 21870.00, "Precio_Tecnico": 17010.00, "Cantidad_Stock": 0},
-  {"Codigo": "cin15", "Producto": "CINTA AILSADORA NEGRA 20 METROS", "Precio_Cliente": 6435.00, "Precio_Tecnico": 5148.00, "Cantidad_Stock": 9},
+  {"Codigo": "cin15", "Producto": "CINTA AILSADORA NEGRA 20 METROS", "Precio_Cliente": 6500.00, "Precio_Tecnico": 5200.00, "Cantidad_Stock": 9},
   {"Codigo": "cintaeco", "Producto": "CINTA ECONOMICA PARA EMBALAR", "Precio_Cliente": 4455.00, "Precio_Tecnico": 3762.00, "Cantidad_Stock": 99},
   {"Codigo": "cin1", "Producto": "CINTA MOTECH S/ADHESIVO 20 METROS", "Precio_Cliente": 4554.00, "Precio_Tecnico": 3564.00, "Cantidad_Stock": 58},
   {"Codigo": "8-14-Z1-47L", "Producto": "CINTA TACSA C/PEGAMENTO", "Precio_Cliente": 8415.00, "Precio_Tecnico": 7029.00, "Cantidad_Stock": 5},
