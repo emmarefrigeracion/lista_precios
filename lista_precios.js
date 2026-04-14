@@ -50,7 +50,7 @@
   {"Codigo": "blo007", "Producto": "BLOCAPUERTA SAMSUN GWF45A6400AC", "Precio_Cliente": 38000.00, "Precio_Tecnico": 31200.00, "Cantidad_Stock": 2},
   {"Codigo": "blo001", "Producto": "BLOCAPUERTA SAMSUNG", "Precio_Cliente": 16000.00, "Precio_Tecnico": 12500.00, "Cantidad_Stock": 2},
   {"Codigo": "blo008", "Producto": "BLOCAPUERTA TIPO ELECTROLUX", "Precio_Cliente": 19900.00, "Precio_Tecnico": 16700.00, "Cantidad_Stock": 2},
-  {"Codigo": "1-6-020315", "Producto": "BOMBA ASKOLL", "Precio_Cliente": 15000.00, "Precio_Tecnico": 11500.00, "Cantidad_Stock": 24},
+  {"Codigo": "1-6-020315", "Producto": "BOMBA ASKOLL", "Precio_Cliente": 13500.00, "Precio_Tecnico": 11500.00, "Cantidad_Stock": 5},
   {"Codigo": "1-7-020377", "Producto": "BOMBA DESAGOTE 1/2 GIRO", "Precio_Cliente": 25411.32, "Precio_Tecnico": 21176.10, "Cantidad_Stock": 1},
   {"Codigo": "bom003", "Producto": "BOMBA DESAGOTE 3 TRABAS", "Precio_Cliente": 18909.00, "Precio_Tecnico": 15840.00, "Cantidad_Stock": 1},
   {"Codigo": "bom007", "Producto": "BOMBA DESAGOTE INTALTEC C/PROTECTOR", "Precio_Cliente": 13068.00, "Precio_Tecnico": 9603.00, "Cantidad_Stock": 2},
