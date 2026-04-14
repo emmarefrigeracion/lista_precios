@@ -79,7 +79,7 @@
   {"Codigo": "caj011", "Producto": "CAJA GAFA CHAPON ORIGINAL", "Precio_Cliente": 118800.00, "Precio_Tecnico": 100485.00, "Cantidad_Stock": 0},
   {"Codigo": "caj005", "Producto": "CAJA GAFA CHINA ENGRANAJE SIMPLE", "Precio_Cliente": 0.00, "Precio_Tecnico": 66825.00, "Cantidad_Stock": 0},
   {"Codigo": "caja010", "Producto": "CAJA LAVARROPA CONSUL Y ESLABON DE LUJO", "Precio_Cliente": 90882.00, "Precio_Tecnico": 75240.00, "Cantidad_Stock": 0},
-  {"Codigo": "caj009", "Producto": "CAJA PREINSTALACION AIRE", "Precio_Cliente": 11385.00, "Precio_Tecnico": 7920.00, "Cantidad_Stock": 10},
+  {"Codigo": "caj009", "Producto": "CAJA PREINSTALACION AIRE", "Precio_Cliente": 11500.00, "Precio_Tecnico": 7500.00, "Cantidad_Stock": 15},
   {"Codigo": "cal001", "Producto": "CALOVENTOR SERENA (BLANCO)", "Precio_Cliente": 18321.93, "Precio_Tecnico": 0.00, "Cantidad_Stock": 5},
   {"Codigo": "cal002", "Producto": "CALOVENTOR SERENA (NEGRO)", "Precio_Cliente": 16940.88, "Precio_Tecnico": 0.00, "Cantidad_Stock": 4},
   {"Codigo": "4-3-4558", "Producto": "CAÑO COBRE  1/2  POR METRO", "Precio_Cliente": 13761.00, "Precio_Tecnico": 11385.00, "Cantidad_Stock": 113},
