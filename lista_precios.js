@@ -78,7 +78,6 @@
   {"Codigo": "1-18-0105", "Producto": "CAJA CHAPON ALTERNATIVA SANYO/GAFA/DAEWOO", "Precio_Cliente": 94347.00, "Precio_Tecnico": 75537.00, "Cantidad_Stock": 0},
   {"Codigo": "caj011", "Producto": "CAJA GAFA CHAPON ORIGINAL", "Precio_Cliente": 118800.00, "Precio_Tecnico": 100485.00, "Cantidad_Stock": 0},
   {"Codigo": "caj005", "Producto": "CAJA GAFA CHINA ENGRANAJE SIMPLE", "Precio_Cliente": 0.00, "Precio_Tecnico": 66825.00, "Cantidad_Stock": 0},
-  {"Codigo": "CAJA001", "Producto": "CAJA HERRAMIENTA NARANJA Y NEGRA", "Precio_Cliente": 0.00, "Precio_Tecnico": 16335.00, "Cantidad_Stock": 2},
   {"Codigo": "caja010", "Producto": "CAJA LAVARROPA CONSUL Y ESLABON DE LUJO", "Precio_Cliente": 90882.00, "Precio_Tecnico": 75240.00, "Cantidad_Stock": 0},
   {"Codigo": "caj009", "Producto": "CAJA PREINSTALACION AIRE", "Precio_Cliente": 11385.00, "Precio_Tecnico": 7920.00, "Cantidad_Stock": 10},
   {"Codigo": "cal001", "Producto": "CALOVENTOR SERENA (BLANCO)", "Precio_Cliente": 18321.93, "Precio_Tecnico": 0.00, "Cantidad_Stock": 5},
