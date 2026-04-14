@@ -105,7 +105,7 @@
   {"Codigo": "4-22-122008", "Producto": "CAPACITOR DUAL 50+6", "Precio_Cliente": 17900.00, "Precio_Tecnico": 14700.00, "Cantidad_Stock": 4},
   {"Codigo": "cap015", "Producto": "CAPILAR 1.2 POR METRO", "Precio_Cliente": 10600.00, "Precio_Tecnico": 8200.00, "Cantidad_Stock": 3},
   {"Codigo": "4-23-1993", "Producto": "CAPILAR COBRE 0.8", "Precio_Cliente": 7600.00, "Precio_Tecnico": 5300.00, "Cantidad_Stock": 4},
-  {"Codigo": "car001", "Producto": "CARBONES 12.5-13.5 EN CAJA ALFA CARBON", "Precio_Cliente": 16830.00, "Precio_Tecnico": 12870.00, "Cantidad_Stock": 5},
+  {"Codigo": "car001", "Producto": "CARBONES 12.5-13.5 EN CAJA ALFA CARBON", "Precio_Cliente": 16830.00, "Precio_Tecnico": 12870.00, "Cantidad_Stock": 0},
   {"Codigo": "car02", "Producto": "CARBONES 13.5 BOLSA BLANCA", "Precio_Cliente": 12771.00, "Precio_Tecnico": 9801.00, "Cantidad_Stock": 95},
   {"Codigo": "car1", "Producto": "CARBONES LE CARD", "Precio_Cliente": 11100.00, "Precio_Tecnico": 9900.00, "Cantidad_Stock": 8},
   {"Codigo": "peltier2", "Producto": "CELDA PELTIER 40*40MM", "Precio_Cliente": 19710.00, "Precio_Tecnico": 16110.00, "Cantidad_Stock": 2},
