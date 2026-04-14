@@ -267,7 +267,7 @@
   {"Codigo": "men42", "Producto": "MENSULAS  42 CM", "Precio_Cliente": 15840.00, "Precio_Tecnico": 13365.00, "Cantidad_Stock": 3},
   {"Codigo": "men62", "Producto": "MENSULAS 62CM", "Precio_Cliente": 37620.00, "Precio_Tecnico": 31581.00, "Cantidad_Stock": 8},
   {"Codigo": "men82", "Producto": "MENSULAS 82CM", "Precio_Cliente": 34650.00, "Precio_Tecnico": 28710.00, "Cantidad_Stock": 3},
-  {"Codigo": "mica01", "Producto": "MICA CHICA", "Precio_Cliente": 5940.00, "Precio_Tecnico": 3762.00, "Cantidad_Stock": 9},
+  {"Codigo": "mica01", "Producto": "MICA CHICA", "Precio_Cliente": 6000.00, "Precio_Tecnico": 3800.00, "Cantidad_Stock": 9},
   {"Codigo": "mica02", "Producto": "MICA GRANDE", "Precio_Cliente": 18810.00, "Precio_Tecnico": 14850.00, "Cantidad_Stock": 2},
   {"Codigo": "mic003", "Producto": "MIKA CDA PEDACITO", "Precio_Cliente": 6000.00, "Precio_Tecnico": 4200.00, "Cantidad_Stock": 0},
   {"Codigo": "mot020", "Producto": "MOTOR 1/4 ELECTROLUX", "Precio_Cliente": 96030.00, "Precio_Tecnico": 85734.00, "Cantidad_Stock": 7},
