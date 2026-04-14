@@ -57,6 +57,7 @@
   {"Codigo": "bri005", "Producto": "BRIDA DREAN GOLD LADO OPUESTO", "Precio_Cliente": 18600.00, "Precio_Tecnico": 12800.00, "Cantidad_Stock": 0},
   {"Codigo": "bri006", "Producto": "BRIDA DREAN GOLD LADO POLEA", "Precio_Cliente": 18600.00, "Precio_Tecnico": 12800.00, "Cantidad_Stock": 0},
   {"Codigo": "bri001", "Producto": "BRIDA FUELLE BLUE (ALAMBRE)", "Precio_Cliente": 4900.00, "Precio_Tecnico": 4200.00, "Cantidad_Stock": 0},
+  {"Codigo": "bri5", "Producto": "BRIDA FUELLE NEXT DELANTERA", "Precio_Cliente": 4000.00, "Precio_Tecnico": 2900.00, "Cantidad_Stock": 2},
   {"Codigo": "buje8", "Producto": "BUJE DE ARRASTRE", "Precio_Cliente": 5148.00, "Precio_Tecnico": 3960.00, "Cantidad_Stock": 1},
   {"Codigo": "buje02", "Producto": "BUJE DE ARRASTRE CAJA CONCEPT", "Precio_Cliente": 4680.00, "Precio_Tecnico": 3330.00, "Cantidad_Stock": 3},
   {"Codigo": "1-17-BUJE  LG", "Producto": "BUJE PARA TURBINA LG", "Precio_Cliente": 7029.00, "Precio_Tecnico": 5841.00, "Cantidad_Stock": 0},
