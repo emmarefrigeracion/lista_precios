@@ -66,7 +66,7 @@
   {"Codigo": "bur011", "Producto": "BURLETE A PRESION   P/ 1 PUERTA 2MTRS", "Precio_Cliente": 29300.00, "Precio_Tecnico": 24000.00, "Cantidad_Stock": 96},
   {"Codigo": "bur8", "Producto": "BURLETE A PRESION P / 1 PUERTA 1450 X 785", "Precio_Cliente": 21285.00, "Precio_Tecnico": 19602.00, "Cantidad_Stock": 4},
   {"Codigo": "bur025", "Producto": "BURLETE PARA FREEZER POR METRO", "Precio_Cliente": 5445.00, "Precio_Tecnico": 4455.00, "Cantidad_Stock": 0},
-  {"Codigo": "BUR005", "Producto": "BURLETES CORTO PARA FREEZER", "Precio_Cliente": 12672.00, "Precio_Tecnico": 11385.00, "Cantidad_Stock": 9},
+  {"Codigo": "BUR005", "Producto": "BURLETES CORTO PARA FREEZER", "Precio_Cliente": 12700.00, "Precio_Tecnico": 11500.00, "Cantidad_Stock": 7},
   {"Codigo": "bur6", "Producto": "BURLETES MIRALLES CHICO X METRO PARA HELADERA MOSTRADOR", "Precio_Cliente": 5148.00, "Precio_Tecnico": 4455.00, "Cantidad_Stock": 18},
   {"Codigo": "fre4", "Producto": "CABLE DE FRENO CODINI", "Precio_Cliente": 16300.00, "Precio_Tecnico": 12300.00, "Cantidad_Stock": 1},
   {"Codigo": "fre2", "Producto": "CABLE DE FRENO DE SECARROPA   2062", "Precio_Cliente": 16038.00, "Precio_Tecnico": 13662.00, "Cantidad_Stock": 1},
