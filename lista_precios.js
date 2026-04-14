@@ -51,7 +51,7 @@
   {"Codigo": "blo007", "Producto": "BLOCAPUERTA SAMSUN GWF45A6400AC", "Precio_Cliente": 38000.00, "Precio_Tecnico": 31200.00, "Cantidad_Stock": 2},
   {"Codigo": "blo001", "Producto": "BLOCAPUERTA SAMSUNG", "Precio_Cliente": 16000.00, "Precio_Tecnico": 12500.00, "Cantidad_Stock": 2},
   {"Codigo": "blo008", "Producto": "BLOCAPUERTA TIPO ELECTROLUX", "Precio_Cliente": 19900.00, "Precio_Tecnico": 16700.00, "Cantidad_Stock": 2},
-  {"Codigo": "1-6-020315", "Producto": "BOMBA ASKOLL", "Precio_Cliente": 13500.00, "Precio_Tecnico": 11500.00, "Cantidad_Stock": 5},
+  {"Codigo": "bom01", "Producto": "BOMBA ASKOLL", "Precio_Cliente": 13500.00, "Precio_Tecnico": 11500.00, "Cantidad_Stock": 5},
   {"Codigo": "bom2", "Producto": "BOMBA DESAGOTE 1/2 GIRO", "Precio_Cliente": 25900.00, "Precio_Tecnico": 21900.00, "Cantidad_Stock": 2},
   {"Codigo": "bom3", "Producto": "BOMBA DESAGOTE 3 TRABAS", "Precio_Cliente": 19900.00, "Precio_Tecnico": 15900.00, "Cantidad_Stock": 2},
   {"Codigo": "b5", "Producto": "BOTONERA  DREAN NEXT/AURORA", "Precio_Cliente": 7500.00, "Precio_Tecnico": 5200.00, "Cantidad_Stock": 16},
