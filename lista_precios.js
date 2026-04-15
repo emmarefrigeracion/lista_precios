@@ -473,7 +473,7 @@
   {"Codigo": "tim19", "Producto": "TIMER PROGRAMABLE  NO FROST UNIVERSAL", "Precio_Cliente": 19701.00, "Precio_Tecnico": 15345.00, "Cantidad_Stock": 1},
   {"Codigo": "tir001", "Producto": "TIRADOR AURORA  ELECTROLUX EW", "Precio_Cliente": 5148.00, "Precio_Tecnico": 3366.00, "Cantidad_Stock": 0},
   {"Codigo": "tir002", "Producto": "TIRADOR AURORA/DREAN", "Precio_Cliente": 5346.00, "Precio_Tecnico": 3762.00, "Cantidad_Stock": 2},
-  {"Codigo": "tir003", "Producto": "TIRADOR DREAN 166 COMPLETO", "Precio_Cliente": 7425.00, "Precio_Tecnico": 6039.00, "Cantidad_Stock": 2},
+  {"Codigo": "tir003", "Producto": "TIRADOR DREAN 166 COMPLETO", "Precio_Cliente": 7600.00, "Precio_Tecnico": 6100.00, "Cantidad_Stock": 3},
   {"Codigo": "tir015", "Producto": "TIRADOR LAVARROPA COVENTRY", "Precio_Cliente": 9801.00, "Precio_Tecnico": 7425.00, "Cantidad_Stock": 1},
   {"Codigo": "tir006", "Producto": "TIRADOR PUERTA SAMSUNG (MANIJA)", "Precio_Cliente": 5445.00, "Precio_Tecnico": 3861.00, "Cantidad_Stock": 2},
   {"Codigo": "tor001", "Producto": "TORNILLO SOPORTE DREN BLUE 6,6-7,10-8,12", "Precio_Cliente": 1584.00, "Precio_Tecnico": 990.00, "Cantidad_Stock": 29},
