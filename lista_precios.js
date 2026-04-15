@@ -368,7 +368,6 @@
   {"Codigo": "rob008", "Producto": "ROBINETE DE ACCESO 5/8 CURVO (R22)", "Precio_Cliente": 23760.00, "Precio_Tecnico": 21780.00, "Cantidad_Stock": 1},
   {"Codigo": "rob009", "Producto": "ROBINETE DE ACCESO 5/8 CURVO (R410)", "Precio_Cliente": 38907.00, "Precio_Tecnico": 29898.00, "Cantidad_Stock": 1},
   {"Codigo": "rod021", "Producto": "RODAMIENTO  L/POLEO WH50", "Precio_Cliente": 19503.00, "Precio_Tecnico": 15642.00, "Cantidad_Stock": 0},
-  {"Codigo": "1-39-6205SKF", "Producto": "RODAMIENTO  SKF  6205", "Precio_Cliente": 8415.00, "Precio_Tecnico": 7425.00, "Cantidad_Stock": 3},
   {"Codigo": "rod8", "Producto": "RODAMIENTO 6206 CBR", "Precio_Cliente": 4158.00, "Precio_Tecnico": 3168.00, "Cantidad_Stock": 2},
   {"Codigo": "rod1", "Producto": "RODAMIENTO CBR 6203", "Precio_Cliente": 2772.00, "Precio_Tecnico": 1881.00, "Cantidad_Stock": 10},
   {"Codigo": "rod2", "Producto": "RODAMIENTO CBR 6204", "Precio_Cliente": 3465.00, "Precio_Tecnico": 2524.50, "Cantidad_Stock": 3},
