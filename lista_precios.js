@@ -329,7 +329,7 @@
   {"Codigo": "por1", "Producto": "PORTA RODAMIENTO  GOLD ACC", "Precio_Cliente": 12400.00, "Precio_Tecnico": 9500.00, "Cantidad_Stock": 9},
   {"Codigo": "pres001", "Producto": "PRECINTOS BLANCOS CHICOS", "Precio_Cliente": 3465.00, "Precio_Tecnico": 2970.00, "Cantidad_Stock": 0},
   {"Codigo": "pre002", "Producto": "PRESOSTATO 4 CONTACTOS PALA ANCHA FACE 1", "Precio_Cliente": 14157.00, "Precio_Tecnico": 11781.00, "Cantidad_Stock": 3},
-  {"Codigo": "pre005", "Producto": "PRESOSTATO ANALOGICO  DREAN NEXT", "Precio_Cliente": 20790.00, "Precio_Tecnico": 16830.00, "Cantidad_Stock": 4},
+  {"Codigo": "pre005", "Producto": "PRESOSTATO ANALOGICO  DREAN NEXT", "Precio_Cliente": 21000.00, "Precio_Tecnico": 16900.00, "Cantidad_Stock": 5},
   {"Codigo": "pre003", "Producto": "PRESOSTATO FACE 2 FICHA DITINTAS", "Precio_Cliente": 22176.00, "Precio_Tecnico": 16632.00, "Cantidad_Stock": 2},
   {"Codigo": "pre004", "Producto": "PRESOSTATOS CONCEPT", "Precio_Cliente": 10593.00, "Precio_Tecnico": 8415.00, "Cantidad_Stock": 2},
   {"Codigo": "rel5", "Producto": "RELAY PROTECTOR EMBRACO FF12BK 1/3 HP", "Precio_Cliente": 25650.00, "Precio_Tecnico": 21330.00, "Cantidad_Stock": 2},
