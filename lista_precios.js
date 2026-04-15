@@ -370,7 +370,7 @@
   {"Codigo": "rod021", "Producto": "RODAMIENTO  L/POLEO WH50", "Precio_Cliente": 19503.00, "Precio_Tecnico": 15642.00, "Cantidad_Stock": 0},
   {"Codigo": "rod8", "Producto": "RODAMIENTO 6206 CBR", "Precio_Cliente": 4200.00, "Precio_Tecnico": 3200.00, "Cantidad_Stock": 2},
   {"Codigo": "rod1", "Producto": "RODAMIENTO CBR 6203", "Precio_Cliente": 2900.00, "Precio_Tecnico": 1900.00, "Cantidad_Stock": 6},
-  {"Codigo": "rod2", "Producto": "RODAMIENTO CBR 6204", "Precio_Cliente": 3465.00, "Precio_Tecnico": 2524.50, "Cantidad_Stock": 3},
+  {"Codigo": "rod2", "Producto": "RODAMIENTO CBR 6204", "Precio_Cliente": 3600.00, "Precio_Tecnico": 2600.00, "Cantidad_Stock": 8},
   {"Codigo": "rod4", "Producto": "RODAMIENTO CBR 6205", "Precio_Cliente": 4158.00, "Precio_Tecnico": 2970.00, "Cantidad_Stock": 5},
   {"Codigo": "1-25-5085", "Producto": "RODAMIENTO LADO OPUESTO FAMILY", "Precio_Cliente": 34353.00, "Precio_Tecnico": 24750.00, "Cantidad_Stock": 1},
   {"Codigo": "1-25-18265", "Producto": "RODAMIENTO LADO POLEA FAMILY", "Precio_Cliente": 38700.00, "Precio_Tecnico": 31500.00, "Cantidad_Stock": 9},
