@@ -297,7 +297,7 @@
   {"Codigo": "pat003", "Producto": "PATAS  LAVARROPA REGULABLE (BASE GRANDE)", "Precio_Cliente": 1980.00, "Precio_Tecnico": 1386.00, "Cantidad_Stock": 3},
   {"Codigo": "PAT004", "Producto": "PATAS LAVARROPA REFORZADAS", "Precio_Cliente": 2574.00, "Precio_Tecnico": 1485.00, "Cantidad_Stock": 22},
   {"Codigo": "pa1", "Producto": "PATAS LAVARROPAS ORIGINALES DREAN  PRECIO POR UNIDAD", "Precio_Cliente": 5346.00, "Precio_Tecnico": 4257.00, "Cantidad_Stock": 2},
-  {"Codigo": "per005", "Producto": "PERILLA  LAV DREAM NEXT", "Precio_Cliente": 9504.00, "Precio_Tecnico": 7722.00, "Cantidad_Stock": 2},
+  {"Codigo": "per005", "Producto": "PERILLA  LAV DREAN NEXT", "Precio_Cliente": 9600.00, "Precio_Tecnico": 7800.00, "Cantidad_Stock": 2},
   {"Codigo": "per003", "Producto": "PERILLA BLUE/GOLD", "Precio_Cliente": 5544.00, "Precio_Tecnico": 3465.00, "Cantidad_Stock": 2},
   {"Codigo": "TER009", "Producto": "PERILLA PARA TERMOSTATO", "Precio_Cliente": 2475.00, "Precio_Tecnico": 1683.00, "Cantidad_Stock": 2},
   {"Codigo": "pe021", "Producto": "PERILLA SECARROPA DREAN (AZULES)", "Precio_Cliente": 5200.00, "Precio_Tecnico": 3900.00, "Cantidad_Stock": 4},
