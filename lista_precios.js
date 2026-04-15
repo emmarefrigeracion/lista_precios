@@ -328,7 +328,7 @@
   {"Codigo": "porta", "Producto": "PORTA RODAMIENTO  DREAN GOLD ORIGINAL", "Precio_Cliente": 23500.00, "Precio_Tecnico": 20900.00, "Cantidad_Stock": 4},
   {"Codigo": "por1", "Producto": "PORTA RODAMIENTO  GOLD ACC", "Precio_Cliente": 12400.00, "Precio_Tecnico": 9500.00, "Cantidad_Stock": 9},
   {"Codigo": "pres001", "Producto": "PRECINTOS BLANCOS CHICOS", "Precio_Cliente": 3465.00, "Precio_Tecnico": 2970.00, "Cantidad_Stock": 0},
-  {"Codigo": "pre002", "Producto": "PRESOSTATO 4 CONTACTOS PALA ANCHA FACE 1", "Precio_Cliente": 14157.00, "Precio_Tecnico": 11781.00, "Cantidad_Stock": 3},
+  {"Codigo": "pre002", "Producto": "PRESOSTATO 4 CONTACTOS PALA ANCHA FACE 1", "Precio_Cliente": 14200.00, "Precio_Tecnico": 120000.00, "Cantidad_Stock": 2},
   {"Codigo": "pre005", "Producto": "PRESOSTATO ANALOGICO  DREAN NEXT", "Precio_Cliente": 21000.00, "Precio_Tecnico": 16900.00, "Cantidad_Stock": 5},
   {"Codigo": "pre003", "Producto": "PRESOSTATO FACE 2 FICHA DITINTAS", "Precio_Cliente": 18000.00, "Precio_Tecnico": 16700.00, "Cantidad_Stock": 4},
   {"Codigo": "pre004", "Producto": "PRESOSTATOS CONCEPT", "Precio_Cliente": 10500.00, "Precio_Tecnico": 8500.00, "Cantidad_Stock": 4},
