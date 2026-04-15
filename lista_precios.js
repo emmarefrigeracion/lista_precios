@@ -371,7 +371,7 @@
   {"Codigo": "rod2", "Producto": "RODAMIENTO CBR 6204", "Precio_Cliente": 3600.00, "Precio_Tecnico": 2600.00, "Cantidad_Stock": 8},
   {"Codigo": "rod4", "Producto": "RODAMIENTO CBR 6205", "Precio_Cliente": 4100.00, "Precio_Tecnico": 3000.00, "Cantidad_Stock": 5},
   {"Codigo": "1-25-5085", "Producto": "RODAMIENTO LADO OPUESTO FAMILY", "Precio_Cliente": 34353.00, "Precio_Tecnico": 24750.00, "Cantidad_Stock": 1},
-  {"Codigo": "1-25-18265", "Producto": "RODAMIENTO LADO POLEA FAMILY", "Precio_Cliente": 38700.00, "Precio_Tecnico": 31500.00, "Cantidad_Stock": 9},
+  {"Codigo": "lp", "Producto": "RODAMIENTO LADO POLEA FAMILY", "Precio_Cliente": 38700.00, "Precio_Tecnico": 31500.00, "Cantidad_Stock": 4},
   {"Codigo": "ntn207", "Producto": "RODAMIENTO NTN  6207  C3", "Precio_Cliente": 16700.00, "Precio_Tecnico": 14100.00, "Cantidad_Stock": 3},
   {"Codigo": "ntn6202", "Producto": "RODAMIENTO NTN 6202 ALTA VEL (ZZC3)", "Precio_Cliente": 5100.00, "Precio_Tecnico": 3600.00, "Cantidad_Stock": 4},
   {"Codigo": "rod002", "Producto": "RODAMIENTO NTN 6203", "Precio_Cliente": 4500.00, "Precio_Tecnico": 3700.00, "Cantidad_Stock": 8},
