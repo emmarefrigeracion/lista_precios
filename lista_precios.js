@@ -353,7 +353,7 @@
   {"Codigo": "retconc", "Producto": "RETEN CONCEPT ORIG 25/55/10", "Precio_Cliente": 8900.00, "Precio_Tecnico": 7500.00, "Cantidad_Stock": 4},
   {"Codigo": "1-38-11286", "Producto": "RETEN LG 35X66X10 LAVARROPA", "Precio_Cliente": 6435.00, "Precio_Tecnico": 4752.00, "Cantidad_Stock": 0},
   {"Codigo": "lg2", "Producto": "RETEN LG 37*76*10", "Precio_Cliente": 5900.00, "Precio_Tecnico": 3900.00, "Cantidad_Stock": 5},
-  {"Codigo": "patr6", "Producto": "RETEN PATRICK  8KG  47/88/10", "Precio_Cliente": 4900.00, "Precio_Tecnico": 3900.00, "Cantidad_Stock": 5},
+  {"Codigo": "patr6", "Producto": "RETEN PATRICK  8KG  47/88/10", "Precio_Cliente": 7200.00, "Precio_Tecnico": 6300.00, "Cantidad_Stock": 5},
   {"Codigo": "r37", "Producto": "RETEN PATRICK 37*66*10", "Precio_Cliente": 4851.00, "Precio_Tecnico": 3861.00, "Cantidad_Stock": 10},
   {"Codigo": "ret006", "Producto": "RETEN SAMSUNG 1904/1702/1804 35*65*10", "Precio_Cliente": 6435.00, "Precio_Tecnico": 4306.50, "Cantidad_Stock": 7},
   {"Codigo": "rob001", "Producto": "ROBINETE 1/2 RECTO R22", "Precio_Cliente": 23661.00, "Precio_Tecnico": 18711.00, "Cantidad_Stock": 2},
