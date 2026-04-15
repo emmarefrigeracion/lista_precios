@@ -390,7 +390,7 @@
   {"Codigo": "sen4", "Producto": "SENSOR AIRE SPLIT PRECIO POR JUEGO", "Precio_Cliente": 24750.00, "Precio_Tecnico": 21483.00, "Cantidad_Stock": 0},
   {"Codigo": "sen009", "Producto": "SENSOR DE RESISTENCIA GOLD", "Precio_Cliente": 8910.00, "Precio_Tecnico": 6930.00, "Cantidad_Stock": 0},
   {"Codigo": "sen010", "Producto": "SENSOR GENERICO 5K DOS CONTACTOS  HELADERA", "Precio_Cliente": 11088.00, "Precio_Tecnico": 8415.00, "Cantidad_Stock": 6},
-  {"Codigo": "sen002", "Producto": "SENSOR HALL LG (LAVARROPA) 2001", "Precio_Cliente": 23661.00, "Precio_Tecnico": 19008.00, "Cantidad_Stock": 0},
+  {"Codigo": "sen002", "Producto": "SENSOR HALL LG (LAVARROPA) 2001", "Precio_Cliente": 26500.00, "Precio_Tecnico": 19100.00, "Cantidad_Stock": 4},
   {"Codigo": "sen001", "Producto": "SENSOR HALL LG (LAVARROPA) 2002", "Precio_Cliente": 15345.00, "Precio_Tecnico": 13266.00, "Cantidad_Stock": 0},
   {"Codigo": "sen003", "Producto": "SENSOR TERMISTOR 10K", "Precio_Cliente": 13860.00, "Precio_Tecnico": 9090.00, "Cantidad_Stock": 10},
   {"Codigo": "sen25", "Producto": "SENSOR TERMISTOR 2.7K", "Precio_Cliente": 12150.00, "Precio_Tecnico": 8730.00, "Cantidad_Stock": 0},
