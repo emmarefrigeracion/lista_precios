@@ -344,7 +344,7 @@
   {"Codigo": "resorte001", "Producto": "RESORTE LAVARROPA 8 KG", "Precio_Cliente": 9009.00, "Precio_Tecnico": 6920.10, "Cantidad_Stock": 0},
   {"Codigo": "ret005", "Producto": "RETEN  CONSUL   10625 (PARA RODAMIENTO 6006)", "Precio_Cliente": 5940.00, "Precio_Tecnico": 4455.00, "Cantidad_Stock": 4},
   {"Codigo": "1-34-052376", "Producto": "RETEN  PATRICK  6KG  37X66X12", "Precio_Cliente": 4200.00, "Precio_Tecnico": 3100.00, "Cantidad_Stock": 11},
-  {"Codigo": "1-34-052372", "Producto": "RETEN 21X40X10", "Precio_Cliente": 3200.00, "Precio_Tecnico": 2500.00, "Cantidad_Stock": 3},
+  {"Codigo": "1-34-052372", "Producto": "RETEN 21X40X10", "Precio_Cliente": 3200.00, "Precio_Tecnico": 2500.00, "Cantidad_Stock": 22},
   {"Codigo": "ret015", "Producto": "RETEN 25*50*10 VUPRE ESPAÑA", "Precio_Cliente": 0.00, "Precio_Tecnico": 0.00, "Cantidad_Stock": 6},
   {"Codigo": "1-34-0523106", "Producto": "RETEN 25X47X10", "Precio_Cliente": 2574.00, "Precio_Tecnico": 1683.00, "Cantidad_Stock": 9},
   {"Codigo": "retensav", "Producto": "RETEN 25X47X10 SAV", "Precio_Cliente": 2500.00, "Precio_Tecnico": 2000.00, "Cantidad_Stock": 25},
