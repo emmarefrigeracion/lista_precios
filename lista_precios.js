@@ -113,7 +113,7 @@
   {"Codigo": "tacsa", "Producto": "CINTA TACSA C/PEGAMENTO", "Precio_Cliente": 8500.00, "Precio_Tecnico": 7000.00, "Cantidad_Stock": 5},
   {"Codigo": "tspega", "Producto": "CINTA TACSA S/PEGAMENTO", "Precio_Cliente": 6700.00, "Precio_Tecnico": 5400.00, "Cantidad_Stock": 6},
   {"Codigo": "cob5", "Producto": "COBERTOR DE LIMPIEZA CHICO (2250-3000-4500)", "Precio_Cliente": 29000.00, "Precio_Tecnico": 25000.00, "Cantidad_Stock": 6},
-  {"Codigo": "cob1", "Producto": "COBERTOR DE LIMPIEZA P/ SPLIT GRANDE (4500-6000)", "Precio_Cliente": 32670.00, "Precio_Tecnico": 29300.00, "Cantidad_Stock": 3},
+  {"Codigo": "cob1", "Producto": "COBERTOR DE LIMPIEZA P/ SPLIT GRANDE (4500-6000)", "Precio_Cliente": 33000.00, "Precio_Tecnico": 29500.00, "Cantidad_Stock": 3},
   {"Codigo": "10-7-CURVA 1-1/", "Producto": "CODO CURVA COBRE 90° - 1\"1/2 SOLDAR", "Precio_Cliente": 4000.00, "Precio_Tecnico": 3000.00, "Cantidad_Stock": 3},
   {"Codigo": "10-7-180° 1-3/8", "Producto": "CODO CURVA COBRE 90° - 1\"3/8 SOLDAR", "Precio_Cliente": 3600.00, "Precio_Tecnico": 2700.00, "Cantidad_Stock": 3},
   {"Codigo": "10-7-472450", "Producto": "CODO CURVA COBRE 90° - 1-5/8\"  SOLDAR", "Precio_Cliente": 4455.00, "Precio_Tecnico": 3465.00, "Cantidad_Stock": 3},
