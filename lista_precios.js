@@ -321,7 +321,7 @@
   {"Codigo": "pla005", "Producto": "PLACACONCEPT C12- 5.05 ORIGINAL CON VISOR", "Precio_Cliente": 43461.00, "Precio_Tecnico": 38511.00, "Cantidad_Stock": 2},
   {"Codigo": "pla025", "Producto": "PLAQUETA CONSUL 600", "Precio_Cliente": 46332.00, "Precio_Tecnico": 35838.00, "Cantidad_Stock": 0},
   {"Codigo": "pol003", "Producto": "POLEA DREAN CONCEPT 5.05 12VIAS", "Precio_Cliente": 34650.00, "Precio_Tecnico": 24750.00, "Cantidad_Stock": 1},
-  {"Codigo": "fam009", "Producto": "POLEA MOTOR  FAMILY", "Precio_Cliente": 6732.00, "Precio_Tecnico": 5643.00, "Cantidad_Stock": 3},
+  {"Codigo": "fam009", "Producto": "POLEA MOTOR  FAMILY", "Precio_Cliente": 7500.00, "Precio_Tecnico": 6200.00, "Cantidad_Stock": 3},
   {"Codigo": "pol004", "Producto": "POLEA MOTOR GAFA", "Precio_Cliente": 17721.00, "Precio_Tecnico": 14553.00, "Cantidad_Stock": 1},
   {"Codigo": "pol002", "Producto": "POLEA SEMIAUTOMATICO CON ESPINA (CHIQUITA)", "Precio_Cliente": 4257.00, "Precio_Tecnico": 2475.00, "Cantidad_Stock": 0},
   {"Codigo": "pol006", "Producto": "POLEAN DREAN CONCEPT 7 VIAS", "Precio_Cliente": 34650.00, "Precio_Tecnico": 24750.00, "Cantidad_Stock": 1},
