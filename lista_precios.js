@@ -351,7 +351,7 @@
   {"Codigo": "1-34-1026227", "Producto": "RETEN 30X52X10", "Precio_Cliente": 3300.00, "Precio_Tecnico": 2800.00, "Cantidad_Stock": 9},
   {"Codigo": "ret001", "Producto": "RETEN 30X64X17 CONSUL", "Precio_Cliente": 6100.00, "Precio_Tecnico": 4500.00, "Cantidad_Stock": 0},
   {"Codigo": "ret6", "Producto": "RETEN 47*88*10 SAV", "Precio_Cliente": 7200.00, "Precio_Tecnico": 6300.00, "Cantidad_Stock": 4},
-  {"Codigo": "retconc", "Producto": "RETEN CONCEPT ORIG 25/55/10", "Precio_Cliente": 8730.00, "Precio_Tecnico": 7470.00, "Cantidad_Stock": 2},
+  {"Codigo": "retconc", "Producto": "RETEN CONCEPT ORIG 25/55/10", "Precio_Cliente": 8900.00, "Precio_Tecnico": 7500.00, "Cantidad_Stock": 4},
   {"Codigo": "1-38-11286", "Producto": "RETEN LG 35X66X10 LAVARROPA", "Precio_Cliente": 6435.00, "Precio_Tecnico": 4752.00, "Cantidad_Stock": 1},
   {"Codigo": "lg2", "Producto": "RETEN LG 37*76*10", "Precio_Cliente": 5346.00, "Precio_Tecnico": 3861.00, "Cantidad_Stock": 0},
   {"Codigo": "patr6", "Producto": "RETEN PATRICK  8KG  47/88/10", "Precio_Cliente": 4851.00, "Precio_Tecnico": 3762.00, "Cantidad_Stock": 5},
