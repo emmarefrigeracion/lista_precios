@@ -472,7 +472,7 @@
   {"Codigo": "tim020", "Producto": "TIMER NO FROST ORIGINAL", "Precio_Cliente": 23760.00, "Precio_Tecnico": 19701.00, "Cantidad_Stock": 1},
   {"Codigo": "tim19", "Producto": "TIMER PROGRAMABLE  NO FROST UNIVERSAL", "Precio_Cliente": 19701.00, "Precio_Tecnico": 15345.00, "Cantidad_Stock": 1},
   {"Codigo": "tir001", "Producto": "TIRADOR AURORA  ELECTROLUX EW", "Precio_Cliente": 8900.00, "Precio_Tecnico": 6200.00, "Cantidad_Stock": 2},
-  {"Codigo": "tir002", "Producto": "TIRADOR AURORA/DREAN", "Precio_Cliente": 5346.00, "Precio_Tecnico": 3762.00, "Cantidad_Stock": 2},
+  {"Codigo": "tir002", "Producto": "TIRADOR AURORA/DREAN", "Precio_Cliente": 5900.00, "Precio_Tecnico": 4900.00, "Cantidad_Stock": 4},
   {"Codigo": "tir003", "Producto": "TIRADOR DREAN 166 COMPLETO", "Precio_Cliente": 7600.00, "Precio_Tecnico": 6100.00, "Cantidad_Stock": 3},
   {"Codigo": "tir015", "Producto": "TIRADOR LAVARROPA COVENTRY", "Precio_Cliente": 9900.00, "Precio_Tecnico": 7500.00, "Cantidad_Stock": 1},
   {"Codigo": "tir006", "Producto": "TIRADOR PUERTA SAMSUNG (MANIJA)", "Precio_Cliente": 5445.00, "Precio_Tecnico": 3861.00, "Cantidad_Stock": 2},
