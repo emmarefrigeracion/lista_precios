@@ -331,7 +331,7 @@
   {"Codigo": "pre002", "Producto": "PRESOSTATO 4 CONTACTOS PALA ANCHA FACE 1", "Precio_Cliente": 14157.00, "Precio_Tecnico": 11781.00, "Cantidad_Stock": 3},
   {"Codigo": "pre005", "Producto": "PRESOSTATO ANALOGICO  DREAN NEXT", "Precio_Cliente": 21000.00, "Precio_Tecnico": 16900.00, "Cantidad_Stock": 5},
   {"Codigo": "pre003", "Producto": "PRESOSTATO FACE 2 FICHA DITINTAS", "Precio_Cliente": 22176.00, "Precio_Tecnico": 16632.00, "Cantidad_Stock": 2},
-  {"Codigo": "pre004", "Producto": "PRESOSTATOS CONCEPT", "Precio_Cliente": 10593.00, "Precio_Tecnico": 8415.00, "Cantidad_Stock": 2},
+  {"Codigo": "pre004", "Producto": "PRESOSTATOS CONCEPT", "Precio_Cliente": 10500.00, "Precio_Tecnico": 8500.00, "Cantidad_Stock": 4},
   {"Codigo": "rel5", "Producto": "RELAY PROTECTOR EMBRACO FF12BK 1/3 HP", "Precio_Cliente": 25650.00, "Precio_Tecnico": 21330.00, "Cantidad_Stock": 2},
   {"Codigo": "rel6", "Producto": "RELAY PROTECTOR EMBRACO FF8.5BK 1/4HP", "Precio_Cliente": 25650.00, "Precio_Tecnico": 21330.00, "Cantidad_Stock": 2},
   {"Codigo": "rel002", "Producto": "RELE EMBRACO C/ BOBINA", "Precio_Cliente": 6138.00, "Precio_Tecnico": 4851.00, "Cantidad_Stock": 0},
