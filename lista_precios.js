@@ -326,7 +326,7 @@
   {"Codigo": "pol002", "Producto": "POLEA SEMIAUTOMATICO CON ESPINA (CHIQUITA)", "Precio_Cliente": 4257.00, "Precio_Tecnico": 2475.00, "Cantidad_Stock": 0},
   {"Codigo": "pol006", "Producto": "POLEAN DREAN CONCEPT 7 VIAS", "Precio_Cliente": 34650.00, "Precio_Tecnico": 24750.00, "Cantidad_Stock": 1},
   {"Codigo": "porta", "Producto": "PORTA RODAMIENTO  DREAN GOLD ORIGINAL", "Precio_Cliente": 22860.00, "Precio_Tecnico": 20340.00, "Cantidad_Stock": 4},
-  {"Codigo": "por1", "Producto": "PORTA RODAMIENTO  GOLD ACC", "Precio_Cliente": 12400.00, "Precio_Tecnico": 9500.00, "Cantidad_Stock": 1},
+  {"Codigo": "por1", "Producto": "PORTA RODAMIENTO  GOLD ACC", "Precio_Cliente": 12400.00, "Precio_Tecnico": 9500.00, "Cantidad_Stock": 9},
   {"Codigo": "pres001", "Producto": "PRECINTOS BLANCOS CHICOS", "Precio_Cliente": 3465.00, "Precio_Tecnico": 2970.00, "Cantidad_Stock": 0},
   {"Codigo": "pre002", "Producto": "PRESOSTATO 4 CONTACTOS PALA ANCHA FACE 1", "Precio_Cliente": 14157.00, "Precio_Tecnico": 11781.00, "Cantidad_Stock": 3},
   {"Codigo": "pre005", "Producto": "PRESOSTATO ANALOGICO  DREAN NEXT", "Precio_Cliente": 20790.00, "Precio_Tecnico": 16830.00, "Cantidad_Stock": 4},
