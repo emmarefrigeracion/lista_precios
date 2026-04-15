@@ -174,7 +174,7 @@
   {"Codigo": "esp01", "Producto": "ESPUMA EXPANSIVA", "Precio_Cliente": 9108.00, "Precio_Tecnico": 8415.00, "Cantidad_Stock": 0},
   {"Codigo": "est001", "Producto": "ESTUFA ELECTRICA HORIZONTAL-VERTICAL", "Precio_Cliente": 21820.59, "Precio_Tecnico": 0.00, "Cantidad_Stock": 8},
   {"Codigo": "est002", "Producto": "ESTUFA INFRAROJA FIJA", "Precio_Cliente": 33053.13, "Precio_Tecnico": 0.00, "Cantidad_Stock": 1},
-  {"Codigo": "1-16-021113", "Producto": "FERODO CUADRADO CANDY-DREAN", "Precio_Cliente": 8167.50, "Precio_Tecnico": 6831.00, "Cantidad_Stock": 2},
+  {"Codigo": "fer5", "Producto": "FERODO CUADRADO CANDY-DREAN", "Precio_Cliente": 8300.00, "Precio_Tecnico": 6900.00, "Cantidad_Stock": 4},
   {"Codigo": "fil035", "Producto": "FILTRO  (NARANJA)  3/8", "Precio_Cliente": 31500.00, "Precio_Tecnico": 27900.00, "Cantidad_Stock": 4},
   {"Codigo": "fil010", "Producto": "FILTRO 1/4 HELADERA COMERCIAL (NARANJA)", "Precio_Cliente": 17200.00, "Precio_Tecnico": 14200.00, "Cantidad_Stock": 2},
   {"Codigo": "FIL001", "Producto": "FILTRO 10 GR S CHICOTE", "Precio_Cliente": 3100.00, "Precio_Tecnico": 2500.00, "Cantidad_Stock": 10},
