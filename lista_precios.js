@@ -165,7 +165,7 @@
   {"Codigo": "rod011", "Producto": "DODAMIENTO SKF 6203", "Precio_Cliente": 5544.00, "Precio_Tecnico": 4405.50, "Cantidad_Stock": 5},
   {"Codigo": "d2", "Producto": "DUCTO SALIDA DE AIRE PORTATIL 5\" X 2 METROS", "Precio_Cliente": 23760.00, "Precio_Tecnico": 19305.00, "Cantidad_Stock": 0},
   {"Codigo": "ele5", "Producto": "ELECTROVALVULA 1 VIA 180º /90º", "Precio_Cliente": 11880.00, "Precio_Tecnico": 8613.00, "Cantidad_Stock": 5},
-  {"Codigo": "1-2-020703", "Producto": "ELECTROVALVULA 2 VIAS 180º", "Precio_Cliente": 16204.32, "Precio_Tecnico": 13442.22, "Cantidad_Stock": 2},
+  {"Codigo": "1-2-020703", "Producto": "ELECTROVALVULA 2 VIAS 180º", "Precio_Cliente": 16200.00, "Precio_Tecnico": 13500.00, "Cantidad_Stock": 2},
   {"Codigo": "1-2-2760013", "Producto": "ELECTROVALVULA 2 VIAS 90º", "Precio_Cliente": 16204.32, "Precio_Tecnico": 13442.22, "Cantidad_Stock": 2},
   {"Codigo": "ele002", "Producto": "ELECTROVALVULA FICHA  BLUE EMICOL3", "Precio_Cliente": 17820.00, "Precio_Tecnico": 14850.00, "Cantidad_Stock": 2},
   {"Codigo": "ele005", "Producto": "ELECTROVALVULA FICHA DREAN BLUE ORIGINAL", "Precio_Cliente": 19800.00, "Precio_Tecnico": 16731.00, "Cantidad_Stock": 8},
