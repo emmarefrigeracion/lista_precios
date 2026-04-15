@@ -475,7 +475,7 @@
   {"Codigo": "tir002", "Producto": "TIRADOR AURORA/DREAN", "Precio_Cliente": 5900.00, "Precio_Tecnico": 4900.00, "Cantidad_Stock": 4},
   {"Codigo": "tir003", "Producto": "TIRADOR DREAN 166 COMPLETO", "Precio_Cliente": 7600.00, "Precio_Tecnico": 6100.00, "Cantidad_Stock": 3},
   {"Codigo": "tir015", "Producto": "TIRADOR LAVARROPA COVENTRY", "Precio_Cliente": 9900.00, "Precio_Tecnico": 7500.00, "Cantidad_Stock": 1},
-  {"Codigo": "tir006", "Producto": "TIRADOR PUERTA SAMSUNG (MANIJA)", "Precio_Cliente": 5445.00, "Precio_Tecnico": 3861.00, "Cantidad_Stock": 2},
+  {"Codigo": "tir006", "Producto": "TIRADOR PUERTA SAMSUNG (MANIJA)", "Precio_Cliente": 5900.00, "Precio_Tecnico": 4500.00, "Cantidad_Stock": 2},
   {"Codigo": "tor001", "Producto": "TORNILLO SOPORTE DREN BLUE 6,6-7,10-8,12", "Precio_Cliente": 1584.00, "Precio_Tecnico": 990.00, "Cantidad_Stock": 29},
   {"Codigo": "tor10", "Producto": "TORNILLO T1 AUTOPERFORANTE", "Precio_Cliente": 44.55, "Precio_Tecnico": 36.63, "Cantidad_Stock": 1},
   {"Codigo": "tor005", "Producto": "TORNILLOS BLUE  ORIGINALES", "Precio_Cliente": 2475.00, "Precio_Tecnico": 1485.00, "Cantidad_Stock": 14},
