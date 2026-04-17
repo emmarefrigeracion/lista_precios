@@ -417,7 +417,7 @@
   {"Codigo": "eje015", "Producto": "SOPORTE LONGVIE", "Precio_Cliente": 143748.00, "Precio_Tecnico": 136125.00, "Cantidad_Stock": 1},
   {"Codigo": "eje021", "Producto": "SOPORTE PATRICK LPK 6/7 KG (CONICO O RECTO)", "Precio_Cliente": 48411.00, "Precio_Tecnico": 42372.00, "Cantidad_Stock": 5},
   {"Codigo": "eje22", "Producto": "SOPORTE PATRICK LPK 8 KG", "Precio_Cliente": 29403.00, "Precio_Tecnico": 43857.00, "Cantidad_Stock": 2},
-  {"Codigo": "sam008", "Producto": "SOPORTE SAMSUNG CARA PLANA  ROD 05/06", "Precio_Cliente": 50193.00, "Precio_Tecnico": 41679.00, "Cantidad_Stock": 2},
+  {"Codigo": "sam008", "Producto": "SOPORTE SAMSUNG CARA PLANA  ROD 05/06", "Precio_Cliente": 51000.00, "Precio_Tecnico": 41800.00, "Cantidad_Stock": 2},
   {"Codigo": "saminv", "Producto": "SOPORTE SAMSUNG INVERTER", "Precio_Cliente": 49005.00, "Precio_Tecnico": 38610.00, "Cantidad_Stock": 1},
   {"Codigo": "taco1", "Producto": "TACO DE GOMA ANTIBRIVACION AIRES X 4", "Precio_Cliente": 5445.00, "Precio_Tecnico": 3960.00, "Cantidad_Stock": 0},
   {"Codigo": "taco6", "Producto": "TACOS DEL 6 PARA BLOCK", "Precio_Cliente": 31.68, "Precio_Tecnico": 27.72, "Cantidad_Stock": 100},
