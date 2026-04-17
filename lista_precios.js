@@ -340,6 +340,7 @@
   {"Codigo": "res005", "Producto": "RESISTENCIA DREAN BLUE/NEXT C/SENSOR", "Precio_Cliente": 32769.00, "Precio_Tecnico": 28215.00, "Cantidad_Stock": 0},
   {"Codigo": "1-40-1025054", "Producto": "RESISTENCIA DREAN EXC. 166/169", "Precio_Cliente": 23760.00, "Precio_Tecnico": 19800.00, "Cantidad_Stock": 2},
   {"Codigo": "reshel", "Producto": "RESISTNCIA  HEL  BAMBI", "Precio_Cliente": 85635.00, "Precio_Tecnico": 78061.50, "Cantidad_Stock": 0},
+  {"Codigo": "res6", "Producto": "RESORTE EMBRAGUE  DE LAVARROPA CONCEPT", "Precio_Cliente": 0.00, "Precio_Tecnico": 0.00, "Cantidad_Stock": 0},
   {"Codigo": "resorte003", "Producto": "RESORTE LAVARROPA 6-7 KG", "Precio_Cliente": 10900.00, "Precio_Tecnico": 8200.00, "Cantidad_Stock": 0},
   {"Codigo": "resorte001", "Producto": "RESORTE LAVARROPA 8 KG", "Precio_Cliente": 9009.00, "Precio_Tecnico": 6920.10, "Cantidad_Stock": 0},
   {"Codigo": "ret005", "Producto": "RETEN  CONSUL   10625 (PARA RODAMIENTO 6006)", "Precio_Cliente": 5940.00, "Precio_Tecnico": 4455.00, "Cantidad_Stock": 4},
