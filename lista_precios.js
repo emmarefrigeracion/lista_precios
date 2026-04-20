@@ -115,7 +115,7 @@
   {"Codigo": "tspega", "Producto": "CINTA TACSA S/PEGAMENTO", "Precio_Cliente": 6700.00, "Precio_Tecnico": 5400.00, "Cantidad_Stock": 6},
   {"Codigo": "cob5", "Producto": "COBERTOR DE LIMPIEZA CHICO (2250-3000-4500)", "Precio_Cliente": 29000.00, "Precio_Tecnico": 25000.00, "Cantidad_Stock": 6},
   {"Codigo": "cob1", "Producto": "COBERTOR DE LIMPIEZA P/ SPLIT GRANDE (4500-6000)", "Precio_Cliente": 33000.00, "Precio_Tecnico": 29500.00, "Cantidad_Stock": 3},
-  {"Codigo": "10-7-180° 1-3/8", "Producto": "CODO CURVA COBRE 90° - 1\"3/8 SOLDAR", "Precio_Cliente": 3600.00, "Precio_Tecnico": 2700.00, "Cantidad_Stock": 3},
+  {"Codigo": "c3", "Producto": "CODO CURVA COBRE 90° - 1\"3/8 SOLDAR", "Precio_Cliente": 3600.00, "Precio_Tecnico": 2700.00, "Cantidad_Stock": 3},
   {"Codigo": "c5", "Producto": "CODO CURVA COBRE 90° - 1-5/8\"  SOLDAR", "Precio_Cliente": 4500.00, "Precio_Tecnico": 3500.00, "Cantidad_Stock": 10},
   {"Codigo": "c90", "Producto": "CODO CURVA COBRE 90° 1/2 SOLDAR", "Precio_Cliente": 4000.00, "Precio_Tecnico": 3000.00, "Cantidad_Stock": 8},
   {"Codigo": "cod5", "Producto": "CODO ENTRADA CONVENTRY", "Precio_Cliente": 26000.00, "Precio_Tecnico": 20600.00, "Cantidad_Stock": 2},
