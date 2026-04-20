@@ -265,7 +265,7 @@
   {"Codigo": "mano2", "Producto": "MANO DE OBRA INSTALACION AA HASTA 3500 FRIGORIAS", "Precio_Cliente": 128700.00, "Precio_Tecnico": 0.00, "Cantidad_Stock": 100},
   {"Codigo": "mano1", "Producto": "MANO DE OBRA INSTALACION DE AA DE 4000 A 6000 FRIGORIAS", "Precio_Cliente": 168300.00, "Precio_Tecnico": 0.00, "Cantidad_Stock": 0},
   {"Codigo": "mano4", "Producto": "MANO DE OBRA MAS INSUMOS (HELADERA)", "Precio_Cliente": 168300.00, "Precio_Tecnico": 0.00, "Cantidad_Stock": 100},
-  {"Codigo": "m1", "Producto": "MARCO FUELLE DREAN GOLD", "Precio_Cliente": 6000.00, "Precio_Tecnico": 5000.00, "Cantidad_Stock": 0},
+  {"Codigo": "m1", "Producto": "MARCO FUELLE DREAN GOLD", "Precio_Cliente": 6000.00, "Precio_Tecnico": 5000.00, "Cantidad_Stock": 1},
   {"Codigo": "8-10-03000", "Producto": "MENSULA 52 CM", "Precio_Cliente": 21780.00, "Precio_Tecnico": 18810.00, "Cantidad_Stock": 8},
   {"Codigo": "men42", "Producto": "MENSULAS  42 CM", "Precio_Cliente": 15840.00, "Precio_Tecnico": 13365.00, "Cantidad_Stock": 3},
   {"Codigo": "men62", "Producto": "MENSULAS 62CM", "Precio_Cliente": 37620.00, "Precio_Tecnico": 31581.00, "Cantidad_Stock": 8},
