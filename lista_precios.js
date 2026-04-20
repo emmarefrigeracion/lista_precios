@@ -297,6 +297,7 @@
   {"Codigo": "pal8", "Producto": "PALANCA KOHINNOR MARRON/BLANCA", "Precio_Cliente": 6840.00, "Precio_Tecnico": 6210.00, "Cantidad_Stock": 0},
   {"Codigo": "pale002", "Producto": "PALETA FORZADOR 20-25 NARANJA", "Precio_Cliente": 10395.00, "Precio_Tecnico": 8415.00, "Cantidad_Stock": 2},
   {"Codigo": "pale001", "Producto": "PALETAS PARA FORZADOR 20 CM", "Precio_Cliente": 3564.00, "Precio_Tecnico": 3267.00, "Cantidad_Stock": 0},
+  {"Codigo": "P8", "Producto": "PALTE LAVARROPA CONCEPT", "Precio_Cliente": 10200.00, "Precio_Tecnico": 9900.00, "Cantidad_Stock": 3},
   {"Codigo": "pat003", "Producto": "PATAS  LAVARROPA REGULABLE (BASE GRANDE)", "Precio_Cliente": 1980.00, "Precio_Tecnico": 1386.00, "Cantidad_Stock": 3},
   {"Codigo": "PAT004", "Producto": "PATAS LAVARROPA REFORZADAS", "Precio_Cliente": 2574.00, "Precio_Tecnico": 1485.00, "Cantidad_Stock": 22},
   {"Codigo": "pa1", "Producto": "PATAS LAVARROPAS ORIGINALES DREAN  PRECIO POR UNIDAD", "Precio_Cliente": 5346.00, "Precio_Tecnico": 4257.00, "Cantidad_Stock": 2},
