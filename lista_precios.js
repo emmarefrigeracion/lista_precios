@@ -147,7 +147,7 @@
   {"Codigo": "COR008", "Producto": "CORREA JM LARGA SEMI AUTOM", "Precio_Cliente": 5841.00, "Precio_Tecnico": 4257.00, "Cantidad_Stock": 2},
   {"Codigo": "COR009", "Producto": "CORREA POLY 705", "Precio_Cliente": 13266.00, "Precio_Tecnico": 11286.00, "Cantidad_Stock": 2},
   {"Codigo": "cap002", "Producto": "CORTA CAPILAR", "Precio_Cliente": 10500.00, "Precio_Tecnico": 8200.00, "Cantidad_Stock": 2},
-  {"Codigo": "cor021", "Producto": "CORTADORA CAÑO MEDIANA", "Precio_Cliente": 20790.00, "Precio_Tecnico": 18018.00, "Cantidad_Stock": 2},
+  {"Codigo": "cor021", "Producto": "CORTADORA CAÑO MEDIANA", "Precio_Cliente": 18000.00, "Precio_Tecnico": 18000.00, "Cantidad_Stock": 1},
   {"Codigo": "COR002", "Producto": "CORTADORA CAÑO MINI", "Precio_Cliente": 13365.00, "Precio_Tecnico": 11583.00, "Cantidad_Stock": 2},
   {"Codigo": "cri002", "Producto": "CRISTAL DREAN BLUE", "Precio_Cliente": 24750.00, "Precio_Tecnico": 21087.00, "Cantidad_Stock": 2},
   {"Codigo": "cristal next", "Producto": "CRISTAL PUERTA NEXT", "Precio_Cliente": 40590.00, "Precio_Tecnico": 35640.00, "Cantidad_Stock": 4},
