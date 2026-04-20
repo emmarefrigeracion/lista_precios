@@ -230,6 +230,7 @@
   {"Codigo": "sw5", "Producto": "INTERRUPTOR DE SECARROPA CODINI (SWITCH)", "Precio_Cliente": 4500.00, "Precio_Tecnico": 3900.00, "Cantidad_Stock": 5},
   {"Codigo": "inter005", "Producto": "INTERRUPTOR KOHINOOR CON TUERCA", "Precio_Cliente": 6138.00, "Precio_Tecnico": 5049.00, "Cantidad_Stock": 0},
   {"Codigo": "in001", "Producto": "INTERRUPTOR LAVARROPA DREAN 4 CONTACTOS", "Precio_Cliente": 15570.00, "Precio_Tecnico": 13230.00, "Cantidad_Stock": 1},
+  {"Codigo": "jab2", "Producto": "JABONERA DREAN GOLD BLUE", "Precio_Cliente": 23000.00, "Precio_Tecnico": 18000.00, "Cantidad_Stock": 1},
   {"Codigo": "jab002", "Producto": "JABONERA MOVIL DREAN BLUE", "Precio_Cliente": 6138.00, "Precio_Tecnico": 4653.00, "Cantidad_Stock": 1},
   {"Codigo": "mang011", "Producto": "JGO. ,AMGUERA X 3 R-410", "Precio_Cliente": 39600.00, "Precio_Tecnico": 34254.00, "Cantidad_Stock": 0},
   {"Codigo": "mang010", "Producto": "JGO. DE MANGUERA X3 R-22", "Precio_Cliente": 16137.00, "Precio_Tecnico": 15147.00, "Cantidad_Stock": 0},
