@@ -167,7 +167,7 @@
   {"Codigo": "ele5", "Producto": "ELECTROVALVULA 1 VIA 180º /90º", "Precio_Cliente": 11880.00, "Precio_Tecnico": 8613.00, "Cantidad_Stock": 5},
   {"Codigo": "1-2-020703", "Producto": "ELECTROVALVULA 2 VIAS 180º", "Precio_Cliente": 16200.00, "Precio_Tecnico": 13500.00, "Cantidad_Stock": 1},
   {"Codigo": "1-2-2760013", "Producto": "ELECTROVALVULA 2 VIAS 90º", "Precio_Cliente": 16204.32, "Precio_Tecnico": 13442.22, "Cantidad_Stock": 2},
-  {"Codigo": "ele005", "Producto": "ELECTROVALVULA FICHA DREAN BLUE ORIGINAL", "Precio_Cliente": 19800.00, "Precio_Tecnico": 16731.00, "Cantidad_Stock": 8},
+  {"Codigo": "ele005", "Producto": "ELECTROVALVULA FICHA DREAN BLUE ORIGINAL", "Precio_Cliente": 19000.00, "Precio_Tecnico": 16900.00, "Cantidad_Stock": 5},
   {"Codigo": "eli020", "Producto": "ELICE 100MM (FORZADOR GAFA)", "Precio_Cliente": 7425.00, "Precio_Tecnico": 4950.00, "Cantidad_Stock": 2},
   {"Codigo": "tor014", "Producto": "EMBRAGUE GAFA 6-7 KG", "Precio_Cliente": 18315.00, "Precio_Tecnico": 16137.00, "Cantidad_Stock": 1},
   {"Codigo": "est001", "Producto": "ESTUFA ELECTRICA HORIZONTAL-VERTICAL", "Precio_Cliente": 21820.59, "Precio_Tecnico": 0.00, "Cantidad_Stock": 8},
