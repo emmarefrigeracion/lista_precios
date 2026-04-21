@@ -153,7 +153,7 @@
   {"Codigo": "cristal next", "Producto": "CRISTAL PUERTA NEXT /AURORA/BGH", "Precio_Cliente": 39900.00, "Precio_Tecnico": 34500.00, "Cantidad_Stock": 4},
   {"Codigo": "cuba02", "Producto": "CUBA 45/47 LITROS", "Precio_Cliente": 129000.00, "Precio_Tecnico": 107000.00, "Cantidad_Stock": 1},
   {"Codigo": "cuba03", "Producto": "CUBA 54 LITROS", "Precio_Cliente": 138000.00, "Precio_Tecnico": 125000.00, "Cantidad_Stock": 1},
-  {"Codigo": "cuba001", "Producto": "CUBA DREAN BLUE 40L", "Precio_Cliente": 133650.00, "Precio_Tecnico": 96525.00, "Cantidad_Stock": 0},
+  {"Codigo": "cuba001", "Producto": "CUBA DREAN BLUE 40L", "Precio_Cliente": 134000.00, "Precio_Tecnico": 96500.00, "Cantidad_Stock": 1},
   {"Codigo": "cuba010", "Producto": "CUBA NEXT  10KG", "Precio_Cliente": 176220.00, "Precio_Tecnico": 166320.00, "Cantidad_Stock": 0},
   {"Codigo": "cuñ002", "Producto": "CUÑA ESLABON DE LUJO", "Precio_Cliente": 6200.00, "Precio_Tecnico": 4700.00, "Cantidad_Stock": 4},
   {"Codigo": "cuñ001", "Producto": "CUÑA FIJACON CONCEPT", "Precio_Cliente": 6200.00, "Precio_Tecnico": 4700.00, "Cantidad_Stock": 4},
