@@ -200,7 +200,7 @@
   {"Codigo": "fue007", "Producto": "FUELLE MABE 8KG / PATRICK", "Precio_Cliente": 44300.00, "Precio_Tecnico": 41900.00, "Cantidad_Stock": 2},
   {"Codigo": "fue002", "Producto": "FUELLE NEXT \"ORIGINAL\"", "Precio_Cliente": 36100.00, "Precio_Tecnico": 30000.00, "Cantidad_Stock": 1},
   {"Codigo": "fue010", "Producto": "FUELLE ORIGINAL LONGVIE ORIGINAL 8 KG MODL8010", "Precio_Cliente": 35000.00, "Precio_Tecnico": 30000.00, "Cantidad_Stock": 1},
-  {"Codigo": "fue001", "Producto": "FUELLE SAMSUNG 1702-1304-1806 NO INVERTER", "Precio_Cliente": 36432.00, "Precio_Tecnico": 32472.00, "Cantidad_Stock": 2},
+  {"Codigo": "fue001", "Producto": "FUELLE SAMSUNG 1702-1304-1806 NO INVERTER", "Precio_Cliente": 36432.00, "Precio_Tecnico": 32472.00, "Cantidad_Stock": 0},
   {"Codigo": "fuebosh", "Producto": "FUELLR BOSH  CHICO", "Precio_Cliente": 28116.00, "Precio_Tecnico": 24750.00, "Cantidad_Stock": 0},
   {"Codigo": "fu001", "Producto": "FUSIBLE TERMICO", "Precio_Cliente": 8200.00, "Precio_Tecnico": 6200.00, "Cantidad_Stock": 2},
   {"Codigo": "5-2-R22NECT6.8", "Producto": "GARRAFA NECTON R 32 680 G.", "Precio_Cliente": 0.00, "Precio_Tecnico": 0.00, "Cantidad_Stock": 0},
