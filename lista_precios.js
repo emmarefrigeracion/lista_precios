@@ -195,7 +195,7 @@
   {"Codigo": "gold01", "Producto": "FUELLE  DREAN  GOLD", "Precio_Cliente": 43500.00, "Precio_Tecnico": 37600.00, "Cantidad_Stock": 2},
   {"Codigo": "fue008", "Producto": "FUELLE 6/7KG LPK MABE/PATRICK", "Precio_Cliente": 36531.00, "Precio_Tecnico": 32175.00, "Cantidad_Stock": 0},
   {"Codigo": "fue009", "Producto": "FUELLE 8KG MABE/PATRICK", "Precio_Cliente": 45837.00, "Precio_Tecnico": 40392.00, "Cantidad_Stock": 1},
-  {"Codigo": "fue004", "Producto": "FUELLE DREAN BLUE S/PICO", "Precio_Cliente": 27720.00, "Precio_Tecnico": 22700.00, "Cantidad_Stock": 6},
+  {"Codigo": "fue004", "Producto": "FUELLE DREAN BLUE S/PICO", "Precio_Cliente": 26000.00, "Precio_Tecnico": 23000.00, "Cantidad_Stock": 6},
   {"Codigo": "FUE005", "Producto": "FUELLE DREAN BLUE S/PICO   B/AZUL", "Precio_Cliente": 27720.00, "Precio_Tecnico": 23000.00, "Cantidad_Stock": 1},
   {"Codigo": "fue006", "Producto": "FUELLE LONGVIE MOD NUEVO", "Precio_Cliente": 31086.00, "Precio_Tecnico": 26730.00, "Cantidad_Stock": 1},
   {"Codigo": "fue007", "Producto": "FUELLE MABE OKG", "Precio_Cliente": 44253.00, "Precio_Tecnico": 41382.00, "Cantidad_Stock": 1},
