@@ -163,7 +163,6 @@
   {"Codigo": "res003", "Producto": "DOBLADOA RESORTE 1/2", "Precio_Cliente": 5544.00, "Precio_Tecnico": 4455.00, "Cantidad_Stock": 2},
   {"Codigo": "do001", "Producto": "DOBLADORA DE CAÑO 3 EN 1", "Precio_Cliente": 19701.00, "Precio_Tecnico": 15444.00, "Cantidad_Stock": 0},
   {"Codigo": "res004", "Producto": "DOBLADORA RESORTE 5/8", "Precio_Cliente": 6633.00, "Precio_Tecnico": 5742.00, "Cantidad_Stock": 1},
-  {"Codigo": "rod011", "Producto": "DODAMIENTO SKF 6203", "Precio_Cliente": 5544.00, "Precio_Tecnico": 4405.50, "Cantidad_Stock": 5},
   {"Codigo": "d2", "Producto": "DUCTO SALIDA DE AIRE PORTATIL 5\" X 2 METROS", "Precio_Cliente": 23760.00, "Precio_Tecnico": 19305.00, "Cantidad_Stock": 0},
   {"Codigo": "ele5", "Producto": "ELECTROVALVULA 1 VIA 180º /90º", "Precio_Cliente": 11880.00, "Precio_Tecnico": 8613.00, "Cantidad_Stock": 5},
   {"Codigo": "1-2-020703", "Producto": "ELECTROVALVULA 2 VIAS 180º", "Precio_Cliente": 16200.00, "Precio_Tecnico": 13500.00, "Cantidad_Stock": 1},
