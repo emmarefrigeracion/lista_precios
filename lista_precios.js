@@ -151,7 +151,7 @@
   {"Codigo": "COR002", "Producto": "CORTADORA CAÑO MINI", "Precio_Cliente": 10000.00, "Precio_Tecnico": 9900.00, "Cantidad_Stock": 1},
   {"Codigo": "cri002", "Producto": "CRISTAL DREAN BLUE", "Precio_Cliente": 24900.00, "Precio_Tecnico": 21100.00, "Cantidad_Stock": 4},
   {"Codigo": "cristal next", "Producto": "CRISTAL PUERTA NEXT /AURORA/BGH", "Precio_Cliente": 39900.00, "Precio_Tecnico": 34500.00, "Cantidad_Stock": 4},
-  {"Codigo": "cuba02", "Producto": "CUBA 45/47 LITROS", "Precio_Cliente": 128700.00, "Precio_Tecnico": 106920.00, "Cantidad_Stock": 1},
+  {"Codigo": "cuba02", "Producto": "CUBA 45/47 LITROS", "Precio_Cliente": 129000.00, "Precio_Tecnico": 107000.00, "Cantidad_Stock": 1},
   {"Codigo": "cuba03", "Producto": "CUBA 54 LITROS", "Precio_Cliente": 138000.00, "Precio_Tecnico": 125000.00, "Cantidad_Stock": 1},
   {"Codigo": "cuba001", "Producto": "CUBA DREAN BLUE 40L", "Precio_Cliente": 133650.00, "Precio_Tecnico": 96525.00, "Cantidad_Stock": 0},
   {"Codigo": "cuba010", "Producto": "CUBA NEXT  10KG", "Precio_Cliente": 176220.00, "Precio_Tecnico": 166320.00, "Cantidad_Stock": 0},
