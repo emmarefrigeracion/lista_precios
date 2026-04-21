@@ -197,7 +197,7 @@
   {"Codigo": "fue009", "Producto": "FUELLE 8KG MABE/PATRICK", "Precio_Cliente": 45837.00, "Precio_Tecnico": 40392.00, "Cantidad_Stock": 1},
   {"Codigo": "FUE005", "Producto": "FUELLE DREAN BLUE C/PICO", "Precio_Cliente": 26000.00, "Precio_Tecnico": 23000.00, "Cantidad_Stock": 1},
   {"Codigo": "fue004", "Producto": "FUELLE DREAN BLUE S/PICO", "Precio_Cliente": 26000.00, "Precio_Tecnico": 23000.00, "Cantidad_Stock": 6},
-  {"Codigo": "fue006", "Producto": "FUELLE LONGVIE MOD NUEVO", "Precio_Cliente": 31086.00, "Precio_Tecnico": 26730.00, "Cantidad_Stock": 1},
+  {"Codigo": "fue006", "Producto": "FUELLE LONGVIE MOD NUEVO", "Precio_Cliente": 29900.00, "Precio_Tecnico": 26800.00, "Cantidad_Stock": 2},
   {"Codigo": "fue007", "Producto": "FUELLE MABE 8KG", "Precio_Cliente": 44300.00, "Precio_Tecnico": 41900.00, "Cantidad_Stock": 2},
   {"Codigo": "fue002", "Producto": "FUELLE NEXT \"ORIGINAL\"", "Precio_Cliente": 36100.00, "Precio_Tecnico": 30000.00, "Cantidad_Stock": 1},
   {"Codigo": "fue010", "Producto": "FUELLE ORIGINAL LONGVIE ORIGINAL 8 KG MODL8010", "Precio_Cliente": 0.00, "Precio_Tecnico": 0.00, "Cantidad_Stock": 0},
