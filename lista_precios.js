@@ -444,7 +444,7 @@
   {"Codigo": "sec004", "Producto": "TENSOR SECARROPA MOD VIEJO CODINI", "Precio_Cliente": 2100.00, "Precio_Tecnico": 1300.00, "Cantidad_Stock": 7},
   {"Codigo": "ten002", "Producto": "TENSORES PARA LAVARROPA", "Precio_Cliente": 2178.00, "Precio_Tecnico": 1683.00, "Cantidad_Stock": 0},
   {"Codigo": "dis001", "Producto": "TERMICO 85º /89º PARA DISPENSER", "Precio_Cliente": 6435.00, "Precio_Tecnico": 5148.00, "Cantidad_Stock": 2},
-  {"Codigo": "t012", "Producto": "TERMICOS 1/4- 1/3", "Precio_Cliente": 4455.00, "Precio_Tecnico": 2970.00, "Cantidad_Stock": 7},
+  {"Codigo": "t012", "Producto": "TERMICOS 1/4- 1/3", "Precio_Cliente": 4500.00, "Precio_Tecnico": 3500.00, "Cantidad_Stock": 10},
   {"Codigo": "ter025", "Producto": "TERMO ACTUADOR CONCEPT", "Precio_Cliente": 14850.00, "Precio_Tecnico": 13068.00, "Cantidad_Stock": 3},
   {"Codigo": "ter022", "Producto": "TERMOSTATO  DUAL BOTELLERO", "Precio_Cliente": 16335.00, "Precio_Tecnico": 13365.00, "Cantidad_Stock": 0},
   {"Codigo": "ter005", "Producto": "TERMOSTATO 22872/2 BAMBI MEDIA CAÑA", "Precio_Cliente": 22572.00, "Precio_Tecnico": 17325.00, "Cantidad_Stock": 0},
