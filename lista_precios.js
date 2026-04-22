@@ -335,7 +335,7 @@
   {"Codigo": "pre004", "Producto": "PRESOSTATOS CONCEPT", "Precio_Cliente": 10500.00, "Precio_Tecnico": 8500.00, "Cantidad_Stock": 4},
   {"Codigo": "rel5", "Producto": "RELAY PROTECTOR EMBRACO FF12BK 1/3 HP", "Precio_Cliente": 25650.00, "Precio_Tecnico": 21330.00, "Cantidad_Stock": 2},
   {"Codigo": "rel6", "Producto": "RELAY PROTECTOR EMBRACO FF8.5BK 1/4HP", "Precio_Cliente": 25650.00, "Precio_Tecnico": 21330.00, "Cantidad_Stock": 2},
-  {"Codigo": "rel002", "Producto": "RELE EMBRACO C/ BOBINA", "Precio_Cliente": 6138.00, "Precio_Tecnico": 4851.00, "Cantidad_Stock": 0},
+  {"Codigo": "rel002", "Producto": "RELE EMBRACO C/ BOBIN ( EN CAJA ) 1/3-1/4", "Precio_Cliente": 26000.00, "Precio_Tecnico": 22000.00, "Cantidad_Stock": 6},
   {"Codigo": "rel003", "Producto": "RELE P/ HELADERA 4 CONTACTOS", "Precio_Cliente": 4158.00, "Precio_Tecnico": 3240.00, "Cantidad_Stock": 8},
   {"Codigo": "reshel01", "Producto": "RESISTENCIA  HEL  WHIRLPOOL WRM 39 /  W10741592", "Precio_Cliente": 42174.00, "Precio_Tecnico": 34155.00, "Cantidad_Stock": 0},
   {"Codigo": "res005", "Producto": "RESISTENCIA DREAN BLUE/NEXT C/SENSOR", "Precio_Cliente": 32769.00, "Precio_Tecnico": 28215.00, "Cantidad_Stock": 0},
