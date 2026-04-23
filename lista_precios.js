@@ -216,7 +216,7 @@
   {"Codigo": "r290", "Producto": "GAS R290 LATA 420G", "Precio_Cliente": 26000.00, "Precio_Tecnico": 21000.00, "Cantidad_Stock": 2},
   {"Codigo": "gasr32", "Producto": "GAS R32  680G", "Precio_Cliente": 29600.00, "Precio_Tecnico": 26600.00, "Cantidad_Stock": 4},
   {"Codigo": "gas009", "Producto": "GAS R404 ANTON 650GR", "Precio_Cliente": 25000.00, "Precio_Tecnico": 21000.00, "Cantidad_Stock": 4},
-  {"Codigo": "gas011", "Producto": "GAS R410 ANTON X 650GRMS S/PICO", "Precio_Cliente": 27621.00, "Precio_Tecnico": 24651.00, "Cantidad_Stock": 10},
+  {"Codigo": "gas011", "Producto": "GAS R410 ANTON X 650GRMS S/PICO", "Precio_Cliente": 28000.00, "Precio_Tecnico": 24700.00, "Cantidad_Stock": 4},
   {"Codigo": "009", "Producto": "GAS R410 X650GRC/PICO  NECTON", "Precio_Cliente": 28710.00, "Precio_Tecnico": 25740.00, "Cantidad_Stock": 1},
   {"Codigo": "gas021", "Producto": "GAS R600 ANTON", "Precio_Cliente": 14850.00, "Precio_Tecnico": 10791.00, "Cantidad_Stock": 8},
   {"Codigo": "gota", "Producto": "GOTITA PEGAMENTO", "Precio_Cliente": 2475.00, "Precio_Tecnico": 2227.50, "Cantidad_Stock": 5},
