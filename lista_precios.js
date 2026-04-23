@@ -213,7 +213,7 @@
   {"Codigo": "gas023", "Producto": "GAS R22 1KG FINLEY", "Precio_Cliente": 39000.00, "Precio_Tecnico": 36600.00, "Cantidad_Stock": 2},
   {"Codigo": "GAS007", "Producto": "GAS R22 X 1KG FREON", "Precio_Cliente": 45000.00, "Precio_Tecnico": 40000.00, "Cantidad_Stock": 0},
   {"Codigo": "gas010", "Producto": "GAS R22 X 1KG NECTON", "Precio_Cliente": 43000.00, "Precio_Tecnico": 38700.00, "Cantidad_Stock": 2},
-  {"Codigo": "r290", "Producto": "GAS R290 LATA 420G", "Precio_Cliente": 16200.00, "Precio_Tecnico": 12500.00, "Cantidad_Stock": 2},
+  {"Codigo": "r290", "Producto": "GAS R290 LATA 420G", "Precio_Cliente": 26000.00, "Precio_Tecnico": 21000.00, "Cantidad_Stock": 2},
   {"Codigo": "gasr32", "Producto": "GAS R32  680G", "Precio_Cliente": 29600.00, "Precio_Tecnico": 26600.00, "Cantidad_Stock": 4},
   {"Codigo": "gas009", "Producto": "GAS R404 ANTON 650GR", "Precio_Cliente": 22500.00, "Precio_Tecnico": 20300.00, "Cantidad_Stock": 3},
   {"Codigo": "gas011", "Producto": "GAS R410 ANTON X 650GRMS S/PICO", "Precio_Cliente": 27621.00, "Precio_Tecnico": 24651.00, "Cantidad_Stock": 10},
