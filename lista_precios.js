@@ -161,7 +161,7 @@
   {"Codigo": "dec003", "Producto": "DECAPANTE  (DILVER SOLDER) 114 GR.", "Precio_Cliente": 13500.00, "Precio_Tecnico": 11900.00, "Cantidad_Stock": 2},
   {"Codigo": "DEC001", "Producto": "DECAPANTE P/PLATA X 80G", "Precio_Cliente": 10350.00, "Precio_Tecnico": 8370.00, "Cantidad_Stock": 1},
   {"Codigo": "dec002", "Producto": "DECAPANTE P7 PLATA 50G1", "Precio_Cliente": 9200.00, "Precio_Tecnico": 7200.00, "Cantidad_Stock": 1},
-  {"Codigo": "res003", "Producto": "DOBLADOA RESORTE 1/2", "Precio_Cliente": 5544.00, "Precio_Tecnico": 4455.00, "Cantidad_Stock": 2},
+  {"Codigo": "res003", "Producto": "DOBLADOA RESORTE 1/2", "Precio_Cliente": 7000.00, "Precio_Tecnico": 5500.00, "Cantidad_Stock": 2},
   {"Codigo": "do001", "Producto": "DOBLADORA DE CAÑO 3 EN 1", "Precio_Cliente": 19701.00, "Precio_Tecnico": 15444.00, "Cantidad_Stock": 0},
   {"Codigo": "res004", "Producto": "DOBLADORA RESORTE 5/8", "Precio_Cliente": 6633.00, "Precio_Tecnico": 5742.00, "Cantidad_Stock": 1},
   {"Codigo": "d2", "Producto": "DUCTO SALIDA DE AIRE PORTATIL 5\" X 2 METROS", "Precio_Cliente": 23760.00, "Precio_Tecnico": 19305.00, "Cantidad_Stock": 0},
