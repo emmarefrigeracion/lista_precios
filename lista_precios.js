@@ -465,7 +465,7 @@
   {"Codigo": "ter1", "Producto": "TERMOSTATO NO FROST GAFA ( PARA HELADERA NO FROST CONVERTIDA A MECANICA)", "Precio_Cliente": 24354.00, "Precio_Tecnico": 20988.00, "Cantidad_Stock": 2},
   {"Codigo": "TER4", "Producto": "TERMOSTATO P PATRICK  (ORIGINAL)", "Precio_Cliente": 31000.00, "Precio_Tecnico": 28200.00, "Cantidad_Stock": 1},
   {"Codigo": "tf7hel", "Producto": "TERMOSTATO P/  CONGELADOR  TF7", "Precio_Cliente": 18513.00, "Precio_Tecnico": 15642.00, "Cantidad_Stock": 3},
-  {"Codigo": "TER011", "Producto": "TERMOSTATO P/ FREEZER ROBERTSHAW", "Precio_Cliente": 26631.00, "Precio_Tecnico": 22275.00, "Cantidad_Stock": 1},
+  {"Codigo": "TER011", "Producto": "TERMOSTATO P/ FREEZER ROBERTSHAW", "Precio_Cliente": 26631.00, "Precio_Tecnico": 22275.00, "Cantidad_Stock": 0},
   {"Codigo": "ter25", "Producto": "TERMOSTATO PARA EXHIBIDORA GOOD LINE", "Precio_Cliente": 21500.00, "Precio_Tecnico": 19500.00, "Cantidad_Stock": 3},
   {"Codigo": "t8", "Producto": "TERMOSTATO PARA HORNO ELCTRICO 3/4 GIRO.", "Precio_Cliente": 10900.00, "Precio_Tecnico": 8900.00, "Cantidad_Stock": 4},
   {"Codigo": "t7", "Producto": "TERMOSTATO PARA HORNO ELECTRICO 1/2 GIRO 250°", "Precio_Cliente": 7000.00, "Precio_Tecnico": 5900.00, "Cantidad_Stock": 6},
