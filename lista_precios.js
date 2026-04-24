@@ -83,7 +83,7 @@
   {"Codigo": "caj009", "Producto": "CAJA PREINSTALACION AIRE", "Precio_Cliente": 11500.00, "Precio_Tecnico": 7500.00, "Cantidad_Stock": 15},
   {"Codigo": "cal001", "Producto": "CALOVENTOR SERENA (BLANCO)", "Precio_Cliente": 25000.00, "Precio_Tecnico": 20000.00, "Cantidad_Stock": 5},
   {"Codigo": "cal002", "Producto": "CALOVENTOR SERENA (NEGRO)", "Precio_Cliente": 17000.00, "Precio_Tecnico": 0.00, "Cantidad_Stock": 4},
-  {"Codigo": "4-3-4558", "Producto": "CAÑO COBRE  1/2  POR METRO", "Precio_Cliente": 13761.00, "Precio_Tecnico": 11385.00, "Cantidad_Stock": 111},
+  {"Codigo": "4-3-4558", "Producto": "CAÑO COBRE  1/2  POR METRO", "Precio_Cliente": 14000.00, "Precio_Tecnico": 11400.00, "Cantidad_Stock": 111},
   {"Codigo": "4-3-4514", "Producto": "CAÑO COBRE  1/4 POR METRO", "Precio_Cliente": 6600.00, "Precio_Tecnico": 5700.00, "Cantidad_Stock": 130},
   {"Codigo": "4-3-4538", "Producto": "CAÑO COBRE 3/8 POR METRO", "Precio_Cliente": 10791.00, "Precio_Tecnico": 9009.00, "Cantidad_Stock": 131},
   {"Codigo": "4-3-ROLLO5/8", "Producto": "CAÑO COBRE 5/8  POR METRO", "Precio_Cliente": 16830.00, "Precio_Tecnico": 14602.50, "Cantidad_Stock": 1012},
