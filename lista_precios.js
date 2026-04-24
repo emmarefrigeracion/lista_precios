@@ -486,7 +486,7 @@
   {"Codigo": "tor10", "Producto": "TORNILLO T1 AUTOPERFORANTE", "Precio_Cliente": 44.55, "Precio_Tecnico": 36.63, "Cantidad_Stock": 0},
   {"Codigo": "tor005", "Producto": "TORNILLOS BLUE  ORIGINALES", "Precio_Cliente": 2475.00, "Precio_Tecnico": 1485.00, "Cantidad_Stock": 14},
   {"Codigo": "tor002", "Producto": "TORNILLOS C/  TUERCAS  DREAN 166  X UNIDAD", "Precio_Cliente": 2970.00, "Precio_Tecnico": 1980.00, "Cantidad_Stock": 4},
-  {"Codigo": "tor003", "Producto": "TORNILLOS GRANDES ACERO SAMSUNG", "Precio_Cliente": 2871.00, "Precio_Tecnico": 1980.00, "Cantidad_Stock": 30},
+  {"Codigo": "tor003", "Producto": "TORNILLOS GRANDES ACERO SAMSUNG", "Precio_Cliente": 2900.00, "Precio_Tecnico": 2000.00, "Cantidad_Stock": 30},
   {"Codigo": "tor004", "Producto": "TORNILLOS PARA GOLD X 6 UNI", "Precio_Cliente": 9405.00, "Precio_Tecnico": 5000.00, "Cantidad_Stock": 19},
   {"Codigo": "tor9", "Producto": "TORNILLOS T1 AUTOPERFORANTE  PUNTA GAUJA", "Precio_Cliente": 39.60, "Precio_Tecnico": 34.65, "Cantidad_Stock": 200},
   {"Codigo": "ter015", "Producto": "TORQUE ACTUADOR DE FRENO WHIRLPOOL WWI13", "Precio_Cliente": 29007.00, "Precio_Tecnico": 25740.00, "Cantidad_Stock": 1},
