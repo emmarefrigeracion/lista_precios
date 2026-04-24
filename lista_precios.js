@@ -158,7 +158,7 @@
   {"Codigo": "cue5", "Producto": "CUENTA LITROS LAVAVJILLAS", "Precio_Cliente": 49700.00, "Precio_Tecnico": 44500.00, "Cantidad_Stock": 1},
   {"Codigo": "cuñ002", "Producto": "CUÑA ESLABON DE LUJO", "Precio_Cliente": 6200.00, "Precio_Tecnico": 4700.00, "Cantidad_Stock": 4},
   {"Codigo": "cuñ001", "Producto": "CUÑA FIJACON CONCEPT", "Precio_Cliente": 6200.00, "Precio_Tecnico": 4700.00, "Cantidad_Stock": 4},
-  {"Codigo": "dec003", "Producto": "DECAPANTE  (DILVER SOLDER) 114 GR.", "Precio_Cliente": 13068.00, "Precio_Tecnico": 11484.00, "Cantidad_Stock": 2},
+  {"Codigo": "dec003", "Producto": "DECAPANTE  (DILVER SOLDER) 114 GR.", "Precio_Cliente": 13500.00, "Precio_Tecnico": 11900.00, "Cantidad_Stock": 2},
   {"Codigo": "DEC001", "Producto": "DECAPANTE P/PLATA X 80G", "Precio_Cliente": 10350.00, "Precio_Tecnico": 8370.00, "Cantidad_Stock": 1},
   {"Codigo": "dec002", "Producto": "DECAPANTE P7 PLATA 50G1", "Precio_Cliente": 9200.00, "Precio_Tecnico": 7200.00, "Cantidad_Stock": 1},
   {"Codigo": "res003", "Producto": "DOBLADOA RESORTE 1/2", "Precio_Cliente": 5544.00, "Precio_Tecnico": 4455.00, "Cantidad_Stock": 2},
