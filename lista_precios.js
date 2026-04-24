@@ -182,6 +182,7 @@
   {"Codigo": "4-10-014823", "Producto": "FILTRO 15GRS. C/CHICOTE", "Precio_Cliente": 0.00, "Precio_Tecnico": 0.00, "Cantidad_Stock": 0},
   {"Codigo": "4-10-014824", "Producto": "FILTRO 20 GRM  C/CHICOTE", "Precio_Cliente": 4257.00, "Precio_Tecnico": 3762.00, "Cantidad_Stock": 0},
   {"Codigo": "fil020", "Producto": "FILTRO 20G  S/ CHICOTE", "Precio_Cliente": 4200.00, "Precio_Tecnico": 3000.00, "Cantidad_Stock": 8},
+  {"Codigo": "fil9", "Producto": "FILTRO 3/8 A ROSCA", "Precio_Cliente": 0.00, "Precio_Tecnico": 0.00, "Cantidad_Stock": 0},
   {"Codigo": "4-10-070990", "Producto": "FILTRO 30 GRS S/CHICOTE", "Precio_Cliente": 6200.00, "Precio_Tecnico": 4900.00, "Cantidad_Stock": 10},
   {"Codigo": "fil1", "Producto": "FILTRO 30GRM CON CHICOTE", "Precio_Cliente": 7200.00, "Precio_Tecnico": 5900.00, "Cantidad_Stock": 2},
   {"Codigo": "filtro002", "Producto": "FILTRO DE BOMBA LAVARROPA DREAN 166 LARGO", "Precio_Cliente": 17000.00, "Precio_Tecnico": 12900.00, "Cantidad_Stock": 4},
