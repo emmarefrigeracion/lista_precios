@@ -482,7 +482,7 @@
   {"Codigo": "tir015", "Producto": "TIRADOR LAVARROPA COVENTRY", "Precio_Cliente": 9900.00, "Precio_Tecnico": 7500.00, "Cantidad_Stock": 1},
   {"Codigo": "tir1", "Producto": "TIRADOR LAVARROPA DREAN BLUE/CANDY", "Precio_Cliente": 4600.00, "Precio_Tecnico": 3400.00, "Cantidad_Stock": 4},
   {"Codigo": "tir006", "Producto": "TIRADOR PUERTA SAMSUNG (MANIJA)", "Precio_Cliente": 5900.00, "Precio_Tecnico": 4500.00, "Cantidad_Stock": 2},
-  {"Codigo": "tor001", "Producto": "TORNILLO SOPORTE DREN BLUE 6,6-7,10-8,12", "Precio_Cliente": 1584.00, "Precio_Tecnico": 990.00, "Cantidad_Stock": 29},
+  {"Codigo": "tor001", "Producto": "TORNILLO SOPORTE DREN BLUE 6,6-7,10-8,12", "Precio_Cliente": 1600.00, "Precio_Tecnico": 1000.00, "Cantidad_Stock": 29},
   {"Codigo": "tor10", "Producto": "TORNILLO T1 AUTOPERFORANTE", "Precio_Cliente": 44.55, "Precio_Tecnico": 36.63, "Cantidad_Stock": 0},
   {"Codigo": "tor005", "Producto": "TORNILLOS BLUE  ORIGINALES", "Precio_Cliente": 2600.00, "Precio_Tecnico": 1500.00, "Cantidad_Stock": 14},
   {"Codigo": "tor002", "Producto": "TORNILLOS C/  TUERCAS  DREAN 166  X UNIDAD", "Precio_Cliente": 2970.00, "Precio_Tecnico": 1980.00, "Cantidad_Stock": 4},
