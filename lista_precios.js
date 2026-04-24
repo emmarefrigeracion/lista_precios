@@ -163,7 +163,7 @@
   {"Codigo": "dec002", "Producto": "DECAPANTE P7 PLATA 50G1", "Precio_Cliente": 9200.00, "Precio_Tecnico": 7200.00, "Cantidad_Stock": 1},
   {"Codigo": "res003", "Producto": "DOBLADOA RESORTE 1/2", "Precio_Cliente": 7000.00, "Precio_Tecnico": 5500.00, "Cantidad_Stock": 2},
   {"Codigo": "do001", "Producto": "DOBLADORA DE CAÑO 3 EN 1", "Precio_Cliente": 21000.00, "Precio_Tecnico": 16000.00, "Cantidad_Stock": 0},
-  {"Codigo": "res004", "Producto": "DOBLADORA RESORTE 5/8", "Precio_Cliente": 6633.00, "Precio_Tecnico": 5742.00, "Cantidad_Stock": 1},
+  {"Codigo": "res004", "Producto": "DOBLADORA RESORTE 5/8", "Precio_Cliente": 6900.00, "Precio_Tecnico": 5900.00, "Cantidad_Stock": 1},
   {"Codigo": "d2", "Producto": "DUCTO SALIDA DE AIRE PORTATIL 5\" X 2 METROS", "Precio_Cliente": 23760.00, "Precio_Tecnico": 19305.00, "Cantidad_Stock": 0},
   {"Codigo": "ele5", "Producto": "ELECTROVALVULA 1 VIA 180º /90º", "Precio_Cliente": 11900.00, "Precio_Tecnico": 8700.00, "Cantidad_Stock": 9},
   {"Codigo": "ele3", "Producto": "ELECTROVALVULA 2 VIAS 180º", "Precio_Cliente": 16200.00, "Precio_Tecnico": 13500.00, "Cantidad_Stock": 4},
