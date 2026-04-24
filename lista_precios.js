@@ -456,7 +456,7 @@
   {"Codigo": "TER002", "Producto": "TERMOSTATO A2000 -35+35 BULBO LARGO", "Precio_Cliente": 14850.00, "Precio_Tecnico": 11088.00, "Cantidad_Stock": 5},
   {"Codigo": "ter9", "Producto": "TERMOSTATO BLUESTAR (94012-4)", "Precio_Cliente": 16900.00, "Precio_Tecnico": 15200.00, "Cantidad_Stock": 3},
   {"Codigo": "ter2", "Producto": "TERMOSTATO BLUESTAR 22027", "Precio_Cliente": 16335.00, "Precio_Tecnico": 14355.00, "Cantidad_Stock": 2},
-  {"Codigo": "ter8", "Producto": "TERMOSTATO BLUESTAR 94072-4", "Precio_Cliente": 19600.00, "Precio_Tecnico": 15700.00, "Cantidad_Stock": 3},
+  {"Codigo": "ter8", "Producto": "TERMOSTATO BLUESTAR 94072-4", "Precio_Cliente": 19600.00, "Precio_Tecnico": 15700.00, "Cantidad_Stock": 4},
   {"Codigo": "TERM001", "Producto": "TERMOSTATO C/BULBO 1 METRO MOTECH", "Precio_Cliente": 10494.00, "Precio_Tecnico": 8712.00, "Cantidad_Stock": 0},
   {"Codigo": "TER012", "Producto": "TERMOSTATO DUAL P/ FREEZER BLUESTAR (40702)", "Precio_Cliente": 18711.00, "Precio_Tecnico": 14355.00, "Cantidad_Stock": 0},
   {"Codigo": "ter021", "Producto": "TERMOSTATO EXHIBIDORA BLUESTAR", "Precio_Cliente": 16137.00, "Precio_Tecnico": 13365.00, "Cantidad_Stock": 99},
