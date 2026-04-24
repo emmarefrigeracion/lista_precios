@@ -250,7 +250,7 @@
   {"Codigo": "man025", "Producto": "MANGUERA DE CARG GRIS 2.5M", "Precio_Cliente": 7000.00, "Precio_Tecnico": 5600.00, "Cantidad_Stock": 2},
   {"Codigo": "man026", "Producto": "MANGUERA DE CARGA GRIS 3M", "Precio_Cliente": 7600.00, "Precio_Tecnico": 6200.00, "Cantidad_Stock": 3},
   {"Codigo": "man113", "Producto": "MANGUERA DE CARGA R22/R1347R12  X3", "Precio_Cliente": 17820.00, "Precio_Tecnico": 15840.00, "Cantidad_Stock": 0},
-  {"Codigo": "man114", "Producto": "MANGUERA DESAGOTE 1,80 C/CODO CHICO", "Precio_Cliente": 4653.00, "Precio_Tecnico": 3663.00, "Cantidad_Stock": 9},
+  {"Codigo": "man114", "Producto": "MANGUERA DESAGOTE 1,80 C/CODO CHICO", "Precio_Cliente": 4700.00, "Precio_Tecnico": 3700.00, "Cantidad_Stock": 8},
   {"Codigo": "man115", "Producto": "MANGUERA DESAGOTE 1,80 RECTA  (UNI)", "Precio_Cliente": 4455.00, "Precio_Tecnico": 3465.00, "Cantidad_Stock": 6},
   {"Codigo": "man116", "Producto": "MANGUERA DESAGOTE GAFA C/CODO GRANDE 1.80", "Precio_Cliente": 5940.00, "Precio_Tecnico": 4455.00, "Cantidad_Stock": 4},
   {"Codigo": "man166", "Producto": "MANGUERA P TOBERA DREAN 166", "Precio_Cliente": 11340.00, "Precio_Tecnico": 9720.00, "Cantidad_Stock": 0},
