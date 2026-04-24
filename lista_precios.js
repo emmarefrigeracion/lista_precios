@@ -468,7 +468,7 @@
   {"Codigo": "TER011", "Producto": "TERMOSTATO P/ FREEZER ROBERTSHAW", "Precio_Cliente": 26631.00, "Precio_Tecnico": 22275.00, "Cantidad_Stock": 1},
   {"Codigo": "ter25", "Producto": "TERMOSTATO PARA EXHIBIDORA GOOD LINE", "Precio_Cliente": 21500.00, "Precio_Tecnico": 19500.00, "Cantidad_Stock": 3},
   {"Codigo": "t8", "Producto": "TERMOSTATO PARA HORNO ELCTRICO 3/4 GIRO.", "Precio_Cliente": 10900.00, "Precio_Tecnico": 8900.00, "Cantidad_Stock": 4},
-  {"Codigo": "ter7", "Producto": "TERMOSTATO PARA HORNO ELECTRICO 1/2 GIRO 250°", "Precio_Cliente": 7000.00, "Precio_Tecnico": 5900.00, "Cantidad_Stock": 6},
+  {"Codigo": "t7", "Producto": "TERMOSTATO PARA HORNO ELECTRICO 1/2 GIRO 250°", "Precio_Cliente": 7000.00, "Precio_Tecnico": 5900.00, "Cantidad_Stock": 6},
   {"Codigo": "ter006", "Producto": "TERMOSTATO PATRICK ALTERNATIVO", "Precio_Cliente": 22600.00, "Precio_Tecnico": 17900.00, "Cantidad_Stock": 1},
   {"Codigo": "dis002", "Producto": "TERMOSTATO RC 42600-2 BEBEDERO/DISPENSER", "Precio_Cliente": 17424.00, "Precio_Tecnico": 14652.00, "Cantidad_Stock": 1},
   {"Codigo": "ter5", "Producto": "TERMOSTATO ROBERTSHAW RC 53670", "Precio_Cliente": 28908.00, "Precio_Tecnico": 25740.00, "Cantidad_Stock": 1},
