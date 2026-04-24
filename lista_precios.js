@@ -466,7 +466,7 @@
   {"Codigo": "TER4", "Producto": "TERMOSTATO P PATRICK  (ORIGINAL)", "Precio_Cliente": 31000.00, "Precio_Tecnico": 28200.00, "Cantidad_Stock": 1},
   {"Codigo": "tf7hel", "Producto": "TERMOSTATO P/  CONGELADOR  TF7", "Precio_Cliente": 18513.00, "Precio_Tecnico": 15642.00, "Cantidad_Stock": 3},
   {"Codigo": "TER011", "Producto": "TERMOSTATO P/ FREEZER ROBERTSHAW", "Precio_Cliente": 26631.00, "Precio_Tecnico": 22275.00, "Cantidad_Stock": 1},
-  {"Codigo": "ter25", "Producto": "TERMOSTATO PARA EXHIBIDORA GOOD LINE", "Precio_Cliente": 21483.00, "Precio_Tecnico": 19305.00, "Cantidad_Stock": 3},
+  {"Codigo": "ter25", "Producto": "TERMOSTATO PARA EXHIBIDORA GOOD LINE", "Precio_Cliente": 21500.00, "Precio_Tecnico": 19500.00, "Cantidad_Stock": 3},
   {"Codigo": "t8", "Producto": "TERMOSTATO PARA HORNO ELCTRICO 3/4 GIRO.", "Precio_Cliente": 10900.00, "Precio_Tecnico": 8900.00, "Cantidad_Stock": 4},
   {"Codigo": "ter006", "Producto": "TERMOSTATO PATRICK ALTERNATIVO", "Precio_Cliente": 22600.00, "Precio_Tecnico": 17900.00, "Cantidad_Stock": 1},
   {"Codigo": "dis002", "Producto": "TERMOSTATO RC 42600-2 BEBEDERO/DISPENSER", "Precio_Cliente": 17424.00, "Precio_Tecnico": 14652.00, "Cantidad_Stock": 1},
