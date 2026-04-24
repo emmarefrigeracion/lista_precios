@@ -242,7 +242,6 @@
   {"Codigo": "kit012", "Producto": "KIT INSTALACION 3/8-5/8 CON AISLANTE NEGRO Y CINTA TACSA", "Precio_Cliente": 0.00, "Precio_Tecnico": 0.00, "Cantidad_Stock": 3},
   {"Codigo": "lam01", "Producto": "LAMPARA ALOGENA", "Precio_Cliente": 2900.00, "Precio_Tecnico": 2100.00, "Cantidad_Stock": 0},
   {"Codigo": "lam02", "Producto": "LAMPARA LED", "Precio_Cliente": 4600.00, "Precio_Tecnico": 3900.00, "Cantidad_Stock": 2},
-  {"Codigo": "gas025", "Producto": "LATA NECTON R-410 0.650G", "Precio_Cliente": 25740.00, "Precio_Tecnico": 19305.00, "Cantidad_Stock": 1},
   {"Codigo": "seca005", "Producto": "LLAVE DE CONTACTO SECARROPA", "Precio_Cliente": 6138.00, "Precio_Tecnico": 5049.00, "Cantidad_Stock": 0},
   {"Codigo": "man110", "Producto": "MANGUERA CORRUGADA AIRE ACOND.", "Precio_Cliente": 2277.00, "Precio_Tecnico": 1485.00, "Cantidad_Stock": 0},
   {"Codigo": "man111", "Producto": "MANGUERA CRAGA GRIS 1,80M", "Precio_Cliente": 6435.00, "Precio_Tecnico": 5148.00, "Cantidad_Stock": 13},
