@@ -244,7 +244,7 @@
   {"Codigo": "lam01", "Producto": "LAMPARA ALOGENA", "Precio_Cliente": 2900.00, "Precio_Tecnico": 2100.00, "Cantidad_Stock": 0},
   {"Codigo": "lam02", "Producto": "LAMPARA LED", "Precio_Cliente": 4600.00, "Precio_Tecnico": 3900.00, "Cantidad_Stock": 2},
   {"Codigo": "seca005", "Producto": "LLAVE DE CONTACTO SECARROPA", "Precio_Cliente": 6138.00, "Precio_Tecnico": 5049.00, "Cantidad_Stock": 0},
-  {"Codigo": "man111", "Producto": "MANGUERA CRAGA GRIS 1,80M", "Precio_Cliente": 6435.00, "Precio_Tecnico": 5148.00, "Cantidad_Stock": 13},
+  {"Codigo": "man111", "Producto": "MANGUERA CRAGA GRIS 1,80M", "Precio_Cliente": 6500.00, "Precio_Tecnico": 5200.00, "Cantidad_Stock": 2},
   {"Codigo": "8-13-0325", "Producto": "MANGUERA CRISTAL 1/2\" 12X16", "Precio_Cliente": 1158.30, "Precio_Tecnico": 841.50, "Cantidad_Stock": 0},
   {"Codigo": "man112", "Producto": "MANGUERA CRISTAL 5/8 X METRO (ROLLO)", "Precio_Cliente": 3300.00, "Precio_Tecnico": 2200.00, "Cantidad_Stock": 54},
   {"Codigo": "man025", "Producto": "MANGUERA DE CARG GRIS 2.5M", "Precio_Cliente": 6920.10, "Precio_Tecnico": 5544.00, "Cantidad_Stock": 2},
