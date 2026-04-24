@@ -241,7 +241,7 @@
   {"Codigo": "kit004", "Producto": "KIT INSTALACION 1/4-3/8 CON AISLANTE NEGRO Y CINTA TACSA", "Precio_Cliente": 71370.00, "Precio_Tecnico": 66600.00, "Cantidad_Stock": 93},
   {"Codigo": "kit012", "Producto": "KIT INSTALACION 3/8-5/8 CON AISLANTE NEGRO Y CINTA TACSA", "Precio_Cliente": 0.00, "Precio_Tecnico": 0.00, "Cantidad_Stock": 3},
   {"Codigo": "lam01", "Producto": "LAMPARA ALOGENA", "Precio_Cliente": 2475.00, "Precio_Tecnico": 1980.00, "Cantidad_Stock": 0},
-  {"Codigo": "lam02", "Producto": "LAMPARA LED", "Precio_Cliente": 4455.00, "Precio_Tecnico": 3663.00, "Cantidad_Stock": 2},
+  {"Codigo": "lam02", "Producto": "LAMPARA LED", "Precio_Cliente": 4600.00, "Precio_Tecnico": 3900.00, "Cantidad_Stock": 2},
   {"Codigo": "gas025", "Producto": "LATA NECTON R-410 0.650G", "Precio_Cliente": 25740.00, "Precio_Tecnico": 19305.00, "Cantidad_Stock": 1},
   {"Codigo": "6-6-453", "Producto": "LATA SOLDAR MAPP ICELOONG 400G", "Precio_Cliente": 15099.48, "Precio_Tecnico": 12521.52, "Cantidad_Stock": 1},
   {"Codigo": "seca005", "Producto": "LLAVE DE CONTACTO SECARROPA", "Precio_Cliente": 6138.00, "Precio_Tecnico": 5049.00, "Cantidad_Stock": 0},
