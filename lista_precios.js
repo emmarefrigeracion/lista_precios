@@ -484,7 +484,7 @@
   {"Codigo": "tir006", "Producto": "TIRADOR PUERTA SAMSUNG (MANIJA)", "Precio_Cliente": 5900.00, "Precio_Tecnico": 4500.00, "Cantidad_Stock": 2},
   {"Codigo": "tor001", "Producto": "TORNILLO SOPORTE DREN BLUE 6,6-7,10-8,12", "Precio_Cliente": 1584.00, "Precio_Tecnico": 990.00, "Cantidad_Stock": 29},
   {"Codigo": "tor10", "Producto": "TORNILLO T1 AUTOPERFORANTE", "Precio_Cliente": 44.55, "Precio_Tecnico": 36.63, "Cantidad_Stock": 0},
-  {"Codigo": "tor005", "Producto": "TORNILLOS BLUE  ORIGINALES", "Precio_Cliente": 2475.00, "Precio_Tecnico": 1485.00, "Cantidad_Stock": 14},
+  {"Codigo": "tor005", "Producto": "TORNILLOS BLUE  ORIGINALES", "Precio_Cliente": 2600.00, "Precio_Tecnico": 1500.00, "Cantidad_Stock": 14},
   {"Codigo": "tor002", "Producto": "TORNILLOS C/  TUERCAS  DREAN 166  X UNIDAD", "Precio_Cliente": 2970.00, "Precio_Tecnico": 1980.00, "Cantidad_Stock": 4},
   {"Codigo": "tor003", "Producto": "TORNILLOS GRANDES ACERO SAMSUNG", "Precio_Cliente": 2900.00, "Precio_Tecnico": 2000.00, "Cantidad_Stock": 30},
   {"Codigo": "tor004", "Producto": "TORNILLOS PARA GOLD X 6 UNI", "Precio_Cliente": 9405.00, "Precio_Tecnico": 5000.00, "Cantidad_Stock": 19},
