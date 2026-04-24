@@ -34,7 +34,7 @@
   {"Codigo": "bas2", "Producto": "BASE SECARROPAS KOHINOOR (PLASTICA)", "Precio_Cliente": 10500.00, "Precio_Tecnico": 9500.00, "Cantidad_Stock": 2},
   {"Codigo": "bi010", "Producto": "BIMETAL  NO FROST CON FUSIBLE", "Precio_Cliente": 9207.00, "Precio_Tecnico": 7326.00, "Cantidad_Stock": 0},
   {"Codigo": "bi4", "Producto": "BIMETAL SIN FUSIBLE ALTERNATIVO", "Precio_Cliente": 12000.00, "Precio_Tecnico": 8100.00, "Cantidad_Stock": 2},
-  {"Codigo": "bis6", "Producto": "BISAGRA BOSH CORTA", "Precio_Cliente": 13000.00, "Precio_Tecnico": 9300.00, "Cantidad_Stock": 0},
+  {"Codigo": "bis6", "Producto": "BISAGRA BOSH CORTA", "Precio_Cliente": 13000.00, "Precio_Tecnico": 9300.00, "Cantidad_Stock": 2},
   {"Codigo": "bi001", "Producto": "BISAGRA DREAN BLUE 180º", "Precio_Cliente": 26000.00, "Precio_Tecnico": 19500.00, "Cantidad_Stock": 2},
   {"Codigo": "bi002", "Producto": "BISAGRA DREAN BLUE 90º/130º DE CHAPA", "Precio_Cliente": 25110.00, "Precio_Tecnico": 21900.00, "Cantidad_Stock": 3},
   {"Codigo": "4-16-2320011", "Producto": "BISAGRA FREEZER GAFA MOD. NVO X2", "Precio_Cliente": 26730.00, "Precio_Tecnico": 22275.00, "Cantidad_Stock": 0},
