@@ -254,7 +254,7 @@
   {"Codigo": "man115", "Producto": "MANGUERA DESAGOTE 1,80 RECTA  (UNI)", "Precio_Cliente": 4455.00, "Precio_Tecnico": 3465.00, "Cantidad_Stock": 6},
   {"Codigo": "man116", "Producto": "MANGUERA DESAGOTE GAFA C/CODO GRANDE 1.80", "Precio_Cliente": 5940.00, "Precio_Tecnico": 4455.00, "Cantidad_Stock": 4},
   {"Codigo": "man166", "Producto": "MANGUERA P TOBERA DREAN 166", "Precio_Cliente": 11340.00, "Precio_Tecnico": 9720.00, "Cantidad_Stock": 0},
-  {"Codigo": "man003", "Producto": "MANIFOLD BRONCE DUAL  PARA R22 Y 410", "Precio_Cliente": 78210.00, "Precio_Tecnico": 65241.00, "Cantidad_Stock": 0},
+  {"Codigo": "man003", "Producto": "MANIFOLD BRONCE DUAL  PARA R22 Y 410", "Precio_Cliente": 78500.00, "Precio_Tecnico": 68000.00, "Cantidad_Stock": 1},
   {"Codigo": "man004", "Producto": "MANIFOLD BRONCE R22", "Precio_Cliente": 46530.00, "Precio_Tecnico": 38907.00, "Cantidad_Stock": 0},
   {"Codigo": "man001", "Producto": "MANIFOLD SIMPLE  410 WAY VALVE", "Precio_Cliente": 14850.00, "Precio_Tecnico": 13563.00, "Cantidad_Stock": 1},
   {"Codigo": "man002", "Producto": "MANIFOLD SIMPLE R-410 BAJA", "Precio_Cliente": 18018.00, "Precio_Tecnico": 14355.00, "Cantidad_Stock": 1},
