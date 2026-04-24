@@ -474,7 +474,7 @@
   {"Codigo": "dis002", "Producto": "TERMOSTATO RC 42600-2 BEBEDERO/DISPENSER", "Precio_Cliente": 17424.00, "Precio_Tecnico": 14652.00, "Cantidad_Stock": 1},
   {"Codigo": "ter5", "Producto": "TERMOSTATO ROBERTSHAW RC 53670", "Precio_Cliente": 28908.00, "Precio_Tecnico": 25740.00, "Cantidad_Stock": 1},
   {"Codigo": "tim2", "Producto": "TIMER LAVARROPA CODINI", "Precio_Cliente": 29000.00, "Precio_Tecnico": 23000.00, "Cantidad_Stock": 2},
-  {"Codigo": "tim020", "Producto": "TIMER NO FROST ORIGINAL", "Precio_Cliente": 23760.00, "Precio_Tecnico": 19701.00, "Cantidad_Stock": 1},
+  {"Codigo": "tim020", "Producto": "TIMER NO FROST ORIGINAL", "Precio_Cliente": 23900.00, "Precio_Tecnico": 19900.00, "Cantidad_Stock": 1},
   {"Codigo": "tim19", "Producto": "TIMER PROGRAMABLE  NO FROST UNIVERSAL", "Precio_Cliente": 19701.00, "Precio_Tecnico": 15345.00, "Cantidad_Stock": 1},
   {"Codigo": "tir001", "Producto": "TIRADOR AURORA  ELECTROLUX EW", "Precio_Cliente": 8900.00, "Precio_Tecnico": 6200.00, "Cantidad_Stock": 2},
   {"Codigo": "tir002", "Producto": "TIRADOR AURORA/DREAN", "Precio_Cliente": 5900.00, "Precio_Tecnico": 4900.00, "Cantidad_Stock": 4},
