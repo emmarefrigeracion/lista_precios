@@ -170,7 +170,7 @@
   {"Codigo": "ele2", "Producto": "ELECTROVALVULA 2 VIAS 90º", "Precio_Cliente": 16500.00, "Precio_Tecnico": 13500.00, "Cantidad_Stock": 4},
   {"Codigo": "ele005", "Producto": "ELECTROVALVULA FICHA DREAN BLUE ORIGINAL", "Precio_Cliente": 19000.00, "Precio_Tecnico": 16900.00, "Cantidad_Stock": 4},
   {"Codigo": "eli020", "Producto": "ELICE 100MM (FORZADOR GAFA)", "Precio_Cliente": 7425.00, "Precio_Tecnico": 4950.00, "Cantidad_Stock": 2},
-  {"Codigo": "tor014", "Producto": "EMBRAGUE GAFA 6-7 KG", "Precio_Cliente": 18315.00, "Precio_Tecnico": 16137.00, "Cantidad_Stock": 1},
+  {"Codigo": "tor014", "Producto": "EMBRAGUE GAFA 6-7 KG", "Precio_Cliente": 18900.00, "Precio_Tecnico": 16400.00, "Cantidad_Stock": 1},
   {"Codigo": "est001", "Producto": "ESTUFA ELECTRICA HORIZONTAL-VERTICAL", "Precio_Cliente": 21820.59, "Precio_Tecnico": 0.00, "Cantidad_Stock": 8},
   {"Codigo": "est002", "Producto": "ESTUFA INFRAROJA FIJA", "Precio_Cliente": 33053.13, "Precio_Tecnico": 0.00, "Cantidad_Stock": 1},
   {"Codigo": "fer5", "Producto": "FERODO CUADRADO CANDY-DREAN", "Precio_Cliente": 8300.00, "Precio_Tecnico": 6900.00, "Cantidad_Stock": 4},
