@@ -450,7 +450,7 @@
   {"Codigo": "ter022", "Producto": "TERMOSTATO  DUAL BOTELLERO", "Precio_Cliente": 16335.00, "Precio_Tecnico": 13365.00, "Cantidad_Stock": 0},
   {"Codigo": "ter005", "Producto": "TERMOSTATO 22872/2 BAMBI MEDIA CAÑA", "Precio_Cliente": 22572.00, "Precio_Tecnico": 17325.00, "Cantidad_Stock": 0},
   {"Codigo": "ter23670", "Producto": "TERMOSTATO 23670", "Precio_Cliente": 32868.00, "Precio_Tecnico": 28413.00, "Cantidad_Stock": 2},
-  {"Codigo": "ter4070", "Producto": "TERMOSTATO 4070-4 /  22872-2 /  BAMBI", "Precio_Cliente": 19602.00, "Precio_Tecnico": 16830.00, "Cantidad_Stock": 1},
+  {"Codigo": "ter4070", "Producto": "TERMOSTATO 4070-4 /  22872-2 /  BAMBI", "Precio_Cliente": 19600.00, "Precio_Tecnico": 17000.00, "Cantidad_Stock": 2},
   {"Codigo": "ter010", "Producto": "TERMOSTATO 9013 PHILCO ALTERNATIVO", "Precio_Cliente": 20592.00, "Precio_Tecnico": 15840.00, "Cantidad_Stock": 0},
   {"Codigo": "TER001", "Producto": "TERMOSTATO A2000 -35+35 BULBO CORTO", "Precio_Cliente": 14850.00, "Precio_Tecnico": 10098.00, "Cantidad_Stock": 6},
   {"Codigo": "TER002", "Producto": "TERMOSTATO A2000 -35+35 BULBO LARGO", "Precio_Cliente": 14850.00, "Precio_Tecnico": 11088.00, "Cantidad_Stock": 5},
