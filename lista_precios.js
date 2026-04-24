@@ -509,7 +509,7 @@
   {"Codigo": "v9", "Producto": "VALVULA INVERSORA 1/2 X 5/8", "Precio_Cliente": 74844.00, "Precio_Tecnico": 65142.00, "Cantidad_Stock": 0},
   {"Codigo": "v8", "Producto": "VALVULA INVERSORA 3/8 X 1/2", "Precio_Cliente": 42075.00, "Precio_Tecnico": 37224.00, "Cantidad_Stock": 0},
   {"Codigo": "val001", "Producto": "VALVULA PARA LATA  C/OVULO", "Precio_Cliente": 7425.00, "Precio_Tecnico": 6435.00, "Cantidad_Stock": 1},
-  {"Codigo": "val002", "Producto": "VALVULA PARA LATA C/VOLANTE", "Precio_Cliente": 16335.00, "Precio_Tecnico": 14553.00, "Cantidad_Stock": 5},
+  {"Codigo": "val002", "Producto": "VALVULA PARA LATA C/VOLANTE", "Precio_Cliente": 16335.00, "Precio_Tecnico": 14553.00, "Cantidad_Stock": 0},
   {"Codigo": "4-12-125", "Producto": "VARILLA  DE PLATA", "Precio_Cliente": 2500.00, "Precio_Tecnico": 1900.00, "Cantidad_Stock": 6},
   {"Codigo": "VAR002", "Producto": "VARILLA DE ALUMINIO CON FUMDANTE", "Precio_Cliente": 9207.00, "Precio_Tecnico": 7029.00, "Cantidad_Stock": 0},
   {"Codigo": "mec001", "Producto": "VASTAGO 45MM (PARA  MECHA  DE  COPA)", "Precio_Cliente": 29304.00, "Precio_Tecnico": 24552.00, "Cantidad_Stock": 1},
