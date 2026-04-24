@@ -461,7 +461,7 @@
   {"Codigo": "TER012", "Producto": "TERMOSTATO DUAL P/ FREEZER BLUESTAR (40702)", "Precio_Cliente": 18900.00, "Precio_Tecnico": 14500.00, "Cantidad_Stock": 2},
   {"Codigo": "ter021", "Producto": "TERMOSTATO EXHIBIDORA BLUESTAR", "Precio_Cliente": 16500.00, "Precio_Tecnico": 13500.00, "Cantidad_Stock": 2},
   {"Codigo": "terfree", "Producto": "TERMOSTATO FREEZER 53670-4", "Precio_Cliente": 19107.00, "Precio_Tecnico": 16038.00, "Cantidad_Stock": 3},
-  {"Codigo": "003", "Producto": "TERMOSTATO K 59", "Precio_Cliente": 15100.00, "Precio_Tecnico": 11700.00, "Cantidad_Stock": 2},
+  {"Codigo": "003", "Producto": "TERMOSTATO K 59", "Precio_Cliente": 15100.00, "Precio_Tecnico": 11700.00, "Cantidad_Stock": 3},
   {"Codigo": "ter1", "Producto": "TERMOSTATO NO FROST GAFA ( PARA HELADERA NO FROST CONVERTIDA A MECANICA)", "Precio_Cliente": 24354.00, "Precio_Tecnico": 20988.00, "Cantidad_Stock": 2},
   {"Codigo": "TER4", "Producto": "TERMOSTATO P PATRICK  (ORIGINAL)", "Precio_Cliente": 31000.00, "Precio_Tecnico": 28200.00, "Cantidad_Stock": 1},
   {"Codigo": "tf7hel", "Producto": "TERMOSTATO P/  CONGELADOR  TF7", "Precio_Cliente": 18513.00, "Precio_Tecnico": 15642.00, "Cantidad_Stock": 3},
