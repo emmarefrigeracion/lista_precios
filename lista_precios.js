@@ -505,7 +505,7 @@
   {"Codigo": "4-9-2753", "Producto": "VALVULA DE CARGA 1/4", "Precio_Cliente": 3168.00, "Precio_Tecnico": 2277.00, "Cantidad_Stock": 37},
   {"Codigo": "val15", "Producto": "VALVULA DE CARGA 410/R22", "Precio_Cliente": 13500.00, "Precio_Tecnico": 10200.00, "Cantidad_Stock": 2},
   {"Codigo": "v9", "Producto": "VALVULA INVERSORA 1/2 X 5/8", "Precio_Cliente": 74844.00, "Precio_Tecnico": 65142.00, "Cantidad_Stock": 0},
-  {"Codigo": "v8", "Producto": "VALVULA INVERSORA 3/8 X 1/2", "Precio_Cliente": 42075.00, "Precio_Tecnico": 37224.00, "Cantidad_Stock": 0},
+  {"Codigo": "v8", "Producto": "VALVULA INVERSORA 3/8 X 1/2", "Precio_Cliente": 42100.00, "Precio_Tecnico": 37300.00, "Cantidad_Stock": 2},
   {"Codigo": "val001", "Producto": "VALVULA PARA LATA  C/OVULO", "Precio_Cliente": 7425.00, "Precio_Tecnico": 6435.00, "Cantidad_Stock": 0},
   {"Codigo": "val002", "Producto": "VALVULA PARA LATA C/VOLANTE", "Precio_Cliente": 16335.00, "Precio_Tecnico": 14553.00, "Cantidad_Stock": 0},
   {"Codigo": "4-12-125", "Producto": "VARILLA  DE PLATA", "Precio_Cliente": 2500.00, "Precio_Tecnico": 1900.00, "Cantidad_Stock": 6},
