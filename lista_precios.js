@@ -109,7 +109,6 @@
   {"Codigo": "capi08", "Producto": "CAPILAR COBRE 0.8   (3 METROS)", "Precio_Cliente": 7600.00, "Precio_Tecnico": 6000.00, "Cantidad_Stock": 2},
   {"Codigo": "car001", "Producto": "CARBONES 12.5-13.5 EN CAJA ALFA CARBON", "Precio_Cliente": 16830.00, "Precio_Tecnico": 12870.00, "Cantidad_Stock": 0},
   {"Codigo": "car1", "Producto": "CARBONES LE CARD", "Precio_Cliente": 11100.00, "Precio_Tecnico": 9900.00, "Cantidad_Stock": 5},
-  {"Codigo": "peltier2", "Producto": "CELDA PELTIER 40*40MM", "Precio_Cliente": 19900.00, "Precio_Tecnico": 16200.00, "Cantidad_Stock": 0},
   {"Codigo": "cin15", "Producto": "CINTA AILSADORA NEGRA 20 METROS", "Precio_Cliente": 6500.00, "Precio_Tecnico": 5200.00, "Cantidad_Stock": 9},
   {"Codigo": "cintaeco", "Producto": "CINTA ECONOMICA PARA EMBALAR", "Precio_Cliente": 4455.00, "Precio_Tecnico": 3762.00, "Cantidad_Stock": 0},
   {"Codigo": "tacsa", "Producto": "CINTA TACSA C/PEGAMENTO", "Precio_Cliente": 8500.00, "Precio_Tecnico": 7000.00, "Cantidad_Stock": 5},
