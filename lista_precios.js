@@ -407,7 +407,7 @@
   {"Codigo": "eje032", "Producto": "SOPORTE 166 ORIGINAL  REDONDITO", "Precio_Cliente": 29502.00, "Precio_Tecnico": 23760.00, "Cantidad_Stock": 2},
   {"Codigo": "EJE003", "Producto": "SOPORTE AURORA 03/03 CONICO", "Precio_Cliente": 28413.00, "Precio_Tecnico": 26235.00, "Cantidad_Stock": 0},
   {"Codigo": "sop011", "Producto": "SOPORTE BLUE 6 Y 7KG (CORONITA)", "Precio_Cliente": 28442.70, "Precio_Tecnico": 22770.00, "Cantidad_Stock": 1},
-  {"Codigo": "eje011", "Producto": "SOPORTE BLUE 6-7 KG NACIONAL ACC (03-04)", "Precio_Cliente": 25740.00, "Precio_Tecnico": 22275.00, "Cantidad_Stock": 16},
+  {"Codigo": "eje011", "Producto": "SOPORTE BLUE 6-7 KG NACIONAL ACC (03-04)", "Precio_Cliente": 25740.00, "Precio_Tecnico": 21000.00, "Cantidad_Stock": 16},
   {"Codigo": "eje025", "Producto": "SOPORTE BLUE 6-7 KG ORIGINAL", "Precio_Cliente": 34650.00, "Precio_Tecnico": 28710.00, "Cantidad_Stock": 97},
   {"Codigo": "EJE026", "Producto": "SOPORTE BLUE 8.12 (8KG) ORIGINAL REDONDITO", "Precio_Cliente": 41580.00, "Precio_Tecnico": 34650.00, "Cantidad_Stock": 9},
   {"Codigo": "EJE004", "Producto": "SOPORTE BOSH 03/03", "Precio_Cliente": 44055.00, "Precio_Tecnico": 34155.00, "Cantidad_Stock": 2},
