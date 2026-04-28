@@ -403,7 +403,7 @@
   {"Codigo": "sil002", "Producto": "SILICONA NEUTRA TRANSPARENTE  (TACSA)", "Precio_Cliente": 6237.00, "Precio_Tecnico": 4752.00, "Cantidad_Stock": 2},
   {"Codigo": "sog001", "Producto": "SOGA 20 METROS 4MM", "Precio_Cliente": 7425.00, "Precio_Tecnico": 6435.00, "Cantidad_Stock": 0},
   {"Codigo": "EJE001", "Producto": "SOPORTE 166  DREAN  CARA PLANA", "Precio_Cliente": 36630.00, "Precio_Tecnico": 30690.00, "Cantidad_Stock": 1},
-  {"Codigo": "EJE002", "Producto": "SOPORTE 166 DREAN  CILINDRICO AC&C", "Precio_Cliente": 18900.00, "Precio_Tecnico": 15200.00, "Cantidad_Stock": 107},
+  {"Codigo": "EJE002", "Producto": "SOPORTE 166 DREAN  CILINDRICO AC&C", "Precio_Cliente": 22300.00, "Precio_Tecnico": 19600.00, "Cantidad_Stock": 107},
   {"Codigo": "eje032", "Producto": "SOPORTE 166 ORIGINAL  REDONDITO", "Precio_Cliente": 29502.00, "Precio_Tecnico": 23760.00, "Cantidad_Stock": 2},
   {"Codigo": "EJE003", "Producto": "SOPORTE AURORA 03/03 CONICO", "Precio_Cliente": 28413.00, "Precio_Tecnico": 26235.00, "Cantidad_Stock": 0},
   {"Codigo": "sop011", "Producto": "SOPORTE BLUE 6 Y 7KG (CORONITA)", "Precio_Cliente": 28442.70, "Precio_Tecnico": 22770.00, "Cantidad_Stock": 1},
