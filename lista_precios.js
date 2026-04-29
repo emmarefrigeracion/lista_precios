@@ -352,6 +352,7 @@
   {"Codigo": "ret005", "Producto": "RETEN  CONSUL   10625 (PARA RODAMIENTO 6006)", "Precio_Cliente": 5940.00, "Precio_Tecnico": 4455.00, "Cantidad_Stock": 4},
   {"Codigo": "1-34-052372", "Producto": "RETEN 21X40X10", "Precio_Cliente": 3200.00, "Precio_Tecnico": 2500.00, "Cantidad_Stock": 22},
   {"Codigo": "re022", "Producto": "RETEN 22/40/10 (CON POLLERA) BOSH 03", "Precio_Cliente": 4500.00, "Precio_Tecnico": 3600.00, "Cantidad_Stock": 4},
+  {"Codigo": "re22", "Producto": "RETEN 22/40/10 (SIN POLLERA) BOSH 03", "Precio_Cliente": 4200.00, "Precio_Tecnico": 3200.00, "Cantidad_Stock": 4},
   {"Codigo": "ret015", "Producto": "RETEN 25*50*10 VUPRE ESPAÑA", "Precio_Cliente": 0.00, "Precio_Tecnico": 0.00, "Cantidad_Stock": 6},
   {"Codigo": "1-34-0523106", "Producto": "RETEN 25X47X10", "Precio_Cliente": 2574.00, "Precio_Tecnico": 1683.00, "Cantidad_Stock": 8},
   {"Codigo": "retensav", "Producto": "RETEN 25X47X10 SAV", "Precio_Cliente": 3000.00, "Precio_Tecnico": 2300.00, "Cantidad_Stock": 17},
