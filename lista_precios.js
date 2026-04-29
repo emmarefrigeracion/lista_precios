@@ -321,7 +321,7 @@
   {"Codigo": "pla006", "Producto": "PLACA DREAN CONCEPT 5.05 NACIONAL ( SIN VISOR)", "Precio_Cliente": 39000.00, "Precio_Tecnico": 35000.00, "Cantidad_Stock": 2},
   {"Codigo": "pla005", "Producto": "PLACA DREAN CONCEPT C12- 5.05 ORIGINAL CON VISOR", "Precio_Cliente": 43461.00, "Precio_Tecnico": 38511.00, "Cantidad_Stock": 2},
   {"Codigo": "pla015", "Producto": "PLACA FASE 2 DE LAVARROPA EXCELENTE BLUE  ALTERNATIVA", "Precio_Cliente": 68211.00, "Precio_Tecnico": 60291.00, "Cantidad_Stock": 1},
-  {"Codigo": "pla5", "Producto": "PLACA GAFFA 7500", "Precio_Cliente": 51800.00, "Precio_Tecnico": 46300.00, "Cantidad_Stock": 3},
+  {"Codigo": "pla5", "Producto": "PLACA GAFFA 7500 ORIGINAL", "Precio_Cliente": 51800.00, "Precio_Tecnico": 46300.00, "Cantidad_Stock": 3},
   {"Codigo": "pla016", "Producto": "PLACA LAVARROPA NEXT ORIGINAL", "Precio_Cliente": 106920.00, "Precio_Tecnico": 96030.00, "Cantidad_Stock": 1},
   {"Codigo": "peltier", "Producto": "PLACA PELTIER", "Precio_Cliente": 24100.00, "Precio_Tecnico": 19500.00, "Cantidad_Stock": 3},
   {"Codigo": "pla025", "Producto": "PLAQUETA CONSUL 600", "Precio_Cliente": 46332.00, "Precio_Tecnico": 35838.00, "Cantidad_Stock": 0},
