@@ -311,7 +311,7 @@
   {"Codigo": "pilas002", "Producto": "PILAS AAA", "Precio_Cliente": 2178.00, "Precio_Tecnico": 1881.00, "Cantidad_Stock": 8},
   {"Codigo": "pin001", "Producto": "PINZA 8 PULGADAS", "Precio_Cliente": 7128.00, "Precio_Tecnico": 6435.00, "Cantidad_Stock": 0},
   {"Codigo": "pla021", "Producto": "PLA ORIGINAL PARA HELADERA (PATRICK-MABE)", "Precio_Cliente": 55440.00, "Precio_Tecnico": 43461.00, "Cantidad_Stock": 0},
-  {"Codigo": "pla004", "Producto": "PLACA  AIRE ACOND SIN PG (03)", "Precio_Cliente": 40748.40, "Precio_Tecnico": 35400.00, "Cantidad_Stock": 0},
+  {"Codigo": "pla004", "Producto": "PLACA  AIRE ACOND SIN PG (03)", "Precio_Cliente": 43800.00, "Precio_Tecnico": 35400.00, "Cantidad_Stock": 4},
   {"Codigo": "pla05", "Producto": "PLACA  AIRE ACONDIC  CON PG (05)", "Precio_Cliente": 48500.00, "Precio_Tecnico": 37200.00, "Cantidad_Stock": 5},
   {"Codigo": "pla003", "Producto": "PLACA AIRE ACOND  CON PG 08", "Precio_Cliente": 47520.00, "Precio_Tecnico": 38900.00, "Cantidad_Stock": 4},
   {"Codigo": "pla020", "Producto": "PLACA ALTERNATIVA PARA  HELADERA (PATRICK- MABE)", "Precio_Cliente": 36036.00, "Precio_Tecnico": 27720.00, "Cantidad_Stock": 1},
