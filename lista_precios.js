@@ -306,6 +306,7 @@
   {"Codigo": "00826", "Producto": "PERILLA DREAN FAMILY", "Precio_Cliente": 9500.00, "Precio_Tecnico": 7800.00, "Cantidad_Stock": 6},
   {"Codigo": "ter19", "Producto": "PERILLA PARA TERMOSTATO", "Precio_Cliente": 2900.00, "Precio_Tecnico": 1900.00, "Cantidad_Stock": 1},
   {"Codigo": "pe021", "Producto": "PERILLA SECARROPA DREAN (AZULES)", "Precio_Cliente": 5200.00, "Precio_Tecnico": 3900.00, "Cantidad_Stock": 4},
+  {"Codigo": "per03", "Producto": "PERILLA SEMIAUTOMATICO / TECNOVA", "Precio_Cliente": 1500.00, "Precio_Tecnico": 1000.00, "Cantidad_Stock": 5},
   {"Codigo": "per002", "Producto": "PERSOSTATO 166 BLUE ORIGINAL", "Precio_Cliente": 0.00, "Precio_Tecnico": 12375.00, "Cantidad_Stock": 0},
   {"Codigo": "per001", "Producto": "PERSOSTATO BLUE FRONTAL", "Precio_Cliente": 0.00, "Precio_Tecnico": 19503.00, "Cantidad_Stock": 0},
   {"Codigo": "pila001", "Producto": "PILAS AA POR UNIDAD", "Precio_Cliente": 2376.00, "Precio_Tecnico": 2178.00, "Cantidad_Stock": 8},
