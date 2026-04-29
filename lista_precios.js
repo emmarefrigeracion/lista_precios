@@ -342,7 +342,7 @@
   {"Codigo": "rel002", "Producto": "RELE EMBRACO C/ BOBIN ( EN CAJA ) 1/3-1/4", "Precio_Cliente": 26000.00, "Precio_Tecnico": 22000.00, "Cantidad_Stock": 6},
   {"Codigo": "rel003", "Producto": "RELE P/ HELADERA 4 CONTACTOS", "Precio_Cliente": 4158.00, "Precio_Tecnico": 3240.00, "Cantidad_Stock": 8},
   {"Codigo": "reshel01", "Producto": "RESISTENCIA  HEL  WHIRLPOOL WRM 39 /  W10741592", "Precio_Cliente": 42174.00, "Precio_Tecnico": 34155.00, "Cantidad_Stock": 0},
-  {"Codigo": "res005", "Producto": "RESISTENCIA DREAN BLUE/NEXT C/SENSOR", "Precio_Cliente": 32769.00, "Precio_Tecnico": 28215.00, "Cantidad_Stock": 0},
+  {"Codigo": "res005", "Producto": "RESISTENCIA DREAN BLUE/NEXT C/SENSOR", "Precio_Cliente": 32769.00, "Precio_Tecnico": 30200.00, "Cantidad_Stock": 2},
   {"Codigo": "1-40-1025054", "Producto": "RESISTENCIA DREAN EXC. 166/169", "Precio_Cliente": 23760.00, "Precio_Tecnico": 19800.00, "Cantidad_Stock": 2},
   {"Codigo": "reshel", "Producto": "RESISTNCIA  HEL  BAMBI", "Precio_Cliente": 85635.00, "Precio_Tecnico": 78061.50, "Cantidad_Stock": 0},
   {"Codigo": "res6", "Producto": "RESORTE EMBRAGUE  DE LAVARROPA CONCEPT", "Precio_Cliente": 3100.00, "Precio_Tecnico": 2700.00, "Cantidad_Stock": 3},
