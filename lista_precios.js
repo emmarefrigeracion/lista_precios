@@ -318,7 +318,7 @@
   {"Codigo": "pla001", "Producto": "PLACA CONSUL 600", "Precio_Cliente": 38313.00, "Precio_Tecnico": 31185.00, "Cantidad_Stock": 0},
   {"Codigo": "pla060", "Producto": "PLACA DE FRIO P/ HEL 60X40", "Precio_Cliente": 66330.00, "Precio_Tecnico": 57420.00, "Cantidad_Stock": 1},
   {"Codigo": "pla090", "Producto": "PLACA DE FRIO P/ HEL 90X40", "Precio_Cliente": 72270.00, "Precio_Tecnico": 64350.00, "Cantidad_Stock": 0},
-  {"Codigo": "pla006", "Producto": "PLACA DREAN CONCEPT 5.05 NACIONAL ( SIN VISOR)", "Precio_Cliente": 39000.00, "Precio_Tecnico": 35000.00, "Cantidad_Stock": 2},
+  {"Codigo": "pla006", "Producto": "PLACA DREAN CONCEPT 5.05 ORIGINAL ( SIN VISOR)", "Precio_Cliente": 39000.00, "Precio_Tecnico": 35000.00, "Cantidad_Stock": 2},
   {"Codigo": "pla005", "Producto": "PLACA DREAN CONCEPT C12- 5.05 ORIGINAL CON VISOR", "Precio_Cliente": 43461.00, "Precio_Tecnico": 38511.00, "Cantidad_Stock": 2},
   {"Codigo": "pla015", "Producto": "PLACA FASE 2 DE LAVARROPA EXCELENTE BLUE  ALTERNATIVA", "Precio_Cliente": 68211.00, "Precio_Tecnico": 60291.00, "Cantidad_Stock": 1},
   {"Codigo": "pla5", "Producto": "PLACA GAFFA 7500 ORIGINAL", "Precio_Cliente": 51800.00, "Precio_Tecnico": 46300.00, "Cantidad_Stock": 3},
