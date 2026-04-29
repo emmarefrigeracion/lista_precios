@@ -303,6 +303,7 @@
   {"Codigo": "pa1", "Producto": "PATAS LAVARROPAS ORIGINALES DREAN  PRECIO POR UNIDAD", "Precio_Cliente": 5346.00, "Precio_Tecnico": 4257.00, "Cantidad_Stock": 2},
   {"Codigo": "per005", "Producto": "PERILLA  LAV DREAN NEXT", "Precio_Cliente": 9600.00, "Precio_Tecnico": 7800.00, "Cantidad_Stock": 2},
   {"Codigo": "per2", "Producto": "PERILLA BLUE/GOLD", "Precio_Cliente": 5600.00, "Precio_Tecnico": 3600.00, "Cantidad_Stock": 2},
+  {"Codigo": "00826", "Producto": "PERILLA DREAN FAMILY", "Precio_Cliente": 9500.00, "Precio_Tecnico": 7800.00, "Cantidad_Stock": 6},
   {"Codigo": "ter19", "Producto": "PERILLA PARA TERMOSTATO", "Precio_Cliente": 2900.00, "Precio_Tecnico": 1900.00, "Cantidad_Stock": 1},
   {"Codigo": "pe021", "Producto": "PERILLA SECARROPA DREAN (AZULES)", "Precio_Cliente": 5200.00, "Precio_Tecnico": 3900.00, "Cantidad_Stock": 4},
   {"Codigo": "per002", "Producto": "PERSOSTATO 166 BLUE ORIGINAL", "Precio_Cliente": 0.00, "Precio_Tecnico": 12375.00, "Cantidad_Stock": 0},
