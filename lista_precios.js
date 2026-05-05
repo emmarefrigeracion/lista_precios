@@ -246,6 +246,7 @@
   {"Codigo": "kit012", "Producto": "KIT INSTALACION 3/8-5/8 CON AISLANTE NEGRO Y CINTA TACSA", "Precio_Cliente": 0.00, "Precio_Tecnico": 0.00, "Cantidad_Stock": 3},
   {"Codigo": "lam01", "Producto": "LAMPARA ALOGENA", "Precio_Cliente": 2900.00, "Precio_Tecnico": 2100.00, "Cantidad_Stock": 0},
   {"Codigo": "lam02", "Producto": "LAMPARA LED", "Precio_Cliente": 4600.00, "Precio_Tecnico": 3900.00, "Cantidad_Stock": 2},
+  {"Codigo": "lam9", "Producto": "LAMPARA PARA MICROONDAS CON ZOCALO", "Precio_Cliente": 0.00, "Precio_Tecnico": 0.00, "Cantidad_Stock": 0},
   {"Codigo": "seca005", "Producto": "LLAVE DE CONTACTO SECARROPA", "Precio_Cliente": 6138.00, "Precio_Tecnico": 5049.00, "Cantidad_Stock": 0},
   {"Codigo": "man111", "Producto": "MANGUERA CRAGA GRIS 1,80M", "Precio_Cliente": 6500.00, "Precio_Tecnico": 5200.00, "Cantidad_Stock": 2},
   {"Codigo": "8-13-0325", "Producto": "MANGUERA CRISTAL 1/2\" 12X16", "Precio_Cliente": 1158.30, "Precio_Tecnico": 841.50, "Cantidad_Stock": 0},
