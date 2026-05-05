@@ -57,7 +57,7 @@
   {"Codigo": "bom2", "Producto": "BOMBA DESAGOTE 1/2 GIRO", "Precio_Cliente": 19000.00, "Precio_Tecnico": 17000.00, "Cantidad_Stock": 3},
   {"Codigo": "bom3", "Producto": "BOMBA DESAGOTE 3 TRABAS", "Precio_Cliente": 23100.00, "Precio_Tecnico": 20700.00, "Cantidad_Stock": 2},
   {"Codigo": "b5", "Producto": "BOTONERA  DREAN NEXT/AURORA", "Precio_Cliente": 7500.00, "Precio_Tecnico": 5200.00, "Cantidad_Stock": 14},
-  {"Codigo": "bri005", "Producto": "BRIDA DREAN GOLD LADO OPUESTO", "Precio_Cliente": 18600.00, "Precio_Tecnico": 12800.00, "Cantidad_Stock": 0},
+  {"Codigo": "bri005", "Producto": "BRIDA DREAN GOLD LADO OPUESTO", "Precio_Cliente": 18600.00, "Precio_Tecnico": 12800.00, "Cantidad_Stock": 2},
   {"Codigo": "bri006", "Producto": "BRIDA DREAN GOLD LADO POLEA", "Precio_Cliente": 18600.00, "Precio_Tecnico": 12800.00, "Cantidad_Stock": 2},
   {"Codigo": "bri1", "Producto": "BRIDA FUELLE BLUE (ALAMBRE) NEXT TRASERA", "Precio_Cliente": 4900.00, "Precio_Tecnico": 4200.00, "Cantidad_Stock": 0},
   {"Codigo": "bri5", "Producto": "BRIDA FUELLE NEXT DELANTERA", "Precio_Cliente": 4000.00, "Precio_Tecnico": 2900.00, "Cantidad_Stock": 2},
