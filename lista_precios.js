@@ -290,7 +290,7 @@
   {"Codigo": "2-4-7500177", "Producto": "MOTOR HUAYI  1/4+ HP - R134A - FAMILIAR", "Precio_Cliente": 103950.00, "Precio_Tecnico": 88110.00, "Cantidad_Stock": 7},
   {"Codigo": "mot002", "Producto": "MOTOR HUAYI 1/3  R134", "Precio_Cliente": 110880.00, "Precio_Tecnico": 92565.00, "Cantidad_Stock": 4},
   {"Codigo": "mot8", "Producto": "MOTOR HUAYI 1/5", "Precio_Cliente": 90090.00, "Precio_Tecnico": 80190.00, "Cantidad_Stock": 1},
-  {"Codigo": "mot6", "Producto": "MOTOR PARA PLATO DE MICROONDAS", "Precio_Cliente": 14553.00, "Precio_Tecnico": 11187.00, "Cantidad_Stock": 4},
+  {"Codigo": "mot6", "Producto": "MOTOR PARA PLATO DE MICROONDAS", "Precio_Cliente": 17000.00, "Precio_Tecnico": 15000.00, "Cantidad_Stock": 4},
   {"Codigo": "niv001", "Producto": "NIVEL 30 CM", "Precio_Cliente": 8415.00, "Precio_Tecnico": 6930.00, "Cantidad_Stock": 0},
   {"Codigo": "obu000", "Producto": "OBU", "Precio_Cliente": 990.00, "Precio_Tecnico": 990.00, "Cantidad_Stock": 8},
   {"Codigo": "orr001", "Producto": "ORRIN 410/", "Precio_Cliente": 396.00, "Precio_Tecnico": 346.50, "Cantidad_Stock": 2},
