@@ -244,7 +244,7 @@
   {"Codigo": "kit002", "Producto": "KIT INSTALACION 1/2-1/4 CON AISLANTE NEGRO Y CINTA TACSA", "Precio_Cliente": 76950.00, "Precio_Tecnico": 71820.00, "Cantidad_Stock": 88},
   {"Codigo": "kit004", "Producto": "KIT INSTALACION 1/4-3/8 CON AISLANTE NEGRO Y CINTA TACSA", "Precio_Cliente": 71370.00, "Precio_Tecnico": 66600.00, "Cantidad_Stock": 93},
   {"Codigo": "kit012", "Producto": "KIT INSTALACION 3/8-5/8 CON AISLANTE NEGRO Y CINTA TACSA", "Precio_Cliente": 0.00, "Precio_Tecnico": 0.00, "Cantidad_Stock": 3},
-  {"Codigo": "lam01", "Producto": "LAMPARA ALOGENA", "Precio_Cliente": 3200.00, "Precio_Tecnico": 2500.00, "Cantidad_Stock": 1},
+  {"Codigo": "lam01", "Producto": "LAMPARA ALOGENA", "Precio_Cliente": 3500.00, "Precio_Tecnico": 2900.00, "Cantidad_Stock": 1},
   {"Codigo": "lam02", "Producto": "LAMPARA LED", "Precio_Cliente": 4600.00, "Precio_Tecnico": 3900.00, "Cantidad_Stock": 2},
   {"Codigo": "lam9", "Producto": "LAMPARA PARA MICROONDAS CON ZOCALO", "Precio_Cliente": 3800.00, "Precio_Tecnico": 3000.00, "Cantidad_Stock": 2},
   {"Codigo": "seca005", "Producto": "LLAVE DE CONTACTO SECARROPA", "Precio_Cliente": 6138.00, "Precio_Tecnico": 5049.00, "Cantidad_Stock": 0},
