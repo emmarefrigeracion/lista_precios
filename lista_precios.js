@@ -333,6 +333,7 @@
   {"Codigo": "pol004", "Producto": "POLEA MOTOR GAFA", "Precio_Cliente": 18000.00, "Precio_Tecnico": 14500.00, "Cantidad_Stock": 1},
   {"Codigo": "pol002", "Producto": "POLEA SEMIAUTOMATICO CON ESPINA (CHIQUITA)", "Precio_Cliente": 4257.00, "Precio_Tecnico": 2475.00, "Cantidad_Stock": 0},
   {"Codigo": "pol006", "Producto": "POLEAN DREAN CONCEPT 7 VIAS", "Precio_Cliente": 34650.00, "Precio_Tecnico": 24750.00, "Cantidad_Stock": 1},
+  {"Codigo": "poli300", "Producto": "POLIURETANO EXPANDIBLE 300ML", "Precio_Cliente": 9300.00, "Precio_Tecnico": 8400.00, "Cantidad_Stock": 5},
   {"Codigo": "porta", "Producto": "PORTA RODAMIENTO  DREAN GOLD ORIGINAL", "Precio_Cliente": 23500.00, "Precio_Tecnico": 20900.00, "Cantidad_Stock": 4},
   {"Codigo": "por1", "Producto": "PORTA RODAMIENTO  GOLD ACC", "Precio_Cliente": 12400.00, "Precio_Tecnico": 9500.00, "Cantidad_Stock": 7},
   {"Codigo": "pres001", "Producto": "PRECINTOS BLANCOS CHICOS", "Precio_Cliente": 3465.00, "Precio_Tecnico": 4000.00, "Cantidad_Stock": 0},
