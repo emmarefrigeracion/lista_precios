@@ -128,7 +128,7 @@
   {"Codigo": "con015", "Producto": "CONDENSADORA 1/3 HP  PARA HELADERA", "Precio_Cliente": 127809.00, "Precio_Tecnico": 98208.00, "Cantidad_Stock": 0},
   {"Codigo": "con010", "Producto": "CONO P EJE DREAN 6-7 KG", "Precio_Cliente": 2100.00, "Precio_Tecnico": 1600.00, "Cantidad_Stock": 3},
   {"Codigo": "con011", "Producto": "CONO P EJE DREAN 8 KG", "Precio_Cliente": 2800.00, "Precio_Tecnico": 3500.00, "Cantidad_Stock": 3},
-  {"Codigo": "2325", "Producto": "CONTROL UNIVERSAL PARA AIRE ACONDICIONADO", "Precio_Cliente": 8900.00, "Precio_Tecnico": 6000.00, "Cantidad_Stock": 3},
+  {"Codigo": "2325", "Producto": "CONTROL UNIVERSAL PARA AIRE ACONDICIONADO", "Precio_Cliente": 8900.00, "Precio_Tecnico": 6500.00, "Cantidad_Stock": 8},
   {"Codigo": "con001", "Producto": "CONVECTOR BELITA ROJO", "Precio_Cliente": 48000.00, "Precio_Tecnico": 48000.00, "Cantidad_Stock": 1},
   {"Codigo": "COP003", "Producto": "COPA 60MM", "Precio_Cliente": 23000.00, "Precio_Tecnico": 19000.00, "Cantidad_Stock": 1},
   {"Codigo": "COR018", "Producto": "CORREA 018", "Precio_Cliente": 5500.00, "Precio_Tecnico": 4300.00, "Cantidad_Stock": 5},
