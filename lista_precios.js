@@ -509,7 +509,7 @@
   {"Codigo": "013", "Producto": "UNION BRONCE 1/2 (NIPLE)", "Precio_Cliente": 5692.50, "Precio_Tecnico": 3762.00, "Cantidad_Stock": 1},
   {"Codigo": "tue012", "Producto": "UNION BRONCE 5/8 (NIPLE)", "Precio_Cliente": 7623.00, "Precio_Tecnico": 6039.00, "Cantidad_Stock": 1},
   {"Codigo": "8-6-CV12", "Producto": "VALVULA CHECK - AIRE ACONDICIONADO", "Precio_Cliente": 8246.70, "Precio_Tecnico": 7623.00, "Cantidad_Stock": 3},
-  {"Codigo": "4-9-2753", "Producto": "VALVULA DE CARGA 1/4", "Precio_Cliente": 3400.00, "Precio_Tecnico": 2400.00, "Cantidad_Stock": 16},
+  {"Codigo": "4-9-2753", "Producto": "VALVULA DE CARGA 1/4", "Precio_Cliente": 2700.00, "Precio_Tecnico": 2100.00, "Cantidad_Stock": 26},
   {"Codigo": "val15", "Producto": "VALVULA DE CARGA 410/R22", "Precio_Cliente": 13500.00, "Precio_Tecnico": 10200.00, "Cantidad_Stock": 2},
   {"Codigo": "v9", "Producto": "VALVULA INVERSORA 1/2 X 5/8", "Precio_Cliente": 74900.00, "Precio_Tecnico": 65200.00, "Cantidad_Stock": 2},
   {"Codigo": "v8", "Producto": "VALVULA INVERSORA 3/8 X 1/2", "Precio_Cliente": 42100.00, "Precio_Tecnico": 37300.00, "Cantidad_Stock": 2},
