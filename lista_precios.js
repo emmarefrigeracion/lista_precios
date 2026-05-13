@@ -279,7 +279,7 @@
   {"Codigo": "mot015", "Producto": "MOTOR BLUE ESTAR 1/4 R600", "Precio_Cliente": 153450.00, "Precio_Tecnico": 126621.00, "Cantidad_Stock": 0},
   {"Codigo": "014", "Producto": "MOTOR DOMPER 1/3 HP FAMILIAR", "Precio_Cliente": 115830.00, "Precio_Tecnico": 92763.00, "Cantidad_Stock": 3},
   {"Codigo": "mot1", "Producto": "MOTOR DREAN 7 CONTACTOS", "Precio_Cliente": 175000.00, "Precio_Tecnico": 163000.00, "Cantidad_Stock": 2},
-  {"Codigo": "motdre", "Producto": "MOTOR DREAN ORIGINAL 6 CONTACTOS", "Precio_Cliente": 183150.00, "Precio_Tecnico": 160380.00, "Cantidad_Stock": 1},
+  {"Codigo": "motdre", "Producto": "MOTOR DREAN ORIGINAL 6 CONTACTOS", "Precio_Cliente": 167900.00, "Precio_Tecnico": 160380.00, "Cantidad_Stock": 4},
   {"Codigo": "mot022", "Producto": "MOTOR EMBRACO 1/3HP R134", "Precio_Cliente": 0.00, "Precio_Tecnico": 0.00, "Cantidad_Stock": 0},
   {"Codigo": "mot011", "Producto": "MOTOR FORZADOR  ( REONDITO )   P/ EXIB", "Precio_Cliente": 27522.00, "Precio_Tecnico": 24255.00, "Cantidad_Stock": 1},
   {"Codigo": "for002", "Producto": "MOTOR FORZADOR TIPO ELCO 10W", "Precio_Cliente": 25000.00, "Precio_Tecnico": 22500.00, "Cantidad_Stock": 7},
