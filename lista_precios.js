@@ -445,7 +445,7 @@
   {"Codigo": "t9", "Producto": "TAPA JABONERA BLUE 6.06", "Precio_Cliente": 17000.00, "Precio_Tecnico": 15000.00, "Cantidad_Stock": 1},
   {"Codigo": "tapa001", "Producto": "TAPA PUERTA SUPERIOR DREAN GOLD BLUE", "Precio_Cliente": 75240.00, "Precio_Tecnico": 64350.00, "Cantidad_Stock": 0},
   {"Codigo": "13-1-3012", "Producto": "TAPA SECARROPA", "Precio_Cliente": 11880.00, "Precio_Tecnico": 6930.00, "Cantidad_Stock": 2},
-  {"Codigo": "TAP001", "Producto": "TAPAFUGAS EXTREME  12 ML", "Precio_Cliente": 29601.00, "Precio_Tecnico": 24500.00, "Cantidad_Stock": 0},
+  {"Codigo": "TAP001", "Producto": "TAPAFUGAS EXTREME  12 ML", "Precio_Cliente": 29601.00, "Precio_Tecnico": 24500.00, "Cantidad_Stock": 3},
   {"Codigo": "13646", "Producto": "TEMSOTATO PARA CONGELADOR", "Precio_Cliente": 17424.00, "Precio_Tecnico": 14355.00, "Cantidad_Stock": 2},
   {"Codigo": "ten1", "Producto": "TENSOR DE SECARROPAS KOHINOOR", "Precio_Cliente": 4200.00, "Precio_Tecnico": 3200.00, "Cantidad_Stock": 8},
   {"Codigo": "ten2", "Producto": "TENSOR PARA SECARROPA", "Precio_Cliente": 5000.00, "Precio_Tecnico": 3800.00, "Cantidad_Stock": 9},
