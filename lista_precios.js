@@ -417,7 +417,7 @@
   {"Codigo": "sog001", "Producto": "SOGA 20 METROS 4MM", "Precio_Cliente": 7425.00, "Precio_Tecnico": 6435.00, "Cantidad_Stock": 0},
   {"Codigo": "EJE001", "Producto": "SOPORTE 166  DREAN  CARA PLANA", "Precio_Cliente": 36630.00, "Precio_Tecnico": 30690.00, "Cantidad_Stock": 1},
   {"Codigo": "eje032", "Producto": "SOPORTE 166 ORIGINAL  REDONDITO", "Precio_Cliente": 29502.00, "Precio_Tecnico": 23760.00, "Cantidad_Stock": 2},
-  {"Codigo": "s4", "Producto": "SOPORTE 6-7KG (M)", "Precio_Cliente": 0.00, "Precio_Tecnico": 0.00, "Cantidad_Stock": 0},
+  {"Codigo": "s4", "Producto": "SOPORTE 6-7KG (M)", "Precio_Cliente": 30660.00, "Precio_Tecnico": 25000.00, "Cantidad_Stock": 5},
   {"Codigo": "EJE002", "Producto": "SOPORTE AC&C 166 DREAN  CILINDRICO", "Precio_Cliente": 22800.00, "Precio_Tecnico": 19400.00, "Cantidad_Stock": 103},
   {"Codigo": "eje011", "Producto": "SOPORTE AC&C BLUE 6-7 KG NACIONAL  (03-04)", "Precio_Cliente": 25740.00, "Precio_Tecnico": 22000.00, "Cantidad_Stock": 4},
   {"Codigo": "concept", "Producto": "SOPORTE AC&C CONCEPT 5.05", "Precio_Cliente": 49000.00, "Precio_Tecnico": 45000.00, "Cantidad_Stock": 0},
