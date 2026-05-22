@@ -358,7 +358,7 @@
   {"Codigo": "res6", "Producto": "RESORTE EMBRAGUE  DE LAVARROPA CONCEPT", "Precio_Cliente": 3100.00, "Precio_Tecnico": 2700.00, "Cantidad_Stock": 3},
   {"Codigo": "re003", "Producto": "RESORTE LAVARROPA 6-7 KG", "Precio_Cliente": 10900.00, "Precio_Tecnico": 8200.00, "Cantidad_Stock": 4},
   {"Codigo": "resorte001", "Producto": "RESORTE LAVARROPA 8 KG", "Precio_Cliente": 9009.00, "Precio_Tecnico": 6920.10, "Cantidad_Stock": 0},
-  {"Codigo": "res9", "Producto": "RESORTE PUERTA DREAN GOLD (TENSORES) POR UIDAD", "Precio_Cliente": 3200.00, "Precio_Tecnico": 2400.00, "Cantidad_Stock": 4},
+  {"Codigo": "res9", "Producto": "RESORTE PUERTA DREAN GOLD (TENSORES) POR UIDAD", "Precio_Cliente": 3500.00, "Precio_Tecnico": 2500.00, "Cantidad_Stock": 4},
   {"Codigo": "ret005", "Producto": "RETEN  CONSUL   10625 (PARA RODAMIENTO 6006)", "Precio_Cliente": 5940.00, "Precio_Tecnico": 4455.00, "Cantidad_Stock": 4},
   {"Codigo": "1-34-052372", "Producto": "RETEN 21X40X10", "Precio_Cliente": 3200.00, "Precio_Tecnico": 2500.00, "Cantidad_Stock": 19},
   {"Codigo": "re022", "Producto": "RETEN 22/40/10 (CON POLLERA) BOSH 03", "Precio_Cliente": 4500.00, "Precio_Tecnico": 3600.00, "Cantidad_Stock": 4},
