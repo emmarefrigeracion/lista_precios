@@ -430,7 +430,7 @@
   {"Codigo": "lg001", "Producto": "SOPORTE LG  8.5KG  (6305/06)", "Precio_Cliente": 74000.00, "Precio_Tecnico": 74000.00, "Cantidad_Stock": 0},
   {"Codigo": "eje015", "Producto": "SOPORTE LONGVIE", "Precio_Cliente": 143748.00, "Precio_Tecnico": 136125.00, "Cantidad_Stock": 1},
   {"Codigo": "eje021", "Producto": "SOPORTE PATRICK LPK 6/7 KG (CONICO O RECTO)", "Precio_Cliente": 46400.00, "Precio_Tecnico": 41000.00, "Cantidad_Stock": 2},
-  {"Codigo": "eje22", "Producto": "SOPORTE PATRICK LPK 8 KG", "Precio_Cliente": 29403.00, "Precio_Tecnico": 43857.00, "Cantidad_Stock": 2},
+  {"Codigo": "eje22", "Producto": "SOPORTE PATRICK LPK 8 KG LARGO", "Precio_Cliente": 29403.00, "Precio_Tecnico": 43857.00, "Cantidad_Stock": 2},
   {"Codigo": "sam008", "Producto": "SOPORTE SAMSUNG CARA PLANA  ROD 05/06", "Precio_Cliente": 51000.00, "Precio_Tecnico": 41500.00, "Cantidad_Stock": 1},
   {"Codigo": "saminv", "Producto": "SOPORTE SAMSUNG INVERTER", "Precio_Cliente": 49005.00, "Precio_Tecnico": 42800.00, "Cantidad_Stock": 1},
   {"Codigo": "taco1", "Producto": "TACO DE GOMA ANTIBRIVACION AIRES X 4", "Precio_Cliente": 5445.00, "Precio_Tecnico": 3960.00, "Cantidad_Stock": 0},
