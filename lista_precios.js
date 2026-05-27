@@ -416,6 +416,7 @@
   {"Codigo": "12-1-22568", "Producto": "SILICONA ACETICA 280ML", "Precio_Cliente": 5800.41, "Precio_Tecnico": 4787.64, "Cantidad_Stock": 4},
   {"Codigo": "sil002", "Producto": "SILICONA NEUTRA TRANSPARENTE  (TACSA)", "Precio_Cliente": 6237.00, "Precio_Tecnico": 4752.00, "Cantidad_Stock": 2},
   {"Codigo": "sog001", "Producto": "SOGA 20 METROS 4MM", "Precio_Cliente": 7425.00, "Precio_Tecnico": 6435.00, "Cantidad_Stock": 0},
+  {"Codigo": "eje23", "Producto": "SOPORTE  PATRICK 8KG  CORTO", "Precio_Cliente": 0.00, "Precio_Tecnico": 0.00, "Cantidad_Stock": 0},
   {"Codigo": "EJE001", "Producto": "SOPORTE 166  DREAN  CARA PLANA", "Precio_Cliente": 36630.00, "Precio_Tecnico": 30690.00, "Cantidad_Stock": 1},
   {"Codigo": "eje032", "Producto": "SOPORTE 166 ORIGINAL  REDONDITO", "Precio_Cliente": 29502.00, "Precio_Tecnico": 23760.00, "Cantidad_Stock": 2},
   {"Codigo": "EJE002", "Producto": "SOPORTE AC&C 166 DREAN  CILINDRICO", "Precio_Cliente": 22800.00, "Precio_Tecnico": 19400.00, "Cantidad_Stock": 103},
