@@ -475,7 +475,7 @@
   {"Codigo": "ter025", "Producto": "TERMO ACTUADOR CONCEPT", "Precio_Cliente": 14850.00, "Precio_Tecnico": 13068.00, "Cantidad_Stock": 2},
   {"Codigo": "ter022", "Producto": "TERMOSTATO  DUAL BOTELLERO", "Precio_Cliente": 16335.00, "Precio_Tecnico": 13365.00, "Cantidad_Stock": 0},
   {"Codigo": "ter53", "Producto": "TERMOSTATO  FREEZE 53626-2", "Precio_Cliente": 18900.00, "Precio_Tecnico": 16900.65, "Cantidad_Stock": 2},
-  {"Codigo": "ter005", "Producto": "TERMOSTATO 22872/2 BAMBI MEDIA CAÑA", "Precio_Cliente": 22572.00, "Precio_Tecnico": 17325.00, "Cantidad_Stock": 0},
+  {"Codigo": "ter005", "Producto": "TERMOSTATO 22872/2 BAMBI MEDIA CAÑA", "Precio_Cliente": 22572.00, "Precio_Tecnico": 17325.00, "Cantidad_Stock": 1},
   {"Codigo": "ter23670", "Producto": "TERMOSTATO 23670", "Precio_Cliente": 32800.00, "Precio_Tecnico": 28500.00, "Cantidad_Stock": 2},
   {"Codigo": "ter702", "Producto": "TERMOSTATO 4070-2 PARA FREEZER", "Precio_Cliente": 16500.00, "Precio_Tecnico": 14900.00, "Cantidad_Stock": 2},
   {"Codigo": "ter4070", "Producto": "TERMOSTATO 4070-4 /  22872-2 /  BAMBI", "Precio_Cliente": 19600.00, "Precio_Tecnico": 17000.00, "Cantidad_Stock": 2},
