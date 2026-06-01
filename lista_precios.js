@@ -80,6 +80,7 @@
   {"Codigo": "8-3-BI-5.15", "Producto": "CABLE TPR 5 X 1.5MM  POR METRO", "Precio_Cliente": 4500.00, "Precio_Tecnico": 3500.00, "Cantidad_Stock": 26},
   {"Codigo": "8-3-TPR525C", "Producto": "CABLE TPR 5 X 2,5 MM POR METRO", "Precio_Cliente": 5900.00, "Precio_Tecnico": 4900.00, "Cantidad_Stock": 20},
   {"Codigo": "1-18-0105", "Producto": "CAJA CHAPON ALTERNATIVA SANYO/GAFA/DAEWOO", "Precio_Cliente": 94347.00, "Precio_Tecnico": 75537.00, "Cantidad_Stock": 0},
+  {"Codigo": "caja1", "Producto": "CAJA DE ENGRANAJE GAFA/ELECTROLUX", "Precio_Cliente": 0.00, "Precio_Tecnico": 0.00, "Cantidad_Stock": 0},
   {"Codigo": "caj011", "Producto": "CAJA GAFA CHAPON ORIGINAL", "Precio_Cliente": 118800.00, "Precio_Tecnico": 100485.00, "Cantidad_Stock": 0},
   {"Codigo": "caj005", "Producto": "CAJA GAFA CHINA ENGRANAJE SIMPLE", "Precio_Cliente": 0.00, "Precio_Tecnico": 66825.00, "Cantidad_Stock": 0},
   {"Codigo": "caja010", "Producto": "CAJA LAVARROPA CONSUL Y ESLABON DE LUJO", "Precio_Cliente": 90882.00, "Precio_Tecnico": 75240.00, "Cantidad_Stock": 0},
