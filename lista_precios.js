@@ -282,6 +282,7 @@
   {"Codigo": "mot020", "Producto": "MOTOR 1/4 ELECTROLUX", "Precio_Cliente": 96030.00, "Precio_Tecnico": 85734.00, "Cantidad_Stock": 7},
   {"Codigo": "motair", "Producto": "MOTOR AIRE ACOND. 6000 FRIG  R410 (TOSHIBA)", "Precio_Cliente": 374220.00, "Precio_Tecnico": 338580.00, "Cantidad_Stock": 1},
   {"Codigo": "mot015", "Producto": "MOTOR BLUE ESTAR 1/4 R600", "Precio_Cliente": 153450.00, "Precio_Tecnico": 126621.00, "Cantidad_Stock": 0},
+  {"Codigo": "mot101", "Producto": "MOTOR COMERCIAL FINLEY 1/2HP R404 (4460)", "Precio_Cliente": 207300.00, "Precio_Tecnico": 197000.00, "Cantidad_Stock": 1},
   {"Codigo": "mot100", "Producto": "MOTOR COMERCIAL TECUMSE AE4460Z", "Precio_Cliente": 274000.00, "Precio_Tecnico": 250000.00, "Cantidad_Stock": 0},
   {"Codigo": "014", "Producto": "MOTOR DOMPER 1/3 HP FAMILIAR", "Precio_Cliente": 115830.00, "Precio_Tecnico": 92763.00, "Cantidad_Stock": 3},
   {"Codigo": "mot1", "Producto": "MOTOR DREAN 7 CONTACTOS", "Precio_Cliente": 175000.00, "Precio_Tecnico": 163000.00, "Cantidad_Stock": 2},
