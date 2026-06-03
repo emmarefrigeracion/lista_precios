@@ -306,7 +306,7 @@
   {"Codigo": "orr002", "Producto": "ORRIN R22", "Precio_Cliente": 445.50, "Precio_Tecnico": 386.10, "Cantidad_Stock": 10},
   {"Codigo": "pal8", "Producto": "PALANCA KOHINNOR MARRON/BLANCA", "Precio_Cliente": 6840.00, "Precio_Tecnico": 6210.00, "Cantidad_Stock": 0},
   {"Codigo": "pale002", "Producto": "PALETA FORZADOR 20-25 NARANJA", "Precio_Cliente": 10395.00, "Precio_Tecnico": 8415.00, "Cantidad_Stock": 2},
-  {"Codigo": "pale001", "Producto": "PALETAS PARA FORZADOR 20 CM", "Precio_Cliente": 3564.00, "Precio_Tecnico": 3267.00, "Cantidad_Stock": 0},
+  {"Codigo": "pale001", "Producto": "PALETAS PARA FORZADOR 20 CM", "Precio_Cliente": 3564.00, "Precio_Tecnico": 3267.00, "Cantidad_Stock": 5},
   {"Codigo": "P8", "Producto": "PALTE LAVARROPA CONCEPT", "Precio_Cliente": 10200.00, "Precio_Tecnico": 9900.00, "Cantidad_Stock": 3},
   {"Codigo": "pas01", "Producto": "PASTILLA DE LIMPIEZA P LAVARROPAS", "Precio_Cliente": 3000.00, "Precio_Tecnico": 2500.00, "Cantidad_Stock": 10},
   {"Codigo": "pat003", "Producto": "PATAS  LAVARROPA REGULABLE (BASE GRANDE)", "Precio_Cliente": 1980.00, "Precio_Tecnico": 1500.00, "Cantidad_Stock": 1},
