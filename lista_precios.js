@@ -494,6 +494,7 @@
   {"Codigo": "terfree", "Producto": "TERMOSTATO FREEZER 53670-4", "Precio_Cliente": 19107.00, "Precio_Tecnico": 16038.00, "Cantidad_Stock": 3},
   {"Codigo": "003", "Producto": "TERMOSTATO K 59", "Precio_Cliente": 15000.00, "Precio_Tecnico": 11800.00, "Cantidad_Stock": 7},
   {"Codigo": "ter30", "Producto": "TERMOSTATO KDF30 ORIGINAL DE GAFA", "Precio_Cliente": 28000.00, "Precio_Tecnico": 22800.00, "Cantidad_Stock": 2},
+  {"Codigo": "ter26", "Producto": "TERMOSTATO KF26 (SENSA PLATICO)", "Precio_Cliente": 21000.00, "Precio_Tecnico": 18000.00, "Cantidad_Stock": 0},
   {"Codigo": "ter1", "Producto": "TERMOSTATO NO FROST GAFA ( PARA HELADERA NO FROST CONVERTIDA A MECANICA)", "Precio_Cliente": 24354.00, "Precio_Tecnico": 20988.00, "Cantidad_Stock": 2},
   {"Codigo": "TER4", "Producto": "TERMOSTATO P PATRICK  (ORIGINAL)", "Precio_Cliente": 31000.00, "Precio_Tecnico": 28200.00, "Cantidad_Stock": 1},
   {"Codigo": "ter006", "Producto": "TERMOSTATO P PATRICK ALTERNATIVO", "Precio_Cliente": 22600.00, "Precio_Tecnico": 17900.00, "Cantidad_Stock": 1},
