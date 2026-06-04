@@ -475,6 +475,7 @@
   {"Codigo": "dis001", "Producto": "TERMICO 85º /89º PARA DISPENSER", "Precio_Cliente": 6435.00, "Precio_Tecnico": 5148.00, "Cantidad_Stock": 2},
   {"Codigo": "t012", "Producto": "TERMICOS 1/4- 1/3", "Precio_Cliente": 4500.00, "Precio_Tecnico": 3500.00, "Cantidad_Stock": 10},
   {"Codigo": "ter025", "Producto": "TERMO ACTUADOR CONCEPT", "Precio_Cliente": 14850.00, "Precio_Tecnico": 13068.00, "Cantidad_Stock": 2},
+  {"Codigo": "terf", "Producto": "TERMOSTAO PARA FREEZER AMBIENTE", "Precio_Cliente": 19000.00, "Precio_Tecnico": 16200.00, "Cantidad_Stock": 3},
   {"Codigo": "ter022", "Producto": "TERMOSTATO  DUAL BOTELLERO", "Precio_Cliente": 16335.00, "Precio_Tecnico": 13365.00, "Cantidad_Stock": 0},
   {"Codigo": "ter53", "Producto": "TERMOSTATO  FREEZE 53626-2", "Precio_Cliente": 18900.00, "Precio_Tecnico": 16900.65, "Cantidad_Stock": 2},
   {"Codigo": "ter005", "Producto": "TERMOSTATO 22872/2 BAMBI MEDIA CAÑA", "Precio_Cliente": 22572.00, "Precio_Tecnico": 17325.00, "Cantidad_Stock": 1},
