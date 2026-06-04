@@ -422,7 +422,7 @@
   {"Codigo": "sen25", "Producto": "SENSOR TERMISTOR 2.7K", "Precio_Cliente": 12150.00, "Precio_Tecnico": 8730.00, "Cantidad_Stock": 0},
   {"Codigo": "ser001", "Producto": "SERIGRAFIA CONCEPT 5.05 C/S VISOR", "Precio_Cliente": 16800.00, "Precio_Tecnico": 13200.00, "Cantidad_Stock": 4},
   {"Codigo": "12-1-22568", "Producto": "SILICONA ACETICA 280ML", "Precio_Cliente": 5800.41, "Precio_Tecnico": 4787.64, "Cantidad_Stock": 4},
-  {"Codigo": "sil002", "Producto": "SILICONA NEUTRA TRANSPARENTE  (TACSA)", "Precio_Cliente": 6237.00, "Precio_Tecnico": 4752.00, "Cantidad_Stock": 2},
+  {"Codigo": "sil002", "Producto": "SILICONA NEUTRA TRANSPARENTE", "Precio_Cliente": 9500.00, "Precio_Tecnico": 7500.00, "Cantidad_Stock": 5},
   {"Codigo": "sog001", "Producto": "SOGA 20 METROS 4MM", "Precio_Cliente": 7425.00, "Precio_Tecnico": 6435.00, "Cantidad_Stock": 0},
   {"Codigo": "eje23", "Producto": "SOPORTE  PATRICK 8KG  CORTO", "Precio_Cliente": 46900.00, "Precio_Tecnico": 41900.00, "Cantidad_Stock": 2},
   {"Codigo": "EJE001", "Producto": "SOPORTE 166  DREAN  CARA PLANA", "Precio_Cliente": 36630.00, "Precio_Tecnico": 30690.00, "Cantidad_Stock": 1},
