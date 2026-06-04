@@ -463,7 +463,7 @@
   {"Codigo": "13-1-3012", "Producto": "TAPA SECARROPA", "Precio_Cliente": 11880.00, "Precio_Tecnico": 6930.00, "Cantidad_Stock": 2},
   {"Codigo": "tap2", "Producto": "TAPA SECARROPA CODINI", "Precio_Cliente": 17000.00, "Precio_Tecnico": 14900.00, "Cantidad_Stock": 3},
   {"Codigo": "TAP001", "Producto": "TAPAFUGAS EXTREME  12 ML", "Precio_Cliente": 29601.00, "Precio_Tecnico": 24500.00, "Cantidad_Stock": 2},
-  {"Codigo": "13646", "Producto": "TEMSOTATO PARA CONGELADOR", "Precio_Cliente": 18000.00, "Precio_Tecnico": 14900.00, "Cantidad_Stock": 2},
+  {"Codigo": "13646", "Producto": "TEMSOTATO PARA CONGELADOR", "Precio_Cliente": 18000.00, "Precio_Tecnico": 14900.00, "Cantidad_Stock": 4},
   {"Codigo": "ten1", "Producto": "TENSOR DE SECARROPAS KOHINOOR", "Precio_Cliente": 4200.00, "Precio_Tecnico": 3200.00, "Cantidad_Stock": 8},
   {"Codigo": "ten2", "Producto": "TENSOR PARA SECARROPA", "Precio_Cliente": 5000.00, "Precio_Tecnico": 3800.00, "Cantidad_Stock": 9},
   {"Codigo": "ten6", "Producto": "TENSOR PARA SECARROPA DREAN WIDN QV", "Precio_Cliente": 4800.00, "Precio_Tecnico": 3800.00, "Cantidad_Stock": 0},
