@@ -434,7 +434,7 @@
   {"Codigo": "EJE003", "Producto": "SOPORTE AURORA 03/03 CONICO", "Precio_Cliente": 28413.00, "Precio_Tecnico": 26235.00, "Cantidad_Stock": 0},
   {"Codigo": "sop011", "Producto": "SOPORTE BLUE 6 Y 7KG (CORONITA)", "Precio_Cliente": 28442.70, "Precio_Tecnico": 24700.00, "Cantidad_Stock": 0},
   {"Codigo": "eje025", "Producto": "SOPORTE BLUE 6-7 KG ORIGINAL", "Precio_Cliente": 35000.00, "Precio_Tecnico": 28000.00, "Cantidad_Stock": 2},
-  {"Codigo": "EJE026", "Producto": "SOPORTE BLUE 8.12 (8KG) ORIGINAL REDONDITO", "Precio_Cliente": 41580.00, "Precio_Tecnico": 34650.00, "Cantidad_Stock": 6},
+  {"Codigo": "EJE026", "Producto": "SOPORTE BLUE 8.12 (8KG) ORIGINAL REDONDITO", "Precio_Cliente": 41580.00, "Precio_Tecnico": 36000.00, "Cantidad_Stock": 6},
   {"Codigo": "EJE004", "Producto": "SOPORTE BOSH 03/03", "Precio_Cliente": 44055.00, "Precio_Tecnico": 34155.00, "Cantidad_Stock": 1},
   {"Codigo": "lg001", "Producto": "SOPORTE LG  8.5KG  (6305/06)", "Precio_Cliente": 74000.00, "Precio_Tecnico": 74000.00, "Cantidad_Stock": 0},
   {"Codigo": "eje015", "Producto": "SOPORTE LONGVIE", "Precio_Cliente": 143748.00, "Precio_Tecnico": 136125.00, "Cantidad_Stock": 1},
