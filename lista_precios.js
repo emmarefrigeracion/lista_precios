@@ -117,7 +117,7 @@
   {"Codigo": "cin15", "Producto": "CINTA AILSADORA NEGRA 20 METROS", "Precio_Cliente": 6500.00, "Precio_Tecnico": 5200.00, "Cantidad_Stock": 9},
   {"Codigo": "cintaeco", "Producto": "CINTA MOTECH PARA EMBALAR", "Precio_Cliente": 4800.00, "Precio_Tecnico": 3800.00, "Cantidad_Stock": 16},
   {"Codigo": "tacsa", "Producto": "CINTA TACSA C/PEGAMENTO", "Precio_Cliente": 8500.00, "Precio_Tecnico": 7000.00, "Cantidad_Stock": 5},
-  {"Codigo": "tspega", "Producto": "CINTA TACSA S/PEGAMENTO", "Precio_Cliente": 6700.00, "Precio_Tecnico": 5400.00, "Cantidad_Stock": 0},
+  {"Codigo": "tspega", "Producto": "CINTA TACSA S/PEGAMENTO", "Precio_Cliente": 6700.00, "Precio_Tecnico": 5400.00, "Cantidad_Stock": 10},
   {"Codigo": "cob5", "Producto": "COBERTOR DE LIMPIEZA CHICO (2250-3000-4500)", "Precio_Cliente": 29000.00, "Precio_Tecnico": 25000.00, "Cantidad_Stock": 6},
   {"Codigo": "cob1", "Producto": "COBERTOR DE LIMPIEZA P/ SPLIT GRANDE (4500-6000)", "Precio_Cliente": 33000.00, "Precio_Tecnico": 29500.00, "Cantidad_Stock": 3},
   {"Codigo": "c3", "Producto": "CODO CURVA COBRE 90° - 1\"3/8 SOLDAR", "Precio_Cliente": 3600.00, "Precio_Tecnico": 2700.00, "Cantidad_Stock": 3},
