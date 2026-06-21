@@ -550,7 +550,7 @@
   {"Codigo": "val001", "Producto": "VALVULA PARA LATA  C/OVULO", "Precio_Cliente": 7425.00, "Precio_Tecnico": 6435.00, "Cantidad_Stock": 0},
   {"Codigo": "val002", "Producto": "VALVULA PARA LATA C/VOLANTE", "Precio_Cliente": 22000.00, "Precio_Tecnico": 18300.00, "Cantidad_Stock": 3},
   {"Codigo": "4-12-125", "Producto": "VARILLA  DE PLATA", "Precio_Cliente": 2500.00, "Precio_Tecnico": 2200.00, "Cantidad_Stock": 31},
-  {"Codigo": "VAR002", "Producto": "VARILLA DE ALUMINIO CON FUMDANTE", "Precio_Cliente": 9207.00, "Precio_Tecnico": 7029.00, "Cantidad_Stock": 0},
+  {"Codigo": "VAR002", "Producto": "VARILLA DE ALUMINIO CON FUMDANTE", "Precio_Cliente": 9207.00, "Precio_Tecnico": 7029.00, "Cantidad_Stock": 2},
   {"Codigo": "mec001", "Producto": "VASTAGO 45MM (PARA  MECHA  DE  COPA)", "Precio_Cliente": 29304.00, "Precio_Tecnico": 24552.00, "Cantidad_Stock": 1},
   {"Codigo": "visor001", "Producto": "VISOR DREAN NEXT 8 KG (DISPLAY)", "Precio_Cliente": 42372.00, "Precio_Tecnico": 35244.00, "Cantidad_Stock": 0}
 ];
