@@ -158,7 +158,7 @@
   {"Codigo": "COR009", "Producto": "CORREA POLY 705", "Precio_Cliente": 13266.00, "Precio_Tecnico": 11286.00, "Cantidad_Stock": 2},
   {"Codigo": "cap002", "Producto": "CORTA CAPILAR", "Precio_Cliente": 10500.00, "Precio_Tecnico": 8200.00, "Cantidad_Stock": 1},
   {"Codigo": "cor021", "Producto": "CORTADORA CAÑO MEDIANA", "Precio_Cliente": 18000.00, "Precio_Tecnico": 18000.00, "Cantidad_Stock": 1},
-  {"Codigo": "COR002", "Producto": "CORTADORA CAÑO MINI", "Precio_Cliente": 10000.00, "Precio_Tecnico": 9900.00, "Cantidad_Stock": 1},
+  {"Codigo": "COR002", "Producto": "CORTADORA CAÑO MINI", "Precio_Cliente": 9000.00, "Precio_Tecnico": 7200.00, "Cantidad_Stock": 1},
   {"Codigo": "cri002", "Producto": "CRISTAL DREAN BLUE", "Precio_Cliente": 24900.00, "Precio_Tecnico": 21100.00, "Cantidad_Stock": 4},
   {"Codigo": "cristal next", "Producto": "CRISTAL PUERTA NEXT /AURORA/BGH", "Precio_Cliente": 35000.00, "Precio_Tecnico": 31000.00, "Cantidad_Stock": 6},
   {"Codigo": "cuba02", "Producto": "CUBA 45/47 LITROS", "Precio_Cliente": 129000.00, "Precio_Tecnico": 107000.00, "Cantidad_Stock": 1},
