@@ -268,6 +268,7 @@
   {"Codigo": "8-13-0325", "Producto": "MANGUERA CRISTAL 1/2\" 12X16", "Precio_Cliente": 1158.30, "Precio_Tecnico": 841.50, "Cantidad_Stock": 0},
   {"Codigo": "man112", "Producto": "MANGUERA CRISTAL 5/8 X METRO (ROLLO)", "Precio_Cliente": 3000.00, "Precio_Tecnico": 2200.00, "Cantidad_Stock": 52},
   {"Codigo": "man025", "Producto": "MANGUERA DE CARG GRIS 2.5M", "Precio_Cliente": 7000.00, "Precio_Tecnico": 5600.00, "Cantidad_Stock": 2},
+  {"Codigo": "m120", "Producto": "MANGUERA DE CARGA 1.20", "Precio_Cliente": 4500.00, "Precio_Tecnico": 3500.00, "Cantidad_Stock": 5},
   {"Codigo": "man026", "Producto": "MANGUERA DE CARGA GRIS 3M", "Precio_Cliente": 7600.00, "Precio_Tecnico": 6200.00, "Cantidad_Stock": 3},
   {"Codigo": "man113", "Producto": "MANGUERA DE CARGA R22/R1347R12  X3", "Precio_Cliente": 17820.00, "Precio_Tecnico": 15840.00, "Cantidad_Stock": 0},
   {"Codigo": "man111", "Producto": "MANGUERA DE CRAGA GRIS 1,80M", "Precio_Cliente": 6000.00, "Precio_Tecnico": 4700.00, "Cantidad_Stock": 11},
