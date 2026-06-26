@@ -542,6 +542,7 @@
   {"Codigo": "tir015", "Producto": "TIRADOR LAVARROPA COVENTRY", "Precio_Cliente": 9900.00, "Precio_Tecnico": 7500.00, "Cantidad_Stock": 1},
   {"Codigo": "tir1", "Producto": "TIRADOR LAVARROPA DREAN BLUE/CANDY", "Precio_Cliente": 4600.00, "Precio_Tecnico": 3400.00, "Cantidad_Stock": 4},
   {"Codigo": "tir006", "Producto": "TIRADOR PUERTA SAMSUNG (MANIJA)", "Precio_Cliente": 5900.00, "Precio_Tecnico": 4500.00, "Cantidad_Stock": 2},
+  {"Codigo": "t5", "Producto": "TOBERA DREAN GOLD", "Precio_Cliente": 29700.00, "Precio_Tecnico": 27000.00, "Cantidad_Stock": 1},
   {"Codigo": "tor001", "Producto": "TORNILLO SOPORTE DREN BLUE 6,6-7,10-8,12", "Precio_Cliente": 1600.00, "Precio_Tecnico": 1000.00, "Cantidad_Stock": 20},
   {"Codigo": "tor10", "Producto": "TORNILLO T1 AUTOPERFORANTE", "Precio_Cliente": 44.55, "Precio_Tecnico": 36.63, "Cantidad_Stock": 0},
   {"Codigo": "tor005", "Producto": "TORNILLOS BLUE  ORIGINALES", "Precio_Cliente": 2600.00, "Precio_Tecnico": 1500.00, "Cantidad_Stock": 10},
