@@ -65,6 +65,7 @@
   {"Codigo": "bri5", "Producto": "BRIDA FUELLE NEXT DELANTERA", "Precio_Cliente": 4000.00, "Precio_Tecnico": 2900.00, "Cantidad_Stock": 2},
   {"Codigo": "buje8", "Producto": "BUJE DE ARRASTRE", "Precio_Cliente": 3100.00, "Precio_Tecnico": 2300.00, "Cantidad_Stock": 2},
   {"Codigo": "buje02", "Producto": "BUJE DE ARRASTRE CAJA (BASE)", "Precio_Cliente": 6000.00, "Precio_Tecnico": 5000.00, "Cantidad_Stock": 4},
+  {"Codigo": "bu5", "Producto": "BUJE LG AGITADOR LG ALUMINIO  13KG", "Precio_Cliente": 0.00, "Precio_Tecnico": 0.00, "Cantidad_Stock": 5},
   {"Codigo": "bulg", "Producto": "BUJE PARA TURBINA LG", "Precio_Cliente": 6500.00, "Precio_Tecnico": 5900.00, "Cantidad_Stock": 3},
   {"Codigo": "bur1", "Producto": "BURLETE  BLANCO- GRIS-MARRON POR  POR PUERTA", "Precio_Cliente": 18500.00, "Precio_Tecnico": 16500.00, "Cantidad_Stock": 12},
   {"Codigo": "bur011", "Producto": "BURLETE A PRESION   P/ 1 PUERTA 2MTRS", "Precio_Cliente": 27000.00, "Precio_Tecnico": 23000.00, "Cantidad_Stock": 7},
