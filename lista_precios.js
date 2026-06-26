@@ -258,7 +258,7 @@
   {"Codigo": "1-35-14655", "Producto": "JUEGO CARBONES NACIONALES  BUENO  (BOLSA PLATEADA)", "Precio_Cliente": 11500.00, "Precio_Tecnico": 10300.00, "Cantidad_Stock": 2},
   {"Codigo": "man5", "Producto": "JUEGO DE MANGUERA X3 R410", "Precio_Cliente": 32670.00, "Precio_Tecnico": 23265.00, "Cantidad_Stock": 0},
   {"Codigo": "6-13-1127", "Producto": "JUEGO MANG. CON  LLAMA Y SOPLETE AUTOGENA", "Precio_Cliente": 63712.44, "Precio_Tecnico": 53032.32, "Cantidad_Stock": 1},
-  {"Codigo": "kit010", "Producto": "KIT FIJACION DEL 8", "Precio_Cliente": 5666.76, "Precio_Tecnico": 4811.40, "Cantidad_Stock": 95},
+  {"Codigo": "kit010", "Producto": "KIT FIJACION DEL 8", "Precio_Cliente": 5400.00, "Precio_Tecnico": 4600.00, "Cantidad_Stock": 95},
   {"Codigo": "kit002", "Producto": "KIT INSTALACION 1/2-1/4 CON AISLANTE NEGRO Y CINTA TACSA", "Precio_Cliente": 79800.00, "Precio_Tecnico": 75000.00, "Cantidad_Stock": 86},
   {"Codigo": "kit004", "Producto": "KIT INSTALACION 1/4-3/8 CON AISLANTE NEGRO Y CINTA TACSA", "Precio_Cliente": 72000.00, "Precio_Tecnico": 66000.00, "Cantidad_Stock": 91},
   {"Codigo": "kit1", "Producto": "KIT INSTALACION 1/4-5/8", "Precio_Cliente": 94000.00, "Precio_Tecnico": 87000.00, "Cantidad_Stock": 0},
