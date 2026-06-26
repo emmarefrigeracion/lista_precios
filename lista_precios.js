@@ -330,7 +330,7 @@
   {"Codigo": "ter19", "Producto": "PERILLA PARA TERMOSTATO", "Precio_Cliente": 2900.00, "Precio_Tecnico": 1900.00, "Cantidad_Stock": 1},
   {"Codigo": "per04", "Producto": "PERILLA PATRIOT", "Precio_Cliente": 15000.00, "Precio_Tecnico": 1000.00, "Cantidad_Stock": 4},
   {"Codigo": "p1", "Producto": "PERILLA QV SECARROPA ALLADIO", "Precio_Cliente": 0.00, "Precio_Tecnico": 0.00, "Cantidad_Stock": 4},
-  {"Codigo": "pe021", "Producto": "PERILLA SECARROPA DREAN (AZULES)", "Precio_Cliente": 5200.00, "Precio_Tecnico": 3900.00, "Cantidad_Stock": 4},
+  {"Codigo": "pe021", "Producto": "PERILLA SECARROPA DREAN (AZULES) WINC", "Precio_Cliente": 5200.00, "Precio_Tecnico": 3900.00, "Cantidad_Stock": 4},
   {"Codigo": "per03", "Producto": "PERILLA SEMIAUTOMATICO / TECNOVA", "Precio_Cliente": 1500.00, "Precio_Tecnico": 1000.00, "Cantidad_Stock": 5},
   {"Codigo": "per002", "Producto": "PERSOSTATO 166 BLUE ORIGINAL", "Precio_Cliente": 0.00, "Precio_Tecnico": 12375.00, "Cantidad_Stock": 0},
   {"Codigo": "per001", "Producto": "PERSOSTATO BLUE FRONTAL", "Precio_Cliente": 0.00, "Precio_Tecnico": 19503.00, "Cantidad_Stock": 0},
