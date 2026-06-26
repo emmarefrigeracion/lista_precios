@@ -479,6 +479,7 @@
   {"Codigo": "tapa001", "Producto": "TAPA PUERTA SUPERIOR DREAN GOLD BLUE", "Precio_Cliente": 75240.00, "Precio_Tecnico": 64350.00, "Cantidad_Stock": 0},
   {"Codigo": "13-1-3012", "Producto": "TAPA SECARROPA", "Precio_Cliente": 11880.00, "Precio_Tecnico": 6930.00, "Cantidad_Stock": 2},
   {"Codigo": "tap2", "Producto": "TAPA SECARROPA CODINI", "Precio_Cliente": 17000.00, "Precio_Tecnico": 14900.00, "Cantidad_Stock": 2},
+  {"Codigo": "4663", "Producto": "TAPA SECARROPA DREAN QV/QR", "Precio_Cliente": 8500.00, "Precio_Tecnico": 7200.00, "Cantidad_Stock": 3},
   {"Codigo": "8393", "Producto": "TAPA SECARROPA KOHINOOR CELESTE/GRIS", "Precio_Cliente": 10000.00, "Precio_Tecnico": 7500.00, "Cantidad_Stock": 3},
   {"Codigo": "TAP001", "Producto": "TAPAFUGAS EXTREME  12 ML", "Precio_Cliente": 29601.00, "Precio_Tecnico": 24500.00, "Cantidad_Stock": 2},
   {"Codigo": "13646", "Producto": "TEMSOTATO PARA CONGELADOR", "Precio_Cliente": 18000.00, "Precio_Tecnico": 14900.00, "Cantidad_Stock": 3},
