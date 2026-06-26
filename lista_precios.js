@@ -123,7 +123,6 @@
   {"Codigo": "peltier2", "Producto": "CELDA PELTIER 40*40MM TEC1-12708", "Precio_Cliente": 23000.00, "Precio_Tecnico": 19500.00, "Cantidad_Stock": 2},
   {"Codigo": "cin15", "Producto": "CINTA AILSADORA NEGRA 20 METROS", "Precio_Cliente": 6500.00, "Precio_Tecnico": 5200.00, "Cantidad_Stock": 9},
   {"Codigo": "cm11", "Producto": "CINTA MOTECH C/ADHESIVO", "Precio_Cliente": 6900.00, "Precio_Tecnico": 5800.00, "Cantidad_Stock": 10},
-  {"Codigo": "cintaeco", "Producto": "CINTA MOTECH PARA EMBALAR", "Precio_Cliente": 4800.00, "Precio_Tecnico": 3800.00, "Cantidad_Stock": 16},
   {"Codigo": "cm10", "Producto": "CINTA MOTECH S/ ADHESIVO", "Precio_Cliente": 4900.00, "Precio_Tecnico": 3700.00, "Cantidad_Stock": 20},
   {"Codigo": "tacsa", "Producto": "CINTA TACSA C/PEGAMENTO", "Precio_Cliente": 8500.00, "Precio_Tecnico": 7000.00, "Cantidad_Stock": 5},
   {"Codigo": "tspega", "Producto": "CINTA TACSA S/PEGAMENTO", "Precio_Cliente": 6700.00, "Precio_Tecnico": 5400.00, "Cantidad_Stock": 10},
