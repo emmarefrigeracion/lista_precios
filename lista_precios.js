@@ -84,6 +84,7 @@
   {"Codigo": "caj011", "Producto": "CAJA GAFA CHAPON ORIGINAL", "Precio_Cliente": 118800.00, "Precio_Tecnico": 100485.00, "Cantidad_Stock": 0},
   {"Codigo": "caj005", "Producto": "CAJA GAFA CHINA ENGRANAJE SIMPLE", "Precio_Cliente": 0.00, "Precio_Tecnico": 66825.00, "Cantidad_Stock": 0},
   {"Codigo": "caja010", "Producto": "CAJA LAVARROPA CONSUL Y ESLABON DE LUJO", "Precio_Cliente": 90882.00, "Precio_Tecnico": 75240.00, "Cantidad_Stock": 0},
+  {"Codigo": "8975", "Producto": "CAJA LG 7.5KG", "Precio_Cliente": 0.00, "Precio_Tecnico": 0.00, "Cantidad_Stock": 0},
   {"Codigo": "9249", "Producto": "CAJA LG 9/13KG", "Precio_Cliente": 0.00, "Precio_Tecnico": 0.00, "Cantidad_Stock": 3},
   {"Codigo": "caj009", "Producto": "CAJA PREINSTALACION AIRE", "Precio_Cliente": 11500.00, "Precio_Tecnico": 7500.00, "Cantidad_Stock": 15},
   {"Codigo": "cal001", "Producto": "CALOVENTOR SERENA (BLANCO)", "Precio_Cliente": 25000.00, "Precio_Tecnico": 20000.00, "Cantidad_Stock": 5},
