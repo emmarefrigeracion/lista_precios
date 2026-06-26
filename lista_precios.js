@@ -219,6 +219,7 @@
   {"Codigo": "fue007", "Producto": "FUELLE MABE 8KG / PATRICK", "Precio_Cliente": 44300.00, "Precio_Tecnico": 41900.00, "Cantidad_Stock": 2},
   {"Codigo": "fue002", "Producto": "FUELLE NEXT \"ORIGINAL\"", "Precio_Cliente": 31500.00, "Precio_Tecnico": 27500.00, "Cantidad_Stock": 12},
   {"Codigo": "fue010", "Producto": "FUELLE ORIGINAL LONGVIE ORIGINAL 8 KG MODL8010", "Precio_Cliente": 35000.00, "Precio_Tecnico": 30000.00, "Cantidad_Stock": 1},
+  {"Codigo": "fs", "Producto": "FUELLE SAMSUNG", "Precio_Cliente": 45000.00, "Precio_Tecnico": 41700.00, "Cantidad_Stock": 1},
   {"Codigo": "fue001", "Producto": "FUELLE SAMSUNG 1702-1304-1806 NO INVERTER", "Precio_Cliente": 36432.00, "Precio_Tecnico": 32472.00, "Cantidad_Stock": 0},
   {"Codigo": "fuebosh", "Producto": "FUELLR BOSH  CHICO", "Precio_Cliente": 28116.00, "Precio_Tecnico": 24750.00, "Cantidad_Stock": 0},
   {"Codigo": "fu001", "Producto": "FUSIBLE TERMICO", "Precio_Cliente": 8200.00, "Precio_Tecnico": 6200.00, "Cantidad_Stock": 1},
