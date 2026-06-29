@@ -501,7 +501,7 @@
   {"Codigo": "ten002", "Producto": "TENSORES PARA LAVARROPA", "Precio_Cliente": 2178.00, "Precio_Tecnico": 1683.00, "Cantidad_Stock": 0},
   {"Codigo": "dis001", "Producto": "TERMICO 85º /89º PARA DISPENSER", "Precio_Cliente": 6435.00, "Precio_Tecnico": 5148.00, "Cantidad_Stock": 2},
   {"Codigo": "t012", "Producto": "TERMICOS 1/4- 1/3", "Precio_Cliente": 4500.00, "Precio_Tecnico": 3500.00, "Cantidad_Stock": 10},
-  {"Codigo": "ter025", "Producto": "TERMO ACTUADOR CONCEPT", "Precio_Cliente": 14850.00, "Precio_Tecnico": 13068.00, "Cantidad_Stock": 2},
+  {"Codigo": "4798", "Producto": "TERMO ACTUADOR CONCEPT", "Precio_Cliente": 14850.00, "Precio_Tecnico": 13068.00, "Cantidad_Stock": 2},
   {"Codigo": "ter54", "Producto": "TERMOSATO K54 L1119 PARA FREEZER", "Precio_Cliente": 22000.00, "Precio_Tecnico": 18000.00, "Cantidad_Stock": 2},
   {"Codigo": "terf", "Producto": "TERMOSTAO PARA FREEZER AMBIENTE", "Precio_Cliente": 19000.00, "Precio_Tecnico": 16200.00, "Cantidad_Stock": 3},
   {"Codigo": "ter022", "Producto": "TERMOSTATO  DUAL BOTELLERO", "Precio_Cliente": 16335.00, "Precio_Tecnico": 13365.00, "Cantidad_Stock": 0},
