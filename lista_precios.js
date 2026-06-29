@@ -27,7 +27,7 @@
   {"Codigo": "am2", "Producto": "AMORTIGUADORES PATRICK  PRECIO UNITARIO", "Precio_Cliente": 12100.00, "Precio_Tecnico": 9200.00, "Cantidad_Stock": 2},
   {"Codigo": "ani", "Producto": "ANILLO DE CHAPA TERMOACTUADOR CONCEPT", "Precio_Cliente": 5500.00, "Precio_Tecnico": 4500.00, "Cantidad_Stock": 8},
   {"Codigo": "aran2", "Producto": "ARANDELAS  GRANDES", "Precio_Cliente": 30.00, "Precio_Tecnico": 27.00, "Cantidad_Stock": 100},
-  {"Codigo": "3694", "Producto": "ARANDELAS POLEA DREAN CONCEP", "Precio_Cliente": 0.00, "Precio_Tecnico": 0.00, "Cantidad_Stock": 0},
+  {"Codigo": "3694", "Producto": "ARANDELAS POLEA DREAN CONCEP", "Precio_Cliente": 1900.00, "Precio_Tecnico": 1500.00, "Cantidad_Stock": 3},
   {"Codigo": "fle5", "Producto": "ARCO FLEJE DE FRENO PARA SECARROPA KOHINOOR", "Precio_Cliente": 6900.00, "Precio_Tecnico": 5800.00, "Cantidad_Stock": 3},
   {"Codigo": "ARO000", "Producto": "ARO EMBELLECDOR BLANCO P/AIRE ACONDICIONADO", "Precio_Cliente": 3500.00, "Precio_Tecnico": 2100.00, "Cantidad_Stock": 18},
   {"Codigo": "ARO001", "Producto": "ARO EXTERIOR DREAN BLUE", "Precio_Cliente": 17500.00, "Precio_Tecnico": 13300.00, "Cantidad_Stock": 3},
