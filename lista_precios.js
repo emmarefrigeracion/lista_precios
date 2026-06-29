@@ -212,7 +212,7 @@
   {"Codigo": "FOR011", "Producto": "FORZADOR PATRICK HPK", "Precio_Cliente": 37422.00, "Precio_Tecnico": 32175.00, "Cantidad_Stock": 2},
   {"Codigo": "fle20", "Producto": "FRENO DE SECARROPA DREAN", "Precio_Cliente": 6138.00, "Precio_Tecnico": 4702.50, "Cantidad_Stock": 0},
   {"Codigo": "cuba 003", "Producto": "FRENTE CUBA DREAN BLUE (TUBO REDONDO)", "Precio_Cliente": 52000.00, "Precio_Tecnico": 46000.00, "Cantidad_Stock": 2},
-  {"Codigo": "cuba002", "Producto": "FRENTE CUBA DREAN NEXT 6/7/8 KG", "Precio_Cliente": 59000.00, "Precio_Tecnico": 55000.00, "Cantidad_Stock": 0},
+  {"Codigo": "cuba002", "Producto": "FRENTE CUBA DREAN NEXT 6/7/8 KG", "Precio_Cliente": 46300.00, "Precio_Tecnico": 39500.00, "Cantidad_Stock": 2},
   {"Codigo": "gold01", "Producto": "FUELLE  DREAN  GOLD", "Precio_Cliente": 43500.00, "Precio_Tecnico": 37600.00, "Cantidad_Stock": 2},
   {"Codigo": "fue008", "Producto": "FUELLE 6/7KG LPK MABE/PATRICK", "Precio_Cliente": 36531.00, "Precio_Tecnico": 32200.00, "Cantidad_Stock": 1},
   {"Codigo": "FUE005", "Producto": "FUELLE DREAN BLUE C/PICO", "Precio_Cliente": 22000.00, "Precio_Tecnico": 19800.00, "Cantidad_Stock": 6},
