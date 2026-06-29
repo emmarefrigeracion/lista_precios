@@ -17,7 +17,7 @@
   {"Codigo": "8-9-CO-D19", "Producto": "AISLACION 1/4 POR TIRA", "Precio_Cliente": 2500.00, "Precio_Tecnico": 1500.00, "Cantidad_Stock": 94},
   {"Codigo": "8-9-CO-F35", "Producto": "AISLACION 3/8  POR TIRA", "Precio_Cliente": 1750.00, "Precio_Tecnico": 1900.00, "Cantidad_Stock": 1408},
   {"Codigo": "8-8-13139", "Producto": "AISLACION 5/8\" NEGROS POR TIRA", "Precio_Cliente": 2700.00, "Precio_Tecnico": 2300.00, "Cantidad_Stock": 103},
-  {"Codigo": "am1", "Producto": "AMORTIGUADOR DREAN 6-8 KG PRECIO POR UNIDAD", "Precio_Cliente": 12000.00, "Precio_Tecnico": 8500.00, "Cantidad_Stock": 100},
+  {"Codigo": "am1", "Producto": "AMORTIGUADOR DREAN 6-8 KG PRECIO POR UNIDAD", "Precio_Cliente": 12000.00, "Precio_Tecnico": 8500.00, "Cantidad_Stock": 10},
   {"Codigo": "amo004", "Producto": "AMORTIGUADORES (CONJ SUSP)   CONSUL", "Precio_Cliente": 62766.00, "Precio_Tecnico": 57618.00, "Cantidad_Stock": 1},
   {"Codigo": "amo4", "Producto": "AMORTIGUADORES (CONJ SUSP) CONCEPT MOD NUEVO", "Precio_Cliente": 52100.00, "Precio_Tecnico": 46800.00, "Cantidad_Stock": 1},
   {"Codigo": "amo003", "Producto": "AMORTIGUADORES CANDI / LONGVIE POR UNIDAD", "Precio_Cliente": 16000.00, "Precio_Tecnico": 13000.00, "Cantidad_Stock": 2},
