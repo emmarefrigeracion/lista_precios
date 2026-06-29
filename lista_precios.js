@@ -205,6 +205,7 @@
   {"Codigo": "fil9", "Producto": "FILTRO 3/8 A ROSCA", "Precio_Cliente": 34000.00, "Precio_Tecnico": 30600.00, "Cantidad_Stock": 2},
   {"Codigo": "4-10-070990", "Producto": "FILTRO 30 GRS S/CHICOTE", "Precio_Cliente": 6200.00, "Precio_Tecnico": 4900.00, "Cantidad_Stock": 10},
   {"Codigo": "fil1", "Producto": "FILTRO 30GRM CON CHICOTE", "Precio_Cliente": 7200.00, "Precio_Tecnico": 5900.00, "Cantidad_Stock": 2},
+  {"Codigo": "1964", "Producto": "FILTRO COMERCIAL 1/4 CON ROSCA", "Precio_Cliente": 26000.00, "Precio_Tecnico": 22000.00, "Cantidad_Stock": 2},
   {"Codigo": "filtro002", "Producto": "FILTRO DE BOMBA LAVARROPA DREAN 166 LARGO", "Precio_Cliente": 17000.00, "Precio_Tecnico": 12900.00, "Cantidad_Stock": 4},
   {"Codigo": "filtro003", "Producto": "FILTRO DE BOMBA LAVARROPA DREAN CORTO", "Precio_Cliente": 6900.00, "Precio_Tecnico": 4900.00, "Cantidad_Stock": 3},
   {"Codigo": "for040", "Producto": "FORZADOR CONDENSADORA SPLIT 33W", "Precio_Cliente": 82071.00, "Precio_Tecnico": 65637.00, "Cantidad_Stock": 0},
