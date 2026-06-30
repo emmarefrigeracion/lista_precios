@@ -442,6 +442,7 @@
   {"Codigo": "38", "Producto": "ROLLO DE CAÑO 3/8 (15M)", "Precio_Cliente": 0.00, "Precio_Tecnico": 130000.00, "Cantidad_Stock": 100},
   {"Codigo": "12", "Producto": "ROLLO DE CAÑO DE 1/2 (15M)", "Precio_Cliente": 0.00, "Precio_Tecnico": 174000.00, "Cantidad_Stock": 100},
   {"Codigo": "14", "Producto": "ROLLO DE CAÑO DE 1/4 (15M)", "Precio_Cliente": 0.00, "Precio_Tecnico": 79800.00, "Cantidad_Stock": 100},
+  {"Codigo": "r6", "Producto": "ROLLO MANGUERA CRISTAL POR 25M", "Precio_Cliente": 0.00, "Precio_Tecnico": 37500.00, "Cantidad_Stock": 1000},
   {"Codigo": "1-39-6206SKF", "Producto": "RULEMAN  SKF  6206", "Precio_Cliente": 16137.00, "Precio_Tecnico": 12375.00, "Cantidad_Stock": 1},
   {"Codigo": "ru006", "Producto": "RULEMANES 6006 SKF", "Precio_Cliente": 9405.00, "Precio_Tecnico": 6930.00, "Cantidad_Stock": 0},
   {"Codigo": "se6", "Producto": "SELLA FUGA ANNTON CHEM JERINGA 6ML", "Precio_Cliente": 31680.00, "Precio_Tecnico": 26532.00, "Cantidad_Stock": 1},
