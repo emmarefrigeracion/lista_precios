@@ -123,6 +123,7 @@
   {"Codigo": "car5", "Producto": "CARBONES 12.5*5 BOLSA TRANSPARENTE", "Precio_Cliente": 12000.00, "Precio_Tecnico": 9000.00, "Cantidad_Stock": 5},
   {"Codigo": "car001", "Producto": "CARBONES 12.5-13.5 EN CAJA ALFA CARBON", "Precio_Cliente": 16000.00, "Precio_Tecnico": 13800.00, "Cantidad_Stock": 6},
   {"Codigo": "car1", "Producto": "CARBONES LE CARD", "Precio_Cliente": 11100.00, "Precio_Tecnico": 9900.00, "Cantidad_Stock": 8},
+  {"Codigo": "CAU01", "Producto": "CAUDALIMETRO DREAN DISH", "Precio_Cliente": 0.00, "Precio_Tecnico": 0.00, "Cantidad_Stock": 2},
   {"Codigo": "peltier2", "Producto": "CELDA PELTIER 40*40MM TEC1-12708", "Precio_Cliente": 23000.00, "Precio_Tecnico": 19500.00, "Cantidad_Stock": 2},
   {"Codigo": "cin15", "Producto": "CINTA AILSADORA NEGRA 20 METROS", "Precio_Cliente": 6500.00, "Precio_Tecnico": 5200.00, "Cantidad_Stock": 9},
   {"Codigo": "cm11", "Producto": "CINTA MOTECH C/ADHESIVO", "Precio_Cliente": 6900.00, "Precio_Tecnico": 5800.00, "Cantidad_Stock": 10},
