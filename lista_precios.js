@@ -49,6 +49,7 @@
   {"Codigo": "blo010", "Producto": "BLOCAPUERTA DREAN GOLD/CANDY", "Precio_Cliente": 22500.00, "Precio_Tecnico": 19700.00, "Cantidad_Stock": 2},
   {"Codigo": "blo002", "Producto": "BLOCAPUERTA DREAN NEXT 4 CONTACTOS", "Precio_Cliente": 20500.00, "Precio_Tecnico": 18200.00, "Cantidad_Stock": 1},
   {"Codigo": "blo03", "Producto": "BLOCAPUERTA DREAN NEXT 8.12 3 CONTACTOS", "Precio_Cliente": 12000.00, "Precio_Tecnico": 10500.00, "Cantidad_Stock": 9},
+  {"Codigo": "LPK", "Producto": "BLOCAPUERTA LPK  (LAVASECA)  08KG", "Precio_Cliente": 33600.00, "Precio_Tecnico": 29800.00, "Cantidad_Stock": 1},
   {"Codigo": "blomabe", "Producto": "BLOCAPUERTA MABE  6 & 7 KG", "Precio_Cliente": 15200.00, "Precio_Tecnico": 11900.00, "Cantidad_Stock": 4},
   {"Codigo": "mabe8", "Producto": "BLOCAPÙERTA MABE  8 KG", "Precio_Cliente": 21000.00, "Precio_Tecnico": 17200.00, "Cantidad_Stock": 2},
   {"Codigo": "blo6", "Producto": "BLOCAPUERTA PATRICK LPK 8/10KG", "Precio_Cliente": 22000.00, "Precio_Tecnico": 18000.00, "Cantidad_Stock": 2},
