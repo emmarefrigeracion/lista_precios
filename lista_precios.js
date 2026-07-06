@@ -215,7 +215,7 @@
   {"Codigo": "for040", "Producto": "FORZADOR CONDENSADORA SPLIT 33W", "Precio_Cliente": 82071.00, "Precio_Tecnico": 65637.00, "Cantidad_Stock": 0},
   {"Codigo": "for008", "Producto": "FORZADOR NO FROST (38060)", "Precio_Cliente": 21500.00, "Precio_Tecnico": 19800.00, "Cantidad_Stock": 3},
   {"Codigo": "FOR011", "Producto": "FORZADOR PATRICK HPK", "Precio_Cliente": 37422.00, "Precio_Tecnico": 32175.00, "Cantidad_Stock": 2},
-  {"Codigo": "fle20", "Producto": "FRENO DE SECARROPA DREAN", "Precio_Cliente": 6138.00, "Precio_Tecnico": 4702.50, "Cantidad_Stock": 0},
+  {"Codigo": "fle20", "Producto": "FRENO DE SECARROPA DREAN", "Precio_Cliente": 6138.00, "Precio_Tecnico": 4702.50, "Cantidad_Stock": 2},
   {"Codigo": "cuba 003", "Producto": "FRENTE CUBA DREAN BLUE (TUBO REDONDO)", "Precio_Cliente": 46300.00, "Precio_Tecnico": 39500.00, "Cantidad_Stock": 2},
   {"Codigo": "cuba002", "Producto": "FRENTE CUBA DREAN NEXT 6/7/8 KG", "Precio_Cliente": 46300.00, "Precio_Tecnico": 39500.00, "Cantidad_Stock": 2},
   {"Codigo": "gold01", "Producto": "FUELLE  DREAN  GOLD", "Precio_Cliente": 43500.00, "Precio_Tecnico": 37600.00, "Cantidad_Stock": 2},
