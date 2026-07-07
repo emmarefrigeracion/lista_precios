@@ -486,6 +486,7 @@
   {"Codigo": "saminv", "Producto": "SOPORTE SAMSUNG INVERTER", "Precio_Cliente": 49005.00, "Precio_Tecnico": 42800.00, "Cantidad_Stock": 1},
   {"Codigo": "taco1", "Producto": "TACO DE GOMA ANTIBRIVACION AIRES X 4", "Precio_Cliente": 5445.00, "Precio_Tecnico": 3960.00, "Cantidad_Stock": 4},
   {"Codigo": "tac010", "Producto": "TACOMETRO BLUE 6&7 KG", "Precio_Cliente": 0.00, "Precio_Tecnico": 14000.00, "Cantidad_Stock": 1},
+  {"Codigo": "tac00", "Producto": "TACOS DE GOMA P MOTOR DE HELADERA", "Precio_Cliente": 4500.00, "Precio_Tecnico": 3500.00, "Cantidad_Stock": 2},
   {"Codigo": "taco6", "Producto": "TACOS DEL 6 PARA BLOCK", "Precio_Cliente": 31.68, "Precio_Tecnico": 27.72, "Cantidad_Stock": 96},
   {"Codigo": "taco8", "Producto": "TACOS DEL 8 PARA BLOCK", "Precio_Cliente": 47.52, "Precio_Tecnico": 42.57, "Cantidad_Stock": 100},
   {"Codigo": "005", "Producto": "TAIMER ELECTRONICO UNIVERSAL", "Precio_Cliente": 16830.00, "Precio_Tecnico": 13464.00, "Cantidad_Stock": 2},
