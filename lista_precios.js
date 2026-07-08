@@ -504,6 +504,7 @@
   {"Codigo": "tapa8", "Producto": "TAPA PUERTA SUPERIOR DREAN GOLD", "Precio_Cliente": 49000.00, "Precio_Tecnico": 46000.00, "Cantidad_Stock": 1},
   {"Codigo": "tapa001", "Producto": "TAPA PUERTA SUPERIOR DREAN GOLD BLUE", "Precio_Cliente": 75240.00, "Precio_Tecnico": 64350.00, "Cantidad_Stock": 0},
   {"Codigo": "13-1-3012", "Producto": "TAPA SECARROPA", "Precio_Cliente": 11880.00, "Precio_Tecnico": 6930.00, "Cantidad_Stock": 2},
+  {"Codigo": "352", "Producto": "TAPA SECARROPA C352 KOHINOOR", "Precio_Cliente": 11000.00, "Precio_Tecnico": 8700.00, "Cantidad_Stock": 3},
   {"Codigo": "tap2", "Producto": "TAPA SECARROPA CODINI", "Precio_Cliente": 17000.00, "Precio_Tecnico": 14900.00, "Cantidad_Stock": 2},
   {"Codigo": "4663", "Producto": "TAPA SECARROPA DREAN QV/QR", "Precio_Cliente": 8500.00, "Precio_Tecnico": 7200.00, "Cantidad_Stock": 3},
   {"Codigo": "8393", "Producto": "TAPA SECARROPA KOHINOOR CELESTE/GRIS", "Precio_Cliente": 10000.00, "Precio_Tecnico": 7500.00, "Cantidad_Stock": 3},
