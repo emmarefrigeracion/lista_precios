@@ -317,7 +317,7 @@
   {"Codigo": "mot100", "Producto": "MOTOR COMERCIAL TECUMSE 1/2HP R404  (AE4460Z)", "Precio_Cliente": 274000.00, "Precio_Tecnico": 250000.00, "Cantidad_Stock": 0},
   {"Codigo": "014", "Producto": "MOTOR DONPER 1/3 HP FAMILIAR", "Precio_Cliente": 115830.00, "Precio_Tecnico": 92763.00, "Cantidad_Stock": 3},
   {"Codigo": "don1", "Producto": "MOTOR DONPER 1/3+HP", "Precio_Cliente": 116000.00, "Precio_Tecnico": 98000.00, "Cantidad_Stock": 3},
-  {"Codigo": "3989", "Producto": "MOTOR DONPER 1/3HP", "Precio_Cliente": 0.00, "Precio_Tecnico": 0.00, "Cantidad_Stock": 1},
+  {"Codigo": "3989", "Producto": "MOTOR DONPER 1/3HP", "Precio_Cliente": 109000.00, "Precio_Tecnico": 95000.00, "Cantidad_Stock": 3},
   {"Codigo": "3988", "Producto": "MOTOR DONPER 1/4+", "Precio_Cliente": 102000.00, "Precio_Tecnico": 89000.00, "Cantidad_Stock": 2},
   {"Codigo": "3987", "Producto": "MOTOR DONPER 1/5", "Precio_Cliente": 92000.00, "Precio_Tecnico": 84000.00, "Cantidad_Stock": 1},
   {"Codigo": "mot1", "Producto": "MOTOR DREAN 7 CONTACTOS", "Precio_Cliente": 156800.00, "Precio_Tecnico": 140000.00, "Cantidad_Stock": 3},
