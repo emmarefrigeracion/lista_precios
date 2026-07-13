@@ -315,7 +315,7 @@
   {"Codigo": "mot015", "Producto": "MOTOR BLUE ESTAR 1/4 R600", "Precio_Cliente": 153450.00, "Precio_Tecnico": 126621.00, "Cantidad_Stock": 0},
   {"Codigo": "mot101", "Producto": "MOTOR COMERCIAL FINLEY 1/2HP R404 (4460)", "Precio_Cliente": 207300.00, "Precio_Tecnico": 197000.00, "Cantidad_Stock": 1},
   {"Codigo": "mot100", "Producto": "MOTOR COMERCIAL TECUMSE 1/2HP R404  (AE4460Z)", "Precio_Cliente": 274000.00, "Precio_Tecnico": 250000.00, "Cantidad_Stock": 0},
-  {"Codigo": "014", "Producto": "MOTOR DOMPER 1/3 HP FAMILIAR", "Precio_Cliente": 115830.00, "Precio_Tecnico": 92763.00, "Cantidad_Stock": 3},
+  {"Codigo": "014", "Producto": "MOTOR DONPER 1/3 HP FAMILIAR", "Precio_Cliente": 115830.00, "Precio_Tecnico": 92763.00, "Cantidad_Stock": 3},
   {"Codigo": "don1", "Producto": "MOTOR DONPER 1/3+HP", "Precio_Cliente": 116000.00, "Precio_Tecnico": 98000.00, "Cantidad_Stock": 3},
   {"Codigo": "3989", "Producto": "MOTOR DONPER 1/3HP", "Precio_Cliente": 0.00, "Precio_Tecnico": 0.00, "Cantidad_Stock": 1},
   {"Codigo": "3988", "Producto": "MOTOR DONPER 1/4+", "Precio_Cliente": 0.00, "Precio_Tecnico": 0.00, "Cantidad_Stock": 2},
