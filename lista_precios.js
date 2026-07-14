@@ -64,7 +64,7 @@
   {"Codigo": "bri005", "Producto": "BRIDA DREAN GOLD LADO OPUESTO", "Precio_Cliente": 15600.00, "Precio_Tecnico": 12800.00, "Cantidad_Stock": 10},
   {"Codigo": "bri006", "Producto": "BRIDA DREAN GOLD LADO POLEA", "Precio_Cliente": 17200.00, "Precio_Tecnico": 14200.00, "Cantidad_Stock": 2},
   {"Codigo": "bri1", "Producto": "BRIDA FUELLE BLUE (ALAMBRE) NEXT TRASERA", "Precio_Cliente": 4900.00, "Precio_Tecnico": 4200.00, "Cantidad_Stock": 0},
-  {"Codigo": "bri5", "Producto": "BRIDA FUELLE NEXT DELANTERA", "Precio_Cliente": 4000.00, "Precio_Tecnico": 2900.00, "Cantidad_Stock": 2},
+  {"Codigo": "bri5", "Producto": "BRIDA FUELLE NEXT DELANTERA", "Precio_Cliente": 3900.00, "Precio_Tecnico": 3200.00, "Cantidad_Stock": 3},
   {"Codigo": "buje8", "Producto": "BUJE DE ARRASTRE", "Precio_Cliente": 3100.00, "Precio_Tecnico": 2300.00, "Cantidad_Stock": 2},
   {"Codigo": "buje02", "Producto": "BUJE DE ARRASTRE CAJA (BASE)", "Precio_Cliente": 6000.00, "Precio_Tecnico": 5000.00, "Cantidad_Stock": 4},
   {"Codigo": "bu5", "Producto": "BUJE LG AGITADOR LG ALUMINIO  13KG", "Precio_Cliente": 5200.00, "Precio_Tecnico": 4200.00, "Cantidad_Stock": 10},
