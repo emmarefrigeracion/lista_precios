@@ -380,6 +380,7 @@
   {"Codigo": "pla025", "Producto": "PLAQUETA CONSUL 600", "Precio_Cliente": 46332.00, "Precio_Tecnico": 35838.00, "Cantidad_Stock": 0},
   {"Codigo": "pol166", "Producto": "POLEA 166", "Precio_Cliente": 17800.00, "Precio_Tecnico": 13000.00, "Cantidad_Stock": 3},
   {"Codigo": "pol008", "Producto": "POLEA AURORA", "Precio_Cliente": 24000.00, "Precio_Tecnico": 19000.00, "Cantidad_Stock": 2},
+  {"Codigo": "po5", "Producto": "POLEA DE CAJA JM C/ESPIGA", "Precio_Cliente": 4300.00, "Precio_Tecnico": 3300.00, "Cantidad_Stock": 2},
   {"Codigo": "pol003", "Producto": "POLEA DREAN CONCEPT 5.05 12VIAS", "Precio_Cliente": 34650.00, "Precio_Tecnico": 24750.00, "Cantidad_Stock": 1},
   {"Codigo": "fam009", "Producto": "POLEA MOTOR  FAMILY", "Precio_Cliente": 7500.00, "Precio_Tecnico": 6200.00, "Cantidad_Stock": 3},
   {"Codigo": "pol004", "Producto": "POLEA MOTOR GAFA", "Precio_Cliente": 18000.00, "Precio_Tecnico": 14500.00, "Cantidad_Stock": 1},
