@@ -603,6 +603,7 @@
   {"Codigo": "val002", "Producto": "VALVULA PARA LATA C/VOLANTE", "Precio_Cliente": 22000.00, "Precio_Tecnico": 18300.00, "Cantidad_Stock": 3},
   {"Codigo": "4-12-125", "Producto": "VARILLA  DE PLATA", "Precio_Cliente": 2200.00, "Precio_Tecnico": 1600.00, "Cantidad_Stock": 40},
   {"Codigo": "VAR002", "Producto": "VARILLA DE ALUMINIO CON FUMDANTE", "Precio_Cliente": 9207.00, "Precio_Tecnico": 7200.00, "Cantidad_Stock": 1},
+  {"Codigo": "var05", "Producto": "VARILLA SECARROPA DREAN QV 5.5 CORTA", "Precio_Cliente": 12100.00, "Precio_Tecnico": 9400.00, "Cantidad_Stock": 3},
   {"Codigo": "mec001", "Producto": "VASTAGO 45MM (PARA  MECHA  DE  COPA)", "Precio_Cliente": 29304.00, "Precio_Tecnico": 24552.00, "Cantidad_Stock": 1},
   {"Codigo": "visor001", "Producto": "VISOR DREAN NEXT 8 KG (DISPLAY)", "Precio_Cliente": 42372.00, "Precio_Tecnico": 35244.00, "Cantidad_Stock": 0}
 ];
