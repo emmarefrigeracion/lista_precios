@@ -75,7 +75,7 @@
   {"Codigo": "bur1", "Producto": "BURLETE  BLANCO- GRIS-MARRON POR  POR PUERTA", "Precio_Cliente": 18500.00, "Precio_Tecnico": 16500.00, "Cantidad_Stock": 14},
   {"Codigo": "bur011", "Producto": "BURLETE A PRESION   P/ 1 PUERTA 2MTRS", "Precio_Cliente": 27000.00, "Precio_Tecnico": 23000.00, "Cantidad_Stock": 7},
   {"Codigo": "bur8", "Producto": "BURLETE A PRESION P / 1 PUERTA 180 X 785", "Precio_Cliente": 25000.00, "Precio_Tecnico": 22000.00, "Cantidad_Stock": 6},
-  {"Codigo": "bur2", "Producto": "BURLETE BALON P FREEZER X METRO", "Precio_Cliente": 2900.00, "Precio_Tecnico": 2600.00, "Cantidad_Stock": 18},
+  {"Codigo": "bur2", "Producto": "BURLETE BALON P FREEZER X METRO", "Precio_Cliente": 3900.00, "Precio_Tecnico": 2700.00, "Cantidad_Stock": 18},
   {"Codigo": "BUR005", "Producto": "BURLETES CORTO PARA FREEZER", "Precio_Cliente": 12700.00, "Precio_Tecnico": 11500.00, "Cantidad_Stock": 7},
   {"Codigo": "bur6", "Producto": "BURLETES MIRALLES  X METRO PARA HEL MOST Y FRREZ", "Precio_Cliente": 5600.00, "Precio_Tecnico": 4700.00, "Cantidad_Stock": 20},
   {"Codigo": "fre4", "Producto": "CABLE DE FRENO CODINI", "Precio_Cliente": 13000.00, "Precio_Tecnico": 10100.00, "Cantidad_Stock": 3},
