@@ -470,7 +470,7 @@
   {"Codigo": "sen003", "Producto": "SENSOR TERMISTOR 10K", "Precio_Cliente": 13860.00, "Precio_Tecnico": 9090.00, "Cantidad_Stock": 10},
   {"Codigo": "sen25", "Producto": "SENSOR TERMISTOR 2.7K", "Precio_Cliente": 12150.00, "Precio_Tecnico": 8730.00, "Cantidad_Stock": 0},
   {"Codigo": "ser001", "Producto": "SERIGRAFIA CONCEPT 5.05 C/S VISOR", "Precio_Cliente": 16800.00, "Precio_Tecnico": 13200.00, "Cantidad_Stock": 4},
-  {"Codigo": "service", "Producto": "SERVICIO TECNICO", "Precio_Cliente": 90000.00, "Precio_Tecnico": 0.00, "Cantidad_Stock": 100},
+  {"Codigo": "service", "Producto": "SERVICIO TECNICO", "Precio_Cliente": 90000.00, "Precio_Tecnico": 90000.00, "Cantidad_Stock": 100},
   {"Codigo": "12-1-22568", "Producto": "SILICONA ACETICA 280ML", "Precio_Cliente": 5800.41, "Precio_Tecnico": 4787.64, "Cantidad_Stock": 4},
   {"Codigo": "sil002", "Producto": "SILICONA NEUTRA TRANSPARENTE", "Precio_Cliente": 9500.00, "Precio_Tecnico": 7500.00, "Cantidad_Stock": 4},
   {"Codigo": "sog001", "Producto": "SOGA 20 METROS 4MM", "Precio_Cliente": 7425.00, "Precio_Tecnico": 6435.00, "Cantidad_Stock": 0},
