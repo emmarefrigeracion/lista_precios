@@ -154,7 +154,7 @@
   {"Codigo": "2325", "Producto": "CONTROL UNIVERSAL PARA AIRE ACONDICIONADO", "Precio_Cliente": 8900.00, "Precio_Tecnico": 6500.00, "Cantidad_Stock": 6},
   {"Codigo": "con001", "Producto": "CONVECTOR BELITA ROJO", "Precio_Cliente": 48000.00, "Precio_Tecnico": 48000.00, "Cantidad_Stock": 1},
   {"Codigo": "COP003", "Producto": "COPA 60MM", "Precio_Cliente": 23000.00, "Precio_Tecnico": 19000.00, "Cantidad_Stock": 1},
-  {"Codigo": "COR018", "Producto": "CORREA 018", "Precio_Cliente": 5500.00, "Precio_Tecnico": 4300.00, "Cantidad_Stock": 5},
+  {"Codigo": "COR018", "Producto": "CORREA 018", "Precio_Cliente": 7200.00, "Precio_Tecnico": 6200.00, "Cantidad_Stock": 5},
   {"Codigo": "cor025", "Producto": "CORREA 019", "Precio_Cliente": 7200.00, "Precio_Tecnico": 6200.00, "Cantidad_Stock": 5},
   {"Codigo": "COR020", "Producto": "CORREA 020", "Precio_Cliente": 7200.00, "Precio_Tecnico": 6200.00, "Cantidad_Stock": 4},
   {"Codigo": "cor 021", "Producto": "CORREA 021", "Precio_Cliente": 7200.00, "Precio_Tecnico": 6200.00, "Cantidad_Stock": 4},
