@@ -532,7 +532,7 @@
   {"Codigo": "4798", "Producto": "TERMO ACTUADOR CONCEPT", "Precio_Cliente": 15900.00, "Precio_Tecnico": 13900.00, "Cantidad_Stock": 3},
   {"Codigo": "ter100", "Producto": "TERMOMETRO DIGITAL SIMPLE", "Precio_Cliente": 6700.00, "Precio_Tecnico": 5900.00, "Cantidad_Stock": 2},
   {"Codigo": "ter54", "Producto": "TERMOSATO K54 L1119 PARA FREEZER", "Precio_Cliente": 22000.00, "Precio_Tecnico": 18000.00, "Cantidad_Stock": 2},
-  {"Codigo": "terf", "Producto": "TERMOSTAO PARA FREEZER AMBIENTE", "Precio_Cliente": 19000.00, "Precio_Tecnico": 16200.00, "Cantidad_Stock": 3},
+  {"Codigo": "terf", "Producto": "TERMOSTAO PARA FREEZER AMBIENTE", "Precio_Cliente": 23600.00, "Precio_Tecnico": 20700.00, "Cantidad_Stock": 5},
   {"Codigo": "ter022", "Producto": "TERMOSTATO  DUAL BOTELLERO", "Precio_Cliente": 16335.00, "Precio_Tecnico": 13365.00, "Cantidad_Stock": 0},
   {"Codigo": "ter53", "Producto": "TERMOSTATO  FREEZE 53626-2", "Precio_Cliente": 18900.00, "Precio_Tecnico": 16900.65, "Cantidad_Stock": 2},
   {"Codigo": "ter1005", "Producto": "TERMOSTATO 1005 PARA CONGELADOR (GENERALMENTE WHIRPOPL)", "Precio_Cliente": 22000.00, "Precio_Tecnico": 18100.00, "Cantidad_Stock": 2},
