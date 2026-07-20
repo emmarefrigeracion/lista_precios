@@ -170,7 +170,7 @@
   {"Codigo": "COR012", "Producto": "CORREA 1212", "Precio_Cliente": 16500.00, "Precio_Tecnico": 13700.00, "Cantidad_Stock": 7},
   {"Codigo": "COR017", "Producto": "CORREA 1317 DREAN ORIGINAL (FAMILY)", "Precio_Cliente": 19503.00, "Precio_Tecnico": 17325.00, "Cantidad_Stock": 3},
   {"Codigo": "cor011", "Producto": "CORREA 5 VIAS CONCEPT ORIG", "Precio_Cliente": 8300.00, "Precio_Tecnico": 6200.00, "Cantidad_Stock": 3},
-  {"Codigo": "COR007", "Producto": "CORREA JM CORTA SEMI AUTOM", "Precio_Cliente": 4100.00, "Precio_Tecnico": 2300.00, "Cantidad_Stock": 13},
+  {"Codigo": "COR007", "Producto": "CORREA JM CORTA SEMI AUTOM", "Precio_Cliente": 4500.00, "Precio_Tecnico": 3500.00, "Cantidad_Stock": 13},
   {"Codigo": "COR008", "Producto": "CORREA JM LARGA SEMI AUTOM", "Precio_Cliente": 5600.00, "Precio_Tecnico": 4500.00, "Cantidad_Stock": 10},
   {"Codigo": "corre6", "Producto": "CORREA LAVARROPA V500", "Precio_Cliente": 11500.00, "Precio_Tecnico": 9000.00, "Cantidad_Stock": 0},
   {"Codigo": "COR009", "Producto": "CORREA POLY 705", "Precio_Cliente": 13266.00, "Precio_Tecnico": 11286.00, "Cantidad_Stock": 2},
