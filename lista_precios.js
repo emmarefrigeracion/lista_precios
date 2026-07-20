@@ -158,7 +158,7 @@
   {"Codigo": "cor025", "Producto": "CORREA 019", "Precio_Cliente": 7200.00, "Precio_Tecnico": 6200.00, "Cantidad_Stock": 5},
   {"Codigo": "COR020", "Producto": "CORREA 020", "Precio_Cliente": 7200.00, "Precio_Tecnico": 6200.00, "Cantidad_Stock": 4},
   {"Codigo": "cor 021", "Producto": "CORREA 021", "Precio_Cliente": 7200.00, "Precio_Tecnico": 6200.00, "Cantidad_Stock": 4},
-  {"Codigo": "COR022", "Producto": "CORREA 022", "Precio_Cliente": 6800.00, "Precio_Tecnico": 5500.00, "Cantidad_Stock": 4},
+  {"Codigo": "COR022", "Producto": "CORREA 022", "Precio_Cliente": 7200.00, "Precio_Tecnico": 6200.00, "Cantidad_Stock": 4},
   {"Codigo": "c1138", "Producto": "CORREA 1138", "Precio_Cliente": 16600.00, "Precio_Tecnico": 13000.00, "Cantidad_Stock": 3},
   {"Codigo": "co1138", "Producto": "CORREA 1138 ORIGINAL DREAN", "Precio_Cliente": 13700.00, "Precio_Tecnico": 10500.00, "Cantidad_Stock": 2},
   {"Codigo": "COR73", "Producto": "CORREA 1173", "Precio_Cliente": 17800.00, "Precio_Tecnico": 15200.00, "Cantidad_Stock": 4},
