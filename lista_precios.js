@@ -458,7 +458,7 @@
   {"Codigo": "rollo1/4", "Producto": "ROLLO  CAÑO COBRE 1/4  X  MTR", "Precio_Cliente": 85000.00, "Precio_Tecnico": 78000.00, "Cantidad_Stock": 2},
   {"Codigo": "rollo1/2", "Producto": "ROLLO CAÑO COBRE 1/2  X 15  MTRS", "Precio_Cliente": 177600.00, "Precio_Tecnico": 168200.00, "Cantidad_Stock": 2},
   {"Codigo": "38", "Producto": "ROLLO DE CAÑO 3/8 (15M)", "Precio_Cliente": 0.00, "Precio_Tecnico": 130000.00, "Cantidad_Stock": 100},
-  {"Codigo": "12", "Producto": "ROLLO DE CAÑO DE 1/2 (15M)", "Precio_Cliente": 0.00, "Precio_Tecnico": 174000.00, "Cantidad_Stock": 100},
+  {"Codigo": "12", "Producto": "ROLLO DE CAÑO DE 1/2 (15M)", "Precio_Cliente": 0.00, "Precio_Tecnico": 171800.00, "Cantidad_Stock": 100},
   {"Codigo": "14", "Producto": "ROLLO DE CAÑO DE 1/4 (15M)", "Precio_Cliente": 0.00, "Precio_Tecnico": 79800.00, "Cantidad_Stock": 100},
   {"Codigo": "r6", "Producto": "ROLLO MANGUERA CRISTAL POR 25M", "Precio_Cliente": 0.00, "Precio_Tecnico": 37500.00, "Cantidad_Stock": 1000},
   {"Codigo": "1-39-6206SKF", "Producto": "RULEMAN  SKF  6206", "Precio_Cliente": 16137.00, "Precio_Tecnico": 12375.00, "Cantidad_Stock": 1},
