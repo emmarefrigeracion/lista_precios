@@ -455,6 +455,7 @@
   {"Codigo": "1-39-6201c", "Producto": "RODAMIENTOS NTN 6201", "Precio_Cliente": 3500.00, "Precio_Tecnico": 2900.00, "Cantidad_Stock": 4},
   {"Codigo": "ntn6201", "Producto": "RODAMIENTOS NTN 6201 ALTA VEL  (ZZC3)", "Precio_Cliente": 4500.00, "Precio_Tecnico": 3900.00, "Cantidad_Stock": 6},
   {"Codigo": "rod001", "Producto": "RODMAMIENTO NTN 6202", "Precio_Cliente": 3500.00, "Precio_Tecnico": 2900.00, "Cantidad_Stock": 5},
+  {"Codigo": "rollo1/4", "Producto": "ROLLO  CAÑO COBRE 1/4  X  MTR", "Precio_Cliente": 85000.00, "Precio_Tecnico": 78000.00, "Cantidad_Stock": 2},
   {"Codigo": "38", "Producto": "ROLLO DE CAÑO 3/8 (15M)", "Precio_Cliente": 0.00, "Precio_Tecnico": 130000.00, "Cantidad_Stock": 100},
   {"Codigo": "12", "Producto": "ROLLO DE CAÑO DE 1/2 (15M)", "Precio_Cliente": 0.00, "Precio_Tecnico": 174000.00, "Cantidad_Stock": 100},
   {"Codigo": "14", "Producto": "ROLLO DE CAÑO DE 1/4 (15M)", "Precio_Cliente": 0.00, "Precio_Tecnico": 79800.00, "Cantidad_Stock": 100},
