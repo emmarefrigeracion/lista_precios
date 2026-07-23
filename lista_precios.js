@@ -572,6 +572,7 @@
   {"Codigo": "tim19", "Producto": "TIMER PROGRAMABLE  NO FROST UNIVERSAL (NEGRO)", "Precio_Cliente": 16999.71, "Precio_Tecnico": 14000.35, "Cantidad_Stock": 4},
   {"Codigo": "tir001", "Producto": "TIRADOR AURORA  ELECTROLUX EW", "Precio_Cliente": 8900.00, "Precio_Tecnico": 6200.00, "Cantidad_Stock": 2},
   {"Codigo": "tir002", "Producto": "TIRADOR AURORA/DREAN", "Precio_Cliente": 5900.00, "Precio_Tecnico": 4900.00, "Cantidad_Stock": 3},
+  {"Codigo": "tir2", "Producto": "TIRADOR DE PUERTA ELECTROLUX EW500 ORIGINAL", "Precio_Cliente": 6800.00, "Precio_Tecnico": 4700.00, "Cantidad_Stock": 3},
   {"Codigo": "tir004", "Producto": "TIRADOR DREAN 166 (SIN MANIJA)", "Precio_Cliente": 3500.00, "Precio_Tecnico": 2900.00, "Cantidad_Stock": 3},
   {"Codigo": "tir003", "Producto": "TIRADOR DREAN 166 COMPLETO", "Precio_Cliente": 7600.00, "Precio_Tecnico": 6100.00, "Cantidad_Stock": 3},
   {"Codigo": "tir015", "Producto": "TIRADOR LAVARROPA COVENTRY", "Precio_Cliente": 9900.00, "Precio_Tecnico": 7500.00, "Cantidad_Stock": 1},
