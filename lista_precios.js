@@ -342,6 +342,7 @@
   {"Codigo": "orr001", "Producto": "ORRIN 410/", "Precio_Cliente": 396.00, "Precio_Tecnico": 346.50, "Cantidad_Stock": 2},
   {"Codigo": "orr002", "Producto": "ORRIN R22", "Precio_Cliente": 445.50, "Precio_Tecnico": 386.10, "Cantidad_Stock": 10},
   {"Codigo": "pal8", "Producto": "PALANCA KOHINNOR MARRON/BLANCA", "Precio_Cliente": 6840.00, "Precio_Tecnico": 6210.00, "Cantidad_Stock": 0},
+  {"Codigo": "pal11", "Producto": "PALANCA SECARROPA ELECTROLUX (TIRA PUERTA)", "Precio_Cliente": 9000.00, "Precio_Tecnico": 6000.00, "Cantidad_Stock": 5},
   {"Codigo": "023", "Producto": "PALANCA SECARROPA PRACTICO CORTA", "Precio_Cliente": 6300.00, "Precio_Tecnico": 5400.00, "Cantidad_Stock": 4},
   {"Codigo": "pale002", "Producto": "PALETA FORZADOR 20-25 NARANJA", "Precio_Cliente": 10395.00, "Precio_Tecnico": 8415.00, "Cantidad_Stock": 2},
   {"Codigo": "pale001", "Producto": "PALETAS PARA FORZADOR 20 CM", "Precio_Cliente": 3564.00, "Precio_Tecnico": 3267.00, "Cantidad_Stock": 4},
