@@ -522,7 +522,7 @@
   {"Codigo": "ten1", "Producto": "TENSOR DE SECARROPAS KOHINOOR", "Precio_Cliente": 3100.00, "Precio_Tecnico": 2300.00, "Cantidad_Stock": 18},
   {"Codigo": "ten2", "Producto": "TENSOR PARA SECARROPA", "Precio_Cliente": 5000.00, "Precio_Tecnico": 3800.00, "Cantidad_Stock": 9},
   {"Codigo": "ten6", "Producto": "TENSOR PARA SECARROPA DREAN WIDN QV", "Precio_Cliente": 4800.00, "Precio_Tecnico": 3800.00, "Cantidad_Stock": 0},
-  {"Codigo": "ten5", "Producto": "TENSOR SECARROPA ALLADIO DREAN WIND", "Precio_Cliente": 3400.00, "Precio_Tecnico": 2500.00, "Cantidad_Stock": 6},
+  {"Codigo": "ten5", "Producto": "TENSOR SECARROPA ALLADIO DREAN WIND", "Precio_Cliente": 3400.00, "Precio_Tecnico": 2400.00, "Cantidad_Stock": 6},
   {"Codigo": "sec003", "Producto": "TENSOR SECARROPA KOHINOOR CUADRADO", "Precio_Cliente": 2900.00, "Precio_Tecnico": 2100.00, "Cantidad_Stock": 20},
   {"Codigo": "sec004", "Producto": "TENSOR SECARROPA MOD VIEJO CODINI", "Precio_Cliente": 2100.00, "Precio_Tecnico": 1300.00, "Cantidad_Stock": 5},
   {"Codigo": "ten05", "Producto": "TENSORES LAVARROPA DREAN COCEPT 5.05", "Precio_Cliente": 882.00, "Precio_Tecnico": 900.00, "Cantidad_Stock": 12},
