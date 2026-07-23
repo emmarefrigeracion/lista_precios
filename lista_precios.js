@@ -551,7 +551,7 @@
   {"Codigo": "TER012", "Producto": "TERMOSTATO DUAL P/ FREEZER BLUESTAR (40702)", "Precio_Cliente": 18900.00, "Precio_Tecnico": 14500.00, "Cantidad_Stock": 2},
   {"Codigo": "ter021", "Producto": "TERMOSTATO EXHIBIDORA BLUESTAR", "Precio_Cliente": 16500.00, "Precio_Tecnico": 13500.00, "Cantidad_Stock": 2},
   {"Codigo": "terfree", "Producto": "TERMOSTATO FREEZER 53670-4", "Precio_Cliente": 19107.00, "Precio_Tecnico": 16038.00, "Cantidad_Stock": 3},
-  {"Codigo": "003", "Producto": "TERMOSTATO K59", "Precio_Cliente": 15000.00, "Precio_Tecnico": 11800.00, "Cantidad_Stock": 7},
+  {"Codigo": "003", "Producto": "TERMOSTATO K59", "Precio_Cliente": 16000.00, "Precio_Tecnico": 11800.00, "Cantidad_Stock": 7},
   {"Codigo": "ter59", "Producto": "TERMOSTATO K59 X 2 MTRS", "Precio_Cliente": 17000.00, "Precio_Tecnico": 12800.00, "Cantidad_Stock": 4},
   {"Codigo": "ter26", "Producto": "TERMOSTATO KDF26 (K59 ALTERNATIVO)", "Precio_Cliente": 19000.00, "Precio_Tecnico": 12700.00, "Cantidad_Stock": 1},
   {"Codigo": "ter30", "Producto": "TERMOSTATO KDF30 ORIGINAL DE GAFA", "Precio_Cliente": 28000.00, "Precio_Tecnico": 22800.00, "Cantidad_Stock": 2},
