@@ -65,7 +65,7 @@
   {"Codigo": "b5", "Producto": "BOTONERA  DREAN NEXT/AURORA", "Precio_Cliente": 7500.00, "Precio_Tecnico": 5200.00, "Cantidad_Stock": 14},
   {"Codigo": "b9", "Producto": "BOTONERA WHIRLPOOL 7 BOT", "Precio_Cliente": 8500.00, "Precio_Tecnico": 7600.00, "Cantidad_Stock": 0},
   {"Codigo": "bri005", "Producto": "BRIDA DREAN GOLD LADO OPUESTO", "Precio_Cliente": 15600.00, "Precio_Tecnico": 12000.00, "Cantidad_Stock": 10},
-  {"Codigo": "bri006", "Producto": "BRIDA DREAN GOLD LADO POLEA", "Precio_Cliente": 17200.00, "Precio_Tecnico": 14200.00, "Cantidad_Stock": 2},
+  {"Codigo": "bri006", "Producto": "BRIDA DREAN GOLD LADO POLEA", "Precio_Cliente": 16600.00, "Precio_Tecnico": 13000.00, "Cantidad_Stock": 10},
   {"Codigo": "bri1", "Producto": "BRIDA FUELLE BLUE (ALAMBRE) NEXT TRASERA", "Precio_Cliente": 4900.00, "Precio_Tecnico": 4200.00, "Cantidad_Stock": 0},
   {"Codigo": "bri5", "Producto": "BRIDA FUELLE NEXT DELANTERA", "Precio_Cliente": 3900.00, "Precio_Tecnico": 3200.00, "Cantidad_Stock": 3},
   {"Codigo": "buje8", "Producto": "BUJE DE ARRASTRE", "Precio_Cliente": 3100.00, "Precio_Tecnico": 2300.00, "Cantidad_Stock": 2},
