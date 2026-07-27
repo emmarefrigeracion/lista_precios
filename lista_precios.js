@@ -527,7 +527,7 @@
   {"Codigo": "ten5", "Producto": "TENSOR SECARROPA ALLADIO DREAN WIND", "Precio_Cliente": 3400.00, "Precio_Tecnico": 2400.00, "Cantidad_Stock": 6},
   {"Codigo": "sec003", "Producto": "TENSOR SECARROPA KOHINOOR CUADRADO", "Precio_Cliente": 2900.00, "Precio_Tecnico": 2100.00, "Cantidad_Stock": 20},
   {"Codigo": "sec004", "Producto": "TENSOR SECARROPA MOD VIEJO CODINI", "Precio_Cliente": 2100.00, "Precio_Tecnico": 1300.00, "Cantidad_Stock": 5},
-  {"Codigo": "ten05", "Producto": "TENSORES LAVARROPA DREAN COCEPT 5.05", "Precio_Cliente": 882.00, "Precio_Tecnico": 900.00, "Cantidad_Stock": 12},
+  {"Codigo": "ten05", "Producto": "TENSORES LAVARROPA DREAN COCEPT 5.05", "Precio_Cliente": 1500.00, "Precio_Tecnico": 1200.00, "Cantidad_Stock": 15},
   {"Codigo": "ten002", "Producto": "TENSORES PARA LAVARROPA", "Precio_Cliente": 2178.00, "Precio_Tecnico": 1683.00, "Cantidad_Stock": 0},
   {"Codigo": "dis001", "Producto": "TERMICO 85º /89º PARA DISPENSER", "Precio_Cliente": 6435.00, "Precio_Tecnico": 5148.00, "Cantidad_Stock": 2},
   {"Codigo": "t012", "Producto": "TERMICOS 1/4- 1/3", "Precio_Cliente": 4500.00, "Precio_Tecnico": 3500.00, "Cantidad_Stock": 10},
