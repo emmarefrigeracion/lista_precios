@@ -480,7 +480,7 @@
   {"Codigo": "EJE001", "Producto": "SOPORTE 166  DREAN  CARA PLANA", "Precio_Cliente": 36630.00, "Precio_Tecnico": 30690.00, "Cantidad_Stock": 1},
   {"Codigo": "eje032", "Producto": "SOPORTE 166 ORIGINAL  REDONDITO", "Precio_Cliente": 29502.00, "Precio_Tecnico": 23760.00, "Cantidad_Stock": 2},
   {"Codigo": "EJE002", "Producto": "SOPORTE AC&C 166 DREAN  CILINDRICO", "Precio_Cliente": 23800.00, "Precio_Tecnico": 20000.00, "Cantidad_Stock": 96},
-  {"Codigo": "eje011", "Producto": "SOPORTE AC&C BLUE 6-7 KG NACIONAL  (03-04)", "Precio_Cliente": 28000.00, "Precio_Tecnico": 24500.00, "Cantidad_Stock": 14},
+  {"Codigo": "eje011", "Producto": "SOPORTE AC&C BLUE 6-7 KG NACIONAL  (03-04)", "Precio_Cliente": 26800.00, "Precio_Tecnico": 23000.00, "Cantidad_Stock": 14},
   {"Codigo": "concept", "Producto": "SOPORTE AC&C CONCEPT 5.05", "Precio_Cliente": 49000.00, "Precio_Tecnico": 45000.00, "Cantidad_Stock": 2},
   {"Codigo": "sop015", "Producto": "SOPORTE AC&C DREAN 8/10KG  (REDONDITO Y CARA PLANA)", "Precio_Cliente": 33500.00, "Precio_Tecnico": 28700.00, "Cantidad_Stock": 8},
   {"Codigo": "EJE003", "Producto": "SOPORTE AURORA 03/03 CONICO", "Precio_Cliente": 28413.00, "Precio_Tecnico": 26235.00, "Cantidad_Stock": 0},
