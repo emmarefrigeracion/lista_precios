@@ -383,6 +383,7 @@
   {"Codigo": "pla016", "Producto": "PLACA LAVARROPA NEXT ORIGINAL", "Precio_Cliente": 106920.00, "Precio_Tecnico": 96030.00, "Cantidad_Stock": 1},
   {"Codigo": "pla10", "Producto": "PLACA PEABODY PARA FREEZER 50*45", "Precio_Cliente": 81200.00, "Precio_Tecnico": 72500.00, "Cantidad_Stock": 2},
   {"Codigo": "peltier", "Producto": "PLACA PELTIER", "Precio_Cliente": 24100.00, "Precio_Tecnico": 19500.00, "Cantidad_Stock": 3},
+  {"Codigo": "pla11", "Producto": "PLACA UNIVERSAL P HELADERA", "Precio_Cliente": 58600.00, "Precio_Tecnico": 52300.00, "Cantidad_Stock": 3},
   {"Codigo": "pla025", "Producto": "PLAQUETA CONSUL 600", "Precio_Cliente": 46332.00, "Precio_Tecnico": 35838.00, "Cantidad_Stock": 0},
   {"Codigo": "pol166", "Producto": "POLEA 166", "Precio_Cliente": 17800.00, "Precio_Tecnico": 13000.00, "Cantidad_Stock": 3},
   {"Codigo": "pol008", "Producto": "POLEA AURORA", "Precio_Cliente": 24000.00, "Precio_Tecnico": 19000.00, "Cantidad_Stock": 2},
