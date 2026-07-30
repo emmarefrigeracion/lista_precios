@@ -220,7 +220,7 @@
   {"Codigo": "fil1", "Producto": "FILTRO 30GRM CON CHICOTE", "Precio_Cliente": 7200.00, "Precio_Tecnico": 5800.00, "Cantidad_Stock": 8},
   {"Codigo": "1964", "Producto": "FILTRO COMERCIAL 1/4 CON ROSCA", "Precio_Cliente": 26000.00, "Precio_Tecnico": 22000.00, "Cantidad_Stock": 2},
   {"Codigo": "filtro002", "Producto": "FILTRO DE BOMBA LAVARROPA DREAN 166 LARGO", "Precio_Cliente": 17000.00, "Precio_Tecnico": 12900.00, "Cantidad_Stock": 4},
-  {"Codigo": "F003", "Producto": "FILTRO DE BOMBA LAVARROPA DREAN CORTO", "Precio_Cliente": 7500.00, "Precio_Tecnico": 5500.00, "Cantidad_Stock": 4},
+  {"Codigo": "F003", "Producto": "FILTRO DE BOMBA LAVARROPA DREAN CORTO", "Precio_Cliente": 13800.00, "Precio_Tecnico": 8700.00, "Cantidad_Stock": 4},
   {"Codigo": "for040", "Producto": "FORZADOR CONDENSADORA SPLIT 33W", "Precio_Cliente": 82071.00, "Precio_Tecnico": 65637.00, "Cantidad_Stock": 0},
   {"Codigo": "for008", "Producto": "FORZADOR NO FROST (38060)", "Precio_Cliente": 21500.00, "Precio_Tecnico": 19800.00, "Cantidad_Stock": 2},
   {"Codigo": "FOR011", "Producto": "FORZADOR PATRICK HPK", "Precio_Cliente": 35200.00, "Precio_Tecnico": 32175.00, "Cantidad_Stock": 2},
