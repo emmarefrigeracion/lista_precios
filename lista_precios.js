@@ -596,7 +596,7 @@
   {"Codigo": "trin001", "Producto": "TRINCHETA", "Precio_Cliente": 3564.00, "Precio_Tecnico": 3267.00, "Cantidad_Stock": 0},
   {"Codigo": "tue003", "Producto": "TUERCA CAJA SANYO/LG", "Precio_Cliente": 4200.00, "Precio_Tecnico": 3200.00, "Cantidad_Stock": 2},
   {"Codigo": "tue02", "Producto": "TUERCA DE 1/2", "Precio_Cliente": 0.00, "Precio_Tecnico": 3465.00, "Cantidad_Stock": 0},
-  {"Codigo": "tuer001", "Producto": "TUERCA EJE DREAN NEXT", "Precio_Cliente": 2772.00, "Precio_Tecnico": 1980.00, "Cantidad_Stock": 0},
+  {"Codigo": "t01", "Producto": "TUERCA EJE DREAN NEXT", "Precio_Cliente": 3200.00, "Precio_Tecnico": 2600.00, "Cantidad_Stock": 5},
   {"Codigo": "tue015", "Producto": "TUERCA REDUCCION 1/2 A 3/8", "Precio_Cliente": 5346.00, "Precio_Tecnico": 3465.00, "Cantidad_Stock": 5},
   {"Codigo": "tue014", "Producto": "TUERCA REDUCCION 5/8 A 1/2", "Precio_Cliente": 5600.00, "Precio_Tecnico": 4700.00, "Cantidad_Stock": 0},
   {"Codigo": "tue020", "Producto": "TUERCA SECARROPA DREAN", "Precio_Cliente": 4950.00, "Precio_Tecnico": 3267.00, "Cantidad_Stock": 3},
