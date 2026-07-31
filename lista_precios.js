@@ -516,6 +516,7 @@
   {"Codigo": "fuga001", "Producto": "TAPA FUGA BRILLANTE EXTREME", "Precio_Cliente": 6930.00, "Precio_Tecnico": 6237.00, "Cantidad_Stock": 2},
   {"Codigo": "fuga002", "Producto": "TAPA FUGA EXTREME 12ML SIN ADAPTADOR", "Precio_Cliente": 23569.92, "Precio_Tecnico": 20255.40, "Cantidad_Stock": 1},
   {"Codigo": "tap002", "Producto": "TAPA FUGA EXTREME 30ML", "Precio_Cliente": 49401.00, "Precio_Tecnico": 43758.00, "Cantidad_Stock": 9},
+  {"Codigo": "s6", "Producto": "TAPA FUGA F6 8ML", "Precio_Cliente": 0.00, "Precio_Tecnico": 0.00, "Cantidad_Stock": 0},
   {"Codigo": "K11", "Producto": "TAPA FUGA K11® DOSIS ÚNICA 10ML", "Precio_Cliente": 35000.00, "Precio_Tecnico": 31000.00, "Cantidad_Stock": 1},
   {"Codigo": "t9", "Producto": "TAPA JABONERA BLUE 6.06", "Precio_Cliente": 17000.00, "Precio_Tecnico": 15000.00, "Cantidad_Stock": 1},
   {"Codigo": "tapa8", "Producto": "TAPA PUERTA SUPERIOR DREAN GOLD", "Precio_Cliente": 49000.00, "Precio_Tecnico": 46000.00, "Cantidad_Stock": 1},
