@@ -300,6 +300,7 @@
   {"Codigo": "man115", "Producto": "MANGUERA DESAGOTE 1,80 RECTA  (UNI)", "Precio_Cliente": 4500.00, "Precio_Tecnico": 3500.00, "Cantidad_Stock": 11},
   {"Codigo": "man2", "Producto": "MANGUERA DESAGOTE 2.5M", "Precio_Cliente": 5200.00, "Precio_Tecnico": 4200.00, "Cantidad_Stock": 5},
   {"Codigo": "man116", "Producto": "MANGUERA DESAGOTE GAFA C/CODO GRANDE 1.80", "Precio_Cliente": 6000.00, "Precio_Tecnico": 4500.00, "Cantidad_Stock": 7},
+  {"Codigo": "man9", "Producto": "MANGUERA DESAGOTE RECTA CORTA", "Precio_Cliente": 5900.00, "Precio_Tecnico": 4300.00, "Cantidad_Stock": 3},
   {"Codigo": "man166", "Producto": "MANGUERA P TOBERA DREAN 166", "Precio_Cliente": 11340.00, "Precio_Tecnico": 9720.00, "Cantidad_Stock": 10},
   {"Codigo": "man003", "Producto": "MANIFOLD BRONCE DUAL  PARA R22 Y 410", "Precio_Cliente": 78500.00, "Precio_Tecnico": 68000.00, "Cantidad_Stock": 1},
   {"Codigo": "man004", "Producto": "MANIFOLD BRONCE R22", "Precio_Cliente": 46530.00, "Precio_Tecnico": 38907.00, "Cantidad_Stock": 0},
