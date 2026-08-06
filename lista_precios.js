@@ -397,7 +397,7 @@
   {"Codigo": "fam009", "Producto": "POLEA MOTOR  FAMILY", "Precio_Cliente": 7500.00, "Precio_Tecnico": 6200.00, "Cantidad_Stock": 3},
   {"Codigo": "pol004", "Producto": "POLEA MOTOR GAFA", "Precio_Cliente": 18000.00, "Precio_Tecnico": 14500.00, "Cantidad_Stock": 1},
   {"Codigo": "pol002", "Producto": "POLEA SEMIAUTOMATICO CON ESPINA (CHIQUITA)", "Precio_Cliente": 4257.00, "Precio_Tecnico": 2475.00, "Cantidad_Stock": 0},
-  {"Codigo": "3679", "Producto": "POLEA TAMBOR DREAN 8 KG DOS CARAS", "Precio_Cliente": 18700.00, "Precio_Tecnico": 16200.00, "Cantidad_Stock": 2},
+  {"Codigo": "3679", "Producto": "POLEA TAMBOR DREAN 8 KG DOS CARAS", "Precio_Cliente": 19100.00, "Precio_Tecnico": 17200.00, "Cantidad_Stock": 2},
   {"Codigo": "3678", "Producto": "POLEA TAMBOR DREAN BLUE 8KG CONICO", "Precio_Cliente": 19100.00, "Precio_Tecnico": 17200.00, "Cantidad_Stock": 4},
   {"Codigo": "pol006", "Producto": "POLEAN DREAN CONCEPT 7 VIAS", "Precio_Cliente": 34650.00, "Precio_Tecnico": 24750.00, "Cantidad_Stock": 1},
   {"Codigo": "poli300", "Producto": "POLIURETANO EXPANDIBLE 300ML", "Precio_Cliente": 9300.00, "Precio_Tecnico": 8400.00, "Cantidad_Stock": 5},
