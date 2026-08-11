@@ -274,7 +274,7 @@
   {"Codigo": "jab2", "Producto": "JABONERA DREAN GOLD BLUE", "Precio_Cliente": 23000.00, "Precio_Tecnico": 18000.00, "Cantidad_Stock": 1},
   {"Codigo": "jab002", "Producto": "JABONERA MOVIL DREAN BLUE", "Precio_Cliente": 13000.00, "Precio_Tecnico": 10000.00, "Cantidad_Stock": 1},
   {"Codigo": "mang011", "Producto": "JGO. ,AMGUERA X 3 R-410", "Precio_Cliente": 39600.00, "Precio_Tecnico": 34254.00, "Cantidad_Stock": 0},
-  {"Codigo": "mang010", "Producto": "JGO. DE MANGUERA X3 R-22", "Precio_Cliente": 17000.00, "Precio_Tecnico": 15500.00, "Cantidad_Stock": 4},
+  {"Codigo": "mang010", "Producto": "JGO. DE MANGUERA X3 R-22", "Precio_Cliente": 19800.00, "Precio_Tecnico": 16000.00, "Cantidad_Stock": 4},
   {"Codigo": "1-35-14655", "Producto": "JUEGO CARBONES NACIONALES  BUENO  (BOLSA PLATEADA)", "Precio_Cliente": 11500.00, "Precio_Tecnico": 10300.00, "Cantidad_Stock": 2},
   {"Codigo": "man5", "Producto": "JUEGO DE MANGUERA X3 R410", "Precio_Cliente": 32670.00, "Precio_Tecnico": 23265.00, "Cantidad_Stock": 0},
   {"Codigo": "6-13-1127", "Producto": "JUEGO MANG. CON  LLAMA Y SOPLETE AUTOGENA", "Precio_Cliente": 63712.44, "Precio_Tecnico": 53032.32, "Cantidad_Stock": 1},
