@@ -302,6 +302,7 @@
   {"Codigo": "man116", "Producto": "MANGUERA DESAGOTE GAFA C/CODO GRANDE 1.80", "Precio_Cliente": 6000.00, "Precio_Tecnico": 4500.00, "Cantidad_Stock": 7},
   {"Codigo": "man9", "Producto": "MANGUERA DESAGOTE RECTA CORTA", "Precio_Cliente": 5900.00, "Precio_Tecnico": 4300.00, "Cantidad_Stock": 3},
   {"Codigo": "MAN22", "Producto": "MANGUERA MANIFOLD X3 PARA R22 X1.5M", "Precio_Cliente": 23000.00, "Precio_Tecnico": 19900.00, "Cantidad_Stock": 3},
+  {"Codigo": "MAN410", "Producto": "MANGUERA MANIFOLS X3 PARA 410 X150M", "Precio_Cliente": 41000.00, "Precio_Tecnico": 37800.00, "Cantidad_Stock": 3},
   {"Codigo": "man166", "Producto": "MANGUERA P TOBERA DREAN 166", "Precio_Cliente": 11340.00, "Precio_Tecnico": 9720.00, "Cantidad_Stock": 10},
   {"Codigo": "man003", "Producto": "MANIFOLD BRONCE DUAL  PARA R22 Y 410", "Precio_Cliente": 78500.00, "Precio_Tecnico": 68000.00, "Cantidad_Stock": 1},
   {"Codigo": "man004", "Producto": "MANIFOLD BRONCE R22", "Precio_Cliente": 46530.00, "Precio_Tecnico": 38907.00, "Cantidad_Stock": 0},
