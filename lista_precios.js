@@ -499,6 +499,7 @@
   {"Codigo": "eje025", "Producto": "SOPORTE BLUE 6-7 KG ORIGINAL", "Precio_Cliente": 35000.00, "Precio_Tecnico": 28000.00, "Cantidad_Stock": 1},
   {"Codigo": "EJE026", "Producto": "SOPORTE BLUE 8.12 (8KG) ORIGINAL REDONDITO", "Precio_Cliente": 41580.00, "Precio_Tecnico": 36000.00, "Cantidad_Stock": 6},
   {"Codigo": "EJE004", "Producto": "SOPORTE BOSH 03/03", "Precio_Cliente": 36000.00, "Precio_Tecnico": 32500.00, "Cantidad_Stock": 0},
+  {"Codigo": "EJE10", "Producto": "SOPORTE ELECTROLUX CARA PLANA", "Precio_Cliente": 37800.00, "Precio_Tecnico": 34800.00, "Cantidad_Stock": 2},
   {"Codigo": "lg001", "Producto": "SOPORTE LG  8.5KG  (6305/06)", "Precio_Cliente": 74000.00, "Precio_Tecnico": 74000.00, "Cantidad_Stock": 0},
   {"Codigo": "eje015", "Producto": "SOPORTE LONGVIE", "Precio_Cliente": 143748.00, "Precio_Tecnico": 136125.00, "Cantidad_Stock": 1},
   {"Codigo": "eje021", "Producto": "SOPORTE PATRICK LPK 6/7 KG RECTO", "Precio_Cliente": 46500.00, "Precio_Tecnico": 41200.00, "Cantidad_Stock": 1},
