@@ -270,7 +270,7 @@
   {"Codigo": "in001", "Producto": "INTERRUPTOR LAVARROPA DREAN 4 CONTACTOS", "Precio_Cliente": 15900.00, "Precio_Tecnico": 13300.00, "Cantidad_Stock": 1},
   {"Codigo": "IN02", "Producto": "INTERRUPTOR SECARROPA DREAN CON TUERCA", "Precio_Cliente": 6700.00, "Precio_Tecnico": 5400.00, "Cantidad_Stock": 3},
   {"Codigo": "IN01", "Producto": "INTERRUPTOR SECARROPA DREAN WIND", "Precio_Cliente": 9000.00, "Precio_Tecnico": 8100.00, "Cantidad_Stock": 3},
-  {"Codigo": "in8", "Producto": "INTERRUPTOR SECARROPA KOHINOOR", "Precio_Cliente": 11000.00, "Precio_Tecnico": 8900.00, "Cantidad_Stock": 4},
+  {"Codigo": "in8", "Producto": "INTERRUPTOR SECARROPA KOHINOOR CON RESORTE", "Precio_Cliente": 11000.00, "Precio_Tecnico": 7900.00, "Cantidad_Stock": 4},
   {"Codigo": "jab2", "Producto": "JABONERA DREAN GOLD BLUE", "Precio_Cliente": 23000.00, "Precio_Tecnico": 18000.00, "Cantidad_Stock": 1},
   {"Codigo": "jab002", "Producto": "JABONERA MOVIL DREAN BLUE", "Precio_Cliente": 13000.00, "Precio_Tecnico": 10000.00, "Cantidad_Stock": 1},
   {"Codigo": "mang011", "Producto": "JGO. ,AMGUERA X 3 R-410", "Precio_Cliente": 39600.00, "Precio_Tecnico": 34254.00, "Cantidad_Stock": 0},
