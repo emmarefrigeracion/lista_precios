@@ -266,7 +266,7 @@
   {"Codigo": "in", "Producto": "INSERTO PLASTICO TENSOR CUADRADO", "Precio_Cliente": 1400.00, "Precio_Tecnico": 900.00, "Cantidad_Stock": 22},
   {"Codigo": "sw5", "Producto": "INTERRUPTOR DE SECARROPA CODINI (SWITCH)", "Precio_Cliente": 4500.00, "Precio_Tecnico": 3900.00, "Cantidad_Stock": 5},
   {"Codigo": "int10", "Producto": "INTERRUPTOR DOBLE HEL WHIRLPOOL", "Precio_Cliente": 22500.00, "Precio_Tecnico": 19800.00, "Cantidad_Stock": 1},
-  {"Codigo": "inter005", "Producto": "INTERRUPTOR KOHINOOR CON TUERCA", "Precio_Cliente": 6138.00, "Precio_Tecnico": 5049.00, "Cantidad_Stock": 0},
+  {"Codigo": "inter005", "Producto": "INTERRUPTOR KOHINOOR CON TUERCA", "Precio_Cliente": 5900.00, "Precio_Tecnico": 4800.00, "Cantidad_Stock": 2},
   {"Codigo": "in001", "Producto": "INTERRUPTOR LAVARROPA DREAN 4 CONTACTOS", "Precio_Cliente": 15900.00, "Precio_Tecnico": 13300.00, "Cantidad_Stock": 1},
   {"Codigo": "IN02", "Producto": "INTERRUPTOR SECARROPA DREAN CON TUERCA", "Precio_Cliente": 6700.00, "Precio_Tecnico": 5400.00, "Cantidad_Stock": 3},
   {"Codigo": "IN01", "Producto": "INTERRUPTOR SECARROPA DREAN WIND", "Precio_Cliente": 9000.00, "Precio_Tecnico": 8100.00, "Cantidad_Stock": 3},
