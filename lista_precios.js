@@ -310,6 +310,7 @@
   {"Codigo": "man001", "Producto": "MANIFOLD SIMPLE  410 WAY VALVE", "Precio_Cliente": 14850.00, "Precio_Tecnico": 13563.00, "Cantidad_Stock": 1},
   {"Codigo": "man002", "Producto": "MANIFOLD SIMPLE R-410 BAJA", "Precio_Cliente": 18018.00, "Precio_Tecnico": 14355.00, "Cantidad_Stock": 1},
   {"Codigo": "m2", "Producto": "MANIJA DE TIRADOR PARA 166", "Precio_Cliente": 2100.00, "Precio_Tecnico": 1700.00, "Cantidad_Stock": 6},
+  {"Codigo": "MAN1", "Producto": "MANIJA HELADERA PATRICK", "Precio_Cliente": 12500.00, "Precio_Tecnico": 10200.00, "Cantidad_Stock": 2},
   {"Codigo": "mano3", "Producto": "MANO DE OBRA", "Precio_Cliente": 118800.00, "Precio_Tecnico": 74250.00, "Cantidad_Stock": 100},
   {"Codigo": "mano2", "Producto": "MANO DE OBRA INSTALACION AA HASTA 3500 FRIGORIAS", "Precio_Cliente": 128700.00, "Precio_Tecnico": 0.00, "Cantidad_Stock": 100},
   {"Codigo": "mano1", "Producto": "MANO DE OBRA INSTALACION DE AA DE 4000 A 6000 FRIGORIAS", "Precio_Cliente": 168300.00, "Precio_Tecnico": 0.00, "Cantidad_Stock": 0},
