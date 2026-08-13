@@ -238,6 +238,7 @@
   {"Codigo": "fue010", "Producto": "FUELLE ORIGINAL LONGVIE ORIGINAL 8 KG MODL8010", "Precio_Cliente": 35000.00, "Precio_Tecnico": 30000.00, "Cantidad_Stock": 1},
   {"Codigo": "fs", "Producto": "FUELLE SAMSUNG", "Precio_Cliente": 45000.00, "Precio_Tecnico": 41700.00, "Cantidad_Stock": 1},
   {"Codigo": "fue001", "Producto": "FUELLE SAMSUNG 1702-1304-1806 NO INVERTER", "Precio_Cliente": 36432.00, "Precio_Tecnico": 32472.00, "Cantidad_Stock": 0},
+  {"Codigo": "FO", "Producto": "FUELLE SAMSUNG ORIGINAL", "Precio_Cliente": 52000.00, "Precio_Tecnico": 48600.00, "Cantidad_Stock": 0},
   {"Codigo": "fuebosh", "Producto": "FUELLR BOSH  CHICO", "Precio_Cliente": 28116.00, "Precio_Tecnico": 24750.00, "Cantidad_Stock": 0},
   {"Codigo": "fu001", "Producto": "FUSIBLE TERMICO", "Precio_Cliente": 8200.00, "Precio_Tecnico": 6200.00, "Cantidad_Stock": 1},
   {"Codigo": "5-2-R22NECT6.8", "Producto": "GARRAFA NECTON R 32 680 G.", "Precio_Cliente": 0.00, "Precio_Tecnico": 0.00, "Cantidad_Stock": 0},
