@@ -81,6 +81,7 @@
   {"Codigo": "bur3", "Producto": "BURLETE NEGRO 2100 X 1000 (P ATORNILLAR)", "Precio_Cliente": 28600.00, "Precio_Tecnico": 25700.00, "Cantidad_Stock": 4},
   {"Codigo": "BUR005", "Producto": "BURLETES CORTO PARA FREEZER", "Precio_Cliente": 12700.00, "Precio_Tecnico": 11500.00, "Cantidad_Stock": 7},
   {"Codigo": "bur6", "Producto": "BURLETES MIRALLES  X METRO PARA HEL MOST Y FRREZ", "Precio_Cliente": 5600.00, "Precio_Tecnico": 4700.00, "Cantidad_Stock": 16},
+  {"Codigo": "cab5", "Producto": "CABLE CANAL 50*70", "Precio_Cliente": 23000.00, "Precio_Tecnico": 19900.00, "Cantidad_Stock": 1},
   {"Codigo": "fre4", "Producto": "CABLE DE FRENO CODINI", "Precio_Cliente": 13000.00, "Precio_Tecnico": 10100.00, "Cantidad_Stock": 3},
   {"Codigo": "fre2", "Producto": "CABLE DE FRENO DE SECARROPA   2062", "Precio_Cliente": 16100.00, "Precio_Tecnico": 13700.00, "Cantidad_Stock": 2},
   {"Codigo": "fre1", "Producto": "CABLE DE FRENO SECARROPA KOHINOOR 2042", "Precio_Cliente": 11000.00, "Precio_Tecnico": 8900.00, "Cantidad_Stock": 2},
