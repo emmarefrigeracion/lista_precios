@@ -630,6 +630,7 @@
   {"Codigo": "v8", "Producto": "VALVULA INVERSORA 3/8 X 1/2", "Precio_Cliente": 42100.00, "Precio_Tecnico": 37300.00, "Cantidad_Stock": 2},
   {"Codigo": "val001", "Producto": "VALVULA PARA LATA  C/OVULO", "Precio_Cliente": 7425.00, "Precio_Tecnico": 6435.00, "Cantidad_Stock": 0},
   {"Codigo": "val002", "Producto": "VALVULA PARA LATA C/VOLANTE", "Precio_Cliente": 22000.00, "Precio_Tecnico": 18300.00, "Cantidad_Stock": 3},
+  {"Codigo": "vl10", "Producto": "VALVULA PINCHE CON LLAVE", "Precio_Cliente": 10500.00, "Precio_Tecnico": 9300.00, "Cantidad_Stock": 1},
   {"Codigo": "4-12-125", "Producto": "VARILLA  DE PLATA", "Precio_Cliente": 2200.00, "Precio_Tecnico": 1600.00, "Cantidad_Stock": 37},
   {"Codigo": "VAR002", "Producto": "VARILLA DE ALUMINIO CON FUMDANTE", "Precio_Cliente": 9207.00, "Precio_Tecnico": 7200.00, "Cantidad_Stock": 1},
   {"Codigo": "var05", "Producto": "VARILLA SECARROPA DREAN QV 5.5   47CM", "Precio_Cliente": 12100.00, "Precio_Tecnico": 9400.00, "Cantidad_Stock": 3},
