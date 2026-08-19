@@ -212,7 +212,7 @@
   {"Codigo": "ex5", "Producto": "EXTRACTOR DE OVULO CON LLAVE  P/410", "Precio_Cliente": 41000.00, "Precio_Tecnico": 36900.00, "Cantidad_Stock": 1},
   {"Codigo": "fer5", "Producto": "FERODO CUADRADO CANDY-DREAN", "Precio_Cliente": 8300.00, "Precio_Tecnico": 6900.00, "Cantidad_Stock": 4},
   {"Codigo": "fil035", "Producto": "FILTRO  (NARANJA)  3/8", "Precio_Cliente": 31500.00, "Precio_Tecnico": 27900.00, "Cantidad_Stock": 4},
-  {"Codigo": "1964", "Producto": "FILTRO 1/4 CON ROSCA", "Precio_Cliente": 15700.00, "Precio_Tecnico": 13800.00, "Cantidad_Stock": 3},
+  {"Codigo": "032", "Producto": "FILTRO 1/4 CON ROSCA", "Precio_Cliente": 15700.00, "Precio_Tecnico": 13800.00, "Cantidad_Stock": 3},
   {"Codigo": "fil010", "Producto": "FILTRO 1/4 HELADERA COMERCIAL (NARANJA)", "Precio_Cliente": 17200.00, "Precio_Tecnico": 14200.00, "Cantidad_Stock": 1},
   {"Codigo": "FIL001", "Producto": "FILTRO 10 GR S CHICOTE", "Precio_Cliente": 3100.00, "Precio_Tecnico": 2700.00, "Cantidad_Stock": 10},
   {"Codigo": "4-10-014820", "Producto": "FILTRO 10 GRS  C/CHICOTE", "Precio_Cliente": 4200.00, "Precio_Tecnico": 3500.00, "Cantidad_Stock": 9},
