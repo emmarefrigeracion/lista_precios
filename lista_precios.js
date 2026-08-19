@@ -415,6 +415,7 @@
   {"Codigo": "pre005", "Producto": "PRESOSTATO ANALOGICO  DREAN NEXT", "Precio_Cliente": 21000.00, "Precio_Tecnico": 16900.00, "Cantidad_Stock": 5},
   {"Codigo": "pre003", "Producto": "PRESOSTATO FACE 2 FICHA DITINTAS", "Precio_Cliente": 18000.00, "Precio_Tecnico": 16700.00, "Cantidad_Stock": 4},
   {"Codigo": "pre004", "Producto": "PRESOSTATOS CONCEPT", "Precio_Cliente": 10500.00, "Precio_Tecnico": 8500.00, "Cantidad_Stock": 4},
+  {"Codigo": "t10", "Producto": "PROTECTOR DE TENSION TRV. PARA EQUIPOS DE FRIO", "Precio_Cliente": 26000.00, "Precio_Tecnico": 24000.00, "Cantidad_Stock": 2},
   {"Codigo": "rel5", "Producto": "RELAY PROTECTOR EMBRACO FF12BK 1/3 HP", "Precio_Cliente": 25650.00, "Precio_Tecnico": 21330.00, "Cantidad_Stock": 2},
   {"Codigo": "rel6", "Producto": "RELAY PROTECTOR EMBRACO FF8.5BK 1/4HP", "Precio_Cliente": 25650.00, "Precio_Tecnico": 21330.00, "Cantidad_Stock": 2},
   {"Codigo": "rel002", "Producto": "RELE EMBRACO C/ BOBIN ( EN CAJA ) 1/3-1/4", "Precio_Cliente": 26000.00, "Precio_Tecnico": 22000.00, "Cantidad_Stock": 5},
