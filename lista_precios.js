@@ -360,6 +360,7 @@
   {"Codigo": "pale002", "Producto": "PALETA FORZADOR 20-25 NARANJA", "Precio_Cliente": 10395.00, "Precio_Tecnico": 8415.00, "Cantidad_Stock": 2},
   {"Codigo": "pale001", "Producto": "PALETAS PARA FORZADOR 20 CM", "Precio_Cliente": 3564.00, "Precio_Tecnico": 3267.00, "Cantidad_Stock": 4},
   {"Codigo": "P8", "Producto": "PALTE LAVARROPA CONCEPT", "Precio_Cliente": 10200.00, "Precio_Tecnico": 9900.00, "Cantidad_Stock": 3},
+  {"Codigo": "6-6", "Producto": "PAÑO PARA SOLDAR REFRIOIL AISLANTE", "Precio_Cliente": 16900.00, "Precio_Tecnico": 14500.00, "Cantidad_Stock": 2},
   {"Codigo": "pas01", "Producto": "PASTILLA DE LIMPIEZA P LAVARROPAS", "Precio_Cliente": 3000.00, "Precio_Tecnico": 2500.00, "Cantidad_Stock": 8},
   {"Codigo": "p10", "Producto": "PATA DE SECARROPA KOHINOOR", "Precio_Cliente": 1200.01, "Precio_Tecnico": 899.99, "Cantidad_Stock": 18},
   {"Codigo": "pat003", "Producto": "PATAS  LAVARROPA REGULABLE (BASE GRANDE)", "Precio_Cliente": 2100.01, "Precio_Tecnico": 1600.00, "Cantidad_Stock": 13},
