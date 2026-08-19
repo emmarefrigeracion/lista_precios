@@ -208,6 +208,7 @@
   {"Codigo": "tor014", "Producto": "EMBRAGUE GAFA 6-7 KG", "Precio_Cliente": 18900.00, "Precio_Tecnico": 16400.00, "Cantidad_Stock": 1},
   {"Codigo": "esc01", "Producto": "ESCAREADOR PARA CAÑOS", "Precio_Cliente": 70000.00, "Precio_Tecnico": 6000.00, "Cantidad_Stock": 3},
   {"Codigo": "est001", "Producto": "ESTUFA ELECTRICA HORIZONTAL-VERTICAL", "Precio_Cliente": 21820.59, "Precio_Tecnico": 0.00, "Cantidad_Stock": 7},
+  {"Codigo": "ex5", "Producto": "EXTRACTOR DE OVULO CON LLAVE  P/410", "Precio_Cliente": 41000.00, "Precio_Tecnico": 36900.00, "Cantidad_Stock": 1},
   {"Codigo": "fer5", "Producto": "FERODO CUADRADO CANDY-DREAN", "Precio_Cliente": 8300.00, "Precio_Tecnico": 6900.00, "Cantidad_Stock": 4},
   {"Codigo": "fil035", "Producto": "FILTRO  (NARANJA)  3/8", "Precio_Cliente": 31500.00, "Precio_Tecnico": 27900.00, "Cantidad_Stock": 4},
   {"Codigo": "1964", "Producto": "FILTRO 1/4 CON ROSCA", "Precio_Cliente": 15700.00, "Precio_Tecnico": 13800.00, "Cantidad_Stock": 3},
