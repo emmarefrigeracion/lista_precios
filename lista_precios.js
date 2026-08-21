@@ -2,6 +2,7 @@
   {"Codigo": "4-2-5412", "Producto": "ACEITE BOMBA VACIO 1 LTS REFRIOIL", "Precio_Cliente": 24300.00, "Precio_Tecnico": 20800.00, "Cantidad_Stock": 3},
   {"Codigo": "4-2-210109", "Producto": "ACEITE BOMBA VACIO X 1/2 LTS REFRIOIL", "Precio_Cliente": 9900.00, "Precio_Tecnico": 7920.00, "Cantidad_Stock": 4},
   {"Codigo": "ac5", "Producto": "ACEITE REFRIOIL PE-180 1L", "Precio_Cliente": 15500.00, "Precio_Tecnico": 11300.00, "Cantidad_Stock": 1},
+  {"Codigo": "ac134", "Producto": "ACEITE REFRIOIL R134-404 X 1 L", "Precio_Cliente": 25000.00, "Precio_Tecnico": 21200.00, "Cantidad_Stock": 2},
   {"Codigo": "ter03", "Producto": "ACTUADOR ESLABON DE LUJO", "Precio_Cliente": 24000.00, "Precio_Tecnico": 21000.00, "Cantidad_Stock": 2},
   {"Codigo": "ter04", "Producto": "ACTUADOR GAFA", "Precio_Cliente": 23800.00, "Precio_Tecnico": 19700.00, "Cantidad_Stock": 1},
   {"Codigo": "ter02", "Producto": "ACTUADOR LG  TORQUE", "Precio_Cliente": 33700.00, "Precio_Tecnico": 29400.00, "Cantidad_Stock": 4},
