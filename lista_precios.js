@@ -133,7 +133,7 @@
   {"Codigo": "cap015", "Producto": "CAPILAR 1.2   (3 METRO)", "Precio_Cliente": 10600.00, "Precio_Tecnico": 8200.00, "Cantidad_Stock": 3},
   {"Codigo": "capi08", "Producto": "CAPILAR COBRE 0.8   (3 METROS)", "Precio_Cliente": 7600.00, "Precio_Tecnico": 6200.00, "Cantidad_Stock": 100},
   {"Codigo": "car5", "Producto": "CARBONES 12.5 Y 13.5 BOLSA TRANSPARENTE", "Precio_Cliente": 12000.00, "Precio_Tecnico": 9000.00, "Cantidad_Stock": 98},
-  {"Codigo": "car001", "Producto": "CARBONES 12.5-13.5 EN CAJA ALFA CARBON", "Precio_Cliente": 16000.00, "Precio_Tecnico": 13800.00, "Cantidad_Stock": 2},
+  {"Codigo": "car001", "Producto": "CARBONES 12.5-13.5 EN CAJA ALFA CARBON", "Precio_Cliente": 21000.00, "Precio_Tecnico": 18600.00, "Cantidad_Stock": 2},
   {"Codigo": "car1", "Producto": "CARBONES LECARD", "Precio_Cliente": 13500.00, "Precio_Tecnico": 9000.00, "Cantidad_Stock": 100},
   {"Codigo": "CAU01", "Producto": "CAUDALIMETRO DREAN DISH", "Precio_Cliente": 47700.00, "Precio_Tecnico": 44200.00, "Cantidad_Stock": 1},
   {"Codigo": "peltier2", "Producto": "CELDA PELTIER 40*40MM TEC1-12708", "Precio_Cliente": 23000.00, "Precio_Tecnico": 19500.00, "Cantidad_Stock": 2},
