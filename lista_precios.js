@@ -50,7 +50,7 @@
   {"Codigo": "blo004", "Producto": "BLOCA PUERTA DREAN CONCEPT IMP", "Precio_Cliente": 16000.00, "Precio_Tecnico": 12400.00, "Cantidad_Stock": 3},
   {"Codigo": "blo3", "Producto": "BLOCAPUERTA CANDY/LONGVIE", "Precio_Cliente": 26000.00, "Precio_Tecnico": 23500.00, "Cantidad_Stock": 0},
   {"Codigo": "blo02", "Producto": "BLOCAPUERTA DREAN BLUE BLANCO SIMA", "Precio_Cliente": 15000.00, "Precio_Tecnico": 12200.00, "Cantidad_Stock": 18},
-  {"Codigo": "blo010", "Producto": "BLOCAPUERTA DREAN GOLD/CANDY", "Precio_Cliente": 14600.00, "Precio_Tecnico": 21800.00, "Cantidad_Stock": 1},
+  {"Codigo": "blo010", "Producto": "BLOCAPUERTA DREAN GOLD/CANDY", "Precio_Cliente": 24200.00, "Precio_Tecnico": 21200.00, "Cantidad_Stock": 1},
   {"Codigo": "blo002", "Producto": "BLOCAPUERTA DREAN NEXT 4 CONTACTOS", "Precio_Cliente": 18900.00, "Precio_Tecnico": 17900.00, "Cantidad_Stock": 2},
   {"Codigo": "blo03", "Producto": "BLOCAPUERTA DREAN NEXT 8.12 3 CONTACTOS", "Precio_Cliente": 12000.00, "Precio_Tecnico": 10500.00, "Cantidad_Stock": 9},
   {"Codigo": "LPK", "Producto": "BLOCAPUERTA LPK  (LAVASECA)  08KG", "Precio_Cliente": 33600.00, "Precio_Tecnico": 29800.00, "Cantidad_Stock": 1},
