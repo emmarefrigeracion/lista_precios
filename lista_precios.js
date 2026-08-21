@@ -15,7 +15,7 @@
   {"Codigo": "agi001", "Producto": "AGITADOR DREAN BLUE LARGO", "Precio_Cliente": 3700.00, "Precio_Tecnico": 2700.00, "Cantidad_Stock": 3},
   {"Codigo": "agi002", "Producto": "AGITADOR DREAN CORTO", "Precio_Cliente": 3000.00, "Precio_Tecnico": 2500.00, "Cantidad_Stock": 7},
   {"Codigo": "8-8-13105", "Producto": "AISLACION  1/2\" POR  TIRA", "Precio_Cliente": 2600.00, "Precio_Tecnico": 2100.00, "Cantidad_Stock": 93},
-  {"Codigo": "8-9-CO-D19", "Producto": "AISLACION 1/4 POR TIRA", "Precio_Cliente": 2500.00, "Precio_Tecnico": 1500.00, "Cantidad_Stock": 86},
+  {"Codigo": "8-9-CO-D19", "Producto": "AISLACION 1/4 POR TIRA", "Precio_Cliente": 2500.00, "Precio_Tecnico": 1500.00, "Cantidad_Stock": 1000},
   {"Codigo": "8-9-CO-F35", "Producto": "AISLACION 3/8  POR TIRA", "Precio_Cliente": 1750.00, "Precio_Tecnico": 1900.00, "Cantidad_Stock": 1406},
   {"Codigo": "8-8-13139", "Producto": "AISLACION 5/8\" NEGROS POR TIRA", "Precio_Cliente": 2700.00, "Precio_Tecnico": 2300.00, "Cantidad_Stock": 103},
   {"Codigo": "am1", "Producto": "AMORTIGUADOR DREAN 6-8 KG PRECIO POR UNIDAD", "Precio_Cliente": 12500.00, "Precio_Tecnico": 9500.00, "Cantidad_Stock": 69},
