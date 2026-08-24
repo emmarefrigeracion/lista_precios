@@ -209,7 +209,7 @@
   {"Codigo": "eli020", "Producto": "ELICE 100MM (FORZADOR GAFA)", "Precio_Cliente": 7425.00, "Precio_Tecnico": 4950.00, "Cantidad_Stock": 1},
   {"Codigo": "em5", "Producto": "EMBRAGUE DREAN CONCEPT COMPLETO", "Precio_Cliente": 7500.00, "Precio_Tecnico": 6900.00, "Cantidad_Stock": 5},
   {"Codigo": "tor014", "Producto": "EMBRAGUE GAFA 6-7 KG", "Precio_Cliente": 18900.00, "Precio_Tecnico": 16400.00, "Cantidad_Stock": 1},
-  {"Codigo": "esc01", "Producto": "ESCAREADOR PARA CAÑOS", "Precio_Cliente": 70000.00, "Precio_Tecnico": 6000.00, "Cantidad_Stock": 3},
+  {"Codigo": "esc01", "Producto": "ESCAREADOR PARA CAÑOS", "Precio_Cliente": 74200.00, "Precio_Tecnico": 6360.00, "Cantidad_Stock": 3},
   {"Codigo": "est001", "Producto": "ESTUFA ELECTRICA HORIZONTAL-VERTICAL", "Precio_Cliente": 21820.59, "Precio_Tecnico": 0.00, "Cantidad_Stock": 7},
   {"Codigo": "ex5", "Producto": "EXTRACTOR DE OVULO CON LLAVE  P/410", "Precio_Cliente": 41000.00, "Precio_Tecnico": 36900.00, "Cantidad_Stock": 1},
   {"Codigo": "fer5", "Producto": "FERODO CUADRADO CANDY-DREAN", "Precio_Cliente": 8300.00, "Precio_Tecnico": 6900.00, "Cantidad_Stock": 4},
