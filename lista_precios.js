@@ -108,7 +108,7 @@
   {"Codigo": "cal002", "Producto": "CALOVENTOR SERENA (NEGRO)", "Precio_Cliente": 17000.00, "Precio_Tecnico": 0.00, "Cantidad_Stock": 3},
   {"Codigo": "4-3-4558", "Producto": "CAÑO COBRE  1/2  POR METRO", "Precio_Cliente": 14840.00, "Precio_Tecnico": 13356.00, "Cantidad_Stock": 79},
   {"Codigo": "4-3-4514", "Producto": "CAÑO COBRE  1/4 POR METRO", "Precio_Cliente": 6890.00, "Precio_Tecnico": 6254.00, "Cantidad_Stock": 123},
-  {"Codigo": "4-3-4538", "Producto": "CAÑO COBRE 3/8 POR METRO", "Precio_Cliente": 10900.00, "Precio_Tecnico": 9800.00, "Cantidad_Stock": 120},
+  {"Codigo": "4-3-4538", "Producto": "CAÑO COBRE 3/8 POR METRO", "Precio_Cliente": 11554.00, "Precio_Tecnico": 10388.00, "Cantidad_Stock": 120},
   {"Codigo": "4-3-ROLLO5/8", "Producto": "CAÑO COBRE 5/8  POR METRO", "Precio_Cliente": 15800.00, "Precio_Tecnico": 14700.00, "Cantidad_Stock": 1012},
   {"Codigo": "capa16", "Producto": "CAPACITOR  16MF", "Precio_Cliente": 5900.00, "Precio_Tecnico": 4000.00, "Cantidad_Stock": 8},
   {"Codigo": "capa20", "Producto": "CAPACITOR  20MF 440V", "Precio_Cliente": 6200.00, "Precio_Tecnico": 4700.00, "Cantidad_Stock": 3},
