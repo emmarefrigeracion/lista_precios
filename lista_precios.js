@@ -543,7 +543,7 @@
   {"Codigo": "4665", "Producto": "TAPA SECARROPA KOHINOOR BLANCA", "Precio_Cliente": 10000.00, "Precio_Tecnico": 7500.00, "Cantidad_Stock": 3},
   {"Codigo": "8393", "Producto": "TAPA SECARROPA KOHINOOR CELESTE/GRIS", "Precio_Cliente": 10000.00, "Precio_Tecnico": 7500.00, "Cantidad_Stock": 3},
   {"Codigo": "TAP001", "Producto": "TAPAFUGAS EXTREME  12 ML", "Precio_Cliente": 29601.00, "Precio_Tecnico": 24500.00, "Cantidad_Stock": 2},
-  {"Codigo": "13646", "Producto": "TEMSOTATO PARA CONGELADOR", "Precio_Cliente": 18000.00, "Precio_Tecnico": 14900.00, "Cantidad_Stock": 3},
+  {"Codigo": "13646", "Producto": "TEMSOTATO PARA CONGELADOR", "Precio_Cliente": 18000.00, "Precio_Tecnico": 15900.00, "Cantidad_Stock": 3},
   {"Codigo": "ten1", "Producto": "TENSOR DE SECARROPAS KOHINOOR", "Precio_Cliente": 3100.00, "Precio_Tecnico": 2300.00, "Cantidad_Stock": 18},
   {"Codigo": "ten2", "Producto": "TENSOR PARA SECARROPA", "Precio_Cliente": 5000.00, "Precio_Tecnico": 3800.00, "Cantidad_Stock": 9},
   {"Codigo": "ten6", "Producto": "TENSOR PARA SECARROPA DREAN WIDN QV", "Precio_Cliente": 4800.00, "Precio_Tecnico": 3800.00, "Cantidad_Stock": 0},
