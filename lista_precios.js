@@ -197,7 +197,7 @@
   {"Codigo": "dec002", "Producto": "DECAPANTE P7 PLATA 50G1", "Precio_Cliente": 9200.00, "Precio_Tecnico": 7200.00, "Cantidad_Stock": 1},
   {"Codigo": "d5", "Producto": "DISCO DE COTE DE WALT X UNIDAD", "Precio_Cliente": 2200.00, "Precio_Tecnico": 2000.00, "Cantidad_Stock": 25},
   {"Codigo": "res003", "Producto": "DOBLADOA RESORTE 1/2", "Precio_Cliente": 7000.00, "Precio_Tecnico": 5500.00, "Cantidad_Stock": 2},
-  {"Codigo": "do001", "Producto": "DOBLADORA DE CAÑO 3 EN 1", "Precio_Cliente": 21000.00, "Precio_Tecnico": 16000.00, "Cantidad_Stock": 0},
+  {"Codigo": "do001", "Producto": "DOBLADORA DE CAÑO 3 EN 1", "Precio_Cliente": 22260.00, "Precio_Tecnico": 16960.00, "Cantidad_Stock": 0},
   {"Codigo": "res004", "Producto": "DOBLADORA RESORTE 5/8", "Precio_Cliente": 6900.00, "Precio_Tecnico": 5900.00, "Cantidad_Stock": 1},
   {"Codigo": "d2", "Producto": "DUCTO SALIDA DE AIRE PORTATIL 5\" X 2 METROS", "Precio_Cliente": 23760.00, "Precio_Tecnico": 19305.00, "Cantidad_Stock": 0},
   {"Codigo": "ele5", "Producto": "ELECTROVALVULA 1 VIA 180º /90º", "Precio_Cliente": 9500.00, "Precio_Tecnico": 8700.00, "Cantidad_Stock": 8},
