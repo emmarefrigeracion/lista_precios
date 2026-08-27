@@ -350,7 +350,7 @@
   {"Codigo": "mot004", "Producto": "MOTOR FORZADOR TIPO ELCON 16/25", "Precio_Cliente": 31000.00, "Precio_Tecnico": 27500.00, "Cantidad_Stock": 2},
   {"Codigo": "mot1/3+", "Producto": "MOTOR HUAYI  1/3+", "Precio_Cliente": 123750.00, "Precio_Tecnico": 98000.00, "Cantidad_Stock": 1},
   {"Codigo": "mot014", "Producto": "MOTOR HUAYI  1/4  R134", "Precio_Cliente": 91000.00, "Precio_Tecnico": 81000.00, "Cantidad_Stock": 15},
-  {"Codigo": "2-4-7500177", "Producto": "MOTOR HUAYI  1/4+ HP - R134A - FAMILIAR", "Precio_Cliente": 103950.00, "Precio_Tecnico": 91000.00, "Cantidad_Stock": 6},
+  {"Codigo": "2-4-7500177", "Producto": "MOTOR HUAYI  1/4+ HP - R134A - FAMILIAR", "Precio_Cliente": 103950.00, "Precio_Tecnico": 94000.00, "Cantidad_Stock": 6},
   {"Codigo": "mot002", "Producto": "MOTOR HUAYI 1/3  R134", "Precio_Cliente": 110880.00, "Precio_Tecnico": 97500.00, "Cantidad_Stock": 4},
   {"Codigo": "mot8", "Producto": "MOTOR HUAYI 1/5", "Precio_Cliente": 91000.00, "Precio_Tecnico": 81900.00, "Cantidad_Stock": 3},
   {"Codigo": "mot6", "Producto": "MOTOR PARA PLATO DE MICROONDAS", "Precio_Cliente": 17000.00, "Precio_Tecnico": 15000.00, "Cantidad_Stock": 4},
