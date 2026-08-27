@@ -288,7 +288,7 @@
   {"Codigo": "gold2", "Producto": "KIT DREAN GOLD COMPLETO", "Precio_Cliente": 45696.00, "Precio_Tecnico": 42330.00, "Cantidad_Stock": 3},
   {"Codigo": "kit010", "Producto": "KIT FIJACION DEL 8", "Precio_Cliente": 5508.00, "Precio_Tecnico": 4692.00, "Cantidad_Stock": 93},
   {"Codigo": "kit002", "Producto": "KIT INSTALACION 1/2-1/4 CON AISLANTE NEGRO Y CINTA TACSA", "Precio_Cliente": 84660.00, "Precio_Tecnico": 80580.00, "Cantidad_Stock": 82},
-  {"Codigo": "kit004", "Producto": "KIT INSTALACION 1/4-3/8 CON AISLANTE NEGRO Y CINTA TACSA", "Precio_Cliente": 75000.00, "Precio_Tecnico": 69000.00, "Cantidad_Stock": 91},
+  {"Codigo": "kit004", "Producto": "KIT INSTALACION 1/4-3/8 CON AISLANTE NEGRO Y CINTA TACSA", "Precio_Cliente": 76500.00, "Precio_Tecnico": 70380.00, "Cantidad_Stock": 91},
   {"Codigo": "kit1", "Producto": "KIT INSTALACION 1/4-5/8", "Precio_Cliente": 94000.00, "Precio_Tecnico": 89000.00, "Cantidad_Stock": 99},
   {"Codigo": "kit012", "Producto": "KIT INSTALACION 3/8-5/8 CON AISLANTE NEGRO Y CINTA TACSA", "Precio_Cliente": 104000.00, "Precio_Tecnico": 97200.00, "Cantidad_Stock": 2},
   {"Codigo": "lam01", "Producto": "LAMPARA ALOGENA", "Precio_Cliente": 3500.00, "Precio_Tecnico": 2900.00, "Cantidad_Stock": 1},
