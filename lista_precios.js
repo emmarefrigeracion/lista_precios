@@ -218,7 +218,7 @@
   {"Codigo": "1964", "Producto": "FILTRO 1/4 HELADERA COMERCIAL (NARANJA) CON ROSCA", "Precio_Cliente": 17200.00, "Precio_Tecnico": 15200.00, "Cantidad_Stock": 1},
   {"Codigo": "FIL001", "Producto": "FILTRO 10 GR S CHICOTE", "Precio_Cliente": 3100.00, "Precio_Tecnico": 2700.00, "Cantidad_Stock": 10},
   {"Codigo": "4-10-014820", "Producto": "FILTRO 10 GRS  C/CHICOTE", "Precio_Cliente": 4200.00, "Precio_Tecnico": 3500.00, "Cantidad_Stock": 9},
-  {"Codigo": "FIL002", "Producto": "FILTRO 15GR S/CHIICOTE", "Precio_Cliente": 3900.00, "Precio_Tecnico": 3200.00, "Cantidad_Stock": 12},
+  {"Codigo": "FIL002", "Producto": "FILTRO 15GR S/CHIICOTE", "Precio_Cliente": 3900.00, "Precio_Tecnico": 3000.00, "Cantidad_Stock": 12},
   {"Codigo": "4-10-014823", "Producto": "FILTRO 15GRS. C/CHICOTE", "Precio_Cliente": 5100.00, "Precio_Tecnico": 4500.00, "Cantidad_Stock": 6},
   {"Codigo": "4-10-014824", "Producto": "FILTRO 20 GRM  C/CHICOTE", "Precio_Cliente": 4600.00, "Precio_Tecnico": 4200.00, "Cantidad_Stock": 0},
   {"Codigo": "fil020", "Producto": "FILTRO 20G  S/ CHICOTE", "Precio_Cliente": 4200.00, "Precio_Tecnico": 3900.00, "Cantidad_Stock": 7},
