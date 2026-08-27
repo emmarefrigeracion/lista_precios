@@ -284,7 +284,7 @@
   {"Codigo": "1-35-14655", "Producto": "JUEGO CARBONES NACIONALES  BUENO  (BOLSA PLATEADA)", "Precio_Cliente": 11500.00, "Precio_Tecnico": 10300.00, "Cantidad_Stock": 1},
   {"Codigo": "man5", "Producto": "JUEGO DE MANGUERA X3 R410", "Precio_Cliente": 27000.00, "Precio_Tecnico": 23500.00, "Cantidad_Stock": 1},
   {"Codigo": "6-13-1127", "Producto": "JUEGO MANG. CON  LLAMA Y SOPLETE AUTOGENA", "Precio_Cliente": 63712.44, "Precio_Tecnico": 53032.32, "Cantidad_Stock": 1},
-  {"Codigo": "2435", "Producto": "KIT ACCESORIO PARA DESCARGA DE AIRE ACONDICIONADO", "Precio_Cliente": 3800.00, "Precio_Tecnico": 3500.00, "Cantidad_Stock": 10},
+  {"Codigo": "2435", "Producto": "KIT ACCESORIO PARA DESCARGA DE AIRE ACONDICIONADO", "Precio_Cliente": 3876.00, "Precio_Tecnico": 3570.00, "Cantidad_Stock": 10},
   {"Codigo": "gold2", "Producto": "KIT DREAN GOLD COMPLETO", "Precio_Cliente": 44800.00, "Precio_Tecnico": 41500.00, "Cantidad_Stock": 3},
   {"Codigo": "kit010", "Producto": "KIT FIJACION DEL 8", "Precio_Cliente": 5400.00, "Precio_Tecnico": 4600.00, "Cantidad_Stock": 93},
   {"Codigo": "kit002", "Producto": "KIT INSTALACION 1/2-1/4 CON AISLANTE NEGRO Y CINTA TACSA", "Precio_Cliente": 83000.00, "Precio_Tecnico": 79000.00, "Cantidad_Stock": 82},
