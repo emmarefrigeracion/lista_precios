@@ -298,6 +298,7 @@
   {"Codigo": "seca005", "Producto": "LLAVE DE CONTACTO SECARROPA", "Precio_Cliente": 6138.00, "Precio_Tecnico": 5049.00, "Cantidad_Stock": 0},
   {"Codigo": "vl9", "Producto": "LLAVE PINCHE C/ALLEN D280", "Precio_Cliente": 8200.00, "Precio_Tecnico": 7000.00, "Cantidad_Stock": 1},
   {"Codigo": "8-13-0325", "Producto": "MANGUERA CRISTAL 1/2\" 12X16", "Precio_Cliente": 1158.30, "Precio_Tecnico": 841.50, "Cantidad_Stock": 0},
+  {"Codigo": "man112", "Producto": "MANGUERA CRISTAL 5/8 X METRO", "Precio_Cliente": 2600.00, "Precio_Tecnico": 2200.00, "Cantidad_Stock": 74},
   {"Codigo": "man025", "Producto": "MANGUERA DE CARG GRIS 2.5M", "Precio_Cliente": 7000.00, "Precio_Tecnico": 5600.00, "Cantidad_Stock": 2},
   {"Codigo": "m120", "Producto": "MANGUERA DE CARGA 1.20", "Precio_Cliente": 4500.00, "Precio_Tecnico": 3500.00, "Cantidad_Stock": 4},
   {"Codigo": "man026", "Producto": "MANGUERA DE CARGA GRIS 3M", "Precio_Cliente": 7600.00, "Precio_Tecnico": 6200.00, "Cantidad_Stock": 2},
