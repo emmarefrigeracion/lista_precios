@@ -621,7 +621,7 @@
   {"Codigo": "tue02", "Producto": "TUERCA DE 1/2", "Precio_Cliente": 0.00, "Precio_Tecnico": 3465.00, "Cantidad_Stock": 0},
   {"Codigo": "t01", "Producto": "TUERCA EJE DREAN NEXT", "Precio_Cliente": 3200.00, "Precio_Tecnico": 2600.00, "Cantidad_Stock": 3},
   {"Codigo": "tue015", "Producto": "TUERCA REDUCCION 1/2 A 3/8", "Precio_Cliente": 5346.00, "Precio_Tecnico": 3465.00, "Cantidad_Stock": 5},
-  {"Codigo": "tue014", "Producto": "TUERCA REDUCCION 5/8 A 1/2", "Precio_Cliente": 5600.00, "Precio_Tecnico": 4700.00, "Cantidad_Stock": 0},
+  {"Codigo": "tue014", "Producto": "TUERCA REDUCCION 5/8 A 1/2", "Precio_Cliente": 7200.00, "Precio_Tecnico": 6500.00, "Cantidad_Stock": 0},
   {"Codigo": "tue020", "Producto": "TUERCA SECARROPA DREAN", "Precio_Cliente": 4950.00, "Precio_Tecnico": 3267.00, "Cantidad_Stock": 3},
   {"Codigo": "tue005", "Producto": "TUERCAS 1/4", "Precio_Cliente": 2970.00, "Precio_Tecnico": 1980.00, "Cantidad_Stock": 18},
   {"Codigo": "tue010", "Producto": "TUERCAS 3/8", "Precio_Cliente": 4158.00, "Precio_Tecnico": 3069.00, "Cantidad_Stock": 7},
