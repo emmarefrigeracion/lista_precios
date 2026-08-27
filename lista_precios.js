@@ -286,7 +286,7 @@
   {"Codigo": "6-13-1127", "Producto": "JUEGO MANG. CON  LLAMA Y SOPLETE AUTOGENA", "Precio_Cliente": 63712.44, "Precio_Tecnico": 53032.32, "Cantidad_Stock": 1},
   {"Codigo": "2435", "Producto": "KIT ACCESORIO PARA DESCARGA DE AIRE ACONDICIONADO", "Precio_Cliente": 3876.00, "Precio_Tecnico": 3570.00, "Cantidad_Stock": 10},
   {"Codigo": "gold2", "Producto": "KIT DREAN GOLD COMPLETO", "Precio_Cliente": 45696.00, "Precio_Tecnico": 42330.00, "Cantidad_Stock": 3},
-  {"Codigo": "kit010", "Producto": "KIT FIJACION DEL 8", "Precio_Cliente": 5400.00, "Precio_Tecnico": 4600.00, "Cantidad_Stock": 93},
+  {"Codigo": "kit010", "Producto": "KIT FIJACION DEL 8", "Precio_Cliente": 5508.00, "Precio_Tecnico": 4692.00, "Cantidad_Stock": 93},
   {"Codigo": "kit002", "Producto": "KIT INSTALACION 1/2-1/4 CON AISLANTE NEGRO Y CINTA TACSA", "Precio_Cliente": 83000.00, "Precio_Tecnico": 79000.00, "Cantidad_Stock": 82},
   {"Codigo": "kit004", "Producto": "KIT INSTALACION 1/4-3/8 CON AISLANTE NEGRO Y CINTA TACSA", "Precio_Cliente": 75000.00, "Precio_Tecnico": 69000.00, "Cantidad_Stock": 91},
   {"Codigo": "kit1", "Producto": "KIT INSTALACION 1/4-5/8", "Precio_Cliente": 94000.00, "Precio_Tecnico": 89000.00, "Cantidad_Stock": 99},
