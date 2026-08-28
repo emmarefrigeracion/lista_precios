@@ -382,6 +382,7 @@
   {"Codigo": "p1", "Producto": "PERILLA QV SECARROPA ALLADIO", "Precio_Cliente": 3200.00, "Precio_Tecnico": 2800.00, "Cantidad_Stock": 5},
   {"Codigo": "pe021", "Producto": "PERILLA SECARROPA DREAN (AZULES) WINC", "Precio_Cliente": 5200.00, "Precio_Tecnico": 3900.00, "Cantidad_Stock": 4},
   {"Codigo": "per03", "Producto": "PERILLA SEMIAUTOMATICO / TECNOVA", "Precio_Cliente": 3000.00, "Precio_Tecnico": 2500.00, "Cantidad_Stock": 5},
+  {"Codigo": "per4", "Producto": "PEROLLA SECARROPAS DREAN MOD VIEJO/ AZUL Y BLAN", "Precio_Cliente": 3900.00, "Precio_Tecnico": 3600.00, "Cantidad_Stock": 3},
   {"Codigo": "per002", "Producto": "PERSOSTATO 166 BLUE ORIGINAL", "Precio_Cliente": 0.00, "Precio_Tecnico": 12375.00, "Cantidad_Stock": 0},
   {"Codigo": "per001", "Producto": "PERSOSTATO BLUE FRONTAL", "Precio_Cliente": 0.00, "Precio_Tecnico": 19503.00, "Cantidad_Stock": 0},
   {"Codigo": "pila001", "Producto": "PILAS AA POR UNIDAD", "Precio_Cliente": 2376.00, "Precio_Tecnico": 2178.00, "Cantidad_Stock": 8},
