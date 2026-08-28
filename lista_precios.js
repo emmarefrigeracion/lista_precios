@@ -373,7 +373,7 @@
   {"Codigo": "PAT004", "Producto": "PATAS LAVARROPA REFORZADAS", "Precio_Cliente": 2574.00, "Precio_Tecnico": 1485.00, "Cantidad_Stock": 22},
   {"Codigo": "pa1", "Producto": "PATAS LAVARROPAS ORIGINALES DREAN  PRECIO POR UNIDAD", "Precio_Cliente": 5346.00, "Precio_Tecnico": 4257.00, "Cantidad_Stock": 1},
   {"Codigo": "per005", "Producto": "PERILLA  LAV DREAN NEXT", "Precio_Cliente": 9600.00, "Precio_Tecnico": 7800.00, "Cantidad_Stock": 2},
-  {"Codigo": "p2", "Producto": "PERILLA AZUL SECARROPAS KOHINOOR", "Precio_Cliente": 3000.00, "Precio_Tecnico": 2200.00, "Cantidad_Stock": 5},
+  {"Codigo": "p2", "Producto": "PERILLA AZUL SECARROPAS KOHINOOR", "Precio_Cliente": 1900.00, "Precio_Tecnico": 3200.00, "Cantidad_Stock": 5},
   {"Codigo": "per2", "Producto": "PERILLA BLUE/GOLD", "Precio_Cliente": 5600.00, "Precio_Tecnico": 3600.00, "Cantidad_Stock": 2},
   {"Codigo": "p3", "Producto": "PERILLA CODINI ORIGINAL", "Precio_Cliente": 3200.00, "Precio_Tecnico": 2800.00, "Cantidad_Stock": 6},
   {"Codigo": "3158", "Producto": "PERILLA DREAN FAMILY", "Precio_Cliente": 8500.00, "Precio_Tecnico": 6900.00, "Cantidad_Stock": 6},
