@@ -378,7 +378,7 @@
   {"Codigo": "p3", "Producto": "PERILLA CODINI ORIGINAL", "Precio_Cliente": 3200.00, "Precio_Tecnico": 2800.00, "Cantidad_Stock": 6},
   {"Codigo": "3158", "Producto": "PERILLA DREAN FAMILY", "Precio_Cliente": 8500.00, "Precio_Tecnico": 6900.00, "Cantidad_Stock": 6},
   {"Codigo": "ter19", "Producto": "PERILLA PARA TERMOSTATO", "Precio_Cliente": 2900.00, "Precio_Tecnico": 1900.00, "Cantidad_Stock": 1},
-  {"Codigo": "per04", "Producto": "PERILLA PATRIOT", "Precio_Cliente": 15000.00, "Precio_Tecnico": 1000.00, "Cantidad_Stock": 4},
+  {"Codigo": "per04", "Producto": "PERILLA PATRIOT", "Precio_Cliente": 3000.00, "Precio_Tecnico": 2500.00, "Cantidad_Stock": 4},
   {"Codigo": "p1", "Producto": "PERILLA QV SECARROPA ALLADIO", "Precio_Cliente": 3200.00, "Precio_Tecnico": 2800.00, "Cantidad_Stock": 5},
   {"Codigo": "pe021", "Producto": "PERILLA SECARROPA DREAN (AZULES) WINC", "Precio_Cliente": 5200.00, "Precio_Tecnico": 3900.00, "Cantidad_Stock": 4},
   {"Codigo": "per03", "Producto": "PERILLA SEMIAUTOMATICO / TECNOVA", "Precio_Cliente": 1500.00, "Precio_Tecnico": 1000.00, "Cantidad_Stock": 5},
