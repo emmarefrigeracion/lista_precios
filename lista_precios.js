@@ -27,7 +27,7 @@
   {"Codigo": "am6", "Producto": "AMORTIGUADORES DREAN BLUE MOD. NUEVO  PRECIO UNITARIO", "Precio_Cliente": 13500.00, "Precio_Tecnico": 10000.00, "Cantidad_Stock": 10},
   {"Codigo": "amo002", "Producto": "AMORTIGUADORES DREAN GOLD CORTOS POR UNIDAD", "Precio_Cliente": 19000.00, "Precio_Tecnico": 17100.00, "Cantidad_Stock": 2},
   {"Codigo": "am5", "Producto": "AMORTIGUADORES DREAN GOLD LARGOS/CANDY", "Precio_Cliente": 18900.00, "Precio_Tecnico": 16900.00, "Cantidad_Stock": 2},
-  {"Codigo": "am2", "Producto": "AMORTIGUADORES PATRICK  PRECIO UNITARIO", "Precio_Cliente": 12100.00, "Precio_Tecnico": 9200.00, "Cantidad_Stock": 0},
+  {"Codigo": "am2", "Producto": "AMORTIGUADORES PATRICK  PRECIO UNITARIO", "Precio_Cliente": 13200.00, "Precio_Tecnico": 9800.00, "Cantidad_Stock": 10},
   {"Codigo": "ani", "Producto": "ANILLO DE CHAPA TERMOACTUADOR CONCEPT", "Precio_Cliente": 5500.00, "Precio_Tecnico": 4500.00, "Cantidad_Stock": 8},
   {"Codigo": "A02", "Producto": "ARANDELA DREAN 8KG (P CONO)", "Precio_Cliente": 1800.00, "Precio_Tecnico": 1200.00, "Cantidad_Stock": 4},
   {"Codigo": "aran2", "Producto": "ARANDELAS  GRANDES", "Precio_Cliente": 30.00, "Precio_Tecnico": 27.00, "Cantidad_Stock": 100},
