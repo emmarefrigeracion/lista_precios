@@ -24,7 +24,7 @@
   {"Codigo": "lg02", "Producto": "AMORTIGUADORES (CONJ SUSP)  LG 8 KG", "Precio_Cliente": 51800.00, "Precio_Tecnico": 46300.00, "Cantidad_Stock": 1},
   {"Codigo": "amo4", "Producto": "AMORTIGUADORES (CONJ SUSP) CONCEPT MOD NUEVO", "Precio_Cliente": 46800.00, "Precio_Tecnico": 41500.00, "Cantidad_Stock": 3},
   {"Codigo": "amo003", "Producto": "AMORTIGUADORES CANDI / LONGVIE POR UNIDAD", "Precio_Cliente": 16000.00, "Precio_Tecnico": 13000.00, "Cantidad_Stock": 2},
-  {"Codigo": "am6", "Producto": "AMORTIGUADORES DREAN BLUE MOD. NUEVO  PRECIO UNITARIO", "Precio_Cliente": 12000.00, "Precio_Tecnico": 8900.00, "Cantidad_Stock": 4},
+  {"Codigo": "am6", "Producto": "AMORTIGUADORES DREAN BLUE MOD. NUEVO  PRECIO UNITARIO", "Precio_Cliente": 13500.00, "Precio_Tecnico": 10000.00, "Cantidad_Stock": 10},
   {"Codigo": "amo002", "Producto": "AMORTIGUADORES DREAN GOLD CORTOS POR UNIDAD", "Precio_Cliente": 19000.00, "Precio_Tecnico": 17100.00, "Cantidad_Stock": 2},
   {"Codigo": "am5", "Producto": "AMORTIGUADORES DREAN GOLD LARGOS/CANDY", "Precio_Cliente": 18900.00, "Precio_Tecnico": 16900.00, "Cantidad_Stock": 2},
   {"Codigo": "am2", "Producto": "AMORTIGUADORES PATRICK  PRECIO UNITARIO", "Precio_Cliente": 12100.00, "Precio_Tecnico": 9200.00, "Cantidad_Stock": 0},
