@@ -152,7 +152,7 @@
   {"Codigo": "cod5", "Producto": "CODO ENTRADA CONVENTRY", "Precio_Cliente": 26000.00, "Precio_Tecnico": 20600.00, "Cantidad_Stock": 2},
   {"Codigo": "cod004", "Producto": "CODO ENTRADA NEXT", "Precio_Cliente": 9900.00, "Precio_Tecnico": 8100.00, "Cantidad_Stock": 2},
   {"Codigo": "cod003", "Producto": "CODO SALIDA DREAN NEXT/BLUE  CUBA-FILTRO (GOMA)", "Precio_Cliente": 13500.00, "Precio_Tecnico": 11900.00, "Cantidad_Stock": 4},
-  {"Codigo": "1162", "Producto": "CODO SALIDA DREAN RECTO FILTRO A BOMBA (GOMA)", "Precio_Cliente": 7300.00, "Precio_Tecnico": 6500.00, "Cantidad_Stock": 10},
+  {"Codigo": "03947", "Producto": "CODO SALIDA DREAN RECTO FILTRO A BOMBA (GOMA)", "Precio_Cliente": 8600.00, "Precio_Tecnico": 7500.00, "Cantidad_Stock": 10},
   {"Codigo": "jab003", "Producto": "COLECTOR JABONERA BLUE 6.06", "Precio_Cliente": 22000.00, "Precio_Tecnico": 18500.00, "Cantidad_Stock": 1},
   {"Codigo": "mt512", "Producto": "COMBISTATO MT 512", "Precio_Cliente": 59700.00, "Precio_Tecnico": 53000.00, "Cantidad_Stock": 1},
   {"Codigo": "con015", "Producto": "CONDENSADORA 1/3 HP  PARA HELADERA", "Precio_Cliente": 127809.00, "Precio_Tecnico": 98208.00, "Cantidad_Stock": 0},
