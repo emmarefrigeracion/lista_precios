@@ -19,7 +19,7 @@
   {"Codigo": "8-9-CO-D19", "Producto": "AISLACION 1/4 POR TIRA", "Precio_Cliente": 2500.00, "Precio_Tecnico": 1500.00, "Cantidad_Stock": 1000},
   {"Codigo": "8-9-CO-F35", "Producto": "AISLACION 3/8  POR TIRA", "Precio_Cliente": 1750.00, "Precio_Tecnico": 1900.00, "Cantidad_Stock": 1406},
   {"Codigo": "8-8-13139", "Producto": "AISLACION 5/8\" NEGROS POR TIRA", "Precio_Cliente": 2700.00, "Precio_Tecnico": 2300.00, "Cantidad_Stock": 103},
-  {"Codigo": "am1", "Producto": "AMORTIGUADOR DREAN 6-8 KG PRECIO POR UNIDAD", "Precio_Cliente": 12500.00, "Precio_Tecnico": 9500.00, "Cantidad_Stock": 69},
+  {"Codigo": "am1", "Producto": "AMORTIGUADOR DREAN 6-8 KG PRECIO POR UNIDAD", "Precio_Cliente": 13500.00, "Precio_Tecnico": 10000.00, "Cantidad_Stock": 69},
   {"Codigo": "amo004", "Producto": "AMORTIGUADORES (CONJ SUSP)   CONSUL", "Precio_Cliente": 62766.00, "Precio_Tecnico": 57618.00, "Cantidad_Stock": 1},
   {"Codigo": "lg02", "Producto": "AMORTIGUADORES (CONJ SUSP)  LG 8 KG", "Precio_Cliente": 51800.00, "Precio_Tecnico": 46300.00, "Cantidad_Stock": 1},
   {"Codigo": "amo4", "Producto": "AMORTIGUADORES (CONJ SUSP) CONCEPT MOD NUEVO", "Precio_Cliente": 46800.00, "Precio_Tecnico": 41500.00, "Cantidad_Stock": 3},
