@@ -204,6 +204,7 @@
   {"Codigo": "ele5", "Producto": "ELECTROVALVULA 1 VIA 180º /90º", "Precio_Cliente": 9500.00, "Precio_Tecnico": 8700.00, "Cantidad_Stock": 8},
   {"Codigo": "ele3", "Producto": "ELECTROVALVULA 2 VIAS 180º", "Precio_Cliente": 16200.00, "Precio_Tecnico": 14200.00, "Cantidad_Stock": 8},
   {"Codigo": "ele2", "Producto": "ELECTROVALVULA 2 VIAS 90º", "Precio_Cliente": 16500.00, "Precio_Tecnico": 13500.00, "Cantidad_Stock": 3},
+  {"Codigo": "ele4", "Producto": "ELECTROVALVULA CONCEPT 2 VIAS 180°", "Precio_Cliente": 27400.00, "Precio_Tecnico": 22400.00, "Cantidad_Stock": 3},
   {"Codigo": "ele010", "Producto": "ELECTROVALVULA DREAN GOLD", "Precio_Cliente": 25100.00, "Precio_Tecnico": 22800.00, "Cantidad_Stock": 3},
   {"Codigo": "ele005", "Producto": "ELECTROVALVULA FICHA DREAN BLUE ORIGINAL", "Precio_Cliente": 26400.00, "Precio_Tecnico": 22300.00, "Cantidad_Stock": 8},
   {"Codigo": "eli020", "Producto": "ELICE 100MM (FORZADOR GAFA)", "Precio_Cliente": 7425.00, "Precio_Tecnico": 4950.00, "Cantidad_Stock": 1},
