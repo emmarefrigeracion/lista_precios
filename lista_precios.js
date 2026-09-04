@@ -205,7 +205,6 @@
   {"Codigo": "ele3", "Producto": "ELECTROVALVULA 2 VIAS 180º", "Precio_Cliente": 16200.00, "Precio_Tecnico": 14200.00, "Cantidad_Stock": 8},
   {"Codigo": "ele2", "Producto": "ELECTROVALVULA 2 VIAS 90º", "Precio_Cliente": 16500.00, "Precio_Tecnico": 13500.00, "Cantidad_Stock": 3},
   {"Codigo": "ele010", "Producto": "ELECTROVALVULA DREAN GOLD", "Precio_Cliente": 25100.00, "Precio_Tecnico": 22800.00, "Cantidad_Stock": 3},
-  {"Codigo": "el8", "Producto": "ELECTROVALVULA DREAN GOLD EMICOL.", "Precio_Cliente": 24500.00, "Precio_Tecnico": 21900.00, "Cantidad_Stock": 2},
   {"Codigo": "ele005", "Producto": "ELECTROVALVULA FICHA DREAN BLUE ORIGINAL", "Precio_Cliente": 26400.00, "Precio_Tecnico": 22300.00, "Cantidad_Stock": 8},
   {"Codigo": "eli020", "Producto": "ELICE 100MM (FORZADOR GAFA)", "Precio_Cliente": 7425.00, "Precio_Tecnico": 4950.00, "Cantidad_Stock": 1},
   {"Codigo": "em5", "Producto": "EMBRAGUE DREAN CONCEPT COMPLETO", "Precio_Cliente": 7500.00, "Precio_Tecnico": 6900.00, "Cantidad_Stock": 5},
