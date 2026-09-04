@@ -512,7 +512,7 @@
   {"Codigo": "sop015", "Producto": "SOPORTE AC&C DREAN 8/10KG  (REDONDITO Y CARA PLANA)", "Precio_Cliente": 35000.00, "Precio_Tecnico": 32000.00, "Cantidad_Stock": 6},
   {"Codigo": "EJE003", "Producto": "SOPORTE AURORA 03/03 CONICO", "Precio_Cliente": 28413.00, "Precio_Tecnico": 26235.00, "Cantidad_Stock": 0},
   {"Codigo": "sop011", "Producto": "SOPORTE BLUE 6 Y 7KG (CORONITA)", "Precio_Cliente": 32000.00, "Precio_Tecnico": 29000.00, "Cantidad_Stock": 3},
-  {"Codigo": "eje025", "Producto": "SOPORTE BLUE 6-7 KG ORIGINAL", "Precio_Cliente": 35000.00, "Precio_Tecnico": 28000.00, "Cantidad_Stock": 1},
+  {"Codigo": "eje025", "Producto": "SOPORTE BLUE 6-7 KG ORIGINAL", "Precio_Cliente": 31800.00, "Precio_Tecnico": 26700.00, "Cantidad_Stock": 6},
   {"Codigo": "EJE026", "Producto": "SOPORTE BLUE 8.12 (8KG) ORIGINAL REDONDITO", "Precio_Cliente": 41580.00, "Precio_Tecnico": 36000.00, "Cantidad_Stock": 6},
   {"Codigo": "EJE004", "Producto": "SOPORTE BOSH 03/03", "Precio_Cliente": 36000.00, "Precio_Tecnico": 32500.00, "Cantidad_Stock": 0},
   {"Codigo": "EJE10", "Producto": "SOPORTE ELECTROLUX CARA PLANA", "Precio_Cliente": 37800.00, "Precio_Tecnico": 34800.00, "Cantidad_Stock": 2},
