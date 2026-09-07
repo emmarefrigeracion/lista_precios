@@ -154,6 +154,7 @@
   {"Codigo": "cod003", "Producto": "CODO SALIDA DREAN NEXT/BLUE  CUBA-FILTRO (GOMA)", "Precio_Cliente": 13500.00, "Precio_Tecnico": 11900.00, "Cantidad_Stock": 4},
   {"Codigo": "03947", "Producto": "CODO SALIDA DREAN RECTO FILTRO A BOMBA (GOMA)", "Precio_Cliente": 8600.00, "Precio_Tecnico": 7500.00, "Cantidad_Stock": 10},
   {"Codigo": "jab003", "Producto": "COLECTOR JABONERA BLUE 6.06", "Precio_Cliente": 22000.00, "Precio_Tecnico": 18500.00, "Cantidad_Stock": 1},
+  {"Codigo": "c900", "Producto": "COMBISTATO EK 3030 2 SONDAS BAJA TEMP", "Precio_Cliente": 61300.00, "Precio_Tecnico": 56800.00, "Cantidad_Stock": 1},
   {"Codigo": "mt512", "Producto": "COMBISTATO MT 512", "Precio_Cliente": 59700.00, "Precio_Tecnico": 53000.00, "Cantidad_Stock": 1},
   {"Codigo": "con015", "Producto": "CONDENSADORA 1/3 HP  PARA HELADERA", "Precio_Cliente": 127809.00, "Precio_Tecnico": 98208.00, "Cantidad_Stock": 0},
   {"Codigo": "con010", "Producto": "CONO P EJE DREAN 6-7 KG", "Precio_Cliente": 2600.00, "Precio_Tecnico": 2100.00, "Cantidad_Stock": 7},
