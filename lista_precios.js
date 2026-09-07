@@ -316,6 +316,7 @@
   {"Codigo": "man166", "Producto": "MANGUERA P TOBERA DREAN 166", "Precio_Cliente": 11340.00, "Precio_Tecnico": 9720.00, "Cantidad_Stock": 10},
   {"Codigo": "man003", "Producto": "MANIFOLD BRONCE DUAL  PARA R22 Y 410", "Precio_Cliente": 78500.00, "Precio_Tecnico": 68000.00, "Cantidad_Stock": 1},
   {"Codigo": "man004", "Producto": "MANIFOLD BRONCE R22", "Precio_Cliente": 46530.00, "Precio_Tecnico": 38907.00, "Cantidad_Stock": 0},
+  {"Codigo": "man02", "Producto": "MANIFOLD DOBLE P 410 C MANG 0.90CM", "Precio_Cliente": 42200.00, "Precio_Tecnico": 38700.00, "Cantidad_Stock": 1},
   {"Codigo": "man001", "Producto": "MANIFOLD SIMPLE  410 WAY VALVE", "Precio_Cliente": 14850.00, "Precio_Tecnico": 13563.00, "Cantidad_Stock": 1},
   {"Codigo": "man002", "Producto": "MANIFOLD SIMPLE R-410 BAJA", "Precio_Cliente": 18018.00, "Precio_Tecnico": 14355.00, "Cantidad_Stock": 1},
   {"Codigo": "m2", "Producto": "MANIJA DE TIRADOR PARA 166", "Precio_Cliente": 2100.00, "Precio_Tecnico": 1700.00, "Cantidad_Stock": 6},
