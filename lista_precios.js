@@ -136,7 +136,7 @@
   {"Codigo": "car001", "Producto": "CARBONES 12.5-13.5 EN CAJA ALFA CARBON", "Precio_Cliente": 21000.00, "Precio_Tecnico": 18600.00, "Cantidad_Stock": 1},
   {"Codigo": "car5", "Producto": "CARBONES CHINOS 12.5 Y 13.5 BOLSA TRANSPARENTE", "Precio_Cliente": 12000.00, "Precio_Tecnico": 7200.00, "Cantidad_Stock": 96},
   {"Codigo": "car1", "Producto": "CARBONES LECARD", "Precio_Cliente": 13500.00, "Precio_Tecnico": 9000.00, "Cantidad_Stock": 98},
-  {"Codigo": "CAU01", "Producto": "CAUDALIMETRO DREAN DISH", "Precio_Cliente": 47700.00, "Precio_Tecnico": 44200.00, "Cantidad_Stock": 1},
+  {"Codigo": "CAU01", "Producto": "CAUDALIMETRO DREAN DISH", "Precio_Cliente": 39400.00, "Precio_Tecnico": 36800.00, "Cantidad_Stock": 3},
   {"Codigo": "peltier2", "Producto": "CELDA PELTIER 40*40MM TEC1-12708", "Precio_Cliente": 23000.00, "Precio_Tecnico": 19500.00, "Cantidad_Stock": 2},
   {"Codigo": "cin15", "Producto": "CINTA AILSADORA NEGRA 20 METROS", "Precio_Cliente": 6500.00, "Precio_Tecnico": 5200.00, "Cantidad_Stock": 9},
   {"Codigo": "c12", "Producto": "CINTA DE ALUMINIO", "Precio_Cliente": 22500.00, "Precio_Tecnico": 19000.00, "Cantidad_Stock": 2},
