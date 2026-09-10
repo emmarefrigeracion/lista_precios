@@ -330,7 +330,7 @@
   {"Codigo": "mano4", "Producto": "MANO DE OBRA MAS INSUMOS (HELADERA)", "Precio_Cliente": 168300.00, "Precio_Tecnico": 0.00, "Cantidad_Stock": 100},
   {"Codigo": "m1", "Producto": "MARCO FUELLE DREAN GOLD", "Precio_Cliente": 6000.00, "Precio_Tecnico": 5000.00, "Cantidad_Stock": 1},
   {"Codigo": "10147", "Producto": "MENSULA REGULSBLE SPLIT INTERNA", "Precio_Cliente": 17000.00, "Precio_Tecnico": 15500.00, "Cantidad_Stock": 2},
-  {"Codigo": "men42", "Producto": "MENSULAS  42 CM", "Precio_Cliente": 15900.00, "Precio_Tecnico": 13400.00, "Cantidad_Stock": 3},
+  {"Codigo": "men42", "Producto": "MENSULAS  42 CM", "Precio_Cliente": 15900.00, "Precio_Tecnico": 13800.00, "Cantidad_Stock": 3},
   {"Codigo": "8-10-03000", "Producto": "MENSULAS 52 CM", "Precio_Cliente": 18000.00, "Precio_Tecnico": 15000.00, "Cantidad_Stock": 7},
   {"Codigo": "men62", "Producto": "MENSULAS 62CM", "Precio_Cliente": 32000.00, "Precio_Tecnico": 25700.00, "Cantidad_Stock": 7},
   {"Codigo": "men82", "Producto": "MENSULAS 82CM", "Precio_Cliente": 34650.00, "Precio_Tecnico": 28710.00, "Cantidad_Stock": 3},
