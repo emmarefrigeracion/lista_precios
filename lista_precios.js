@@ -526,7 +526,7 @@
   {"Codigo": "eje015", "Producto": "SOPORTE LONGVIE", "Precio_Cliente": 143748.00, "Precio_Tecnico": 136125.00, "Cantidad_Stock": 1},
   {"Codigo": "eje021", "Producto": "SOPORTE PATRICK LPK 6/7 KG RECTO", "Precio_Cliente": 46500.00, "Precio_Tecnico": 41200.00, "Cantidad_Stock": 1},
   {"Codigo": "eje22", "Producto": "SOPORTE PATRICK LPK 8 KG LARGO Y CORTO", "Precio_Cliente": 49800.00, "Precio_Tecnico": 46100.00, "Cantidad_Stock": 4},
-  {"Codigo": "eje022", "Producto": "SOPORTE PATRICKLPK 6/7 KG CONICO", "Precio_Cliente": 49300.00, "Precio_Tecnico": 45200.00, "Cantidad_Stock": 3},
+  {"Codigo": "eje022", "Producto": "SOPORTE PATRICKLPK 6/7 KG CONICO", "Precio_Cliente": 48700.00, "Precio_Tecnico": 43200.00, "Cantidad_Stock": 3},
   {"Codigo": "sam008", "Producto": "SOPORTE SAMSUNG CARA PLANA  ROD 05/06", "Precio_Cliente": 53200.00, "Precio_Tecnico": 47500.00, "Cantidad_Stock": 6},
   {"Codigo": "saminv", "Producto": "SOPORTE SAMSUNG INVERTER", "Precio_Cliente": 49005.00, "Precio_Tecnico": 42800.00, "Cantidad_Stock": 1},
   {"Codigo": "tac010", "Producto": "TACOMETRO BLUE 6&7 KG", "Precio_Cliente": 0.00, "Precio_Tecnico": 14000.00, "Cantidad_Stock": 1},
