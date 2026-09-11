@@ -56,7 +56,6 @@
   {"Codigo": "blo03", "Producto": "BLOCAPUERTA DREAN NEXT 8.12 3 CONTACTOS", "Precio_Cliente": 12000.00, "Precio_Tecnico": 10500.00, "Cantidad_Stock": 9},
   {"Codigo": "LPK", "Producto": "BLOCAPUERTA LPK  (LAVASECA)  08KG", "Precio_Cliente": 33600.00, "Precio_Tecnico": 29800.00, "Cantidad_Stock": 1},
   {"Codigo": "blomabe", "Producto": "BLOCAPUERTA MABE  6 & 7 KG", "Precio_Cliente": 15200.00, "Precio_Tecnico": 11900.00, "Cantidad_Stock": 4},
-  {"Codigo": "mabe8", "Producto": "BLOCAPÙERTA MABE  8 KG", "Precio_Cliente": 21000.00, "Precio_Tecnico": 17200.00, "Cantidad_Stock": 2},
   {"Codigo": "lpk10", "Producto": "BLOCAPUERTA MABE/PATRICK 6 KG  LPK06E10", "Precio_Cliente": 19300.00, "Precio_Tecnico": 17800.00, "Cantidad_Stock": 2},
   {"Codigo": "blo6", "Producto": "BLOCAPUERTA PATRICK LPK 8/10KG", "Precio_Cliente": 22000.00, "Precio_Tecnico": 18000.00, "Cantidad_Stock": 2},
   {"Codigo": "blo007", "Producto": "BLOCAPUERTA SAMSUN GWF45A6400AC", "Precio_Cliente": 38000.00, "Precio_Tecnico": 31200.00, "Cantidad_Stock": 2},
