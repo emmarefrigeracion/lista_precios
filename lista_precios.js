@@ -485,7 +485,7 @@
   {"Codigo": "rod005", "Producto": "RODAMIENTO NTN 6205", "Precio_Cliente": 7300.00, "Precio_Tecnico": 6900.00, "Cantidad_Stock": 103},
   {"Codigo": "rod006", "Producto": "RODAMIENTO NTN 6206", "Precio_Cliente": 13900.00, "Precio_Tecnico": 11000.00, "Cantidad_Stock": 100},
   {"Codigo": "1-39-6202SKF", "Producto": "RODAMIENTO SKF  6202", "Precio_Cliente": 5700.00, "Precio_Tecnico": 4800.00, "Cantidad_Stock": 0},
-  {"Codigo": "1-39-6204SKF", "Producto": "RODAMIENTO SKF  6204", "Precio_Cliente": 7920.00, "Precio_Tecnico": 6138.00, "Cantidad_Stock": 0},
+  {"Codigo": "1-39-6204SKF", "Producto": "RODAMIENTO SKF  6204", "Precio_Cliente": 9500.00, "Precio_Tecnico": 8200.00, "Cantidad_Stock": 5},
   {"Codigo": "1-39-6201c", "Producto": "RODAMIENTOS NTN 6201", "Precio_Cliente": 3500.00, "Precio_Tecnico": 2900.00, "Cantidad_Stock": 4},
   {"Codigo": "ntn6201", "Producto": "RODAMIENTOS NTN 6201 ALTA VEL  (ZZC3)", "Precio_Cliente": 4500.00, "Precio_Tecnico": 3900.00, "Cantidad_Stock": 6},
   {"Codigo": "rod001", "Producto": "RODMAMIENTO NTN 6202", "Precio_Cliente": 3500.00, "Precio_Tecnico": 2900.00, "Cantidad_Stock": 26},
