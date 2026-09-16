@@ -643,6 +643,7 @@
   {"Codigo": "tur021", "Producto": "TURBINA TANGENCIAL 18CM", "Precio_Cliente": 32200.00, "Precio_Tecnico": 28900.00, "Cantidad_Stock": 2},
   {"Codigo": "tur020", "Producto": "TURBINA TANGENCIAL PARA EXHIBIDORA  24CM", "Precio_Cliente": 47000.00, "Precio_Tecnico": 39900.00, "Cantidad_Stock": 1},
   {"Codigo": "013", "Producto": "UNION BRONCE 1/2 (NIPLE)", "Precio_Cliente": 6800.00, "Precio_Tecnico": 5500.00, "Cantidad_Stock": 3},
+  {"Codigo": "011", "Producto": "UNION BRONCE 1/4 (NIPLE)", "Precio_Cliente": 5600.00, "Precio_Tecnico": 4500.00, "Cantidad_Stock": 2},
   {"Codigo": "012", "Producto": "UNION BRONCE 3/8 (NIPLE)", "Precio_Cliente": 5800.00, "Precio_Tecnico": 4900.00, "Cantidad_Stock": 0},
   {"Codigo": "tue012", "Producto": "UNION BRONCE 5/8 (NIPLE)", "Precio_Cliente": 7900.00, "Precio_Tecnico": 7000.00, "Cantidad_Stock": 2},
   {"Codigo": "8-6-CV12", "Producto": "VALVULA CHECK - AIRE ACONDICIONADO", "Precio_Cliente": 8246.70, "Precio_Tecnico": 7623.00, "Cantidad_Stock": 3},
