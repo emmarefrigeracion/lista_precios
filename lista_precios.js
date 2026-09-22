@@ -526,6 +526,7 @@
   {"Codigo": "sop011", "Producto": "SOPORTE BLUE 6 Y 7KG (CORONITA)", "Precio_Cliente": 32000.00, "Precio_Tecnico": 29000.00, "Cantidad_Stock": 3},
   {"Codigo": "eje025", "Producto": "SOPORTE BLUE 6-7 KG ORIGINAL", "Precio_Cliente": 31800.00, "Precio_Tecnico": 26700.00, "Cantidad_Stock": 4},
   {"Codigo": "EJE004", "Producto": "SOPORTE BOSH 03/03", "Precio_Cliente": 36000.00, "Precio_Tecnico": 32500.00, "Cantidad_Stock": 0},
+  {"Codigo": "eje100", "Producto": "SOPORTE DREAN 8KG ORIGINAL CON POLEA", "Precio_Cliente": 36800.00, "Precio_Tecnico": 32400.00, "Cantidad_Stock": 6},
   {"Codigo": "EJE026", "Producto": "SOPORTE DREAN 8KG ORIGINAL REDONDITO", "Precio_Cliente": 41580.00, "Precio_Tecnico": 36000.00, "Cantidad_Stock": 5},
   {"Codigo": "EJE10", "Producto": "SOPORTE ELECTROLUX CARA PLANA", "Precio_Cliente": 37800.00, "Precio_Tecnico": 34800.00, "Cantidad_Stock": 2},
   {"Codigo": "lg001", "Producto": "SOPORTE LG  8.5KG  (6305/06)", "Precio_Cliente": 74000.00, "Precio_Tecnico": 74000.00, "Cantidad_Stock": 0},
