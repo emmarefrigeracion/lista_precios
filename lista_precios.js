@@ -359,7 +359,7 @@
   {"Codigo": "motdre", "Producto": "MOTOR DREAN ORIGINAL 6 CONTACTOS", "Precio_Cliente": 165000.00, "Precio_Tecnico": 158000.00, "Cantidad_Stock": 5},
   {"Codigo": "mot022", "Producto": "MOTOR EMBRACO 1/3HP R134", "Precio_Cliente": 0.00, "Precio_Tecnico": 0.00, "Cantidad_Stock": 0},
   {"Codigo": "mot011", "Producto": "MOTOR FORZADOR  ( REONDITO )   P/ EXIB", "Precio_Cliente": 27600.00, "Precio_Tecnico": 24300.00, "Cantidad_Stock": 1},
-  {"Codigo": "for002", "Producto": "MOTOR FORZADOR TIPO ELCO 10W", "Precio_Cliente": 26800.00, "Precio_Tecnico": 23500.00, "Cantidad_Stock": 9},
+  {"Codigo": "for002", "Producto": "MOTOR FORZADOR TIPO ELCO 10W", "Precio_Cliente": 22000.00, "Precio_Tecnico": 19000.00, "Cantidad_Stock": 9},
   {"Codigo": "for005", "Producto": "MOTOR FORZADOR TIPO ELCO 5-13", "Precio_Cliente": 21800.00, "Precio_Tecnico": 17900.00, "Cantidad_Stock": 5},
   {"Codigo": "mot004", "Producto": "MOTOR FORZADOR TIPO ELCON 16/25", "Precio_Cliente": 32700.00, "Precio_Tecnico": 28500.00, "Cantidad_Stock": 4},
   {"Codigo": "mot1/3+", "Producto": "MOTOR HUAYI  1/3+", "Precio_Cliente": 117200.00, "Precio_Tecnico": 108600.00, "Cantidad_Stock": 2},
