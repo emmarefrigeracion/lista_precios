@@ -357,6 +357,7 @@
   {"Codigo": "3987", "Producto": "MOTOR DONPER 1/5", "Precio_Cliente": 92000.00, "Precio_Tecnico": 84000.00, "Cantidad_Stock": 1},
   {"Codigo": "mot1", "Producto": "MOTOR DREAN 7 CONTACTOS", "Precio_Cliente": 185000.00, "Precio_Tecnico": 177000.00, "Cantidad_Stock": 3},
   {"Codigo": "motdre", "Producto": "MOTOR DREAN ORIGINAL 6 CONTACTOS", "Precio_Cliente": 165000.00, "Precio_Tecnico": 158000.00, "Cantidad_Stock": 5},
+  {"Codigo": "mot025", "Producto": "MOTOR ELECTROLUX 1/4+", "Precio_Cliente": 110000.00, "Precio_Tecnico": 100000.00, "Cantidad_Stock": 0},
   {"Codigo": "mot022", "Producto": "MOTOR EMBRACO 1/3HP R134", "Precio_Cliente": 0.00, "Precio_Tecnico": 0.00, "Cantidad_Stock": 0},
   {"Codigo": "mot011", "Producto": "MOTOR FORZADOR  ( REONDITO )   P/ EXIB", "Precio_Cliente": 27600.00, "Precio_Tecnico": 24300.00, "Cantidad_Stock": 1},
   {"Codigo": "for002", "Producto": "MOTOR FORZADOR TIPO ELCO 10W", "Precio_Cliente": 22000.00, "Precio_Tecnico": 19000.00, "Cantidad_Stock": 9},
