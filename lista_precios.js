@@ -345,7 +345,7 @@
   {"Codigo": "mica02", "Producto": "MICA GRANDE", "Precio_Cliente": 10500.00, "Precio_Tecnico": 9200.00, "Cantidad_Stock": 1},
   {"Codigo": "mic003", "Producto": "MIKA CDA PEDACITO", "Precio_Cliente": 6000.00, "Precio_Tecnico": 4200.00, "Cantidad_Stock": 0},
   {"Codigo": "mot13", "Producto": "MOTOR 1/3 ELECTROLUX", "Precio_Cliente": 0.00, "Precio_Tecnico": 115000.00, "Cantidad_Stock": 0},
-  {"Codigo": "mot020", "Producto": "MOTOR 1/4 ELECTROLUX", "Precio_Cliente": 96030.00, "Precio_Tecnico": 85734.00, "Cantidad_Stock": 7},
+  {"Codigo": "mot020", "Producto": "MOTOR 1/4 ELECTROLUX", "Precio_Cliente": 96030.00, "Precio_Tecnico": 87900.00, "Cantidad_Stock": 7},
   {"Codigo": "motair", "Producto": "MOTOR AIRE ACOND. 6000 FRIG  R410 (TOSHIBA)", "Precio_Cliente": 374220.00, "Precio_Tecnico": 338580.00, "Cantidad_Stock": 1},
   {"Codigo": "mot015", "Producto": "MOTOR BLUE ESTAR 1/4 R600", "Precio_Cliente": 153450.00, "Precio_Tecnico": 126621.00, "Cantidad_Stock": 0},
   {"Codigo": "mot101", "Producto": "MOTOR COMERCIAL FINLEY 1/2HP R404 (4460)", "Precio_Cliente": 207300.00, "Precio_Tecnico": 197000.00, "Cantidad_Stock": 1},
