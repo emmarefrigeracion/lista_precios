@@ -174,6 +174,7 @@
   {"Codigo": "COR73", "Producto": "CORREA 1173", "Precio_Cliente": 17800.00, "Precio_Tecnico": 15200.00, "Cantidad_Stock": 3},
   {"Codigo": "c1181", "Producto": "CORREA 1181", "Precio_Cliente": 16900.00, "Precio_Tecnico": 11200.00, "Cantidad_Stock": 3},
   {"Codigo": "COR084", "Producto": "CORREA 1184", "Precio_Cliente": 15500.00, "Precio_Tecnico": 13000.00, "Cantidad_Stock": 6},
+  {"Codigo": "cor84", "Producto": "CORREA 1184 ORIGINAL", "Precio_Cliente": 19800.00, "Precio_Tecnico": 17300.00, "Cantidad_Stock": 4},
   {"Codigo": "cor010", "Producto": "CORREA 12 VIAS CONCEPT 5.05 ORIG", "Precio_Cliente": 8500.00, "Precio_Tecnico": 7200.00, "Cantidad_Stock": 3},
   {"Codigo": "cor120", "Producto": "CORREA 1200 DRAM GOLD", "Precio_Cliente": 19206.00, "Precio_Tecnico": 14500.00, "Cantidad_Stock": 3},
   {"Codigo": "cor1210", "Producto": "CORREA 1210", "Precio_Cliente": 19206.00, "Precio_Tecnico": 14850.00, "Cantidad_Stock": 5},
