@@ -383,6 +383,7 @@
   {"Codigo": "P8", "Producto": "PALTE LAVARROPA CONCEPT", "Precio_Cliente": 10200.00, "Precio_Tecnico": 9900.00, "Cantidad_Stock": 3},
   {"Codigo": "6-6", "Producto": "PAÑO PARA SOLDAR REFRIOIL AISLANTE", "Precio_Cliente": 16900.00, "Precio_Tecnico": 14500.00, "Cantidad_Stock": 0},
   {"Codigo": "pas01", "Producto": "PASTILLA DE LIMPIEZA P LAVARROPAS X UNIDAD", "Precio_Cliente": 1500.00, "Precio_Tecnico": 1200.00, "Cantidad_Stock": 60},
+  {"Codigo": "pas02", "Producto": "PASTILLA DE LIMPIEZA PARA LAVARROPAS X CAJA", "Precio_Cliente": 12000.00, "Precio_Tecnico": 9500.00, "Cantidad_Stock": 6},
   {"Codigo": "p10", "Producto": "PATA DE SECARROPA KOHINOOR", "Precio_Cliente": 1200.01, "Precio_Tecnico": 899.99, "Cantidad_Stock": 18},
   {"Codigo": "pat003", "Producto": "PATAS  LAVARROPA REGULABLE (BASE GRANDE)", "Precio_Cliente": 2100.01, "Precio_Tecnico": 1600.00, "Cantidad_Stock": 13},
   {"Codigo": "PAT004", "Producto": "PATAS LAVARROPA REFORZADAS", "Precio_Cliente": 2574.00, "Precio_Tecnico": 1485.00, "Cantidad_Stock": 22},
