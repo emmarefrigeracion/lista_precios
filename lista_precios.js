@@ -270,7 +270,7 @@
   {"Codigo": "gas009", "Producto": "GAS R404 ANTON 650GR", "Precio_Cliente": 24000.00, "Precio_Tecnico": 21300.00, "Cantidad_Stock": 4},
   {"Codigo": "gas011", "Producto": "GAS R410 ANTON X 650GRMS S/PICO", "Precio_Cliente": 31500.00, "Precio_Tecnico": 27800.00, "Cantidad_Stock": 5},
   {"Codigo": "009", "Producto": "GAS R410 X650GRC/PICO  NECTON", "Precio_Cliente": 32100.00, "Precio_Tecnico": 28300.00, "Cantidad_Stock": 3},
-  {"Codigo": "gas021", "Producto": "GAS R600 ANTON", "Precio_Cliente": 15100.00, "Precio_Tecnico": 10900.00, "Cantidad_Stock": 2},
+  {"Codigo": "gas021", "Producto": "GAS R600 ANTON", "Precio_Cliente": 13800.00, "Precio_Tecnico": 10900.00, "Cantidad_Stock": 6},
   {"Codigo": "gota", "Producto": "GOTITA PEGAMENTO", "Precio_Cliente": 2475.00, "Precio_Tecnico": 2227.50, "Cantidad_Stock": 5},
   {"Codigo": "GRASA", "Producto": "GRASA SILICONADA (POMO 50 GRM)", "Precio_Cliente": 11900.00, "Precio_Tecnico": 9200.00, "Cantidad_Stock": 9},
   {"Codigo": "1-34-024", "Producto": "GRASA SILICONADA CHICA", "Precio_Cliente": 5900.00, "Precio_Tecnico": 3900.00, "Cantidad_Stock": 4},
