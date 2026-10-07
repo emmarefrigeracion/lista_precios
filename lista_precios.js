@@ -183,7 +183,7 @@
   {"Codigo": "COR007", "Producto": "CORREA JM CORTA SEMI AUTOM", "Precio_Cliente": 4500.00, "Precio_Tecnico": 3500.00, "Cantidad_Stock": 13},
   {"Codigo": "COR008", "Producto": "CORREA JM LARGA SEMI AUTOM", "Precio_Cliente": 5600.00, "Precio_Tecnico": 4500.00, "Cantidad_Stock": 10},
   {"Codigo": "corre6", "Producto": "CORREA LAVARROPA V500", "Precio_Cliente": 11500.00, "Precio_Tecnico": 9000.00, "Cantidad_Stock": 0},
-  {"Codigo": "COR009", "Producto": "CORREA POLY 705", "Precio_Cliente": 13266.00, "Precio_Tecnico": 11286.00, "Cantidad_Stock": 2},
+  {"Codigo": "COR009", "Producto": "CORREA POLY 705", "Precio_Cliente": 13500.00, "Precio_Tecnico": 11200.00, "Cantidad_Stock": 4},
   {"Codigo": "cap002", "Producto": "CORTA CAPILAR", "Precio_Cliente": 10500.00, "Precio_Tecnico": 8800.00, "Cantidad_Stock": 1},
   {"Codigo": "cor021", "Producto": "CORTADORA CAÑO MEDIANA", "Precio_Cliente": 19080.00, "Precio_Tecnico": 19080.00, "Cantidad_Stock": 1},
   {"Codigo": "COR002", "Producto": "CORTADORA CAÑO MINI", "Precio_Cliente": 9540.00, "Precio_Tecnico": 7632.00, "Cantidad_Stock": 3},
