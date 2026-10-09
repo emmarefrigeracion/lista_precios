@@ -120,7 +120,7 @@
   {"Codigo": "cap0002", "Producto": "CAPACITOR 12.5", "Precio_Cliente": 4900.00, "Precio_Tecnico": 3800.00, "Cantidad_Stock": 8},
   {"Codigo": "capa14", "Producto": "CAPACITOR 14MF", "Precio_Cliente": 6800.00, "Precio_Tecnico": 5300.00, "Cantidad_Stock": 5},
   {"Codigo": "cap2.5", "Producto": "CAPACITOR 2.5", "Precio_Cliente": 3600.00, "Precio_Tecnico": 2600.00, "Cantidad_Stock": 4},
-  {"Codigo": "c25", "Producto": "CAPACITOR 2.5MF (CARAMELITO)", "Precio_Cliente": 3100.00, "Precio_Tecnico": 2100.00, "Cantidad_Stock": 5},
+  {"Codigo": "c25", "Producto": "CAPACITOR 2.5MF (CARAMELITO)", "Precio_Cliente": 3100.00, "Precio_Tecnico": 2500.00, "Cantidad_Stock": 5},
   {"Codigo": "cap4", "Producto": "CAPACITOR 4MF", "Precio_Cliente": 3700.00, "Precio_Tecnico": 2700.00, "Cantidad_Stock": 10},
   {"Codigo": "capa05", "Producto": "CAPACITOR 5 MF", "Precio_Cliente": 3900.00, "Precio_Tecnico": 2900.00, "Cantidad_Stock": 8},
   {"Codigo": "cap017", "Producto": "CAPACITOR ANTIPARACITARIO  DREAN", "Precio_Cliente": 16700.00, "Precio_Tecnico": 12500.00, "Cantidad_Stock": 0},
