@@ -159,7 +159,7 @@
   {"Codigo": "mt512", "Producto": "COMBISTATO MT 512", "Precio_Cliente": 59700.00, "Precio_Tecnico": 53000.00, "Cantidad_Stock": 1},
   {"Codigo": "con015", "Producto": "CONDENSADORA 1/3 HP  PARA HELADERA", "Precio_Cliente": 127809.00, "Precio_Tecnico": 98208.00, "Cantidad_Stock": 0},
   {"Codigo": "con010", "Producto": "CONO P EJE DREAN 6-7 KG", "Precio_Cliente": 2600.00, "Precio_Tecnico": 2100.00, "Cantidad_Stock": 7},
-  {"Codigo": "con011", "Producto": "CONO P EJE DREAN 8 KG", "Precio_Cliente": 3000.00, "Precio_Tecnico": 2500.00, "Cantidad_Stock": 1},
+  {"Codigo": "con011", "Producto": "CONO P EJE DREAN 8 KG", "Precio_Cliente": 3000.00, "Precio_Tecnico": 2200.00, "Cantidad_Stock": 8},
   {"Codigo": "aro005", "Producto": "CONTRAMARCO PUERTA DREAN  166", "Precio_Cliente": 21000.00, "Precio_Tecnico": 14000.00, "Cantidad_Stock": 3},
   {"Codigo": "aro21", "Producto": "CONTRAMARCO PUERTA NEXT", "Precio_Cliente": 19600.00, "Precio_Tecnico": 17000.00, "Cantidad_Stock": 3},
   {"Codigo": "2325", "Producto": "CONTROL UNIVERSAL PARA AIRE ACONDICIONADO", "Precio_Cliente": 8900.00, "Precio_Tecnico": 7500.00, "Cantidad_Stock": 6},
