@@ -202,6 +202,7 @@
   {"Codigo": "dec003", "Producto": "DECAPANTE  (DILVER SOLDER) 114 GR.", "Precio_Cliente": 13500.00, "Precio_Tecnico": 11900.00, "Cantidad_Stock": 1},
   {"Codigo": "DEC001", "Producto": "DECAPANTE P/PLATA X 80G", "Precio_Cliente": 10350.00, "Precio_Tecnico": 8370.00, "Cantidad_Stock": 1},
   {"Codigo": "dec002", "Producto": "DECAPANTE P7 PLATA 50G1", "Precio_Cliente": 9200.00, "Precio_Tecnico": 7200.00, "Cantidad_Stock": 1},
+  {"Codigo": "des1", "Producto": "DESHIDRATANTE 250ML", "Precio_Cliente": 4000.00, "Precio_Tecnico": 3500.00, "Cantidad_Stock": 6},
   {"Codigo": "d5", "Producto": "DISCO DE COTE DE WALT X UNIDAD", "Precio_Cliente": 2200.00, "Precio_Tecnico": 2000.00, "Cantidad_Stock": 25},
   {"Codigo": "res003", "Producto": "DOBLADOA RESORTE 1/2", "Precio_Cliente": 7000.00, "Precio_Tecnico": 5500.00, "Cantidad_Stock": 2},
   {"Codigo": "do001", "Producto": "DOBLADORA DE CAÑO 3 EN 1", "Precio_Cliente": 22260.00, "Precio_Tecnico": 16960.00, "Cantidad_Stock": 0},
