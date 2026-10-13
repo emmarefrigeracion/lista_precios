@@ -538,7 +538,7 @@
   {"Codigo": "eje22", "Producto": "SOPORTE PATRICK LPK 8 KG LARGO Y CORTO", "Precio_Cliente": 49800.00, "Precio_Tecnico": 46100.00, "Cantidad_Stock": 4},
   {"Codigo": "eje022", "Producto": "SOPORTE PATRICKLPK 6/7 KG CONICO", "Precio_Cliente": 48700.00, "Precio_Tecnico": 43200.00, "Cantidad_Stock": 3},
   {"Codigo": "sam07", "Producto": "SOPORTE SAMSUNG 1704 ORIGINAL", "Precio_Cliente": 59800.00, "Precio_Tecnico": 56000.00, "Cantidad_Stock": 1},
-  {"Codigo": "sam008", "Producto": "SOPORTE SAMSUNG CARA PLANA  ROD 05/06", "Precio_Cliente": 53200.00, "Precio_Tecnico": 47500.00, "Cantidad_Stock": 6},
+  {"Codigo": "sam08", "Producto": "SOPORTE SAMSUNG CARA PLANA  ROD 05/06", "Precio_Cliente": 53200.00, "Precio_Tecnico": 47500.00, "Cantidad_Stock": 6},
   {"Codigo": "saminv", "Producto": "SOPORTE SAMSUNG INVERTER", "Precio_Cliente": 49005.00, "Precio_Tecnico": 42800.00, "Cantidad_Stock": 1},
   {"Codigo": "tac010", "Producto": "TACOMETRO BLUE 6&7 KG", "Precio_Cliente": 0.00, "Precio_Tecnico": 14000.00, "Cantidad_Stock": 1},
   {"Codigo": "taco1", "Producto": "TACOS DE GOMA ANTIBRIVACION AIRES X 4", "Precio_Cliente": 4800.00, "Precio_Tecnico": 3800.00, "Cantidad_Stock": 3},
