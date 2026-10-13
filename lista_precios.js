@@ -239,7 +239,7 @@
   {"Codigo": "F003", "Producto": "FILTRO DE BOMBA LAVARROPA DREAN CORTO", "Precio_Cliente": 13800.00, "Precio_Tecnico": 8700.00, "Cantidad_Stock": 3},
   {"Codigo": "f211", "Producto": "FORZADOR AXIAL COOLER 3\" 80X80X38.", "Precio_Cliente": 23500.00, "Precio_Tecnico": 21600.00, "Cantidad_Stock": 2},
   {"Codigo": "for040", "Producto": "FORZADOR CONDENSADORA SPLIT 33W", "Precio_Cliente": 82071.00, "Precio_Tecnico": 65637.00, "Cantidad_Stock": 0},
-  {"Codigo": "for008", "Producto": "FORZADOR NO FROST (38060)", "Precio_Cliente": 21500.00, "Precio_Tecnico": 19800.00, "Cantidad_Stock": 2},
+  {"Codigo": "for008", "Producto": "FORZADOR NO FROST (38060)", "Precio_Cliente": 26800.00, "Precio_Tecnico": 23500.00, "Cantidad_Stock": 5},
   {"Codigo": "FOR011", "Producto": "FORZADOR PATRICK HPK", "Precio_Cliente": 35200.00, "Precio_Tecnico": 32175.00, "Cantidad_Stock": 2},
   {"Codigo": "fle20", "Producto": "FRENO DE SECARROPA DREAN", "Precio_Cliente": 6138.00, "Precio_Tecnico": 4702.50, "Cantidad_Stock": 1},
   {"Codigo": "fle4", "Producto": "FRENO SECARROPAS DREAN CON ARCO", "Precio_Cliente": 30200.00, "Precio_Tecnico": 28300.00, "Cantidad_Stock": 2},
