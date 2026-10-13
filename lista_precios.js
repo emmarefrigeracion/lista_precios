@@ -655,6 +655,7 @@
   {"Codigo": "011", "Producto": "UNION BRONCE 1/4 (NIPLE)", "Precio_Cliente": 5600.00, "Precio_Tecnico": 4500.00, "Cantidad_Stock": 0},
   {"Codigo": "012", "Producto": "UNION BRONCE 3/8 (NIPLE)", "Precio_Cliente": 5800.00, "Precio_Tecnico": 4900.00, "Cantidad_Stock": 3},
   {"Codigo": "tue012", "Producto": "UNION BRONCE 5/8 (NIPLE)", "Precio_Cliente": 7900.00, "Precio_Tecnico": 7000.00, "Cantidad_Stock": 2},
+  {"Codigo": "union", "Producto": "UNION PVC P MANG 5/8", "Precio_Cliente": 1200.00, "Precio_Tecnico": 1000.00, "Cantidad_Stock": 15},
   {"Codigo": "8-6-CV12", "Producto": "VALVULA CHECK - AIRE ACONDICIONADO", "Precio_Cliente": 8246.70, "Precio_Tecnico": 7623.00, "Cantidad_Stock": 3},
   {"Codigo": "4-9-2753", "Producto": "VALVULA DE CARGA 1/4", "Precio_Cliente": 2700.00, "Precio_Tecnico": 2300.00, "Cantidad_Stock": 7},
   {"Codigo": "val15", "Producto": "VALVULA DE CARGA 410/R22", "Precio_Cliente": 13500.00, "Precio_Tecnico": 10200.00, "Cantidad_Stock": 2},
