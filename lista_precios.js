@@ -582,6 +582,7 @@
   {"Codigo": "dis001", "Producto": "TERMICO 85º /89º PARA DISPENSER", "Precio_Cliente": 6435.00, "Precio_Tecnico": 5148.00, "Cantidad_Stock": 2},
   {"Codigo": "t012", "Producto": "TERMICOS 1/4- 1/3", "Precio_Cliente": 4500.00, "Precio_Tecnico": 3500.00, "Cantidad_Stock": 10},
   {"Codigo": "4798", "Producto": "TERMO ACTUADOR CONCEPT", "Precio_Cliente": 17900.00, "Precio_Tecnico": 16500.00, "Cantidad_Stock": 2},
+  {"Codigo": "term", "Producto": "TERMOMETRO DIGITAL CON MEMORIA (GRANDE)", "Precio_Cliente": 43000.00, "Precio_Tecnico": 39000.00, "Cantidad_Stock": 2},
   {"Codigo": "ter100", "Producto": "TERMOMETRO DIGITAL SIMPLE", "Precio_Cliente": 6700.00, "Precio_Tecnico": 5900.00, "Cantidad_Stock": 2},
   {"Codigo": "ter54", "Producto": "TERMOSATO K54 L1119 PARA FREEZER", "Precio_Cliente": 22000.00, "Precio_Tecnico": 18000.00, "Cantidad_Stock": 2},
   {"Codigo": "terf", "Producto": "TERMOSTAO PARA FREEZER AMBIENTE", "Precio_Cliente": 23600.00, "Precio_Tecnico": 20700.00, "Cantidad_Stock": 3},
