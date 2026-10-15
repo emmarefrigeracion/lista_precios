@@ -534,7 +534,7 @@
   {"Codigo": "EJE004", "Producto": "SOPORTE BOSH 03/03", "Precio_Cliente": 36000.00, "Precio_Tecnico": 32500.00, "Cantidad_Stock": 0},
   {"Codigo": "concept", "Producto": "SOPORTE CONCEPT 5.05", "Precio_Cliente": 45000.00, "Precio_Tecnico": 38700.00, "Cantidad_Stock": 2},
   {"Codigo": "eje100", "Producto": "SOPORTE DREAN 8KG ORIGINAL CON POLEA", "Precio_Cliente": 41000.00, "Precio_Tecnico": 36800.00, "Cantidad_Stock": 6},
-  {"Codigo": "EJE026", "Producto": "SOPORTE DREAN 8KG ORIGINAL REDONDITO", "Precio_Cliente": 34500.00, "Precio_Tecnico": 27000.00, "Cantidad_Stock": 5},
+  {"Codigo": "EJE026", "Producto": "SOPORTE DREAN 8KG ORIGINAL REDONDITO", "Precio_Cliente": 34500.00, "Precio_Tecnico": 28000.00, "Cantidad_Stock": 5},
   {"Codigo": "EJE10", "Producto": "SOPORTE ELECTROLUX CARA PLANA", "Precio_Cliente": 37800.00, "Precio_Tecnico": 34800.00, "Cantidad_Stock": 2},
   {"Codigo": "lg001", "Producto": "SOPORTE LG  8.5KG  (6305/06)", "Precio_Cliente": 74000.00, "Precio_Tecnico": 74000.00, "Cantidad_Stock": 0},
   {"Codigo": "eje015", "Producto": "SOPORTE LONGVIE", "Precio_Cliente": 143748.00, "Precio_Tecnico": 136125.00, "Cantidad_Stock": 1},
