@@ -294,7 +294,7 @@
   {"Codigo": "mang011", "Producto": "JGO. ,AMGUERA X 3 R-410", "Precio_Cliente": 39600.00, "Precio_Tecnico": 34254.00, "Cantidad_Stock": 0},
   {"Codigo": "mang010", "Producto": "JGO. DE MANGUERA X3 R-22", "Precio_Cliente": 19800.00, "Precio_Tecnico": 16000.00, "Cantidad_Stock": 3},
   {"Codigo": "car3", "Producto": "JUEGO CARBONES IMPORTADOS 12.5 / 13.5", "Precio_Cliente": 12000.00, "Precio_Tecnico": 8400.00, "Cantidad_Stock": 7},
-  {"Codigo": "man5", "Producto": "JUEGO DE MANGUERA X3 R410", "Precio_Cliente": 27000.00, "Precio_Tecnico": 23500.00, "Cantidad_Stock": 1},
+  {"Codigo": "man5", "Producto": "JUEGO DE MANGUERA X3 R410", "Precio_Cliente": 38700.00, "Precio_Tecnico": 35000.00, "Cantidad_Stock": 2},
   {"Codigo": "6-13-1127", "Producto": "JUEGO MANG. CON  LLAMA Y SOPLETE AUTOGENA", "Precio_Cliente": 63712.44, "Precio_Tecnico": 53032.32, "Cantidad_Stock": 1},
   {"Codigo": "2435", "Producto": "KIT ACCESORIO PARA DESCARGA DE AIRE ACONDICIONADO", "Precio_Cliente": 3876.00, "Precio_Tecnico": 3570.00, "Cantidad_Stock": 10},
   {"Codigo": "gold2", "Producto": "KIT DREAN GOLD COMPLETO", "Precio_Cliente": 45696.00, "Precio_Tecnico": 42330.00, "Cantidad_Stock": 3},
