@@ -299,7 +299,7 @@
   {"Codigo": "MAN22", "Producto": "JUEGO DEMANGUERA X3 PARA R22 X1.5M", "Precio_Cliente": 23000.00, "Precio_Tecnico": 24800.00, "Cantidad_Stock": 2},
   {"Codigo": "6-13-1127", "Producto": "JUEGO MANG. CON  LLAMA Y SOPLETE AUTOGENA", "Precio_Cliente": 63712.44, "Precio_Tecnico": 53032.32, "Cantidad_Stock": 1},
   {"Codigo": "2435", "Producto": "KIT ACCESORIO PARA DESCARGA DE AIRE ACONDICIONADO", "Precio_Cliente": 3876.00, "Precio_Tecnico": 3570.00, "Cantidad_Stock": 10},
-  {"Codigo": "gold2", "Producto": "KIT DREAN GOLD COMPLETO", "Precio_Cliente": 45696.00, "Precio_Tecnico": 42330.00, "Cantidad_Stock": 3},
+  {"Codigo": "gold2", "Producto": "KIT DREAN GOLD COMPLETO", "Precio_Cliente": 51800.00, "Precio_Tecnico": 45000.00, "Cantidad_Stock": 4},
   {"Codigo": "kit010", "Producto": "KIT FIJACION DEL 8", "Precio_Cliente": 5508.00, "Precio_Tecnico": 5000.00, "Cantidad_Stock": 84},
   {"Codigo": "kit002", "Producto": "KIT INSTALACION 1/2-1/4 CON AISLANTE NEGRO Y CINTA TACSA", "Precio_Cliente": 84660.00, "Precio_Tecnico": 80580.00, "Cantidad_Stock": 79},
   {"Codigo": "kit004", "Producto": "KIT INSTALACION 1/4-3/8 CON AISLANTE NEGRO Y CINTA TACSA", "Precio_Cliente": 76500.00, "Precio_Tecnico": 70400.00, "Cantidad_Stock": 85},
