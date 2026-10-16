@@ -530,7 +530,7 @@
   {"Codigo": "sop015", "Producto": "SOPORTE AC&C DREAN 8/10KG  (REDONDITO Y CARA PLANA)", "Precio_Cliente": 42500.00, "Precio_Tecnico": 39800.00, "Cantidad_Stock": 4},
   {"Codigo": "EJE003", "Producto": "SOPORTE AURORA 03/03 CONICO", "Precio_Cliente": 28413.00, "Precio_Tecnico": 26235.00, "Cantidad_Stock": 0},
   {"Codigo": "sop011", "Producto": "SOPORTE BLUE 6 Y 7KG (CORONITA)", "Precio_Cliente": 32000.00, "Precio_Tecnico": 29000.00, "Cantidad_Stock": 3},
-  {"Codigo": "eje025", "Producto": "SOPORTE BLUE 6-7 KG ORIGINAL", "Precio_Cliente": 31800.00, "Precio_Tecnico": 27800.00, "Cantidad_Stock": 1},
+  {"Codigo": "eje025", "Producto": "SOPORTE BLUE 6-7 KG ORIGINAL", "Precio_Cliente": 31800.00, "Precio_Tecnico": 24700.00, "Cantidad_Stock": 1},
   {"Codigo": "EJE004", "Producto": "SOPORTE BOSH 03/03", "Precio_Cliente": 36000.00, "Precio_Tecnico": 32500.00, "Cantidad_Stock": 0},
   {"Codigo": "concept", "Producto": "SOPORTE CONCEPT 5.05", "Precio_Cliente": 45000.00, "Precio_Tecnico": 38700.00, "Cantidad_Stock": 2},
   {"Codigo": "eje100", "Producto": "SOPORTE DREAN 8KG ORIGINAL CON POLEA", "Precio_Cliente": 41000.00, "Precio_Tecnico": 36800.00, "Cantidad_Stock": 6},
