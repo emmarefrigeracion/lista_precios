@@ -413,7 +413,7 @@
   {"Codigo": "pla019", "Producto": "PLACA ALTERNATIVA GENERY ELECT HPK310", "Precio_Cliente": 54700.00, "Precio_Tecnico": 49800.00, "Cantidad_Stock": 4},
   {"Codigo": "pla020", "Producto": "PLACA ALTERNATIVA PARA  HELADERA (PATRICK- MABE)", "Precio_Cliente": 36036.00, "Precio_Tecnico": 27720.00, "Cantidad_Stock": 1},
   {"Codigo": "pla006", "Producto": "PLACA CONCEPT 5.05 ORIGINAL ( SIN VISOR)", "Precio_Cliente": 62300.00, "Precio_Tecnico": 56600.00, "Cantidad_Stock": 3},
-  {"Codigo": "pla005", "Producto": "PLACA CONCEPT C12- 5.05 ORIGINAL CON VISOR", "Precio_Cliente": 62300.00, "Precio_Tecnico": 55600.00, "Cantidad_Stock": 2},
+  {"Codigo": "pla005", "Producto": "PLACA CONCEPT C12- 5.05 ORIGINAL CON VISOR", "Precio_Cliente": 62300.00, "Precio_Tecnico": 56600.00, "Cantidad_Stock": 2},
   {"Codigo": "pla001", "Producto": "PLACA CONSUL 600", "Precio_Cliente": 38313.00, "Precio_Tecnico": 31185.00, "Cantidad_Stock": 0},
   {"Codigo": "pla060", "Producto": "PLACA DE FRIO P/ HEL 60X40", "Precio_Cliente": 66330.00, "Precio_Tecnico": 57420.00, "Cantidad_Stock": 1},
   {"Codigo": "pla090", "Producto": "PLACA DE FRIO P/ HEL 90X40", "Precio_Cliente": 72270.00, "Precio_Tecnico": 64350.00, "Cantidad_Stock": 0},
