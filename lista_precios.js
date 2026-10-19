@@ -365,7 +365,7 @@
   {"Codigo": "mot011", "Producto": "MOTOR FORZADOR  ( REONDITO )   P/ EXIB", "Precio_Cliente": 27600.00, "Precio_Tecnico": 24300.00, "Cantidad_Stock": 1},
   {"Codigo": "for002", "Producto": "MOTOR FORZADOR TIPO ELCO 10W", "Precio_Cliente": 24300.00, "Precio_Tecnico": 21000.00, "Cantidad_Stock": 9},
   {"Codigo": "for005", "Producto": "MOTOR FORZADOR TIPO ELCO 5-13", "Precio_Cliente": 21800.00, "Precio_Tecnico": 17900.00, "Cantidad_Stock": 5},
-  {"Codigo": "mot004", "Producto": "MOTOR FORZADOR TIPO ELCON 16/25", "Precio_Cliente": 32700.00, "Precio_Tecnico": 28500.00, "Cantidad_Stock": 4},
+  {"Codigo": "mot004", "Producto": "MOTOR FORZADOR TIPO ELCON 16/25", "Precio_Cliente": 36000.00, "Precio_Tecnico": 31500.00, "Cantidad_Stock": 4},
   {"Codigo": "mot1/3+", "Producto": "MOTOR HUAYI  1/3+", "Precio_Cliente": 117200.00, "Precio_Tecnico": 108600.00, "Cantidad_Stock": 2},
   {"Codigo": "mot014", "Producto": "MOTOR HUAYI  1/4  R134", "Precio_Cliente": 97500.00, "Precio_Tecnico": 89600.00, "Cantidad_Stock": 3},
   {"Codigo": "2-4-7500177", "Producto": "MOTOR HUAYI  1/4+ HP - R134A - FAMILIAR", "Precio_Cliente": 105000.00, "Precio_Tecnico": 98000.00, "Cantidad_Stock": 6},
