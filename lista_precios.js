@@ -129,6 +129,7 @@
   {"Codigo": "capa50", "Producto": "CAPACITOR COOLTECH 50MF 440V", "Precio_Cliente": 9900.00, "Precio_Tecnico": 8600.00, "Cantidad_Stock": 6},
   {"Codigo": "capa1.5", "Producto": "CAPACITOR CUADRADO 1.5MF", "Precio_Cliente": 3900.00, "Precio_Tecnico": 3000.00, "Cantidad_Stock": 7},
   {"Codigo": "capa2", "Producto": "CAPACITOR CUADRADO 2MF", "Precio_Cliente": 3300.00, "Precio_Tecnico": 3000.00, "Cantidad_Stock": 4},
+  {"Codigo": "107", "Producto": "CAPACITOR DE ARRANQUE 101-107 P HEL", "Precio_Cliente": 13100.00, "Precio_Tecnico": 11200.00, "Cantidad_Stock": 3},
   {"Codigo": "capa9", "Producto": "CAPACITOR DUAL 25+5MF", "Precio_Cliente": 16200.00, "Precio_Tecnico": 13950.00, "Cantidad_Stock": 0},
   {"Codigo": "4-22-1220004", "Producto": "CAPACITOR DUAL 35 + 2", "Precio_Cliente": 15200.00, "Precio_Tecnico": 11200.00, "Cantidad_Stock": 4},
   {"Codigo": "4-22-122005", "Producto": "CAPACITOR DUAL 40 + 5", "Precio_Cliente": 16000.00, "Precio_Tecnico": 12700.00, "Cantidad_Stock": 1},
