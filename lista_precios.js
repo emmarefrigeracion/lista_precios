@@ -443,7 +443,7 @@
   {"Codigo": "pre002", "Producto": "PRESOSTATO 4 CONTACTOS PALA ANCHA FACE 1", "Precio_Cliente": 14200.00, "Precio_Tecnico": 120000.00, "Cantidad_Stock": 1},
   {"Codigo": "pre005", "Producto": "PRESOSTATO ANALOGICO  DREAN NEXT", "Precio_Cliente": 21000.00, "Precio_Tecnico": 16900.00, "Cantidad_Stock": 4},
   {"Codigo": "pre003", "Producto": "PRESOSTATO FACE 2 FICHA DITINTAS", "Precio_Cliente": 18000.00, "Precio_Tecnico": 16700.00, "Cantidad_Stock": 4},
-  {"Codigo": "pre004", "Producto": "PRESOSTATOS CONCEPT", "Precio_Cliente": 10500.00, "Precio_Tecnico": 8500.00, "Cantidad_Stock": 4},
+  {"Codigo": "pre004", "Producto": "PRESOSTATOS CONCEPT", "Precio_Cliente": 12600.00, "Precio_Tecnico": 10500.00, "Cantidad_Stock": 3},
   {"Codigo": "t20", "Producto": "PROTECTOR DE TENSION 20A", "Precio_Cliente": 31000.00, "Precio_Tecnico": 27000.00, "Cantidad_Stock": 2},
   {"Codigo": "t10", "Producto": "PROTECTOR DE TENSION GENEVE 10A (HEL/LAV/MICRO)", "Precio_Cliente": 23500.00, "Precio_Tecnico": 19500.00, "Cantidad_Stock": 6},
   {"Codigo": "rel5", "Producto": "RELAY PROTECTOR EMBRACO FF12BK 1/3 HP", "Precio_Cliente": 25650.00, "Precio_Tecnico": 21330.00, "Cantidad_Stock": 1},
