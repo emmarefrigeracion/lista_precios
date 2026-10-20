@@ -65,7 +65,7 @@
   {"Codigo": "bom2", "Producto": "BOMBA DESAGOTE 1/2 GIRO", "Precio_Cliente": 22100.00, "Precio_Tecnico": 18200.00, "Cantidad_Stock": 3},
   {"Codigo": "bom3", "Producto": "BOMBA DESAGOTE 3 TRABAS", "Precio_Cliente": 21800.00, "Precio_Tecnico": 18600.00, "Cantidad_Stock": 2},
   {"Codigo": "bom4", "Producto": "BOMBA DESAGOTE 4 TRABAS", "Precio_Cliente": 37700.00, "Precio_Tecnico": 35000.00, "Cantidad_Stock": 3},
-  {"Codigo": "b5", "Producto": "BOTONERA  DREAN NEXT/AURORA", "Precio_Cliente": 7500.00, "Precio_Tecnico": 5200.00, "Cantidad_Stock": 13},
+  {"Codigo": "b5", "Producto": "BOTONERA  DREAN NEXT/AURORA", "Precio_Cliente": 7500.00, "Precio_Tecnico": 5800.00, "Cantidad_Stock": 13},
   {"Codigo": "b9", "Producto": "BOTONERA WHIRLPOOL 7 BOT", "Precio_Cliente": 8500.00, "Precio_Tecnico": 7600.00, "Cantidad_Stock": 0},
   {"Codigo": "bri005", "Producto": "BRIDA DREAN GOLD LADO OPUESTO", "Precio_Cliente": 15600.00, "Precio_Tecnico": 12000.00, "Cantidad_Stock": 10},
   {"Codigo": "bri006", "Producto": "BRIDA DREAN GOLD LADO POLEA", "Precio_Cliente": 16600.00, "Precio_Tecnico": 13000.00, "Cantidad_Stock": 10},
