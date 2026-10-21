@@ -90,7 +90,7 @@
   {"Codigo": "fre1", "Producto": "CABLE DE FRENO SECARROPA KOHINOOR 2042", "Precio_Cliente": 11000.00, "Precio_Tecnico": 8900.00, "Cantidad_Stock": 2},
   {"Codigo": "fre3", "Producto": "CABLE DE FRENO SECARROPA KOHINOOR 2052", "Precio_Cliente": 11000.00, "Precio_Tecnico": 8900.00, "Cantidad_Stock": 2},
   {"Codigo": "4360", "Producto": "CABLE FRENO SECARROPA KOHINNOR MODELO VIEJO", "Precio_Cliente": 11000.00, "Precio_Tecnico": 9000.00, "Cantidad_Stock": 4},
-  {"Codigo": "qv", "Producto": "CABLE QV SECARROPA", "Precio_Cliente": 13900.00, "Precio_Tecnico": 10900.00, "Cantidad_Stock": 1},
+  {"Codigo": "qv", "Producto": "CABLE QV SECARROPA", "Precio_Cliente": 19800.00, "Precio_Tecnico": 18000.00, "Cantidad_Stock": 3},
   {"Codigo": "fre8", "Producto": "CABLE SECARROPAS  DREAN  C/  RESORTE POR UNIDAD", "Precio_Cliente": 19900.00, "Precio_Tecnico": 17500.00, "Cantidad_Stock": 3},
   {"Codigo": "cable", "Producto": "CABLE TPR 3*1.5", "Precio_Cliente": 3100.00, "Precio_Tecnico": 2400.00, "Cantidad_Stock": 10},
   {"Codigo": "8-3-BI-5.15", "Producto": "CABLE TPR 5 X 1.5MM  POR METRO", "Precio_Cliente": 3900.00, "Precio_Tecnico": 3500.00, "Cantidad_Stock": 83},
