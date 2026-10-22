@@ -389,7 +389,7 @@
   {"Codigo": "pas02", "Producto": "PASTILLA DE LIMPIEZA PARA LAVARROPAS X CAJA", "Precio_Cliente": 12000.00, "Precio_Tecnico": 9500.00, "Cantidad_Stock": 6},
   {"Codigo": "p10", "Producto": "PATA DE SECARROPA KOHINOOR", "Precio_Cliente": 1200.01, "Precio_Tecnico": 899.99, "Cantidad_Stock": 18},
   {"Codigo": "pat003", "Producto": "PATAS  LAVARROPA REGULABLE (BASE GRANDE)", "Precio_Cliente": 2100.01, "Precio_Tecnico": 1600.00, "Cantidad_Stock": 9},
-  {"Codigo": "PAT004", "Producto": "PATAS LAVARROPA REFORZADAS", "Precio_Cliente": 2574.00, "Precio_Tecnico": 1485.00, "Cantidad_Stock": 22},
+  {"Codigo": "PAT004", "Producto": "PATAS LAVARROPA REFORZADAS", "Precio_Cliente": 2600.00, "Precio_Tecnico": 1600.00, "Cantidad_Stock": 22},
   {"Codigo": "pa1", "Producto": "PATAS LAVARROPAS ORIGINALES DREAN  PRECIO POR UNIDAD", "Precio_Cliente": 5346.00, "Precio_Tecnico": 4257.00, "Cantidad_Stock": 1},
   {"Codigo": "per005", "Producto": "PERILLA  LAV DREAN NEXT", "Precio_Cliente": 9600.00, "Precio_Tecnico": 7800.00, "Cantidad_Stock": 2},
   {"Codigo": "p2", "Producto": "PERILLA AZUL SECARROPAS KOHINOOR", "Precio_Cliente": 1900.00, "Precio_Tecnico": 3200.00, "Cantidad_Stock": 5},
