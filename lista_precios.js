@@ -321,7 +321,7 @@
   {"Codigo": "man113", "Producto": "MANGUERA DE CARGA R22/R1347R12  X3", "Precio_Cliente": 17820.00, "Precio_Tecnico": 15840.00, "Cantidad_Stock": 0},
   {"Codigo": "man111", "Producto": "MANGUERA DE CRAGA GRIS 1,80M", "Precio_Cliente": 6000.00, "Precio_Tecnico": 4700.00, "Cantidad_Stock": 10},
   {"Codigo": "man114", "Producto": "MANGUERA DESAGOTE 1,80 C/CODO CHICO", "Precio_Cliente": 4900.00, "Precio_Tecnico": 4500.00, "Cantidad_Stock": 15},
-  {"Codigo": "man115", "Producto": "MANGUERA DESAGOTE 1,80 RECTA  (UNI)", "Precio_Cliente": 4500.00, "Precio_Tecnico": 3500.00, "Cantidad_Stock": 6},
+  {"Codigo": "man115", "Producto": "MANGUERA DESAGOTE 1,80 RECTA  (UNI)", "Precio_Cliente": 4100.00, "Precio_Tecnico": 3200.00, "Cantidad_Stock": 6},
   {"Codigo": "man2", "Producto": "MANGUERA DESAGOTE 2.5M", "Precio_Cliente": 5200.00, "Precio_Tecnico": 4200.00, "Cantidad_Stock": 5},
   {"Codigo": "man116", "Producto": "MANGUERA DESAGOTE GAFA C/CODO GRANDE 1.80", "Precio_Cliente": 6000.00, "Precio_Tecnico": 4500.00, "Cantidad_Stock": 7},
   {"Codigo": "man9", "Producto": "MANGUERA DESAGOTE RECTA CORTA", "Precio_Cliente": 5900.00, "Precio_Tecnico": 4300.00, "Cantidad_Stock": 3},
