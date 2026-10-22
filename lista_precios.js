@@ -180,7 +180,7 @@
   {"Codigo": "cor010", "Producto": "CORREA 12 VIAS CONCEPT 5.05 ORIG", "Precio_Cliente": 8500.00, "Precio_Tecnico": 7200.00, "Cantidad_Stock": 2},
   {"Codigo": "cor120", "Producto": "CORREA 1200 DRAM GOLD", "Precio_Cliente": 19206.00, "Precio_Tecnico": 14500.00, "Cantidad_Stock": 3},
   {"Codigo": "cor1210", "Producto": "CORREA 1210", "Precio_Cliente": 19206.00, "Precio_Tecnico": 14850.00, "Cantidad_Stock": 5},
-  {"Codigo": "COR012", "Producto": "CORREA 1212", "Precio_Cliente": 16500.00, "Precio_Tecnico": 13700.00, "Cantidad_Stock": 4},
+  {"Codigo": "COR012", "Producto": "CORREA 1212", "Precio_Cliente": 16500.00, "Precio_Tecnico": 13300.00, "Cantidad_Stock": 4},
   {"Codigo": "COR017", "Producto": "CORREA 1317 DREAN ORIGINAL (FAMILY)", "Precio_Cliente": 19503.00, "Precio_Tecnico": 17325.00, "Cantidad_Stock": 3},
   {"Codigo": "cor011", "Producto": "CORREA 5 VIAS CONCEPT ORIG", "Precio_Cliente": 8300.00, "Precio_Tecnico": 6200.00, "Cantidad_Stock": 3},
   {"Codigo": "COR007", "Producto": "CORREA JM CORTA SEMI AUTOM", "Precio_Cliente": 4500.00, "Precio_Tecnico": 3500.00, "Cantidad_Stock": 13},
