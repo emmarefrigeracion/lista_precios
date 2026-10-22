@@ -255,7 +255,7 @@
   {"Codigo": "fue004", "Producto": "FUELLE DREAN BLUE S/PICO", "Precio_Cliente": 23000.00, "Precio_Tecnico": 20000.00, "Cantidad_Stock": 7},
   {"Codigo": "fue006", "Producto": "FUELLE LONGVIE MOD NUEVO", "Precio_Cliente": 29900.00, "Precio_Tecnico": 26800.00, "Cantidad_Stock": 2},
   {"Codigo": "fue007", "Producto": "FUELLE MABE 8KG / PATRICK", "Precio_Cliente": 44300.00, "Precio_Tecnico": 41900.00, "Cantidad_Stock": 2},
-  {"Codigo": "fue002", "Producto": "FUELLE NEXT \"ORIGINAL\"", "Precio_Cliente": 32000.00, "Precio_Tecnico": 28500.00, "Cantidad_Stock": 5},
+  {"Codigo": "fue002", "Producto": "FUELLE NEXT \"ORIGINAL\"", "Precio_Cliente": 29900.00, "Precio_Tecnico": 27900.00, "Cantidad_Stock": 5},
   {"Codigo": "fue010", "Producto": "FUELLE ORIGINAL LONGVIE ORIGINAL 8 KG MODL8010", "Precio_Cliente": 35000.00, "Precio_Tecnico": 30000.00, "Cantidad_Stock": 1},
   {"Codigo": "f10", "Producto": "FUELLE SAMSUNG ORIGINAL", "Precio_Cliente": 52000.00, "Precio_Tecnico": 45600.00, "Cantidad_Stock": 4},
   {"Codigo": "fuebosh", "Producto": "FUELLR BOSH  CHICO", "Precio_Cliente": 28116.00, "Precio_Tecnico": 24750.00, "Cantidad_Stock": 0},
