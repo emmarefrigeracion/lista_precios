@@ -610,7 +610,6 @@
   {"Codigo": "003", "Producto": "TERMOSTATO K59", "Precio_Cliente": 15500.00, "Precio_Tecnico": 13500.00, "Cantidad_Stock": 11},
   {"Codigo": "t59", "Producto": "TERMOSTATO K59 S 2278  2MTRS  ORIG", "Precio_Cliente": 26300.00, "Precio_Tecnico": 42100.00, "Cantidad_Stock": 1},
   {"Codigo": "ter59", "Producto": "TERMOSTATO K59 X 2 MTRS", "Precio_Cliente": 17000.00, "Precio_Tecnico": 21900.00, "Cantidad_Stock": 4},
-  {"Codigo": "kdf", "Producto": "TERMOSTATO KDF GAFA ORIGINAL", "Precio_Cliente": 18500.00, "Precio_Tecnico": 16200.00, "Cantidad_Stock": 2},
   {"Codigo": "ter26", "Producto": "TERMOSTATO KDF26 (K59 ALTERNATIVO)", "Precio_Cliente": 19000.00, "Precio_Tecnico": 12700.00, "Cantidad_Stock": 1},
   {"Codigo": "ter30", "Producto": "TERMOSTATO KDF30 ORIGINAL DE GAFA", "Precio_Cliente": 28000.00, "Precio_Tecnico": 22800.00, "Cantidad_Stock": 2},
   {"Codigo": "ter1", "Producto": "TERMOSTATO NO FROST GAFA ( PARA HELADERA NO FROST CONVERTIDA A MECANICA)", "Precio_Cliente": 24354.00, "Precio_Tecnico": 20988.00, "Cantidad_Stock": 2},
