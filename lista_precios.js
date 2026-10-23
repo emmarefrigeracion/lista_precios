@@ -263,7 +263,7 @@
   {"Codigo": "fu001", "Producto": "FUSIBLE TERMICO", "Precio_Cliente": 8200.00, "Precio_Tecnico": 6200.00, "Cantidad_Stock": 1},
   {"Codigo": "5-2-R22NECT6.8", "Producto": "GARRAFA NECTON R 32 680 G.", "Precio_Cliente": 0.00, "Precio_Tecnico": 0.00, "Cantidad_Stock": 0},
   {"Codigo": "GAS001", "Producto": "GAS AN22 780GR. REMPLAZO 22", "Precio_Cliente": 32200.00, "Precio_Tecnico": 29300.00, "Cantidad_Stock": 5},
-  {"Codigo": "GAS002", "Producto": "GAS MAPP X 400GR", "Precio_Cliente": 16300.00, "Precio_Tecnico": 13400.00, "Cantidad_Stock": 3},
+  {"Codigo": "GAS002", "Producto": "GAS MAPP X 400GR", "Precio_Cliente": 13800.00, "Precio_Tecnico": 12500.00, "Cantidad_Stock": 7},
   {"Codigo": "GAS003", "Producto": "GAS MO49 PLUS X 750GR.", "Precio_Cliente": 34600.00, "Precio_Tecnico": 32500.00, "Cantidad_Stock": 2},
   {"Codigo": "006", "Producto": "GAS NECTON R134 X900GR", "Precio_Cliente": 35000.00, "Precio_Tecnico": 29600.00, "Cantidad_Stock": 1},
   {"Codigo": "GAS006", "Producto": "GAS R134 ANTON / FREON  * 900 GRM.", "Precio_Cliente": 32300.00, "Precio_Tecnico": 29700.00, "Cantidad_Stock": 93},
