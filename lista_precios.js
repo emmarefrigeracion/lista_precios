@@ -598,7 +598,7 @@
   {"Codigo": "ter010", "Producto": "TERMOSTATO 9013 PHILCO ALTERNATIVO", "Precio_Cliente": 20592.00, "Precio_Tecnico": 15840.00, "Cantidad_Stock": 0},
   {"Codigo": "ter94", "Producto": "TERMOSTATO 94072-2", "Precio_Cliente": 18500.00, "Precio_Tecnico": 16200.00, "Cantidad_Stock": 4},
   {"Codigo": "TER001", "Producto": "TERMOSTATO A2000 -35+35 BULBO CORTO", "Precio_Cliente": 15100.00, "Precio_Tecnico": 11800.00, "Cantidad_Stock": 2},
-  {"Codigo": "TER002", "Producto": "TERMOSTATO A2000 -35+35 BULBO LARGO", "Precio_Cliente": 12000.00, "Precio_Tecnico": 9900.00, "Cantidad_Stock": 8},
+  {"Codigo": "TER002", "Producto": "TERMOSTATO A2000 -35+35 BULBO LARGO", "Precio_Cliente": 12000.00, "Precio_Tecnico": 11800.00, "Cantidad_Stock": 8},
   {"Codigo": "ter2", "Producto": "TERMOSTATO BLUESTAR   22027   22036-2", "Precio_Cliente": 18600.00, "Precio_Tecnico": 15800.00, "Cantidad_Stock": 4},
   {"Codigo": "ter9", "Producto": "TERMOSTATO BLUESTAR (94012-4)", "Precio_Cliente": 18700.00, "Precio_Tecnico": 16200.00, "Cantidad_Stock": 8},
   {"Codigo": "ter8", "Producto": "TERMOSTATO BLUESTAR 94072-4", "Precio_Cliente": 19600.00, "Precio_Tecnico": 15700.00, "Cantidad_Stock": 3},
