@@ -266,6 +266,7 @@
   {"Codigo": "fun1", "Producto": "FUNDENTE REFRIOIL", "Precio_Cliente": 12000.00, "Precio_Tecnico": 10900.00, "Cantidad_Stock": 2},
   {"Codigo": "fu001", "Producto": "FUSIBLE TERMICO", "Precio_Cliente": 8200.00, "Precio_Tecnico": 6200.00, "Cantidad_Stock": 1},
   {"Codigo": "5-2-R22NECT6.8", "Producto": "GARRAFA NECTON R 32 680 G.", "Precio_Cliente": 0.00, "Precio_Tecnico": 0.00, "Cantidad_Stock": 0},
+  {"Codigo": "g22", "Producto": "GARRAFA R22 3.400 FRIGOCLEAN", "Precio_Cliente": 15000.00, "Precio_Tecnico": 143000.00, "Cantidad_Stock": 1},
   {"Codigo": "GAS001", "Producto": "GAS AN22 780GR. REMPLAZO 22", "Precio_Cliente": 35420.00, "Precio_Tecnico": 32230.00, "Cantidad_Stock": 3},
   {"Codigo": "GAS002", "Producto": "GAS MAPP X 400GR", "Precio_Cliente": 15180.00, "Precio_Tecnico": 13750.00, "Cantidad_Stock": 7},
   {"Codigo": "GAS003", "Producto": "GAS MO49 PLUS X 750GR.", "Precio_Cliente": 51000.00, "Precio_Tecnico": 46500.00, "Cantidad_Stock": 2},
