@@ -359,6 +359,7 @@
   {"Codigo": "M114", "Producto": "MOTOR BLUESTAR 1/3+", "Precio_Cliente": 162000.00, "Precio_Tecnico": 156000.00, "Cantidad_Stock": 1},
   {"Codigo": "mot101", "Producto": "MOTOR COMERCIAL FINLEY 1/2HP R404 (4460)", "Precio_Cliente": 207300.00, "Precio_Tecnico": 197000.00, "Cantidad_Stock": 1},
   {"Codigo": "mot100", "Producto": "MOTOR COMERCIAL TECUMSE 1/2HP R404  (AE4460Z)", "Precio_Cliente": 274000.00, "Precio_Tecnico": 250000.00, "Cantidad_Stock": 0},
+  {"Codigo": "motc", "Producto": "MOTOR COMPTEX 1/4", "Precio_Cliente": 110000.00, "Precio_Tecnico": 103000.00, "Cantidad_Stock": 3},
   {"Codigo": "014", "Producto": "MOTOR DONPER 1/3 HP FAMILIAR", "Precio_Cliente": 115830.00, "Precio_Tecnico": 92763.00, "Cantidad_Stock": 3},
   {"Codigo": "don1", "Producto": "MOTOR DONPER 1/3+HP", "Precio_Cliente": 116000.00, "Precio_Tecnico": 98000.00, "Cantidad_Stock": 3},
   {"Codigo": "3989", "Producto": "MOTOR DONPER 1/3HP", "Precio_Cliente": 109000.00, "Precio_Tecnico": 95000.00, "Cantidad_Stock": 2},
