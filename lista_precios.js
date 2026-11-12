@@ -262,6 +262,7 @@
   {"Codigo": "fue010", "Producto": "FUELLE ORIGINAL LONGVIE ORIGINAL 8 KG MODL8010", "Precio_Cliente": 35000.00, "Precio_Tecnico": 30000.00, "Cantidad_Stock": 1},
   {"Codigo": "f10", "Producto": "FUELLE SAMSUNG ORIGINAL", "Precio_Cliente": 52000.00, "Precio_Tecnico": 45600.00, "Cantidad_Stock": 4},
   {"Codigo": "fuebosh", "Producto": "FUELLR BOSH  CHICO", "Precio_Cliente": 28116.00, "Precio_Tecnico": 24750.00, "Cantidad_Stock": 0},
+  {"Codigo": "fun1", "Producto": "FUNDENTE REFRIOIL", "Precio_Cliente": 12000.00, "Precio_Tecnico": 10900.00, "Cantidad_Stock": 2},
   {"Codigo": "fu001", "Producto": "FUSIBLE TERMICO", "Precio_Cliente": 8200.00, "Precio_Tecnico": 6200.00, "Cantidad_Stock": 1},
   {"Codigo": "5-2-R22NECT6.8", "Producto": "GARRAFA NECTON R 32 680 G.", "Precio_Cliente": 0.00, "Precio_Tecnico": 0.00, "Cantidad_Stock": 0},
   {"Codigo": "GAS001", "Producto": "GAS AN22 780GR. REMPLAZO 22", "Precio_Cliente": 35420.00, "Precio_Tecnico": 32230.00, "Cantidad_Stock": 3},
