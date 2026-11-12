@@ -268,7 +268,7 @@
   {"Codigo": "GAS002", "Producto": "GAS MAPP X 400GR", "Precio_Cliente": 15180.00, "Precio_Tecnico": 13750.00, "Cantidad_Stock": 7},
   {"Codigo": "GAS003", "Producto": "GAS MO49 PLUS X 750GR.", "Precio_Cliente": 56100.00, "Precio_Tecnico": 51480.00, "Cantidad_Stock": 2},
   {"Codigo": "006", "Producto": "GAS NECTON R134 X900GR", "Precio_Cliente": 38500.00, "Precio_Tecnico": 32560.00, "Cantidad_Stock": 1},
-  {"Codigo": "GAS006", "Producto": "GAS R134 ANTON / FREON  * 900 GRM.", "Precio_Cliente": 32300.00, "Precio_Tecnico": 29700.00, "Cantidad_Stock": 92},
+  {"Codigo": "GAS006", "Producto": "GAS R134 ANTON / FREON  * 900 GRM.", "Precio_Cliente": 35530.00, "Precio_Tecnico": 32670.00, "Cantidad_Stock": 92},
   {"Codigo": "gas020", "Producto": "GAS R134 TORRINGTON", "Precio_Cliente": 27819.00, "Precio_Tecnico": 21483.00, "Cantidad_Stock": 0},
   {"Codigo": "gas023", "Producto": "GAS R22 1KG FINLEY", "Precio_Cliente": 39000.00, "Precio_Tecnico": 36600.00, "Cantidad_Stock": 2},
   {"Codigo": "GAS007", "Producto": "GAS R22 X 1KG FREON", "Precio_Cliente": 44000.00, "Precio_Tecnico": 41800.00, "Cantidad_Stock": 100},
