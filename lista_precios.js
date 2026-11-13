@@ -418,7 +418,7 @@
   {"Codigo": "pla021", "Producto": "PLA ORIGINAL PARA HELADERA (PATRICK-MABE)", "Precio_Cliente": 55440.00, "Precio_Tecnico": 43461.00, "Cantidad_Stock": 0},
   {"Codigo": "pla004", "Producto": "PLACA  AIRE ACOND SIN PG (03)", "Precio_Cliente": 43800.00, "Precio_Tecnico": 35400.00, "Cantidad_Stock": 4},
   {"Codigo": "pla05", "Producto": "PLACA  AIRE ACONDIC  CON PG (05)", "Precio_Cliente": 44800.00, "Precio_Tecnico": 37200.00, "Cantidad_Stock": 5},
-  {"Codigo": "pla003", "Producto": "PLACA AIRE ACOND  CON PG 08", "Precio_Cliente": 42500.00, "Precio_Tecnico": 37200.00, "Cantidad_Stock": 0},
+  {"Codigo": "pla003", "Producto": "PLACA AIRE ACOND  CON PG 08", "Precio_Cliente": 42500.00, "Precio_Tecnico": 37200.00, "Cantidad_Stock": 10},
   {"Codigo": "pla019", "Producto": "PLACA ALTERNATIVA GENERY ELECT HPK310", "Precio_Cliente": 54700.00, "Precio_Tecnico": 49800.00, "Cantidad_Stock": 4},
   {"Codigo": "pla020", "Producto": "PLACA ALTERNATIVA PARA  HELADERA (PATRICK- MABE)", "Precio_Cliente": 36036.00, "Precio_Tecnico": 27720.00, "Cantidad_Stock": 1},
   {"Codigo": "pla006", "Producto": "PLACA CONCEPT 5.05 ORIGINAL ( SIN VISOR)", "Precio_Cliente": 62300.00, "Precio_Tecnico": 56600.00, "Cantidad_Stock": 3},
