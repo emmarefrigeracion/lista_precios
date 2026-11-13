@@ -492,7 +492,7 @@
   {"Codigo": "rob006", "Producto": "ROBINETE DE ACCESO 3/8 CURVO (R22)", "Precio_Cliente": 21277.08, "Precio_Tecnico": 18069.48, "Cantidad_Stock": 3},
   {"Codigo": "rob007", "Producto": "ROBINETE DE ACCESO 3/8 CURVO (R410A)", "Precio_Cliente": 27264.60, "Precio_Tecnico": 20849.40, "Cantidad_Stock": 1},
   {"Codigo": "rob008", "Producto": "ROBINETE DE ACCESO 5/8 CURVO (R22)", "Precio_Cliente": 25660.80, "Precio_Tecnico": 23522.40, "Cantidad_Stock": 1},
-  {"Codigo": "rob009", "Producto": "ROBINETE DE ACCESO 5/8 CURVO (R410)", "Precio_Cliente": 38907.00, "Precio_Tecnico": 29898.00, "Cantidad_Stock": 1},
+  {"Codigo": "rob009", "Producto": "ROBINETE DE ACCESO 5/8 CURVO (R410)", "Precio_Cliente": 42019.56, "Precio_Tecnico": 32289.84, "Cantidad_Stock": 1},
   {"Codigo": "rod021", "Producto": "RODAMIENTO  L/POLEO WH50", "Precio_Cliente": 24300.00, "Precio_Tecnico": 19500.00, "Cantidad_Stock": 3},
   {"Codigo": "rod8", "Producto": "RODAMIENTO 6206 CBR", "Precio_Cliente": 4200.00, "Precio_Tecnico": 3200.00, "Cantidad_Stock": 2},
   {"Codigo": "rod1", "Producto": "RODAMIENTO CBR 6203", "Precio_Cliente": 2900.00, "Precio_Tecnico": 2500.00, "Cantidad_Stock": 14},
