@@ -490,7 +490,7 @@
   {"Codigo": "rob004", "Producto": "ROBINETE DE ACCESO 1/2 CURVO (R410)", "Precio_Cliente": 26000.00, "Precio_Tecnico": 23000.00, "Cantidad_Stock": 2},
   {"Codigo": "rob005", "Producto": "ROBINETE DE ACCESO 1/4 CURVO", "Precio_Cliente": 18900.00, "Precio_Tecnico": 16800.00, "Cantidad_Stock": 6},
   {"Codigo": "rob006", "Producto": "ROBINETE DE ACCESO 3/8 CURVO (R22)", "Precio_Cliente": 19900.00, "Precio_Tecnico": 17900.00, "Cantidad_Stock": 3},
-  {"Codigo": "rob007", "Producto": "ROBINETE DE ACCESO 3/8 CURVO (R410A)", "Precio_Cliente": 27264.60, "Precio_Tecnico": 20849.40, "Cantidad_Stock": 1},
+  {"Codigo": "rob007", "Producto": "ROBINETE DE ACCESO 3/8 CURVO (R410A)", "Precio_Cliente": 23000.00, "Precio_Tecnico": 20900.00, "Cantidad_Stock": 1},
   {"Codigo": "rob008", "Producto": "ROBINETE DE ACCESO 5/8 CURVO (R22)", "Precio_Cliente": 25660.80, "Precio_Tecnico": 23522.40, "Cantidad_Stock": 1},
   {"Codigo": "rob009", "Producto": "ROBINETE DE ACCESO 5/8 CURVO (R410)", "Precio_Cliente": 42019.56, "Precio_Tecnico": 32289.84, "Cantidad_Stock": 1},
   {"Codigo": "rod021", "Producto": "RODAMIENTO  L/POLEO WH50", "Precio_Cliente": 24300.00, "Precio_Tecnico": 19500.00, "Cantidad_Stock": 3},
