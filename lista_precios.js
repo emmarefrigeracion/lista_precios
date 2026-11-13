@@ -488,7 +488,7 @@
   {"Codigo": "rob10", "Producto": "ROBINETE 3/8 RECTO (410)", "Precio_Cliente": 18176.40, "Precio_Tecnico": 16038.00, "Cantidad_Stock": 1},
   {"Codigo": "rob003", "Producto": "ROBINETE DE ACCESO 1/2 CURVO (R22)", "Precio_Cliente": 21384.00, "Precio_Tecnico": 19245.60, "Cantidad_Stock": 13},
   {"Codigo": "rob004", "Producto": "ROBINETE DE ACCESO 1/2 CURVO (R410)", "Precio_Cliente": 26000.00, "Precio_Tecnico": 23000.00, "Cantidad_Stock": 2},
-  {"Codigo": "rob005", "Producto": "ROBINETE DE ACCESO 1/4 CURVO", "Precio_Cliente": 18900.00, "Precio_Tecnico": 16740.00, "Cantidad_Stock": 6},
+  {"Codigo": "rob005", "Producto": "ROBINETE DE ACCESO 1/4 CURVO", "Precio_Cliente": 18900.00, "Precio_Tecnico": 16800.00, "Cantidad_Stock": 6},
   {"Codigo": "rob006", "Producto": "ROBINETE DE ACCESO 3/8 CURVO (R22)", "Precio_Cliente": 21277.08, "Precio_Tecnico": 18069.48, "Cantidad_Stock": 3},
   {"Codigo": "rob007", "Producto": "ROBINETE DE ACCESO 3/8 CURVO (R410A)", "Precio_Cliente": 27264.60, "Precio_Tecnico": 20849.40, "Cantidad_Stock": 1},
   {"Codigo": "rob008", "Producto": "ROBINETE DE ACCESO 5/8 CURVO (R22)", "Precio_Cliente": 25660.80, "Precio_Tecnico": 23522.40, "Cantidad_Stock": 1},
