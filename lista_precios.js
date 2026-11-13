@@ -483,7 +483,7 @@
   {"Codigo": "patr6", "Producto": "RETEN PATRICK  8KG  47/88/10", "Precio_Cliente": 7200.00, "Precio_Tecnico": 6300.00, "Cantidad_Stock": 5},
   {"Codigo": "r37", "Producto": "RETEN PATRICK 37*66*10 6KG", "Precio_Cliente": 4300.00, "Precio_Tecnico": 3300.00, "Cantidad_Stock": 11},
   {"Codigo": "ret006", "Producto": "RETEN SAMSUNG 1904/1702/1804 35*65*10", "Precio_Cliente": 6500.00, "Precio_Tecnico": 4500.00, "Cantidad_Stock": 5},
-  {"Codigo": "rob001", "Producto": "ROBINETE 1/2 RECTO R22", "Precio_Cliente": 25553.88, "Precio_Tecnico": 20207.88, "Cantidad_Stock": 2},
+  {"Codigo": "rob001", "Producto": "ROBINETE 1/2 RECTO R22", "Precio_Cliente": 25500.00, "Precio_Tecnico": 20200.00, "Cantidad_Stock": 2},
   {"Codigo": "rob002", "Producto": "ROBINETE 1/4 RECTO", "Precio_Cliente": 17500.00, "Precio_Tecnico": 13800.00, "Cantidad_Stock": 3},
   {"Codigo": "rob10", "Producto": "ROBINETE 3/8 RECTO (410)", "Precio_Cliente": 18500.00, "Precio_Tecnico": 16200.00, "Cantidad_Stock": 1},
   {"Codigo": "rob003", "Producto": "ROBINETE DE ACCESO 1/2 CURVO (R22)", "Precio_Cliente": 22300.00, "Precio_Tecnico": 19500.00, "Cantidad_Stock": 13},
