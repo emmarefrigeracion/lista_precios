@@ -518,6 +518,7 @@
   {"Codigo": "14", "Producto": "ROLLO DE CAÑO DE 1/4 (15M)", "Precio_Cliente": 98982.80, "Precio_Tecnico": 89000.00, "Cantidad_Stock": 101},
   {"Codigo": "r6", "Producto": "ROLLO MANGUERA CRISTAL POR 25M", "Precio_Cliente": 0.00, "Precio_Tecnico": 37500.00, "Cantidad_Stock": 1000},
   {"Codigo": "1-39-6206SKF", "Producto": "RULEMAN  SKF  6206", "Precio_Cliente": 16137.00, "Precio_Tecnico": 12375.00, "Cantidad_Stock": 1},
+  {"Codigo": "sac1", "Producto": "SACA OVU", "Precio_Cliente": 4800.00, "Precio_Tecnico": 4200.00, "Cantidad_Stock": 2},
   {"Codigo": "se6", "Producto": "SELLA FUGA ANNTON CHEM JERINGA 6ML", "Precio_Cliente": 31680.00, "Precio_Tecnico": 26532.00, "Cantidad_Stock": 1},
   {"Codigo": "sen5", "Producto": "SENSOR 2.7 GENERICO", "Precio_Cliente": 11979.00, "Precio_Tecnico": 8712.00, "Cantidad_Stock": 10},
   {"Codigo": "sen4", "Producto": "SENSOR AIRE SPLIT PRECIO POR JUEGO", "Precio_Cliente": 24750.00, "Precio_Tecnico": 21483.00, "Cantidad_Stock": 0},
