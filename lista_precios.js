@@ -111,7 +111,7 @@
   {"Codigo": "c100", "Producto": "CAJA SAMSUNG WA70F5 (99-139A) ADAPTABLE", "Precio_Cliente": 86400.00, "Precio_Tecnico": 81300.00, "Cantidad_Stock": 0},
   {"Codigo": "cal001", "Producto": "CALOVENTOR SERENA (BLANCO)", "Precio_Cliente": 25000.00, "Precio_Tecnico": 20000.00, "Cantidad_Stock": 5},
   {"Codigo": "cal002", "Producto": "CALOVENTOR SERENA (NEGRO)", "Precio_Cliente": 17000.00, "Precio_Tecnico": 0.00, "Cantidad_Stock": 3},
-  {"Codigo": "4-3-4558", "Producto": "CAÑO COBRE  1/2  POR METRO", "Precio_Cliente": 14200.00, "Precio_Tecnico": 13200.00, "Cantidad_Stock": 1500},
+  {"Codigo": "4-3-4558", "Producto": "CAÑO COBRE  1/2  POR METRO", "Precio_Cliente": 14200.00, "Precio_Tecnico": 13200.00, "Cantidad_Stock": 500},
   {"Codigo": "4-3-4514", "Producto": "CAÑO COBRE  1/4 POR METRO", "Precio_Cliente": 6800.00, "Precio_Tecnico": 6300.00, "Cantidad_Stock": 109},
   {"Codigo": "c34", "Producto": "CAÑO COBRE 3/4", "Precio_Cliente": 21800.00, "Precio_Tecnico": 20300.00, "Cantidad_Stock": 2},
   {"Codigo": "4-3-4538", "Producto": "CAÑO COBRE 3/8 POR METRO", "Precio_Cliente": 10500.00, "Precio_Tecnico": 9900.00, "Cantidad_Stock": 108},
