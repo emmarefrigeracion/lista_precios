@@ -386,7 +386,7 @@
   {"Codigo": "mot6", "Producto": "MOTOR PARA PLATO DE MICROONDAS", "Precio_Cliente": 17000.00, "Precio_Tecnico": 15000.00, "Cantidad_Stock": 4},
   {"Codigo": "niv001", "Producto": "NIVEL 30 CM", "Precio_Cliente": 8415.00, "Precio_Tecnico": 6930.00, "Cantidad_Stock": 0},
   {"Codigo": "obu000", "Producto": "OBU", "Precio_Cliente": 990.00, "Precio_Tecnico": 990.00, "Cantidad_Stock": 8},
-  {"Codigo": "orr001", "Producto": "ORRIN 410/", "Precio_Cliente": 396.00, "Precio_Tecnico": 346.50, "Cantidad_Stock": 2},
+  {"Codigo": "orr001", "Producto": "ORRIN 410/", "Precio_Cliente": 900.00, "Precio_Tecnico": 700.00, "Cantidad_Stock": 2},
   {"Codigo": "orr002", "Producto": "ORRIN R22", "Precio_Cliente": 445.50, "Precio_Tecnico": 386.10, "Cantidad_Stock": 10},
   {"Codigo": "pal8", "Producto": "PALANCA KOHINNOR MARRON/BLANCA", "Precio_Cliente": 6840.00, "Precio_Tecnico": 6210.00, "Cantidad_Stock": 0},
   {"Codigo": "pal11", "Producto": "PALANCA SECARROPA ELECTROLUX (TIRA PUERTA)", "Precio_Cliente": 9000.00, "Precio_Tecnico": 6000.00, "Cantidad_Stock": 5},
