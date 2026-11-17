@@ -120,7 +120,7 @@
   {"Codigo": "c78", "Producto": "CAÑO COBRE 7/8 X 5 MRS RECTO", "Precio_Cliente": 192000.00, "Precio_Tecnico": 187000.00, "Cantidad_Stock": 1},
   {"Codigo": "capa16", "Producto": "CAPACITOR  16MF", "Precio_Cliente": 5900.00, "Precio_Tecnico": 4000.00, "Cantidad_Stock": 5},
   {"Codigo": "capa20", "Producto": "CAPACITOR  20MF 440V", "Precio_Cliente": 6200.00, "Precio_Tecnico": 4700.00, "Cantidad_Stock": 3},
-  {"Codigo": "capa25", "Producto": "CAPACITOR  25 MF", "Precio_Cliente": 6900.00, "Precio_Tecnico": 5600.00, "Cantidad_Stock": 4},
+  {"Codigo": "capa25", "Producto": "CAPACITOR  25 MF", "Precio_Cliente": 6900.00, "Precio_Tecnico": 5900.00, "Cantidad_Stock": 4},
   {"Codigo": "cap0002", "Producto": "CAPACITOR 12.5", "Precio_Cliente": 4900.00, "Precio_Tecnico": 3800.00, "Cantidad_Stock": 8},
   {"Codigo": "capa14", "Producto": "CAPACITOR 14MF", "Precio_Cliente": 6800.00, "Precio_Tecnico": 5300.00, "Cantidad_Stock": 5},
   {"Codigo": "cap2.5", "Producto": "CAPACITOR 2.5", "Precio_Cliente": 3600.00, "Precio_Tecnico": 2600.00, "Cantidad_Stock": 4},
