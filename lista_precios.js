@@ -613,7 +613,6 @@
   {"Codigo": "TER002", "Producto": "TERMOSTATO A2000 -35+35 BULBO LARGO", "Precio_Cliente": 12000.00, "Precio_Tecnico": 11800.00, "Cantidad_Stock": 8},
   {"Codigo": "ter2", "Producto": "TERMOSTATO BLUESTAR   22027   22036-2", "Precio_Cliente": 18600.00, "Precio_Tecnico": 15800.00, "Cantidad_Stock": 4},
   {"Codigo": "ter9", "Producto": "TERMOSTATO BLUESTAR (94012-4)", "Precio_Cliente": 18700.00, "Precio_Tecnico": 16200.00, "Cantidad_Stock": 8},
-  {"Codigo": "ter8", "Producto": "TERMOSTATO BLUESTAR 94072-4", "Precio_Cliente": 19600.00, "Precio_Tecnico": 15700.00, "Cantidad_Stock": 3},
   {"Codigo": "TB", "Producto": "TERMOSTATO DANFOSS BOSCH (SIMIL K59)", "Precio_Cliente": 49000.00, "Precio_Tecnico": 45700.00, "Cantidad_Stock": 2},
   {"Codigo": "TER012", "Producto": "TERMOSTATO DUAL P/ FREEZER BLUESTAR (40702)", "Precio_Cliente": 18900.00, "Precio_Tecnico": 14500.00, "Cantidad_Stock": 2},
   {"Codigo": "ter021", "Producto": "TERMOSTATO EXHIBIDORA BLUESTAR", "Precio_Cliente": 16500.00, "Precio_Tecnico": 13500.00, "Cantidad_Stock": 2},
