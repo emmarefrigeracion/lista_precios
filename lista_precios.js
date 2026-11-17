@@ -130,7 +130,7 @@
   {"Codigo": "ca60", "Producto": "CAPACITOR 60 MF", "Precio_Cliente": 12500.00, "Precio_Tecnico": 11100.00, "Cantidad_Stock": 3},
   {"Codigo": "cap017", "Producto": "CAPACITOR ANTIPARACITARIO  DREAN", "Precio_Cliente": 16700.00, "Precio_Tecnico": 12500.00, "Cantidad_Stock": 0},
   {"Codigo": "capa30", "Producto": "CAPACITOR COOLTECH 30MF 440V", "Precio_Cliente": 6900.00, "Precio_Tecnico": 5800.00, "Cantidad_Stock": 0},
-  {"Codigo": "capa35", "Producto": "CAPACITOR COOLTECH 35 MF", "Precio_Cliente": 7900.00, "Precio_Tecnico": 6500.00, "Cantidad_Stock": 2},
+  {"Codigo": "capa35", "Producto": "CAPACITOR COOLTECH 35 MF", "Precio_Cliente": 8500.00, "Precio_Tecnico": 7200.00, "Cantidad_Stock": 4},
   {"Codigo": "capa40", "Producto": "CAPACITOR COOLTECH 40MF", "Precio_Cliente": 9600.00, "Precio_Tecnico": 8000.00, "Cantidad_Stock": 0},
   {"Codigo": "capa50", "Producto": "CAPACITOR COOLTECH 50MF 440V", "Precio_Cliente": 9900.00, "Precio_Tecnico": 8600.00, "Cantidad_Stock": 6},
   {"Codigo": "capa1.5", "Producto": "CAPACITOR CUADRADO 1.5MF", "Precio_Cliente": 3900.00, "Precio_Tecnico": 3000.00, "Cantidad_Stock": 7},
