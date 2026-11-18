@@ -149,7 +149,7 @@
   {"Codigo": "cin15", "Producto": "CINTA AILSADORA NEGRA 20 METROS", "Precio_Cliente": 6500.00, "Precio_Tecnico": 5200.00, "Cantidad_Stock": 9},
   {"Codigo": "c12", "Producto": "CINTA DE ALUMINIO", "Precio_Cliente": 22500.00, "Precio_Tecnico": 19000.00, "Cantidad_Stock": 2},
   {"Codigo": "cm11", "Producto": "CINTA MOTECH C/ADHESIVO", "Precio_Cliente": 6900.00, "Precio_Tecnico": 5800.00, "Cantidad_Stock": 10},
-  {"Codigo": "cm10", "Producto": "CINTA MOTECH S/ ADHESIVO", "Precio_Cliente": 4900.00, "Precio_Tecnico": 3700.00, "Cantidad_Stock": 14},
+  {"Codigo": "cm10", "Producto": "CINTA MOTECH S/ ADHESIVO", "Precio_Cliente": 4500.00, "Precio_Tecnico": 3500.00, "Cantidad_Stock": 14},
   {"Codigo": "tacsa", "Producto": "CINTA TACSA C/PEGAMENTO", "Precio_Cliente": 8500.00, "Precio_Tecnico": 7000.00, "Cantidad_Stock": 4},
   {"Codigo": "tspega", "Producto": "CINTA TACSA S/PEGAMENTO", "Precio_Cliente": 6700.00, "Precio_Tecnico": 5400.00, "Cantidad_Stock": 9},
   {"Codigo": "cob5", "Producto": "COBERTOR DE LIMPIEZA CHICO (2250-3000-4500)", "Precio_Cliente": 29000.00, "Precio_Tecnico": 25000.00, "Cantidad_Stock": 5},
