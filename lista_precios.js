@@ -312,7 +312,7 @@
   {"Codigo": "2435", "Producto": "KIT ACCESORIO PARA DESCARGA DE AIRE ACONDICIONADO", "Precio_Cliente": 3876.00, "Precio_Tecnico": 3600.00, "Cantidad_Stock": 10},
   {"Codigo": "gold2", "Producto": "KIT DREAN GOLD COMPLETO", "Precio_Cliente": 64000.00, "Precio_Tecnico": 59000.00, "Cantidad_Stock": 3},
   {"Codigo": "kit010", "Producto": "KIT FIJACION DEL 8", "Precio_Cliente": 5508.00, "Precio_Tecnico": 5000.00, "Cantidad_Stock": 81},
-  {"Codigo": "kit002", "Producto": "KIT INSTALACION 1/2-1/4 CON AISLANTE NEGRO Y CINTA TACSA", "Precio_Cliente": 85000.00, "Precio_Tecnico": 80900.00, "Cantidad_Stock": 75},
+  {"Codigo": "kit002", "Producto": "KIT INSTALACION 1/2-1/4 CON AISLANTE NEGRO Y CINTA TACSA", "Precio_Cliente": 88000.00, "Precio_Tecnico": 83000.00, "Cantidad_Stock": 75},
   {"Codigo": "kit004", "Producto": "KIT INSTALACION 1/4-3/8 CON AISLANTE NEGRO Y CINTA TACSA", "Precio_Cliente": 77000.00, "Precio_Tecnico": 72000.00, "Cantidad_Stock": 84},
   {"Codigo": "kit1", "Producto": "KIT INSTALACION 1/4-5/8", "Precio_Cliente": 95900.00, "Precio_Tecnico": 91000.00, "Cantidad_Stock": 99},
   {"Codigo": "kit012", "Producto": "KIT INSTALACION 3/8-5/8 CON AISLANTE NEGRO Y CINTA TACSA", "Precio_Cliente": 106500.00, "Precio_Tecnico": 99900.00, "Cantidad_Stock": 2},
