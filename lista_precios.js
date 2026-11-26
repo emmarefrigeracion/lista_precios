@@ -57,6 +57,7 @@
   {"Codigo": "blo002", "Producto": "BLOCAPUERTA DREAN NEXT 4 CONTACTOS", "Precio_Cliente": 18900.00, "Precio_Tecnico": 14600.00, "Cantidad_Stock": 2},
   {"Codigo": "blo03", "Producto": "BLOCAPUERTA DREAN NEXT 8.12 3 CONTACTOS", "Precio_Cliente": 12000.00, "Precio_Tecnico": 10500.00, "Cantidad_Stock": 9},
   {"Codigo": "BLG", "Producto": "BLOCAPUERTA LG", "Precio_Cliente": 16500.00, "Precio_Tecnico": 14000.00, "Cantidad_Stock": 3},
+  {"Codigo": "BLG1", "Producto": "BLOCAPUERTA LG LAVASECA 20KG", "Precio_Cliente": 61000.00, "Precio_Tecnico": 51000.00, "Cantidad_Stock": 2},
   {"Codigo": "LPK", "Producto": "BLOCAPUERTA LPK  (LAVASECA)  08KG", "Precio_Cliente": 33600.00, "Precio_Tecnico": 29800.00, "Cantidad_Stock": 1},
   {"Codigo": "blomabe", "Producto": "BLOCAPUERTA MABE  6 & 7 KG", "Precio_Cliente": 15200.00, "Precio_Tecnico": 11900.00, "Cantidad_Stock": 4},
   {"Codigo": "lpk10", "Producto": "BLOCAPUERTA MABE/PATRICK 6 KG  LPK06E10", "Precio_Cliente": 19300.00, "Precio_Tecnico": 17800.00, "Cantidad_Stock": 2},
