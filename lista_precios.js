@@ -315,7 +315,7 @@
   {"Codigo": "kit002", "Producto": "KIT INSTALACION 1/2-1/4 CON AISLANTE NEGRO Y CINTA TACSA", "Precio_Cliente": 88000.00, "Precio_Tecnico": 83000.00, "Cantidad_Stock": 75},
   {"Codigo": "kit004", "Producto": "KIT INSTALACION 1/4-3/8 CON AISLANTE NEGRO Y CINTA TACSA", "Precio_Cliente": 77000.00, "Precio_Tecnico": 72000.00, "Cantidad_Stock": 84},
   {"Codigo": "kit1", "Producto": "KIT INSTALACION 1/4-5/8", "Precio_Cliente": 99000.00, "Precio_Tecnico": 94000.00, "Cantidad_Stock": 99},
-  {"Codigo": "kit012", "Producto": "KIT INSTALACION 3/8-5/8 CON AISLANTE NEGRO Y CINTA TACSA", "Precio_Cliente": 106500.00, "Precio_Tecnico": 99900.00, "Cantidad_Stock": 2},
+  {"Codigo": "kit012", "Producto": "KIT INSTALACION 3/8-5/8 CON AISLANTE NEGRO Y CINTA TACSA", "Precio_Cliente": 112000.00, "Precio_Tecnico": 107000.00, "Cantidad_Stock": 2},
   {"Codigo": "kit166", "Producto": "KIT TORNILLOS PARA SOPORTE 166", "Precio_Cliente": 9500.00, "Precio_Tecnico": 8200.00, "Cantidad_Stock": 3},
   {"Codigo": "lam01", "Producto": "LAMPARA ALOGENA", "Precio_Cliente": 3500.00, "Precio_Tecnico": 2900.00, "Cantidad_Stock": 0},
   {"Codigo": "lam02", "Producto": "LAMPARA LED", "Precio_Cliente": 4600.00, "Precio_Tecnico": 3900.00, "Cantidad_Stock": 2},
