@@ -353,7 +353,7 @@
   {"Codigo": "men42", "Producto": "MENSULAS  42 CM", "Precio_Cliente": 15000.00, "Precio_Tecnico": 13500.00, "Cantidad_Stock": 10},
   {"Codigo": "8-10-03000", "Producto": "MENSULAS 52 CM", "Precio_Cliente": 18000.00, "Precio_Tecnico": 15000.00, "Cantidad_Stock": 4},
   {"Codigo": "men62", "Producto": "MENSULAS 62CM", "Precio_Cliente": 32000.00, "Precio_Tecnico": 25700.00, "Cantidad_Stock": 7},
-  {"Codigo": "men82", "Producto": "MENSULAS 82CM", "Precio_Cliente": 34650.00, "Precio_Tecnico": 32000.00, "Cantidad_Stock": 3},
+  {"Codigo": "men82", "Producto": "MENSULAS 82CM", "Precio_Cliente": 48700.00, "Precio_Tecnico": 46800.00, "Cantidad_Stock": 3},
   {"Codigo": "mica01", "Producto": "MICA CHICA", "Precio_Cliente": 6000.00, "Precio_Tecnico": 3800.00, "Cantidad_Stock": 7},
   {"Codigo": "mica02", "Producto": "MICA GRANDE", "Precio_Cliente": 10500.00, "Precio_Tecnico": 9200.00, "Cantidad_Stock": 1},
   {"Codigo": "mic003", "Producto": "MIKA CDA PEDACITO", "Precio_Cliente": 6000.00, "Precio_Tecnico": 4200.00, "Cantidad_Stock": 0},
