@@ -17,7 +17,7 @@
   {"Codigo": "5-1-12365", "Producto": "AGENTE LIMPIEZA CLEANER 11 PRO X 1LTS - REFRIOIL (NARANJA)", "Precio_Cliente": 29000.00, "Precio_Tecnico": 25000.00, "Cantidad_Stock": 2},
   {"Codigo": "agi001", "Producto": "AGITADOR DREAN BLUE LARGO", "Precio_Cliente": 3700.00, "Precio_Tecnico": 3000.00, "Cantidad_Stock": 3},
   {"Codigo": "agi002", "Producto": "AGITADOR DREAN CORTO", "Precio_Cliente": 3500.00, "Precio_Tecnico": 3000.00, "Cantidad_Stock": 7},
-  {"Codigo": "8-8-13105", "Producto": "AISLACION  1/2\" POR  TIRA", "Precio_Cliente": 2100.00, "Precio_Tecnico": 1900.00, "Cantidad_Stock": 95},
+  {"Codigo": "8-8-13105", "Producto": "AISLACION  1/2\" POR  TIRA", "Precio_Cliente": 2700.00, "Precio_Tecnico": 2400.00, "Cantidad_Stock": 95},
   {"Codigo": "8-9-CO-D19", "Producto": "AISLACION 1/4 POR TIRA", "Precio_Cliente": 1800.00, "Precio_Tecnico": 1600.00, "Cantidad_Stock": 995},
   {"Codigo": "8-9-CO-F35", "Producto": "AISLACION 3/8  POR TIRA", "Precio_Cliente": 2100.00, "Precio_Tecnico": 1800.00, "Cantidad_Stock": 1410},
   {"Codigo": "8-8-13139", "Producto": "AISLACION 5/8\" NEGROS POR TIRA", "Precio_Cliente": 2700.00, "Precio_Tecnico": 2300.00, "Cantidad_Stock": 103},
