@@ -278,7 +278,7 @@
   {"Codigo": "gas13", "Producto": "GAS R134 + SELLA FUGA 340G", "Precio_Cliente": 41580.00, "Precio_Tecnico": 40824.00, "Cantidad_Stock": 3},
   {"Codigo": "GAS006", "Producto": "GAS R134 ANTON / FREON  * 900 GRM.", "Precio_Cliente": 35748.00, "Precio_Tecnico": 32292.00, "Cantidad_Stock": 90},
   {"Codigo": "gas020", "Producto": "GAS R134 TORRINGTON", "Precio_Cliente": 33048.97, "Precio_Tecnico": 30888.00, "Cantidad_Stock": 0},
-  {"Codigo": "gas023", "Producto": "GAS R22 1KG FINLEY", "Precio_Cliente": 42900.00, "Precio_Tecnico": 40260.00, "Cantidad_Stock": 0},
+  {"Codigo": "gas023", "Producto": "GAS R22 1KG FINLEY", "Precio_Cliente": 46332.00, "Precio_Tecnico": 43480.80, "Cantidad_Stock": 0},
   {"Codigo": "GAS007", "Producto": "GAS R22 X 1KG FREON", "Precio_Cliente": 46300.00, "Precio_Tecnico": 43500.00, "Cantidad_Stock": 102},
   {"Codigo": "gas010", "Producto": "GAS R22 X 1KG NECTON", "Precio_Cliente": 46300.00, "Precio_Tecnico": 43835.00, "Cantidad_Stock": 5},
   {"Codigo": "290", "Producto": "GAS R290 DE 225GRMS- ANTON", "Precio_Cliente": 14850.00, "Precio_Tecnico": 12650.00, "Cantidad_Stock": 4},
