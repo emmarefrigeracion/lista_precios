@@ -273,7 +273,7 @@
   {"Codigo": "g22", "Producto": "GARRAFA R22 3.400 FRIGOCLEAN", "Precio_Cliente": 146200.00, "Precio_Tecnico": 137800.00, "Cantidad_Stock": 1},
   {"Codigo": "GAS001", "Producto": "GAS AN22 780GR. REMPLAZO 22", "Precio_Cliente": 38253.60, "Precio_Tecnico": 34808.40, "Cantidad_Stock": 3},
   {"Codigo": "GAS002", "Producto": "GAS MAPP X 400GR", "Precio_Cliente": 16394.40, "Precio_Tecnico": 14850.00, "Cantidad_Stock": 7},
-  {"Codigo": "GAS003", "Producto": "GAS MO49 PLUS X 750GR.", "Precio_Cliente": 51000.00, "Precio_Tecnico": 46500.00, "Cantidad_Stock": 2},
+  {"Codigo": "GAS003", "Producto": "GAS MO49 PLUS X 750GR.", "Precio_Cliente": 55080.00, "Precio_Tecnico": 50220.00, "Cantidad_Stock": 2},
   {"Codigo": "006", "Producto": "GAS NECTON R134 X900GR", "Precio_Cliente": 38500.00, "Precio_Tecnico": 32560.00, "Cantidad_Stock": 1},
   {"Codigo": "gas13", "Producto": "GAS R134 + SELLA FUGA 340G", "Precio_Cliente": 38500.00, "Precio_Tecnico": 37800.00, "Cantidad_Stock": 3},
   {"Codigo": "GAS006", "Producto": "GAS R134 ANTON / FREON  * 900 GRM.", "Precio_Cliente": 33100.00, "Precio_Tecnico": 29900.00, "Cantidad_Stock": 90},
