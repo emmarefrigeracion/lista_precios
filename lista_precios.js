@@ -284,7 +284,7 @@
   {"Codigo": "290", "Producto": "GAS R290 DE 225GRMS- ANTON", "Precio_Cliente": 16038.00, "Precio_Tecnico": 13662.00, "Cantidad_Stock": 4},
   {"Codigo": "r290", "Producto": "GAS R290 LATA 420G", "Precio_Cliente": 30888.00, "Precio_Tecnico": 24948.00, "Cantidad_Stock": 2},
   {"Codigo": "gasr32", "Producto": "GAS R32  680G", "Precio_Cliente": 35164.80, "Precio_Tecnico": 31600.80, "Cantidad_Stock": 4},
-  {"Codigo": "gas009", "Producto": "GAS R404 ANTON 650GR", "Precio_Cliente": 26400.00, "Precio_Tecnico": 23430.00, "Cantidad_Stock": 1},
+  {"Codigo": "gas009", "Producto": "GAS R404 ANTON 650GR", "Precio_Cliente": 28512.00, "Precio_Tecnico": 25304.40, "Cantidad_Stock": 1},
   {"Codigo": "gas011", "Producto": "GAS R410 ANTON X 650GRMS S/PICO", "Precio_Cliente": 30800.00, "Precio_Tecnico": 28800.00, "Cantidad_Stock": 5},
   {"Codigo": "009", "Producto": "GAS R410 X650GRC/PICO  NECTON", "Precio_Cliente": 35310.00, "Precio_Tecnico": 31130.00, "Cantidad_Stock": 3},
   {"Codigo": "gas021", "Producto": "GAS R600 ANTON", "Precio_Cliente": 15180.00, "Precio_Tecnico": 12650.00, "Cantidad_Stock": 6},
